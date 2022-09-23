@@ -1,0 +1,216 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "01140cam a2200277 i 4500"
+        },
+        {
+            "code": "001",
+            "value": "000086080"
+        },
+        {
+            "code": "005",
+            "value": "20220816161929.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "160208s2016    enka     b    001 0 eng  "
+        }
+    ],
+    "datafield": [
+        {
+            "code": "010",
+            "subfield": {
+                "a": "2015050736"
+            }
+        },
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9781783269471"
+            }
+        },
+        {
+            "code": "035",
+            "subfield": {
+                "a": "18967442"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "DLC ",
+                "b": "eng ",
+                "c": "DLC ",
+                "e": "rda ",
+                "d": "BR-BrMCTI"
+            }
+        },
+        {
+            "code": "042",
+            "subfield": {
+                "a": "pcc"
+            }
+        },
+        {
+            "code": "050",
+            "subfield": {
+                "a": "UG447.8 ",
+                "b": ".B56123 2016"
+            }
+        },
+        {
+            "code": "082",
+            "subfield": {
+                "a": "358/.38 ",
+                "2": "23"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "623.4.083.5 ",
+                "c": "[2016] ",
+                "b": "B615"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Biological threats in the 21st century : ",
+                "b": "the politics, people, science and historical roots / ",
+                "c": "editor Filippa Lentzos, King's College London, UK. ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "London ",
+                "b": "Imperial College Press ",
+                "c": " [2016]"
+            }
+        },
+        {
+            "code": "264",
+            "subfield": {
+                "a": "London : ",
+                "b": "Imperial College Press, ",
+                "c": "[2016]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Inglaterra"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxxvi, 463 p. ",
+                "c": "24 cm"
+            }
+        },
+        {
+            "code": "336",
+            "subfield": {
+                "a": "text ",
+                "2": "rdacontent"
+            }
+        },
+        {
+            "code": "337",
+            "subfield": {
+                "a": "unmediated ",
+                "2": "rdamedia"
+            }
+        },
+        {
+            "code": "338",
+            "subfield": {
+                "a": "volume ",
+                "2": "rdacarrier"
+            }
+        },
+        {
+            "code": "504",
+            "subfield": {
+                "a": "Inclui referências bibliográficas e índice."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Guerra biológica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Guerra biológica ",
+                "x": "Prevenção"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Armas de destruição em massa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Bioterrorismo ",
+                "x": "Prevenção"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Lentzos, Filippa ",
+                "e": "Editor."
+            }
+        },
+        {
+            "code": "906",
+            "subfield": {
+                "a": "7 ",
+                "b": "cbc ",
+                "c": "orignew ",
+                "d": "1 ",
+                "e": "ecip ",
+                "f": "20 ",
+                "g": "y-gencatlg"
+            }
+        },
+        {
+            "code": "925",
+            "subfield": {
+                "a": "acquire ",
+                "b": "1 shelf copy ",
+                "x": "policy default"
+            }
+        },
+        {
+            "code": "955",
+            "subfield": {
+                "b": "rf21 2016-02-08 ",
+                "i": "rf21 2016-02-08 to Dewey ",
+                "w": "xm06 2016-02-08 ",
+                "a": "rf13 2017-01-25 c. 2 to Discard 00274225646",
+                "f": "rf06 2016-10-15 to CALM "
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

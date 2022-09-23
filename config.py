@@ -1,0 +1,1 @@
+CHROMEDRIVER = 'C:/Users/Usuário/Desktop/UNE/chromedriver_win32/chromedriver.exe'

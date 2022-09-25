@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam a22     4a 4500",
+        "001": "000118248",
+        "005": "20220530111136.0",
+        "008": "220530                             Ing  "
+    },
+    "datafield": {
+        "020": {
+            "a": "85-17-00010-2"
+        },
+        "090": {
+            "a": "521.3:629.7.076.6 ",
+            "b": "G346t"
+        },
+        "100": {
+            "a": "Giacaglia, Giorgio Eugênio Oscare"
+        },
+        "245": {
+            "a": "Third body perturbations on satellites"
+        },
+        "260": [
+            {
+                "a": "São José dos Campos, SP ",
+                "b": "INPE ",
+                "c": "2003"
+            }
+        ],
+        "300": [
+            {
+                "a": "140"
+            }
+        ],
+        "650": [
+            {
+                "a": "Orbit Perturbation"
+            },
+            {
+                "a": "Three Body Problem"
+            },
+            {
+                "a": "Celestial Mechanics"
+            },
+            {
+                "a": "Spacecraft"
+            }
+        ],
+        "700": [
+            {
+                "a": "Prado, A. F. B. de A. ",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Livro"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam a22     4a 4500",
+        "001": "000118299",
+        "005": "20220721151554.0",
+        "008": "220721                             Ing  "
+    },
+    "datafield": {
+        "020": {
+            "a": "978-0-9929787-1-6"
+        },
+        "090": {
+            "a": "621.396:681.3.06 ",
+            "b": "St49s"
+        },
+        "100": {
+            "a": "Stewart, R. W."
+        },
+        "245": {
+            "a": "Software defined radio using MATLAB and Simulink and the RTL-SDR"
+        },
+        "260": [
+            {
+                "a": "Glasgow, Scotland ",
+                "b": "University of Strathclyde ",
+                "c": "2015"
+            }
+        ],
+        "300": [
+            {
+                "a": "646"
+            }
+        ],
+        "650": [
+            {
+                "a": "Computer Programs"
+            },
+            {
+                "a": "Computer Science"
+            },
+            {
+                "a": "Matlab (Computer Programs)"
+            },
+            {
+                "a": "Radio Frequencies"
+            }
+        ],
+        "700": [
+            {
+                "a": "Barlee, Kenneth W. ",
+                "e": "Coautor"
+            },
+            {
+                "a": "Atkinson, Dale S. W. ",
+                "e": "Coautor"
+            },
+            {
+                "a": "Crockett, Louise H. ",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Livro"
+        }
+    }
+}

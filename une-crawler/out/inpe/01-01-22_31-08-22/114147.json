@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "am   nam a22      a 4500",
+        "001": "000114147",
+        "005": "20150916100127.0",
+        "008": "Ing                                Ing"
+    },
+    "datafield": {
+        "020": {
+            "a": "978-0-471-09390-9"
+        },
+        "080": {
+            "a": "621.376"
+        },
+        "090": {
+            "b": "T714d ",
+            "a": "621.376 ",
+            "c": "P4"
+        },
+        "100": {
+            "a": "Tress, H. L. Van"
+        },
+        "245": {
+            "a": "Detection, estimation, and modulation theory part IV ",
+            "b": "optimum array processing"
+        },
+        "260": [
+            {
+                "a": "New York, NY ",
+                "b": "John Wiley and Sons ",
+                "c": "2002"
+            }
+        ],
+        "650": [
+            {
+                "a": "Estimating"
+            },
+            {
+                "a": "Detection"
+            },
+            {
+                "a": "Modulation"
+            },
+            {
+                "a": "Electronics"
+            }
+        ],
+        "949": {
+            "a": "6371 ",
+            "b": "DBDSJC ",
+            "e": "Compra ",
+            "p": "0 ",
+            "y": "23/03/72"
+        },
+        "990": {
+            "a": "Livro"
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "am   nam a22      a 4500",
+        "001": "000118275",
+        "005": "20220701142923.0",
+        "008": "Por                                Por"
+    },
+    "datafield": {
+        "080": {
+            "a": "MSCO-NA-22-Z-C"
+        },
+        "090": {
+            "b": "CARTA ",
+            "a": "CIR-393729"
+        },
+        "110": {
+            "a": "Projeto Radam"
+        },
+        "245": {
+            "a": "Ilha Caviana - carta imagem de radar preliminar - escala 250.000"
+        },
+        "260": [
+            {
+                "c": "1976 ",
+                "a": "Salvador, BA ",
+                "b": "Projeto RadamBrasil"
+            }
+        ],
+        "490": [
+            {
+                "a": "NA-22-Z-C)(MIR-051"
+            }
+        ],
+        "650": [
+            {
+                "a": "Região Norte"
+            },
+            {
+                "a": "Cartas"
+            },
+            {
+                "a": "Ilha Caviana (AP)"
+            }
+        ],
+        "710": [
+            {
+                "a": "DSG"
+            }
+        ],
+        "949": {
+            "a": "801837 ",
+            "b": "DBDSJC ",
+            "e": "Doação ",
+            "p": "0 ",
+            "y": "03/09/90"
+        },
+        "990": {
+            "a": "Mapa"
+        }
+    }
+}

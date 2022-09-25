@@ -1,0 +1,79 @@
+{
+    "controfield": {
+        "000": "am   nam  22      a 4500",
+        "001": "000025283",
+        "005": "20220627075624.0",
+        "008": "Ing                                Ing"
+    },
+    "datafield": {
+        "020": {
+            "a": "3-540-18433-3"
+        },
+        "080": {
+            "a": "523.03"
+        },
+        "090": {
+            "b": "L545o ",
+            "a": "523.03"
+        },
+        "100": {
+            "a": "Lena, P."
+        },
+        "245": {
+            "a": "Observational astrophysics"
+        },
+        "260": [
+            {
+                "a": "Berlin, Germany ",
+                "b": "Springer ",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "328"
+            }
+        ],
+        "490": [
+            {
+                "a": "Astronomy and Astrophysics Library"
+            }
+        ],
+        "650": [
+            {
+                "a": "Astrophysics"
+            },
+            {
+                "a": "Astronomy"
+            },
+            {
+                "a": "Photometry"
+            },
+            {
+                "a": "Images"
+            },
+            {
+                "a": "Signal Processing"
+            },
+            {
+                "a": "Detectors"
+            },
+            {
+                "a": "Earth Atmosphere"
+            },
+            {
+                "a": "Spectrum Analysis"
+            }
+        ],
+        "949": {
+            "a": "300926 ",
+            "b": "DBDSJC ",
+            "e": "Compra ",
+            "p": "0 ",
+            "y": "19/03/93"
+        },
+        "990": {
+            "a": "Livro"
+        }
+    }
+}

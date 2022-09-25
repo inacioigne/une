@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam a22     4a 4500",
+        "001": "000118139",
+        "005": "20220110122422.0",
+        "008": "220110                             Por  "
+    },
+    "datafield": {
+        "020": {
+            "a": "978-65-5563-153-1"
+        },
+        "090": {
+            "a": "523.4 ",
+            "b": "F413c"
+        },
+        "100": {
+            "a": "Ferraz-Mello, S."
+        },
+        "245": {
+            "a": "Caos e planetas ",
+            "b": "dinâmica caótica de sistemas planetários"
+        },
+        "260": [
+            {
+                "a": "São Paulo, SP ",
+                "b": "Livraria da Física ",
+                "c": "2021"
+            }
+        ],
+        "300": [
+            {
+                "a": "241"
+            }
+        ],
+        "650": [
+            {
+                "a": "Chaos"
+            },
+            {
+                "a": "Planets"
+            },
+            {
+                "a": "Planetary Systems"
+            },
+            {
+                "a": "Astronomy"
+            },
+            {
+                "a": "Astrophysics"
+            }
+        ],
+        "990": {
+            "a": "Livro"
+        }
+    }
+}

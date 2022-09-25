@@ -1,0 +1,49 @@
+{
+    "controfield": {
+        "000": "     nam a22     4a 4500",
+        "001": "000114152",
+        "005": "20150916105940.0",
+        "008": "150916                             Ing  "
+    },
+    "datafield": {
+        "020": {
+            "a": "978-1-4398-6599-6"
+        },
+        "090": {
+            "a": "621.396.96 ",
+            "b": "C385s"
+        },
+        "100": {
+            "a": "Charvat, Gregory L."
+        },
+        "245": {
+            "a": "Small and short-range radar systems"
+        },
+        "260": [
+            {
+                "a": "Boca Raton, FL ",
+                "b": "CRC ",
+                "c": "2014"
+            }
+        ],
+        "490": [
+            {
+                "a": "Gregory L. Charvat Series on Practical Approaches to Electrical Engineering"
+            }
+        ],
+        "650": [
+            {
+                "a": "Radar"
+            },
+            {
+                "a": "Telecommunication"
+            },
+            {
+                "a": "Electrical Engineering"
+            }
+        ],
+        "990": {
+            "a": "Livro"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "am   nam a22      a 4500",
+        "001": "000114145",
+        "005": "20150916094135.0",
+        "008": "Ing                                Ing"
+    },
+    "datafield": {
+        "020": {
+            "a": "978-1-111-42737-5"
+        },
+        "080": {
+            "a": "621.376.5"
+        },
+        "090": {
+            "b": "In4d ",
+            "c": "2012 ",
+            "a": "621.376.5"
+        },
+        "100": {
+            "a": "Ingle, V. K."
+        },
+        "245": {
+            "a": "Digital signal processing using Matlab"
+        },
+        "250": [
+            {
+                "a": "3"
+            }
+        ],
+        "260": [
+            {
+                "a": "Stamford, CT ",
+                "b": "Cengage Learning ",
+                "c": "2012"
+            }
+        ],
+        "650": [
+            {
+                "a": "Signal Processing"
+            },
+            {
+                "a": "Digital Signal Processing"
+            },
+            {
+                "a": "Digital Techniques"
+            },
+            {
+                "a": "Computer Science"
+            }
+        ],
+        "700": [
+            {
+                "a": "Proakis, J. G. ",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Livro"
+        }
+    }
+}

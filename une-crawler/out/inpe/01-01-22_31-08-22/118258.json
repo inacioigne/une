@@ -1,0 +1,53 @@
+{
+    "controfield": {
+        "000": "am   nam  22      a 4500",
+        "001": "000118258",
+        "005": "20220701101754.0",
+        "008": "Ing                                Ing"
+    },
+    "datafield": {
+        "020": {
+            "a": "978-92-5-108269-0"
+        },
+        "080": {
+            "a": "FAO-293070"
+        },
+        "090": {
+            "a": "FAO-393712 ",
+            "b": "FOLH."
+        },
+        "110": {
+            "a": "FAO"
+        },
+        "245": {
+            "a": "State of the world's forests 2014 ",
+            "b": "enhancing the socioeconomic benefits from forests"
+        },
+        "260": [
+            {
+                "a": "Rome, Italy ",
+                "b": "FAO ",
+                "c": "2014"
+            }
+        ],
+        "300": [
+            {
+                "a": "119"
+            }
+        ],
+        "650": [
+            {
+                "a": "Forests"
+            },
+            {
+                "a": "Forestry"
+            },
+            {
+                "a": "Environments"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

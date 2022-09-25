@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "     nam a22     4a 4500",
+        "001": "000118304",
+        "005": "20220830141157.0",
+        "008": "220830                             Ing  "
+    },
+    "datafield": {
+        "020": {
+            "a": "978-3-030-61760-8"
+        },
+        "090": {
+            "a": "532.5 ",
+            "b": "In8c"
+        },
+        "111": {
+            "a": "International Council for Industrial and Applied Mathematics (2019: Valencia, Spain)"
+        },
+        "245": {
+            "a": "Cartesian CFD methods for complex applications ",
+            "b": "mini-symposium of the International Congress on Industrial and Applied Mathematics, Valencia, Spain, july 15-19, 2019"
+        },
+        "260": [
+            {
+                "a": "Cham, Switzerland ",
+                "b": "Springer ",
+                "c": "2021"
+            }
+        ],
+        "300": [
+            {
+                "a": "144"
+            }
+        ],
+        "490": [
+            {
+                "a": "ICIAM 2019 SEMA SIMAI Springer Series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Computational Fluid Dynamics"
+            },
+            {
+                "a": "Magnetohydrodynamics"
+            },
+            {
+                "a": "Discretization"
+            },
+            {
+                "a": "Incompressible Flow"
+            },
+            {
+                "a": "Conferences"
+            }
+        ],
+        "700": [
+            {
+                "a": "Deiterding, Ralf ",
+                "e": "Editor"
+            },
+            {
+                "a": "Domingues, Margarete Oliveira ",
+                "e": "Editor"
+            },
+            {
+                "a": "Schneider, Kai ",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Livro"
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "am   nam  22      a 4500",
+        "001": "000118170",
+        "005": "20220317111803.0",
+        "008": "Ing                                Ing"
+    },
+    "datafield": {
+        "020": {
+            "a": "486-22245-4"
+        },
+        "080": {
+            "a": "551.583"
+        },
+        "090": {
+            "b": "B791c ",
+            "a": "551.583"
+        },
+        "100": {
+            "a": "Brooks, C. E. P."
+        },
+        "245": {
+            "a": "Climate through the ages ",
+            "b": "a study of the climatic factors and their variations"
+        },
+        "250": [
+            {
+                "a": "2 ",
+                "b": "rev."
+            }
+        ],
+        "260": [
+            {
+                "a": "New York, NY ",
+                "b": "Dover Publications ",
+                "c": "1970"
+            }
+        ],
+        "300": [
+            {
+                "a": "395"
+            }
+        ],
+        "650": [
+            {
+                "a": "Climate"
+            },
+            {
+                "a": "Climatology"
+            },
+            {
+                "a": "Meteorology"
+            }
+        ],
+        "949": {
+            "a": "232136 ",
+            "e": "Compra ",
+            "p": "0 ",
+            "y": "22/10/1982"
+        },
+        "990": {
+            "a": "Livro"
+        }
+    }
+}

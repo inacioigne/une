@@ -1,0 +1,54 @@
+{
+    "controfield": {
+        "000": "am   nam  22      a 4500",
+        "001": "000079072",
+        "005": "20220603144504.0",
+        "008": "Ing                                Ing"
+    },
+    "datafield": {
+        "080": {
+            "a": "WMO/TD NO. 359 WCDP-11"
+        },
+        "090": {
+            "b": "FOLH. ",
+            "a": "WMO TD-359"
+        },
+        "110": {
+            "a": "WMO"
+        },
+        "245": {
+            "a": "Report of the expert group on global baseline datasets Asheville, NC, jan. 22-26, 1990"
+        },
+        "260": [
+            {
+                "a": "Geneva, Switzerland ",
+                "b": "WMO ",
+                "c": "1990"
+            }
+        ],
+        "300": [
+            {
+                "a": "13"
+            }
+        ],
+        "490": [
+            {
+                "a": "WMO Technical Document, 359)(WCDP, 11"
+            }
+        ],
+        "650": [
+            {
+                "a": "Climatology"
+            },
+            {
+                "a": "Meteorology"
+            },
+            {
+                "a": "Conferences"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

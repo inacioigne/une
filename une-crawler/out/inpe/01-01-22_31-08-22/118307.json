@@ -1,0 +1,49 @@
+{
+    "controfield": {
+        "000": "     nam a22     4a 4500",
+        "001": "000118307",
+        "005": "20220831153957.0",
+        "008": "220831                             Ing  "
+    },
+    "datafield": {
+        "090": {
+            "a": "621.01 ",
+            "b": "AL64m"
+        },
+        "100": {
+            "a": "Almeida, J. S. de"
+        },
+        "245": {
+            "a": "Measurement of radiation in complex geometries and comparison with calculational techniques. 2000. 331 f. These (Ph.D in Mechanical Engineering) - Loughborough University, Loughborough, England, 2000"
+        },
+        "260": [
+            {
+                "a": "Loughborough, England ",
+                "b": "Loughborough University ",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "331"
+            }
+        ],
+        "650": [
+            {
+                "a": "Radiation"
+            },
+            {
+                "a": "Complex Geometry"
+            },
+            {
+                "a": "Mechanical Engineering"
+            },
+            {
+                "a": "Thermal Radiation"
+            }
+        ],
+        "990": {
+            "a": "Livro"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "am   nam  22      a 4500",
+        "001": "000118141",
+        "005": "20220110132428.0",
+        "008": "Ing                                Ing"
+    },
+    "datafield": {
+        "080": {
+            "a": "NASA-NHB-5300.4(3A-1)"
+        },
+        "090": {
+            "b": "N.T. ",
+            "a": "NASA-STD-8739.3"
+        },
+        "110": {
+            "a": "NASA"
+        },
+        "245": {
+            "a": "Soldered electrical connections"
+        },
+        "260": [
+            {
+                "a": "Washington, D.C. ",
+                "b": "NASA ",
+                "c": "1997"
+            }
+        ],
+        "300": [
+            {
+                "a": "p.ir."
+            }
+        ],
+        "490": [
+            {
+                "a": "NASA-STD-8739.3"
+            }
+        ],
+        "500": [
+            {
+                "a": "Previous version published as NHB 5300.4(3A-2)"
+            }
+        ],
+        "650": [
+            {
+                "a": "Soldering"
+            },
+            {
+                "a": "Electric Connectors"
+            },
+            {
+                "a": "Standards"
+            },
+            {
+                "a": "Electrical Engineering"
+            }
+        ],
+        "949": {
+            "a": "82726 ",
+            "b": "DBDSJC ",
+            "e": "Doação ",
+            "p": "0 ",
+            "y": "04/10/83"
+        },
+        "990": {
+            "a": "Norma Técnica"
+        }
+    }
+}

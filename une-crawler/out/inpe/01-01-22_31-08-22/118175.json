@@ -1,0 +1,49 @@
+{
+    "controfield": {
+        "000": "     nam a22     4a 4500",
+        "001": "000118175",
+        "005": "20220317152207.0",
+        "008": "220317                             Ing  "
+    },
+    "datafield": {
+        "020": {
+            "a": "0-7923-1688-6"
+        },
+        "090": {
+            "a": "634.0.111:551.58 ",
+            "b": "T753"
+        },
+        "245": {
+            "a": "Tropical forests and climate"
+        },
+        "260": [
+            {
+                "a": "Dordrecht, The Netherlands ",
+                "b": "Kluwer Academic ",
+                "c": "1992"
+            }
+        ],
+        "300": [
+            {
+                "a": "265"
+            }
+        ],
+        "650": [
+            {
+                "a": "Tropical Forests"
+            },
+            {
+                "a": "Climate"
+            }
+        ],
+        "700": [
+            {
+                "a": "Myers, Norman ",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Livro"
+        }
+    }
+}

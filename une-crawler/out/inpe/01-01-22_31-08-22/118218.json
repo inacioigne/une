@@ -1,0 +1,50 @@
+{
+    "controfield": {
+        "000": "     nam a22     4a 4500",
+        "001": "000118218",
+        "005": "20220328101912.0",
+        "008": "220328                             Ing  "
+    },
+    "datafield": {
+        "020": {
+            "a": "0-03-076975-2"
+        },
+        "090": {
+            "a": "519.246.8 ",
+            "b": "B769t"
+        },
+        "100": {
+            "a": "Brillinger, D. R."
+        },
+        "245": {
+            "a": "Time series ",
+            "b": "data analysis and theory"
+        },
+        "260": [
+            {
+                "a": "New York, NY ",
+                "b": "Holt Rinehart and Winston ",
+                "c": "1975"
+            }
+        ],
+        "300": [
+            {
+                "a": "500"
+            }
+        ],
+        "650": [
+            {
+                "a": "Time Series Analysis"
+            },
+            {
+                "a": "Data Analysis"
+            },
+            {
+                "a": "Mathematics"
+            }
+        ],
+        "990": {
+            "a": "Livro"
+        }
+    }
+}

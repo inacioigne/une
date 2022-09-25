@@ -1,0 +1,53 @@
+{
+    "controfield": {
+        "000": "     nam a22     4a 4500",
+        "001": "000118253",
+        "005": "20220628144259.0",
+        "008": "220628                             Ing  "
+    },
+    "datafield": {
+        "020": {
+            "a": "978-3-030-02016-3"
+        },
+        "090": {
+            "a": "528.8.041.5 ",
+            "b": "Sh62s"
+        },
+        "100": {
+            "a": "Shimabukuro, Y. E."
+        },
+        "245": {
+            "a": "Spectral mixture for remote sensing ",
+            "b": "linear model and applications"
+        },
+        "260": [
+            {
+                "a": "Cham, Switzerland ",
+                "b": "Springer ",
+                "c": "2019"
+            }
+        ],
+        "300": [
+            {
+                "a": "80"
+            }
+        ],
+        "650": [
+            {
+                "a": "Spectral Mixture Analysis"
+            },
+            {
+                "a": "Remote Sensing"
+            }
+        ],
+        "700": [
+            {
+                "a": "Ponzoni, Flávio Jorge ",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Livro"
+        }
+    }
+}

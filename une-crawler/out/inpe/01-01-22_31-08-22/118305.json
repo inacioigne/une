@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam a22     4a 4500",
+        "001": "000118305",
+        "005": "20220830144442.0",
+        "008": "220830                             Ing  "
+    },
+    "datafield": {
+        "090": {
+            "a": "IPCC-393830 ",
+            "b": "Folh."
+        },
+        "110": {
+            "a": "Intergovernmental Panel on Climate Change"
+        },
+        "245": {
+            "a": "Climate change 2013 ",
+            "b": "the physical science basis"
+        },
+        "260": [
+            {
+                "a": "New York, NY ",
+                "b": "Cambridge University ",
+                "c": "2014"
+            }
+        ],
+        "300": [
+            {
+                "a": "1535"
+            }
+        ],
+        "650": [
+            {
+                "a": "Climate Change"
+            },
+            {
+                "a": "Physical Sciences"
+            },
+            {
+                "a": "Meteorology"
+            }
+        ],
+        "700": [
+            {
+                "a": "Stocker, Thomas F. ",
+                "e": "Editor"
+            },
+            {
+                "a": "Qin, Dahe ",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

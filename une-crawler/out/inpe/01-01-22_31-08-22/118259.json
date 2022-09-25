@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "am   nam  22      a 4500",
+        "001": "000118259",
+        "005": "20220701101238.0",
+        "008": "Ing                                Ing"
+    },
+    "datafield": {
+        "080": {
+            "a": "FAO-FORESTRY-PAPER-140"
+        },
+        "090": {
+            "a": "FAO-FORESTRY-PAPER-163 ",
+            "b": "FOLH."
+        },
+        "110": {
+            "a": "FAO"
+        },
+        "245": {
+            "a": "Global forest resources assessment 2010 ",
+            "b": "main report"
+        },
+        "260": [
+            {
+                "a": "Rome, Italy ",
+                "b": "FAO ",
+                "c": "2010"
+            }
+        ],
+        "300": [
+            {
+                "a": "340"
+            }
+        ],
+        "490": [
+            {
+                "a": "FAO Forestry Paper ",
+                "v": "163"
+            }
+        ],
+        "650": [
+            {
+                "a": "Forest Resources"
+            },
+            {
+                "a": "Forests"
+            },
+            {
+                "a": "Assessments"
+            },
+            {
+                "a": "Resources Management"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

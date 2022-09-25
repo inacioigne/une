@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000091083",
+        "005": "20220321083624.0",
+        "008": "                                   Ing  "
+    },
+    "datafield": {
+        "020": {
+            "a": "0-470-17952-X"
+        },
+        "090": {
+            "a": "51-73 ",
+            "b": "C833m"
+        },
+        "100": {
+            "a": "Courant, Richard"
+        },
+        "245": {
+            "a": "Methods of mathematical physics"
+        },
+        "260": [
+            {
+                "a": "New York, NY ",
+                "b": "Interscience ",
+                "c": "1953"
+            }
+        ],
+        "300": [
+            {
+                "a": "560"
+            }
+        ],
+        "650": [
+            {
+                "a": "Mathematical Physics"
+            },
+            {
+                "a": "Mathematics"
+            },
+            {
+                "a": "Physics"
+            }
+        ],
+        "700": [
+            {
+                "a": "Hilbert, D. ",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Livro"
+        }
+    }
+}

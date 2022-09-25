@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam a22     4a 4500",
+        "001": "000118303",
+        "005": "20220726110151.0",
+        "008": "220726                             Ing  "
+    },
+    "datafield": {
+        "020": {
+            "a": "92-9092-132-X"
+        },
+        "090": {
+            "a": "629.7.05 ",
+            "b": "In8s"
+        },
+        "111": {
+            "a": "International Conference on Spacecraft Guidance, Navigation and Control Systems (1991: Noordwijk, The Netherlands)"
+        },
+        "245": {
+            "a": "Spacecraft guidance, navigation and control systems ",
+            "b": "proceedings of the first international conference, Noordwijk, The Netherlands, june 4-7, 1991"
+        },
+        "260": [
+            {
+                "a": "Paris, France ",
+                "b": "ESA ",
+                "c": "1991"
+            }
+        ],
+        "300": [
+            {
+                "a": "617"
+            }
+        ],
+        "490": [
+            {
+                "a": "ESA SP-323"
+            }
+        ],
+        "650": [
+            {
+                "a": "Spacecraft Guidance"
+            },
+            {
+                "a": "Space Navigation"
+            },
+            {
+                "a": "Control Systems"
+            },
+            {
+                "a": "Aerospace Sciences"
+            }
+        ],
+        "990": {
+            "a": "Livro"
+        }
+    }
+}

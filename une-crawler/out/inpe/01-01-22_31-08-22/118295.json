@@ -1,0 +1,77 @@
+{
+    "controfield": {
+        "000": "     nam a22     4a 4500",
+        "001": "000118295",
+        "005": "20220718100242.0",
+        "008": "220718                             Ing  "
+    },
+    "datafield": {
+        "020": {
+            "a": "978-3-319-44647-9"
+        },
+        "090": {
+            "a": "533.7 ",
+            "b": "K939L"
+        },
+        "100": {
+            "a": "Kruger, Timm"
+        },
+        "245": {
+            "a": "Lattice Boltzmann method ",
+            "b": "principles and practice"
+        },
+        "260": [
+            {
+                "b": "Springer ",
+                "c": "2017"
+            }
+        ],
+        "300": [
+            {
+                "a": "694"
+            }
+        ],
+        "650": [
+            {
+                "a": "Lattices"
+            },
+            {
+                "a": "Boltzmann model equation"
+            },
+            {
+                "a": "Kinetic Theory"
+            },
+            {
+                "a": "Numerical Methods"
+            },
+            {
+                "a": "Physics"
+            }
+        ],
+        "700": [
+            {
+                "a": "Kusumaaatmaja, Halim ",
+                "e": "Coautor"
+            },
+            {
+                "a": "Kuzmin, Alexandr ",
+                "e": "Coautor"
+            },
+            {
+                "a": "Shardt, Orest ",
+                "e": "Coautor"
+            },
+            {
+                "a": "Silva, Gonçalo ",
+                "e": "Coautor"
+            },
+            {
+                "a": "Viggen, Erlend Magnus ",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Livro"
+        }
+    }
+}

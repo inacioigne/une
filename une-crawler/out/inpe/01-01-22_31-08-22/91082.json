@@ -1,0 +1,53 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000091082",
+        "005": "20220321082138.0",
+        "008": "                                   Ing  "
+    },
+    "datafield": {
+        "020": {
+            "a": "0-470-17985-6"
+        },
+        "090": {
+            "a": "51-73 ",
+            "b": "C833m"
+        },
+        "100": {
+            "a": "Courant, Richard"
+        },
+        "245": {
+            "a": "Methods of mathematical physics v2 ",
+            "b": "partial differential equations"
+        },
+        "260": [
+            {
+                "a": "New York, NY ",
+                "b": "Interscience ",
+                "c": "1962"
+            }
+        ],
+        "300": [
+            {
+                "a": "830"
+            }
+        ],
+        "650": [
+            {
+                "a": "Mathematical Physics"
+            },
+            {
+                "a": "Partial Differential Equations"
+            }
+        ],
+        "700": [
+            {
+                "a": "Hilbert, D. ",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Livro"
+        }
+    }
+}

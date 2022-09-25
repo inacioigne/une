@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "am   nam a22      a 4500",
+        "001": "000118272",
+        "005": "20220701134337.0",
+        "008": "Por                                Por"
+    },
+    "datafield": {
+        "080": {
+            "a": "MSCO-NA-22-Y-C"
+        },
+        "090": {
+            "b": "CARTA ",
+            "a": "CIR-393726"
+        },
+        "110": {
+            "a": "DSG"
+        },
+        "245": {
+            "a": "Rio Jari (PA-AP) - carta imagem de radar preliminar - escala 250.000"
+        },
+        "260": [
+            {
+                "c": "1976 ",
+                "a": "Brasília, DF ",
+                "b": "DSG"
+            }
+        ],
+        "490": [
+            {
+                "a": "NA-22-Y-C)(MIR-049"
+            }
+        ],
+        "650": [
+            {
+                "a": "Cartas"
+            },
+            {
+                "a": "Região Norte"
+            },
+            {
+                "a": "Rio Jari (PA-AP)"
+            }
+        ],
+        "710": [
+            {
+                "a": "Projeto Radam ",
+                "e": "Corporativo"
+            }
+        ],
+        "949": {
+            "a": "801834 ",
+            "b": "DBDSJC ",
+            "e": "Doação ",
+            "p": "0 ",
+            "y": "03/09/90"
+        },
+        "990": {
+            "a": "Mapa"
+        }
+    }
+}

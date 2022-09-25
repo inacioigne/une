@@ -1,0 +1,53 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000118245",
+        "005": "20220516150500.0",
+        "008": "220516                             Ing  "
+    },
+    "datafield": {
+        "020": {
+            "a": "978-1-58053-136-9"
+        },
+        "090": {
+            "a": "CD-393655 ",
+            "b": "CD"
+        },
+        "100": {
+            "a": "Kadish, Jules E."
+        },
+        "245": {
+            "a": "Satellite communications fundamentals ",
+            "h": "CD-Rom"
+        },
+        "260": [
+            {
+                "b": "Artech House ",
+                "c": "2000 ",
+                "a": "Boston, MA"
+            }
+        ],
+        "490": [
+            {
+                "a": "Artech House Space Technology and Applications Library"
+            }
+        ],
+        "650": [
+            {
+                "a": "Satellite Communication"
+            },
+            {
+                "a": "Telecommunication"
+            }
+        ],
+        "700": [
+            {
+                "a": "East, T. W. R. ",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Livro"
+        }
+    }
+}

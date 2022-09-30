@@ -6,8 +6,14 @@ from getSophiaCodes import Search
 from requestItem import RequestItem   
 
 from inpe.crawler import CrawlerInpe
+from goeldi.crawler import CrawlerGoeldi
 
-CrawlerInpe()
+#MUSEU GOELDI
+CrawlerGoeldi()
+
+
+#INPE
+#CrawlerInpe()
 
 # driver = StartDriver('http://sophiaweb.mctic.gov.br/')
 # sophiaCodes = Search(driver, "01/03/2022", "31/03/2022")

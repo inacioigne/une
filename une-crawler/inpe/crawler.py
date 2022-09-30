@@ -1,4 +1,3 @@
-from driver import StartDriver
 import ipdb
 from selenium.webdriver.common.by import By
 from inpe.getSophiaCodes import Search

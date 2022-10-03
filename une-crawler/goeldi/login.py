@@ -6,8 +6,10 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 import ipdb
+import time
 
 def SendValues(driver):
+    time.sleep(5)
     captcha = driver.find_element(By.ID, 'imgCaptcha')  
     captcha.screenshot('tmp/capctha.png')
     response = BreakCaptcha('tmp/capctha.png')
@@ -17,6 +19,7 @@ def SendValues(driver):
     #Password
     password = driver.find_element(By.ID, 'id_txt_senha')
     password.send_keys('1111')
+
     #Captcha
     txtCaptcha = driver.find_element(By.ID, 'txtCaptcha')
     txtCaptcha.send_keys(response)

@@ -2,6 +2,7 @@ import pickle
 from keras.models import load_model
 import numpy as np
 import cv2
+import config
 
 def Tratar_Imagem(path):
     img = cv2.imread(path, 0)
@@ -29,12 +30,13 @@ def Tratar_Imagem(path):
     return dados
 
 def BreakCaptcha(path):
+    #r'goeldi\captcha\label.dat'
 
-    with open(r'goeldi\captcha\label.dat', 'rb') as label:
+    with open(config.LABELDATA, 'rb') as label:
         lb = pickle.load(label)
         label.close()
-
-    model = load_model(r"goeldi\captcha\modelo_treinado.hdf5")
+    #r"goeldi\captcha\modelo_treinado.hdf5"
+    model = load_model(config.MODEL)
 
     dados = Tratar_Imagem(path)
     pred = model.predict(dados)

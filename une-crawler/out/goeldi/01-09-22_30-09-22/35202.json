@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "001": "35202",
+        "003": "BR-BeMEG ",
+        "005": "20220624142600.0 ",
+        "008": "220615s1948 ag # f## #000 0#spa#d "
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BeMEG ",
+            "c": "BR-BeMEG "
+        },
+        "082": {
+            "a": "025.3 "
+        },
+        "090": {
+            "a": "025.3 ",
+            "b": "B944  ",
+            "d": "L  ",
+            "8": "1 "
+        },
+        "100": {
+            "a": "Buonocore, Domingo, ",
+            "d": "1899-1991 "
+        },
+        "245": {
+            "a": "Elementos de bibliotecolgía / ",
+            "c": "Domingo Buonocore "
+        },
+        "250": [
+            {
+                "a": "2. ed. ",
+                "b": "corr. e aum. "
+            }
+        ],
+        "260": [
+            {
+                "a": "Santa Fé : ",
+                "b": "Castellvi, ",
+                "c": "1948. "
+            }
+        ],
+        "300": [
+            {
+                "a": "xxxvii, 571 p ; "
+            }
+        ],
+        "650": [
+            {
+                "a": "Imprensa ",
+                "x": "História "
+            }
+        ]
+    }
+}

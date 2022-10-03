@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "001": "35584",
+        "003": "BR-BeMEG ",
+        "005": "20220916163800.0 ",
+        "008": "220908s # f## #000 0# #d "
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BeMEG ",
+            "c": "BR-BeMEG "
+        },
+        "082": {
+            "a": "306.089981152 "
+        },
+        "090": {
+            "a": "306.089981152 ",
+            "b": "P712  ",
+            "d": "L  ",
+            "8": "1 "
+        },
+        "240": {
+            "l": "por "
+        },
+        "245": {
+            "a": "Plano de gestão territorial e ambienta Volta Grande do Xingu : ",
+            "b": "Terras Indígenas Paguiçamba, Arara da Volta Grande do Xingu e Área Indígena Juruna do Km 17 / ",
+            "c": "edição Igor N. Richwin Ferreira, Hilton S. Nascimento e Luísa Molina "
+        },
+        "260": [
+            {
+                "a": "Altamira : ",
+                "b": "Editora Verthic, ",
+                "c": "2018. "
+            }
+        ],
+        "300": [
+            {
+                "a": "95p. : ",
+                "b": "il., color. "
+            }
+        ],
+        "650": [
+            {
+                "a": "Gestão territorial Indígena ",
+                "x": "Demarcação ",
+                "z": "Volta Grande do Xingu (PA) \n"
+            }
+        ],
+        "700": [
+            {
+                "a": "Molina, Luísa ",
+                "e": "ed "
+            }
+        ],
+        "856": {
+            "z": "Imagem ",
+            "u": "http://pergamum.museu-goeldi.br:8080/pergamumweb/vinculos/000006/00000691.jpg "
+        }
+    }
+}

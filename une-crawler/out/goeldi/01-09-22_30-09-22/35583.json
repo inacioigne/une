@@ -1,0 +1,54 @@
+{
+    "controfield": {
+        "001": "35583",
+        "003": "BR-BeMEG ",
+        "005": "20220908115100.0 ",
+        "008": "220908s # f## #000 0# #d "
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BeMEG ",
+            "c": "BR-BeMEG "
+        },
+        "082": {
+            "a": "981.01 "
+        },
+        "090": {
+            "a": "981.01 ",
+            "b": "E74  ",
+            "d": "L  ",
+            "8": "1 "
+        },
+        "240": {
+            "l": "por "
+        },
+        "245": {
+            "a": "Esvação do sítio Valter Dentista e a pesquisa arquelógica no complexo de mineração de Tapira/MG / ",
+            "c": "Cássia Bars Hering...[et al.] "
+        },
+        "260": [
+            {
+                "a": "Tapira/MG : ",
+                "b": "Mosaic Fertizantes, ",
+                "c": "2021. "
+            }
+        ],
+        "300": [
+            {
+                "a": "111p. : ",
+                "b": "il., color. "
+            }
+        ],
+        "650": [
+            {
+                "a": "Sítio Valter Dentista ",
+                "z": "Tapira/MG "
+            }
+        ],
+        "700": [
+            {
+                "a": "Hering, Cássia Bars "
+            }
+        ]
+    }
+}

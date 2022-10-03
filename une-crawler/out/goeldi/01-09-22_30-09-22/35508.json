@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "001": "35508",
+        "003": "BR-BeMEG ",
+        "005": "20220901161300.0 ",
+        "008": "220901s # f## #000 0# #d "
+    },
+    "datafield": {
+        "020": {
+            "a": "9789978226841 "
+        },
+        "040": {
+            "a": "BR-BeMEG ",
+            "c": "BR-BeMEG "
+        },
+        "082": {
+            "a": "581.6109866 "
+        },
+        "090": {
+            "a": "581.6109866 ",
+            "b": "P713  ",
+            "d": "L  ",
+            "8": "1 "
+        },
+        "240": {
+            "l": "spa/eng "
+        },
+        "245": {
+            "a": "Plantas útiles del Ecuador = Useful plants of Ecuador : ",
+            "b": "applicaciones, retos y perspectivas = applications, challenges, and perspectives. / ",
+            "c": "Editores Montserrat Rios, Michael J. Koziol, Henrik Borgtoft Pedersen e Gabriela Granda "
+        },
+        "260": [
+            {
+                "a": "Quito : ",
+                "b": "Abya-Yala, ",
+                "c": "2007. "
+            }
+        ],
+        "300": [
+            {
+                "a": "652p. : ",
+                "b": "il. "
+            }
+        ],
+        "650": [
+            {
+                "a": "Plantas úteis ",
+                "z": "Equador "
+            }
+        ],
+        "700": [
+            {
+                "a": "Granda, Gabriela ",
+                "e": "ed. "
+            }
+        ]
+    }
+}

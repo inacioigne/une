@@ -28,12 +28,10 @@ const styleDatails = {
 
 const urls = {
     'INPE': 'http://www.lac.inpe.br/bib/bib/index.php?codigo_sophia=',
-    'MCTI': 'http://sophiaweb.mctic.gov.br/index.php?codigo_sophia='
+    'MCTI': 'http://sophiaweb.mctic.gov.br/index.php?codigo_sophia=',
+    'Goeldi': 'http://pergamum.museu-goeldi.br/pergamum/biblioteca/index.php?codAcervo='
 }
-const urlImagem = {
-    'INPE': 'http://www.lac.inpe.br/bib/bib/php/capa.php?obra=',
-    'MCTI': 'https://sophiaweb.mctic.gov.br/php/capa.php?obra='
-}
+
 
 // React Hooks
 import { useEffect, useState } from "react";
@@ -51,7 +49,17 @@ export default function CardItem({
 }) {
 
     const [urlItem, seturlItem] = useState(`${urls[institution]}${id}`)
-    const [imagem, seturlImagem] = useState(`${urlImagem[institution]}${id}`)
+    const [imagem, seturlImagem] = useState(null)
+
+    useEffect((institution, id) => {
+      if (institution == 'MCTI') {
+        seturlImagem(`https://sophiaweb.mctic.gov.br/php/capa.php?obra=${id}`)
+      } else if (institution == 'INPE') {
+        seturlImagem(`http://www.lac.inpe.br/bib/bib/php/capa.php?obra=${id}`)
+      } else if (institution == 'Goeldi') {
+        seturlImagem('/goeldi.png')
+      }
+    }, [])
 
   return (
     <Card
@@ -66,13 +74,16 @@ export default function CardItem({
         }}
       >
         <Box p={3}>
+        { imagem ? 
         <Image
             src={
-                imagem
+                imagem 
             }
             width={150}
             height={200}
-          />
+          /> :
+          null
+          }
           
         </Box>
         <Box

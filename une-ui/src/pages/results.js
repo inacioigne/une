@@ -37,10 +37,10 @@ export default function Results() {
       }, [q]);
 
     return (
-        <Container maxWidth="xl">
+        <Container maxWidth="xl" >
         <AdvancedSearch getData={getData} />
-        <Grid container spacing={2}>
-        <Grid xs={3} sx={{ backgroundColor: grey[100] }}>
+        <Grid container spacing={2} sx={{ backgroundColor: grey[100] }}>
+        <Grid xs={3} >
         <Filters
              //  setItems={setItems}
             //   setNumFound={setNumFound}

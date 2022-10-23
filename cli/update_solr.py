@@ -25,4 +25,4 @@ def Update(solr):
         solr.add(docs)
         file_json.close()
     
-Update()
+Update(solr)

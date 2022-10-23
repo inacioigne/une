@@ -62,7 +62,7 @@ export default function CardItem({
       } else if (institution == 'Goeldi') {
         seturlImagem('/goeldi.png')
       }
-    }, [])
+    }, [institution, id])
 
   return (
     <Card

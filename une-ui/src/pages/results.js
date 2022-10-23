@@ -34,7 +34,7 @@ export default function Results() {
     
           getData("marc245a", q);
         }
-      }, [q]);
+      }, [q, getData, query.field, query.term ]);
 
     return (
         <Container maxWidth="xl" >

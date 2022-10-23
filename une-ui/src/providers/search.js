@@ -32,7 +32,7 @@ export const SearchProvider = ({ children }) => {
   const [filter, setFilter] = useState([])
 
     const getData = (field, term,) => {
-      console.log("CTX: ", field, term);
+      //console.log("CTX: ", field, term);
 
       const json_filter = {
         filter: filter,
@@ -51,7 +51,7 @@ export const SearchProvider = ({ children }) => {
         },
       })
       .then((response) => {
-        console.log("CTX: ", response.data);
+        //console.log("CTX: ", response.data);
          setNumFound(response.data.response.numFound);
          setItems(response.data.response.docs);
          setfacetInstitution(response.data.facets.institution.buckets);

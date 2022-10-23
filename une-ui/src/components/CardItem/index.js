@@ -51,11 +51,14 @@ export default function CardItem({
     const [urlItem, seturlItem] = useState(`${urls[institution]}${id}`)
     const [imagem, seturlImagem] = useState(null)
 
-    useEffect((institution, id) => {
+    useEffect(() => {
+      //console.log("EFF", institution)
+      
       if (institution == 'MCTI') {
         seturlImagem(`https://sophiaweb.mctic.gov.br/php/capa.php?obra=${id}`)
       } else if (institution == 'INPE') {
-        seturlImagem(`http://www.lac.inpe.br/bib/bib/php/capa.php?obra=${id}`)
+        
+        seturlImagem("/inpe.png")
       } else if (institution == 'Goeldi') {
         seturlImagem('/goeldi.png')
       }

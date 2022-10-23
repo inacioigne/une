@@ -6,7 +6,7 @@ def CreateCore():
 
     json_data = {
         'create': {
-            'name': 'Une',
+            'name': 'search',
             'configSet': 'une',
             },
         }

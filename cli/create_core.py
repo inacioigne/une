@@ -14,5 +14,18 @@ def CreateCore():
 
     print(r.status_code)
 
-CreateCore()
+def CreateCollection():
+
+    json_data = {
+            'create': {
+                'name': 'test3',
+                'config': 'une',
+                'numShards': 1,
+            },
+        }
+    r = httpx.post('http://localhost:8983/api/collections', json=json_data, timeout=None)
+    print(r)
+
+#CreateCore()
+CreateCollection()
 

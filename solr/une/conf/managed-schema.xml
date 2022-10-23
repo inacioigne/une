@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Solr managed schema - automatically generated - DO NOT EDIT -->
+<schema name="default-config" version="1.6">
+  <uniqueKey>id</uniqueKey>
+  <fieldType name="_nest_path_" class="solr.NestPathField" maxCharsForDocValues="-1" omitNorms="true" omitTermFreqAndPositions="true" stored="false" multiValued="false"/>
+  <fieldType name="ancestor_path" class="solr.TextField">
+    <analyzer type="index">
+      <tokenizer name="keyword"/>
+    </analyzer>
+    <analyzer type="query">
+      <tokenizer name="pathHierarchy" delimiter="/"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="binary" class="solr.BinaryField"/>
+  <fieldType name="boolean" class="solr.BoolField" sortMissingLast="true"/>
+  <fieldType name="booleans" class="solr.BoolField" sortMissingLast="true" multiValued="true"/>
+  <fieldType name="delimited_payloads_float" class="solr.TextField" indexed="true" stored="false">
+    <analyzer>
+      <tokenizer name="whitespace"/>
+      <filter encoder="float" name="delimitedPayload"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="delimited_payloads_int" class="solr.TextField" indexed="true" stored="false">
+    <analyzer>
+      <tokenizer name="whitespace"/>
+      <filter encoder="integer" name="delimitedPayload"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="delimited_payloads_string" class="solr.TextField" indexed="true" stored="false">
+    <analyzer>
+      <tokenizer name="whitespace"/>
+      <filter encoder="identity" name="delimitedPayload"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="descendent_path" class="solr.TextField">
+    <analyzer type="index">
+      <tokenizer name="pathHierarchy" delimiter="/"/>
+    </analyzer>
+    <analyzer type="query">
+      <tokenizer name="keyword"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="ignored" class="solr.StrField" indexed="false" stored="false" multiValued="true"/>
+  <fieldType name="location" class="solr.LatLonPointSpatialField" docValues="true"/>
+  <fieldType name="location_rpt" class="solr.SpatialRecursivePrefixTreeFieldType" geo="true" maxDistErr="0.001" distErrPct="0.025" distanceUnits="kilometers"/>
+  <fieldType name="lowercase" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="keyword"/>
+      <filter name="lowercase"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="pdate" class="solr.DatePointField" docValues="true"/>
+  <fieldType name="pdates" class="solr.DatePointField" docValues="true" multiValued="true"/>
+  <fieldType name="pdouble" class="solr.DoublePointField" docValues="true"/>
+  <fieldType name="pdoubles" class="solr.DoublePointField" docValues="true" multiValued="true"/>
+  <fieldType name="pfloat" class="solr.FloatPointField" docValues="true"/>
+  <fieldType name="pfloats" class="solr.FloatPointField" docValues="true" multiValued="true"/>
+  <fieldType name="phonetic_en" class="solr.TextField" indexed="true" stored="false">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter inject="false" name="doubleMetaphone"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="pint" class="solr.IntPointField" docValues="true"/>
+  <fieldType name="pints" class="solr.IntPointField" docValues="true" multiValued="true"/>
+  <fieldType name="plong" class="solr.LongPointField" docValues="true"/>
+  <fieldType name="plongs" class="solr.LongPointField" docValues="true" multiValued="true"/>
+  <fieldType name="point" class="solr.PointType" subFieldSuffix="_d" dimension="2"/>
+  <fieldType name="random" class="solr.RandomSortField" indexed="true"/>
+  <fieldType name="rank" class="solr.RankField"/>
+  <fieldType name="string" class="solr.StrField" sortMissingLast="true" docValues="true"/>
+  <fieldType name="strings" class="solr.StrField" sortMissingLast="true" docValues="true" multiValued="true"/>
+  <fieldType name="text_ar" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter name="lowercase"/>
+      <filter name="stop" ignoreCase="true" words="lang/stopwords_ar.txt"/>
+      <filter name="arabicNormalization"/>
+      <filter name="arabicStem"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_bg" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter name="lowercase"/>
+      <filter name="stop" ignoreCase="true" words="lang/stopwords_bg.txt"/>
+      <filter name="bulgarianStem"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_ca" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter articles="lang/contractions_ca.txt" name="elision" ignoreCase="true"/>
+      <filter name="lowercase"/>
+      <filter name="stop" ignoreCase="true" words="lang/stopwords_ca.txt"/>
+      <filter language="Catalan" name="snowballPorter"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_cjk" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter name="CJKWidth"/>
+      <filter name="lowercase"/>
+      <filter name="CJKBigram"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_cz" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter name="lowercase"/>
+      <filter name="stop" ignoreCase="true" words="lang/stopwords_cz.txt"/>
+      <filter name="czechStem"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_da" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter name="lowercase"/>
+      <filter words="lang/stopwords_da.txt" name="stop" format="snowball" ignoreCase="true"/>
+      <filter language="Danish" name="snowballPorter"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_de" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter name="lowercase"/>
+      <filter words="lang/stopwords_de.txt" name="stop" format="snowball" ignoreCase="true"/>
+      <filter name="germanNormalization"/>
+      <filter name="germanLightStem"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_el" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter name="greekLowercase"/>
+      <filter name="stop" ignoreCase="false" words="lang/stopwords_el.txt"/>
+      <filter name="greekStem"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_en" class="solr.TextField" positionIncrementGap="100">
+    <analyzer type="index">
+      <tokenizer name="standard"/>
+      <filter name="stop" ignoreCase="true" words="lang/stopwords_en.txt"/>
+      <filter name="lowercase"/>
+      <filter name="englishPossessive"/>
+      <filter protected="protwords.txt" name="keywordMarker"/>
+      <filter name="porterStem"/>
+    </analyzer>
+    <analyzer type="query">
+      <tokenizer name="standard"/>
+      <filter synonyms="synonyms.txt" name="synonymGraph" expand="true" ignoreCase="true"/>
+      <filter name="stop" ignoreCase="true" words="lang/stopwords_en.txt"/>
+      <filter name="lowercase"/>
+      <filter name="englishPossessive"/>
+      <filter protected="protwords.txt" name="keywordMarker"/>
+      <filter name="porterStem"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_en_splitting" class="solr.TextField" autoGeneratePhraseQueries="true" positionIncrementGap="100">
+    <analyzer type="index">
+      <tokenizer name="whitespace"/>
+      <filter name="stop" ignoreCase="true" words="lang/stopwords_en.txt"/>
+      <filter generateWordParts="1" catenateAll="0" name="wordDelimiterGraph" splitOnCaseChange="1" catenateNumbers="1" catenateWords="1" generateNumberParts="1"/>
+      <filter name="lowercase"/>
+      <filter protected="protwords.txt" name="keywordMarker"/>
+      <filter name="porterStem"/>
+      <filter name="flattenGraph"/>
+    </analyzer>
+    <analyzer type="query">
+      <tokenizer name="whitespace"/>
+      <filter synonyms="synonyms.txt" name="synonymGraph" expand="true" ignoreCase="true"/>
+      <filter name="stop" ignoreCase="true" words="lang/stopwords_en.txt"/>
+      <filter generateWordParts="1" catenateAll="0" name="wordDelimiterGraph" splitOnCaseChange="1" catenateNumbers="0" catenateWords="0" generateNumberParts="1"/>
+      <filter name="lowercase"/>
+      <filter protected="protwords.txt" name="keywordMarker"/>
+      <filter name="porterStem"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_en_splitting_tight" class="solr.TextField" autoGeneratePhraseQueries="true" positionIncrementGap="100">
+    <analyzer type="index">
+      <tokenizer name="whitespace"/>
+      <filter synonyms="synonyms.txt" name="synonymGraph" expand="false" ignoreCase="true"/>
+      <filter name="stop" ignoreCase="true" words="lang/stopwords_en.txt"/>
+      <filter name="wordDelimiterGraph" generateNumberParts="0" catenateAll="0" generateWordParts="0" catenateNumbers="1" catenateWords="1"/>
+      <filter name="lowercase"/>
+      <filter protected="protwords.txt" name="keywordMarker"/>
+      <filter name="englishMinimalStem"/>
+      <filter name="removeDuplicates"/>
+      <filter name="flattenGraph"/>
+    </analyzer>
+    <analyzer type="query">
+      <tokenizer name="whitespace"/>
+      <filter synonyms="synonyms.txt" name="synonymGraph" expand="false" ignoreCase="true"/>
+      <filter name="stop" ignoreCase="true" words="lang/stopwords_en.txt"/>
+      <filter name="wordDelimiterGraph" generateNumberParts="0" catenateAll="0" generateWordParts="0" catenateNumbers="1" catenateWords="1"/>
+      <filter name="lowercase"/>
+      <filter protected="protwords.txt" name="keywordMarker"/>
+      <filter name="englishMinimalStem"/>
+      <filter name="removeDuplicates"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_es" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter name="lowercase"/>
+      <filter words="lang/stopwords_es.txt" name="stop" format="snowball" ignoreCase="true"/>
+      <filter name="spanishLightStem"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_et" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter name="lowercase"/>
+      <filter name="stop" ignoreCase="true" words="lang/stopwords_et.txt"/>
+      <filter language="Estonian" name="snowballPorter"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_eu" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter name="lowercase"/>
+      <filter name="stop" ignoreCase="true" words="lang/stopwords_eu.txt"/>
+      <filter language="Basque" name="snowballPorter"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_fa" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <charFilter name="persian"/>
+      <tokenizer name="standard"/>
+      <filter name="lowercase"/>
+      <filter name="arabicNormalization"/>
+      <filter name="persianNormalization"/>
+      <filter name="stop" ignoreCase="true" words="lang/stopwords_fa.txt"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_fi" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter name="lowercase"/>
+      <filter words="lang/stopwords_fi.txt" name="stop" format="snowball" ignoreCase="true"/>
+      <filter language="Finnish" name="snowballPorter"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_fr" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter articles="lang/contractions_fr.txt" name="elision" ignoreCase="true"/>
+      <filter name="lowercase"/>
+      <filter words="lang/stopwords_fr.txt" name="stop" format="snowball" ignoreCase="true"/>
+      <filter name="frenchLightStem"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_ga" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter articles="lang/contractions_ga.txt" name="elision" ignoreCase="true"/>
+      <filter name="stop" ignoreCase="true" words="lang/hyphenations_ga.txt"/>
+      <filter name="irishLowercase"/>
+      <filter name="stop" ignoreCase="true" words="lang/stopwords_ga.txt"/>
+      <filter language="Irish" name="snowballPorter"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_gen_sort" class="solr.SortableTextField" positionIncrementGap="100" multiValued="true">
+    <analyzer type="index">
+      <tokenizer name="standard"/>
+      <filter name="stop" ignoreCase="true" words="stopwords.txt"/>
+      <filter name="lowercase"/>
+    </analyzer>
+    <analyzer type="query">
+      <tokenizer name="standard"/>
+      <filter name="stop" ignoreCase="true" words="stopwords.txt"/>
+      <filter synonyms="synonyms.txt" name="synonymGraph" expand="true" ignoreCase="true"/>
+      <filter name="lowercase"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_general" class="solr.TextField" positionIncrementGap="100" multiValued="true">
+    <analyzer type="index">
+      <tokenizer name="standard"/>
+      <filter name="stop" ignoreCase="true" words="stopwords.txt"/>
+      <filter name="lowercase"/>
+    </analyzer>
+    <analyzer type="query">
+      <tokenizer name="standard"/>
+      <filter name="stop" ignoreCase="true" words="stopwords.txt"/>
+      <filter synonyms="synonyms.txt" name="synonymGraph" expand="true" ignoreCase="true"/>
+      <filter name="lowercase"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_general_rev" class="solr.TextField" positionIncrementGap="100">
+    <analyzer type="index">
+      <tokenizer name="standard"/>
+      <filter name="stop" ignoreCase="true" words="stopwords.txt"/>
+      <filter name="lowercase"/>
+      <filter withOriginal="true" maxPosAsterisk="3" maxFractionAsterisk="0.33" name="reversedWildcard" maxPosQuestion="2"/>
+    </analyzer>
+    <analyzer type="query">
+      <tokenizer name="standard"/>
+      <filter synonyms="synonyms.txt" name="synonymGraph" expand="true" ignoreCase="true"/>
+      <filter name="stop" ignoreCase="true" words="stopwords.txt"/>
+      <filter name="lowercase"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_gl" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter name="lowercase"/>
+      <filter name="stop" ignoreCase="true" words="lang/stopwords_gl.txt"/>
+      <filter name="galicianStem"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_hi" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter name="lowercase"/>
+      <filter name="indicNormalization"/>
+      <filter name="hindiNormalization"/>
+      <filter name="stop" ignoreCase="true" words="lang/stopwords_hi.txt"/>
+      <filter name="hindiStem"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_hu" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter name="lowercase"/>
+      <filter words="lang/stopwords_hu.txt" name="stop" format="snowball" ignoreCase="true"/>
+      <filter language="Hungarian" name="snowballPorter"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_hy" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter name="lowercase"/>
+      <filter name="stop" ignoreCase="true" words="lang/stopwords_hy.txt"/>
+      <filter language="Armenian" name="snowballPorter"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_id" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter name="lowercase"/>
+      <filter name="stop" ignoreCase="true" words="lang/stopwords_id.txt"/>
+      <filter stemDerivational="true" name="indonesianStem"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_it" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter articles="lang/contractions_it.txt" name="elision" ignoreCase="true"/>
+      <filter name="lowercase"/>
+      <filter words="lang/stopwords_it.txt" name="stop" format="snowball" ignoreCase="true"/>
+      <filter name="italianLightStem"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_ja" class="solr.TextField" autoGeneratePhraseQueries="false" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="japanese" mode="search"/>
+      <filter name="japaneseBaseForm"/>
+      <filter tags="lang/stoptags_ja.txt" name="japanesePartOfSpeechStop"/>
+      <filter name="cjkWidth"/>
+      <filter name="stop" ignoreCase="true" words="lang/stopwords_ja.txt"/>
+      <filter name="japaneseKatakanaStem" minimumLength="4"/>
+      <filter name="lowercase"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_ko" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer decompoundMode="discard" outputUnknownUnigrams="false" name="korean"/>
+      <filter name="koreanPartOfSpeechStop"/>
+      <filter name="koreanReadingForm"/>
+      <filter name="lowercase"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_lv" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter name="lowercase"/>
+      <filter name="stop" ignoreCase="true" words="lang/stopwords_lv.txt"/>
+      <filter name="latvianStem"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_nl" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter name="lowercase"/>
+      <filter words="lang/stopwords_nl.txt" name="stop" format="snowball" ignoreCase="true"/>
+      <filter dictionary="lang/stemdict_nl.txt" name="stemmerOverride" ignoreCase="false"/>
+      <filter language="Dutch" name="snowballPorter"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_no" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter name="lowercase"/>
+      <filter words="lang/stopwords_no.txt" name="stop" format="snowball" ignoreCase="true"/>
+      <filter language="Norwegian" name="snowballPorter"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_pt" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter name="lowercase"/>
+      <filter words="lang/stopwords_pt.txt" name="stop" format="snowball" ignoreCase="true"/>
+      <filter name="portugueseLightStem"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_ro" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter name="lowercase"/>
+      <filter name="stop" ignoreCase="true" words="lang/stopwords_ro.txt"/>
+      <filter language="Romanian" name="snowballPorter"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_ru" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter name="lowercase"/>
+      <filter words="lang/stopwords_ru.txt" name="stop" format="snowball" ignoreCase="true"/>
+      <filter language="Russian" name="snowballPorter"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_sv" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter name="lowercase"/>
+      <filter words="lang/stopwords_sv.txt" name="stop" format="snowball" ignoreCase="true"/>
+      <filter language="Swedish" name="snowballPorter"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_th" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="thai"/>
+      <filter name="lowercase"/>
+      <filter name="stop" ignoreCase="true" words="lang/stopwords_th.txt"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_tr" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="standard"/>
+      <filter name="turkishLowercase"/>
+      <filter name="stop" ignoreCase="false" words="lang/stopwords_tr.txt"/>
+      <filter language="Turkish" name="snowballPorter"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_ws" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer name="whitespace"/>
+    </analyzer>
+  </fieldType>
+  <field name="_nest_path_" type="_nest_path_"/>
+  <field name="_root_" type="string" docValues="false" indexed="true" stored="false"/>
+  <field name="_text_" type="text_general" multiValued="true" indexed="true" stored="false"/>
+  <field name="_version_" type="plong" indexed="false" stored="false"/>
+  <field name="id" type="string" multiValued="false" indexed="true" required="true" stored="true"/>
+  <field name="institution" type="text_general"/>
+  <field name="marc010a" type="plongs"/>
+  <field name="marc012a" type="text_general"/>
+  <field name="marc020a" type="text_general"/>
+  <field name="marc020q" type="text_general"/>
+  <field name="marc022a" type="text_general"/>
+  <field name="marc035a" type="plongs"/>
+  <field name="marc040a" type="text_general"/>
+  <field name="marc040b" type="text_general"/>
+  <field name="marc040c" type="text_general"/>
+  <field name="marc040d" type="text_general"/>
+  <field name="marc040e" type="text_general"/>
+  <field name="marc041a" type="text_general"/>
+  <field name="marc041h" type="text_general"/>
+  <field name="marc042a" type="text_general"/>
+  <field name="marc043a" type="text_general"/>
+  <field name="marc050a" type="text_general"/>
+  <field name="marc050b" type="text_general"/>
+  <field name="marc0802" type="plongs"/>
+  <field name="marc080a" type="text_general"/>
+  <field name="marc080x" type="plongs"/>
+  <field name="marc0822" type="plongs"/>
+  <field name="marc082a" type="text_general"/>
+  <field name="marc0842" type="text_general"/>
+  <field name="marc084a" type="pdoubles"/>
+  <field name="marc0892" type="text_general"/>
+  <field name="marc089a" type="pdoubles"/>
+  <field name="marc089c" type="text_general"/>
+  <field name="marc0908" type="text_general"/>
+  <field name="marc090a" type="text_general"/>
+  <field name="marc090b" type="text_general"/>
+  <field name="marc090c" type="text_general"/>
+  <field name="marc090d" type="text_general"/>
+  <field name="marc092a" type="text_general"/>
+  <field name="marc1001" type="text_general"/>
+  <field name="marc1002" type="text_general"/>
+  <field name="marc100a" type="text_general"/>
+  <field name="marc100d" type="text_general"/>
+  <field name="marc110a" type="text_general"/>
+  <field name="marc110b" type="text_general"/>
+  <field name="marc110c" type="text_general"/>
+  <field name="marc111a" type="text_general"/>
+  <field name="marc111c" type="text_general"/>
+  <field name="marc111d" type="plongs"/>
+  <field name="marc111n" type="plongs"/>
+  <field name="marc210a" type="text_general"/>
+  <field name="marc240a" type="text_general"/>
+  <field name="marc240l" type="text_general"/>
+  <field name="marc245a" type="text_general"/>
+  <field name="marc245b" type="text_general"/>
+  <field name="marc245c" type="text_general"/>
+  <field name="marc245h" type="text_general"/>
+  <field name="marc246a" type="text_general"/>
+  <field name="marc249a" type="text_general"/>
+  <field name="marc249b" type="text_general"/>
+  <field name="marc250a" type="text_general"/>
+  <field name="marc250b" type="text_general"/>
+  <field name="marc260a" type="text_general"/>
+  <field name="marc260b" type="text_general"/>
+  <field name="marc260c" type="text_general"/>
+  <field name="marc264a" type="text_general"/>
+  <field name="marc264b" type="text_general"/>
+  <field name="marc264c" type="text_general"/>
+  <field name="marc270d" type="text_general"/>
+  <field name="marc300a" type="text_general"/>
+  <field name="marc300b" type="text_general"/>
+  <field name="marc300c" type="text_general"/>
+  <field name="marc3362" type="text_general"/>
+  <field name="marc336a" type="text_general"/>
+  <field name="marc336b" type="text_general"/>
+  <field name="marc3372" type="text_general"/>
+  <field name="marc337a" type="text_general"/>
+  <field name="marc337b" type="text_general"/>
+  <field name="marc3382" type="text_general"/>
+  <field name="marc338a" type="text_general"/>
+  <field name="marc338b" type="text_general"/>
+  <field name="marc411a" type="text_general"/>
+  <field name="marc411b" type="text_general"/>
+  <field name="marc411c" type="plongs"/>
+  <field name="marc490a" type="text_general"/>
+  <field name="marc490v" type="text_general"/>
+  <field name="marc500a" type="text_general"/>
+  <field name="marc501a" type="text_general"/>
+  <field name="marc504a" type="text_general"/>
+  <field name="marc505a" type="text_general"/>
+  <field name="marc520a" type="text_general"/>
+  <field name="marc520c" type="text_general"/>
+  <field name="marc595a" type="text_general"/>
+  <field name="marc595c" type="text_general"/>
+  <field name="marc600a" type="text_general"/>
+  <field name="marc600completo" type="text_general"/>
+  <field name="marc610a" type="text_general"/>
+  <field name="marc610completo" type="text_general"/>
+  <field name="marc630a" type="text_general"/>
+  <field name="marc630completo" type="text_general"/>
+  <field name="marc650a" type="text_general"/>
+  <field name="marc650completo" type="text_general"/>
+  <field name="marc651a" type="text_general"/>
+  <field name="marc651completo" type="text_general"/>
+  <field name="marc700Ator" type="text_general"/>
+  <field name="marc700Autor" type="text_general"/>
+  <field name="marc700Coautor" type="text_general"/>
+  <field name="marc700Colaborador" type="text_general"/>
+  <field name="marc700Coordenador" type="text_general"/>
+  <field name="marc700Corporativo" type="text_general"/>
+  <field name="marc700Diretor" type="text_general"/>
+  <field name="marc700Editor" type="text_general"/>
+  <field name="marc700Editor." type="text_general"/>
+  <field name="marc700Ilustrador" type="text_general"/>
+  <field name="marc700Indefinida" type="text_general"/>
+  <field name="marc700None" type="text_general"/>
+  <field name="marc700Organizador" type="text_general"/>
+  <field name="marc700Organizador." type="text_general"/>
+  <field name="marc700Tradutor" type="text_general"/>
+  <field name="marc700ed._" type="text_general"/>
+  <field name="marc700ed_" type="text_general"/>
+  <field name="marc700fot._" type="text_general"/>
+  <field name="marc700trad._" type="text_general"/>
+  <field name="marc710a" type="text_general"/>
+  <field name="marc710b" type="text_general"/>
+  <field name="marc710e" type="text_general"/>
+  <field name="marc711a" type="text_general"/>
+  <field name="marc711c" type="text_general"/>
+  <field name="marc711d" type="plongs"/>
+  <field name="marc711n" type="plongs"/>
+  <field name="marc765t" type="text_general"/>
+  <field name="marc767t" type="text_general"/>
+  <field name="marc852a" type="text_general"/>
+  <field name="marc856u" type="text_general"/>
+  <field name="marc856y" type="text_general"/>
+  <field name="marc856z" type="text_general"/>
+  <field name="marc906a" type="plongs"/>
+  <field name="marc906b" type="text_general"/>
+  <field name="marc906c" type="text_general"/>
+  <field name="marc906d" type="plongs"/>
+  <field name="marc906e" type="text_general"/>
+  <field name="marc906f" type="plongs"/>
+  <field name="marc906g" type="text_general"/>
+  <field name="marc910a" type="text_general"/>
+  <field name="marc923a" type="text_general"/>
+  <field name="marc923d" type="plongs"/>
+  <field name="marc923n" type="text_general"/>
+  <field name="marc923s" type="text_general"/>
+  <field name="marc925a" type="text_general"/>
+  <field name="marc925b" type="text_general"/>
+  <field name="marc925x" type="text_general"/>
+  <field name="marc949a" type="text_general"/>
+  <field name="marc949b" type="text_general"/>
+  <field name="marc949e" type="text_general"/>
+  <field name="marc949p" type="text_general"/>
+  <field name="marc949y" type="text_general"/>
+  <field name="marc955a" type="text_general"/>
+  <field name="marc955b" type="text_general"/>
+  <field name="marc955f" type="text_general"/>
+  <field name="marc955i" type="text_general"/>
+  <field name="marc955w" type="text_general"/>
+  <field name="marc985e" type="text_general"/>
+  <field name="marc990a" type="text_general"/>
+  <field name="marc_020_a" type="plongs"/>
+  <field name="marc_090_a" type="text_general"/>
+  <field name="marc_090_c" type="plongs"/>
+  <field name="marc_100_a" type="text_general"/>
+  <field name="marc_245_a" type="text_general"/>
+  <field name="marc_245_c" type="text_general"/>
+  <field name="marc_245_h" type="text_general"/>
+  <field name="marc_260_a" type="text_general"/>
+  <field name="marc_260_c" type="plongs"/>
+  <field name="marc_300_a" type="text_general"/>
+  <field name="marc_500_a" type="text_general"/>
+  <field name="marc_505_a" type="text_general"/>
+  <field name="marc_650_a" type="text_general"/>
+  <field name="marc_650_completo" type="text_general"/>
+  <field name="marc_700_Autor" type="text_general"/>
+  <field name="marc_700_Ilustrador" type="text_general"/>
+  <field name="marc_700_Tradutor" type="text_general"/>
+  <field name="marc_990_a" type="text_general"/>
+  <field name="title" type="text_general"/>
+  <dynamicField name="*_txt_en_split_tight" type="text_en_splitting_tight" indexed="true" stored="true"/>
+  <dynamicField name="*_descendent_path" type="descendent_path" indexed="true" stored="true"/>
+  <dynamicField name="*_ancestor_path" type="ancestor_path" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_en_split" type="text_en_splitting" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_sort" type="text_gen_sort" indexed="true" stored="true"/>
+  <dynamicField name="ignored_*" type="ignored"/>
+  <dynamicField name="*_txt_rev" type="text_general_rev" indexed="true" stored="true"/>
+  <dynamicField name="*_phon_en" type="phonetic_en" indexed="true" stored="true"/>
+  <dynamicField name="*_s_lower" type="lowercase" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_cjk" type="text_cjk" indexed="true" stored="true"/>
+  <dynamicField name="random_*" type="random"/>
+  <dynamicField name="*_t_sort" type="text_gen_sort" multiValued="false" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_en" type="text_en" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_ar" type="text_ar" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_bg" type="text_bg" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_ca" type="text_ca" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_cz" type="text_cz" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_da" type="text_da" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_de" type="text_de" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_el" type="text_el" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_es" type="text_es" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_et" type="text_et" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_eu" type="text_eu" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_fa" type="text_fa" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_fi" type="text_fi" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_fr" type="text_fr" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_ga" type="text_ga" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_gl" type="text_gl" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_hi" type="text_hi" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_hu" type="text_hu" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_hy" type="text_hy" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_id" type="text_id" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_it" type="text_it" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_ja" type="text_ja" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_ko" type="text_ko" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_lv" type="text_lv" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_nl" type="text_nl" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_no" type="text_no" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_pt" type="text_pt" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_ro" type="text_ro" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_ru" type="text_ru" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_sv" type="text_sv" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_th" type="text_th" indexed="true" stored="true"/>
+  <dynamicField name="*_txt_tr" type="text_tr" indexed="true" stored="true"/>
+  <dynamicField name="*_point" type="point" indexed="true" stored="true"/>
+  <dynamicField name="*_srpt" type="location_rpt" indexed="true" stored="true"/>
+  <dynamicField name="attr_*" type="text_general" multiValued="true" indexed="true" stored="true"/>
+  <dynamicField name="*_txt" type="text_general" indexed="true" stored="true"/>
+  <dynamicField name="*_str" type="strings" docValues="true" indexed="false" stored="false" useDocValuesAsStored="false"/>
+  <dynamicField name="*_dts" type="pdate" multiValued="true" indexed="true" stored="true"/>
+  <dynamicField name="*_dpf" type="delimited_payloads_float" indexed="true" stored="true"/>
+  <dynamicField name="*_dpi" type="delimited_payloads_int" indexed="true" stored="true"/>
+  <dynamicField name="*_dps" type="delimited_payloads_string" indexed="true" stored="true"/>
+  <dynamicField name="*_is" type="pints" indexed="true" stored="true"/>
+  <dynamicField name="*_ss" type="strings" indexed="true" stored="true"/>
+  <dynamicField name="*_ls" type="plongs" indexed="true" stored="true"/>
+  <dynamicField name="*_bs" type="booleans" indexed="true" stored="true"/>
+  <dynamicField name="*_fs" type="pfloats" indexed="true" stored="true"/>
+  <dynamicField name="*_ds" type="pdoubles" indexed="true" stored="true"/>
+  <dynamicField name="*_dt" type="pdate" indexed="true" stored="true"/>
+  <dynamicField name="*_ws" type="text_ws" indexed="true" stored="true"/>
+  <dynamicField name="*_i" type="pint" indexed="true" stored="true"/>
+  <dynamicField name="*_s" type="string" indexed="true" stored="true"/>
+  <dynamicField name="*_l" type="plong" indexed="true" stored="true"/>
+  <dynamicField name="*_t" type="text_general" multiValued="false" indexed="true" stored="true"/>
+  <dynamicField name="*_b" type="boolean" indexed="true" stored="true"/>
+  <dynamicField name="*_f" type="pfloat" indexed="true" stored="true"/>
+  <dynamicField name="*_d" type="pdouble" indexed="true" stored="true"/>
+  <dynamicField name="*_p" type="location" indexed="true" stored="true"/>
+  <copyField source="marc_700_Autor" dest="marc_700_Autor_str" maxChars="256"/>
+  <copyField source="marc_500_a" dest="marc_500_a_str" maxChars="256"/>
+  <copyField source="marc_505_a" dest="marc_505_a_str" maxChars="256"/>
+  <copyField source="marc_990_a" dest="marc_990_a_str" maxChars="256"/>
+  <copyField source="marc_650_a" dest="marc_650_a_str" maxChars="256"/>
+  <copyField source="marc_245_c" dest="marc_245_c_str" maxChars="256"/>
+  <copyField source="marc_245_a" dest="marc_245_a_str" maxChars="256"/>
+  <copyField source="marc_260_a" dest="marc_260_a_str" maxChars="256"/>
+  <copyField source="marc_090_a" dest="marc_090_a_str" maxChars="256"/>
+  <copyField source="marc_245_h" dest="marc_245_h_str" maxChars="256"/>
+  <copyField source="marc_700_Tradutor" dest="marc_700_Tradutor_str" maxChars="256"/>
+  <copyField source="marc_300_a" dest="marc_300_a_str" maxChars="256"/>
+  <copyField source="marc_650_completo" dest="marc_650_completo_str" maxChars="256"/>
+  <copyField source="marc_700_Ilustrador" dest="marc_700_Ilustrador_str" maxChars="256"/>
+  <copyField source="marc_100_a" dest="marc_100_a_str" maxChars="256"/>
+  <copyField source="title" dest="title_str" maxChars="256"/>
+  <copyField source="marc090a" dest="marc090a_str" maxChars="256"/>
+  <copyField source="marc270d" dest="marc270d_str" maxChars="256"/>
+  <copyField source="marc260b" dest="marc260b_str" maxChars="256"/>
+  <copyField source="marc245h" dest="marc245h_str" maxChars="256"/>
+  <copyField source="marc260a" dest="marc260a_str" maxChars="256"/>
+  <copyField source="marc100a" dest="marc100a_str" maxChars="256"/>
+  <copyField source="marc245c" dest="marc245c_str" maxChars="256"/>
+  <copyField source="marc245a" dest="marc245a_str" maxChars="256"/>
+  <copyField source="marc090b" dest="marc090b_str" maxChars="256"/>
+  <copyField source="marc700Tradutor" dest="marc700Tradutor_str" maxChars="256"/>
+  <copyField source="marc500a" dest="marc500a_str" maxChars="256"/>
+  <copyField source="marc700Ilustrador" dest="marc700Ilustrador_str" maxChars="256"/>
+  <copyField source="marc650completo" dest="marc650completo_str" maxChars="256"/>
+  <copyField source="marc300a" dest="marc300a_str" maxChars="256"/>
+  <copyField source="marc300b" dest="marc300b_str" maxChars="256"/>
+  <copyField source="marc650a" dest="marc650a_str" maxChars="256"/>
+  <copyField source="marc700Autor" dest="marc700Autor_str" maxChars="256"/>
+  <copyField source="marc990a" dest="marc990a_str" maxChars="256"/>
+  <copyField source="marc505a" dest="marc505a_str" maxChars="256"/>
+  <copyField source="marc610a" dest="marc610a_str" maxChars="256"/>
+  <copyField source="marc040a" dest="marc040a_str" maxChars="256"/>
+  <copyField source="marc610completo" dest="marc610completo_str" maxChars="256"/>
+  <copyField source="marc300c" dest="marc300c_str" maxChars="256"/>
+  <copyField source="marc245b" dest="marc245b_str" maxChars="256"/>
+  <copyField source="marc250b" dest="marc250b_str" maxChars="256"/>
+  <copyField source="marc250a" dest="marc250a_str" maxChars="256"/>
+  <copyField source="marc700Coordenador" dest="marc700Coordenador_str" maxChars="256"/>
+  <copyField source="marc520a" dest="marc520a_str" maxChars="256"/>
+  <copyField source="marc630a" dest="marc630a_str" maxChars="256"/>
+  <copyField source="marc630completo" dest="marc630completo_str" maxChars="256"/>
+  <copyField source="marc040c" dest="marc040c_str" maxChars="256"/>
+  <copyField source="marc040d" dest="marc040d_str" maxChars="256"/>
+  <copyField source="marc092a" dest="marc092a_str" maxChars="256"/>
+  <copyField source="marc852a" dest="marc852a_str" maxChars="256"/>
+  <copyField source="marc040b" dest="marc040b_str" maxChars="256"/>
+  <copyField source="marc020q" dest="marc020q_str" maxChars="256"/>
+  <copyField source="marc700Coautor" dest="marc700Coautor_str" maxChars="256"/>
+  <copyField source="marc504a" dest="marc504a_str" maxChars="256"/>
+  <copyField source="marc700Organizador" dest="marc700Organizador_str" maxChars="256"/>
+  <copyField source="marc490a" dest="marc490a_str" maxChars="256"/>
+  <copyField source="marc501a" dest="marc501a_str" maxChars="256"/>
+  <copyField source="marc600a" dest="marc600a_str" maxChars="256"/>
+  <copyField source="marc100d" dest="marc100d_str" maxChars="256"/>
+  <copyField source="marc600completo" dest="marc600completo_str" maxChars="256"/>
+  <copyField source="marc249a" dest="marc249a_str" maxChars="256"/>
+  <copyField source="marc520c" dest="marc520c_str" maxChars="256"/>
+  <copyField source="marc041a" dest="marc041a_str" maxChars="256"/>
+  <copyField source="marc1002" dest="marc1002_str" maxChars="256"/>
+  <copyField source="marc041h" dest="marc041h_str" maxChars="256"/>
+  <copyField source="marc249b" dest="marc249b_str" maxChars="256"/>
+  <copyField source="marc700Organizador." dest="marc700Organizador._str" maxChars="256"/>
+  <copyField source="marc700Colaborador" dest="marc700Colaborador_str" maxChars="256"/>
+  <copyField source="marc700Editor" dest="marc700Editor_str" maxChars="256"/>
+  <copyField source="marc856u" dest="marc856u_str" maxChars="256"/>
+  <copyField source="marc856y" dest="marc856y_str" maxChars="256"/>
+  <copyField source="marc110a" dest="marc110a_str" maxChars="256"/>
+  <copyField source="marc090d" dest="marc090d_str" maxChars="256"/>
+  <copyField source="marc767t" dest="marc767t_str" maxChars="256"/>
+  <copyField source="marc710a" dest="marc710a_str" maxChars="256"/>
+  <copyField source="marc856z" dest="marc856z_str" maxChars="256"/>
+  <copyField source="marc710e" dest="marc710e_str" maxChars="256"/>
+  <copyField source="marc246a" dest="marc246a_str" maxChars="256"/>
+  <copyField source="marc0842" dest="marc0842_str" maxChars="256"/>
+  <copyField source="marc0892" dest="marc0892_str" maxChars="256"/>
+  <copyField source="marc089c" dest="marc089c_str" maxChars="256"/>
+  <copyField source="marc651completo" dest="marc651completo_str" maxChars="256"/>
+  <copyField source="marc651a" dest="marc651a_str" maxChars="256"/>
+  <copyField source="marc1001" dest="marc1001_str" maxChars="256"/>
+  <copyField source="marc110b" dest="marc110b_str" maxChars="256"/>
+  <copyField source="marc110c" dest="marc110c_str" maxChars="256"/>
+  <copyField source="marc700Indefinida" dest="marc700Indefinida_str" maxChars="256"/>
+  <copyField source="marc710b" dest="marc710b_str" maxChars="256"/>
+  <copyField source="marc595a" dest="marc595a_str" maxChars="256"/>
+  <copyField source="marc595c" dest="marc595c_str" maxChars="256"/>
+  <copyField source="marc043a" dest="marc043a_str" maxChars="256"/>
+  <copyField source="marc949a" dest="marc949a_str" maxChars="256"/>
+  <copyField source="marc240a" dest="marc240a_str" maxChars="256"/>
+  <copyField source="marc240l" dest="marc240l_str" maxChars="256"/>
+  <copyField source="marc111c" dest="marc111c_str" maxChars="256"/>
+  <copyField source="marc111a" dest="marc111a_str" maxChars="256"/>
+  <copyField source="marc012a" dest="marc012a_str" maxChars="256"/>
+  <copyField source="marc700Corporativo" dest="marc700Corporativo_str" maxChars="256"/>
+  <copyField source="marc022a" dest="marc022a_str" maxChars="256"/>
+  <copyField source="marc711c" dest="marc711c_str" maxChars="256"/>
+  <copyField source="marc711a" dest="marc711a_str" maxChars="256"/>
+  <copyField source="marc765t" dest="marc765t_str" maxChars="256"/>
+  <copyField source="marc700None" dest="marc700None_str" maxChars="256"/>
+  <copyField source="marc700Ator" dest="marc700Ator_str" maxChars="256"/>
+  <copyField source="marc337b" dest="marc337b_str" maxChars="256"/>
+  <copyField source="marc985e" dest="marc985e_str" maxChars="256"/>
+  <copyField source="marc955i" dest="marc955i_str" maxChars="256"/>
+  <copyField source="marc700Editor." dest="marc700Editor._str" maxChars="256"/>
+  <copyField source="marc923n" dest="marc923n_str" maxChars="256"/>
+  <copyField source="marc923s" dest="marc923s_str" maxChars="256"/>
+  <copyField source="marc040e" dest="marc040e_str" maxChars="256"/>
+  <copyField source="marc3362" dest="marc3362_str" maxChars="256"/>
+  <copyField source="marc050b" dest="marc050b_str" maxChars="256"/>
+  <copyField source="marc050a" dest="marc050a_str" maxChars="256"/>
+  <copyField source="marc042a" dest="marc042a_str" maxChars="256"/>
+  <copyField source="marc264c" dest="marc264c_str" maxChars="256"/>
+  <copyField source="marc264b" dest="marc264b_str" maxChars="256"/>
+  <copyField source="marc925a" dest="marc925a_str" maxChars="256"/>
+  <copyField source="marc264a" dest="marc264a_str" maxChars="256"/>
+  <copyField source="marc925b" dest="marc925b_str" maxChars="256"/>
+  <copyField source="marc955b" dest="marc955b_str" maxChars="256"/>
+  <copyField source="marc923a" dest="marc923a_str" maxChars="256"/>
+  <copyField source="marc337a" dest="marc337a_str" maxChars="256"/>
+  <copyField source="marc955a" dest="marc955a_str" maxChars="256"/>
+  <copyField source="marc336a" dest="marc336a_str" maxChars="256"/>
+  <copyField source="marc336b" dest="marc336b_str" maxChars="256"/>
+  <copyField source="marc3382" dest="marc3382_str" maxChars="256"/>
+  <copyField source="marc3372" dest="marc3372_str" maxChars="256"/>
+  <copyField source="marc925x" dest="marc925x_str" maxChars="256"/>
+  <copyField source="marc906e" dest="marc906e_str" maxChars="256"/>
+  <copyField source="marc906b" dest="marc906b_str" maxChars="256"/>
+  <copyField source="marc906c" dest="marc906c_str" maxChars="256"/>
+  <copyField source="marc338a" dest="marc338a_str" maxChars="256"/>
+  <copyField source="marc338b" dest="marc338b_str" maxChars="256"/>
+  <copyField source="marc906g" dest="marc906g_str" maxChars="256"/>
+  <copyField source="marc955f" dest="marc955f_str" maxChars="256"/>
+  <copyField source="marc955w" dest="marc955w_str" maxChars="256"/>
+  <copyField source="institution" dest="institution_str" maxChars="256"/>
+  <copyField source="marc949y" dest="marc949y_str" maxChars="256"/>
+  <copyField source="marc949p" dest="marc949p_str" maxChars="256"/>
+  <copyField source="marc949b" dest="marc949b_str" maxChars="256"/>
+  <copyField source="marc949e" dest="marc949e_str" maxChars="256"/>
+  <copyField source="marc700Diretor" dest="marc700Diretor_str" maxChars="256"/>
+  <copyField source="marc411a" dest="marc411a_str" maxChars="256"/>
+  <copyField source="marc411b" dest="marc411b_str" maxChars="256"/>
+  <copyField source="marc210a" dest="marc210a_str" maxChars="256"/>
+  <copyField source="marc0908" dest="marc0908_str" maxChars="256"/>
+  <copyField source="marc910a" dest="marc910a_str" maxChars="256"/>
+  <copyField source="marc700trad._" dest="marc700trad.__str" maxChars="256"/>
+  <copyField source="marc700ed._" dest="marc700ed.__str" maxChars="256"/>
+  <copyField source="marc700fot._" dest="marc700fot.__str" maxChars="256"/>
+  <copyField source="marc700ed_" dest="marc700ed__str" maxChars="256"/>
+</schema>

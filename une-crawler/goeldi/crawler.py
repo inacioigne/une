@@ -2,9 +2,6 @@ from .relatorio import DownloadRelatorio
 from .getMarc import GetMarc
 import ipdb
 
-
-
-
 def CrawlerGoeldi():
     DownloadRelatorio("01012022", "31082022")
 

@@ -11,7 +11,6 @@ from goeldi.crawler import CrawlerGoeldi
 #MUSEU GOELDI
 CrawlerGoeldi()
 
-
 #INPE
 #CrawlerInpe()
 

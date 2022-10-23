@@ -1,7 +1,7 @@
 import pysolr
 import json
 
-solr = pysolr.Solr('http://localhost:8983/solr/Une/', timeout=10)
+solr = pysolr.Solr('http://localhost:8983/solr/search/', timeout=10)
 
 def Update(solr):
     #goeldi

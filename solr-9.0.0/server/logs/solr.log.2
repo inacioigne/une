@@ -1,56 +1,50 @@
-2022-09-25 02:06:35.702 INFO  (main) [] o.e.j.u.log Logging initialized @6600ms to org.eclipse.jetty.util.log.Slf4jLog
-2022-09-25 02:06:36.196 INFO  (main) [] o.e.j.s.Server jetty-9.4.44.v20210927; built: 2021-09-27T23:02:44.612Z; git: 8da83308eeca865e495e53ef315a249d63ba9332; jvm 18.0.1.1+2-6
-2022-09-25 02:06:36.997 INFO  (main) [] o.a.s.s.CoreContainerProvider Using logger factory org.apache.logging.slf4j.Log4jLoggerFactory
-2022-09-25 02:06:37.014 INFO  (main) [] o.a.s.s.CoreContainerProvider  ___      _       Welcome to Apache Solr™ version 9.0.0
-2022-09-25 02:06:37.014 INFO  (main) [] o.a.s.s.CoreContainerProvider / __| ___| |_ _   Starting in standalone mode on port 8983
-2022-09-25 02:06:37.014 INFO  (main) [] o.a.s.s.CoreContainerProvider \__ \/ _ \ | '_|  Install dir: C:\Users\inaci\Desktop\Une\une\solr-9.0.0
-2022-09-25 02:06:37.014 INFO  (main) [] o.a.s.s.CoreContainerProvider |___/\___/_|_|    Start time: 2022-09-25T02:06:37.014338700Z
-2022-09-25 02:06:37.030 INFO  (main) [] o.a.s.s.CoreContainerProvider Solr Home: C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server\solr (source: system property: solr.solr.home)
-2022-09-25 02:06:37.030 INFO  (main) [] o.a.s.c.SolrXmlConfig Loading solr.xml from C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server\solr\solr.xml
-2022-09-25 02:06:39.156 WARN  (main) [] o.a.s.u.StartupLoggingUtils Jetty request logging enabled. Will retain logs for last 3 days. See chapter "Configuring Logging" in reference guide for how to configure.
-2022-09-25 02:06:39.178 WARN  (main) [] o.a.s.c.CoreContainer Not all security plugins configured!  authentication=disabled authorization=disabled.  Solr is only as secure as you make it. Consider configuring authentication/authorization before exposing Solr to users internal or external.  See https://s.apache.org/solrsecurity for more info
-2022-09-25 02:06:57.725 WARN  (main) [] o.a.s.h.a.SystemInfoHandler Resolving canonical hostname for local host took 18.421 seconds, possible DNS misconfiguration. Set the 'solr.dns.prevent.reverse.lookup'  sysprop to true on startup to prevent future lookups if DNS can not be fixed.
-2022-09-25 02:06:58.256 INFO  (main) [] o.a.s.c.CorePropertiesLocator Found 1 core definitions underneath C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server\solr
-2022-09-25 02:06:58.257 INFO  (main) [] o.a.s.c.CorePropertiesLocator Cores are: [Une]
-2022-09-25 02:06:58.267 INFO  (coreLoadExecutor-10-thread-1) [] o.a.s.c.TransientSolrCoreCacheDefault Allocating transient core cache for max 2147483647 cores with initial capacity of 1024
-2022-09-25 02:06:58.387 INFO  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.c.SolrConfig Using Lucene MatchVersion: 9.0.0
-2022-09-25 02:06:58.692 INFO  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.s.IndexSchema Schema name=default-config
-2022-09-25 02:07:00.185 INFO  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.s.IndexSchema Loaded schema default-config/1.6 with uniqueid field id
-2022-09-25 02:07:00.185 INFO  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.c.CoreContainer Creating SolrCore 'Une' using configuration from instancedir C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server\solr\Une, trusted=true
-2022-09-25 02:07:00.332 INFO  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.c.SolrCore Opening new SolrCore at [C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server\solr\Une], dataDir=[C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server\solr\Une\data\]
-2022-09-25 02:07:00.856 INFO  (main) [] o.e.j.s.h.ContextHandler Started o.e.j.w.WebAppContext@1eef9aef{/solr,file:///C:/Users/inaci/Desktop/Une/une/solr-9.0.0/server/solr-webapp/webapp/,AVAILABLE}{C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server/solr-webapp/webapp}
-2022-09-25 02:07:00.896 INFO  (main) [] o.e.j.s.RequestLogWriter Opened C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server\logs\2022_09_25.request.log
-2022-09-25 02:07:00.929 INFO  (main) [] o.e.j.s.AbstractConnector Started ServerConnector@62dae540{HTTP/1.1, (http/1.1, h2c)}{127.0.0.1:8983}
-2022-09-25 02:07:00.929 INFO  (main) [] o.e.j.s.Server Started @31830ms
-2022-09-25 02:07:04.914 INFO  (qtp1355887174-27) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json} status=0 QTime=296
-2022-09-25 02:07:20.282 WARN  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.h.a.SystemInfoHandler Resolving canonical hostname for local host took 18.483 seconds, possible DNS misconfiguration. Set the 'solr.dns.prevent.reverse.lookup'  sysprop to true on startup to prevent future lookups if DNS can not be fixed.
-2022-09-25 02:07:20.902 INFO  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.u.UpdateHandler Using UpdateLog implementation: org.apache.solr.update.UpdateLog
-2022-09-25 02:07:20.902 INFO  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.u.UpdateLog Initializing UpdateLog: dataDir= defaultSyncLevel=FLUSH numRecordsToKeep=100 maxNumLogsToKeep=10 numVersionBuckets=65536
-2022-09-25 02:07:20.982 INFO  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.u.CommitTracker Hard AutoCommit: if uncommitted for 15000ms; 
-2022-09-25 02:07:20.982 INFO  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.u.CommitTracker Soft AutoCommit: disabled
-2022-09-25 02:07:21.827 INFO  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.r.ManagedResourceStorage File-based storage initialized to use dir: C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server\solr\Une\conf
-2022-09-25 02:07:21.893 INFO  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.s.DirectSolrSpellChecker init: {name=default, field=_text_, classname=solr.DirectSolrSpellChecker, distanceMeasure=internal, maxEdits=2, minPrefix=1, maxInspections=5, minQueryLength=4, accuracy=0.5, maxQueryFrequency=0.01}
-2022-09-25 02:07:21.932 INFO  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.h.ReplicationHandler Commits will be reserved for 10000 ms
-2022-09-25 02:07:21.988 INFO  (searcherExecutor-12-thread-1-processing-Une) [ x:Une] o.a.s.c.QuerySenderListener QuerySenderListener done.
-2022-09-25 02:07:21.988 INFO  (searcherExecutor-12-thread-1-processing-Une) [ x:Une] o.a.s.h.c.SpellCheckComponent Loading spell index for spellchecker: default
-2022-09-25 02:07:22.036 INFO  (searcherExecutor-12-thread-1-processing-Une) [ x:Une] o.a.s.c.SolrCore Registered new searcher autowarm time: 0 ms
-2022-09-25 02:08:24.029 INFO  (qtp1355887174-27) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1664071703965} status=0 QTime=6
-2022-09-25 02:08:24.265 INFO  (qtp1355887174-23) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1664071703965} status=0 QTime=246
-2022-09-25 02:08:24.541 INFO  (qtp1355887174-21) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1664071703965} status=0 QTime=259
-2022-09-25 02:08:28.813 INFO  (qtp1355887174-26) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1664071703965} status=0 QTime=1
-2022-09-25 02:08:28.825 INFO  (qtp1355887174-22) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/admin/luke params={numTerms=0&show=index&wt=json&_=1664071708484} status=0 QTime=13
-2022-09-25 02:08:28.831 INFO  (qtp1355887174-27) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/admin/ping params={action=status&wt=json&_=1664071703965&ts=1664071703965} status=503 QTime=9
-2022-09-25 02:08:28.845 INFO  (qtp1355887174-21) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/replication params={wt=json&command=details&_=1664071708484} status=0 QTime=31
-2022-09-25 02:08:29.257 INFO  (qtp1355887174-29) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1664071703965} status=0 QTime=448
-2022-09-25 02:08:29.307 INFO  (qtp1355887174-28) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/admin/system params={wt=json&_=1664071708484} status=0 QTime=497
-2022-09-25 02:09:25.012 INFO  (qtp1355887174-29) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/admin/ping params={} hits=128 status=0 QTime=72
-2022-09-25 02:09:25.012 INFO  (qtp1355887174-29) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/admin/ping params={} status=0 QTime=72
-2022-09-25 02:10:10.327 INFO  (qtp1355887174-28) [ x:Une] o.a.s.s.ManagedIndexSchema Upgraded to managed schema at C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server\solr\Une\conf\managed-schema.xml
-2022-09-25 02:10:10.848 INFO  (qtp1355887174-28) [ x:Une] o.a.s.s.ManagedIndexSchema Upgraded to managed schema at C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server\solr\Une\conf\managed-schema.xml
-2022-09-25 02:10:10.941 INFO  (qtp1355887174-28) [ x:Une] o.a.s.s.ManagedIndexSchema Upgraded to managed schema at C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server\solr\Une\conf\managed-schema.xml
-2022-09-25 02:10:11.295 INFO  (qtp1355887174-28) [ x:Une] o.a.s.s.ManagedIndexSchema Upgraded to managed schema at C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server\solr\Une\conf\managed-schema.xml
-2022-09-25 02:10:11.318 INFO  (qtp1355887174-28) [ x:Une] o.a.s.u.p.LogUpdateProcessorFactory webapp=/solr path=/update params={}{add=[100636 (1744905762598027264), 108542 (1744905762743779328), 109926 (1744905762750070784), 110456 (1744905762754265088), 113265 (1744905762757410816), 114140 (1744905763133849600), 114144 (1744905763135946752), 114145 (1744905763139092480), 114146 (1744905763141189632), 114147 (1744905763143286784), ... (113 adds)]} 0 1306
-2022-09-25 02:10:11.319 ERROR (qtp1355887174-28) [ x:Une] o.a.s.h.RequestHandlerBase org.apache.solr.common.SolrException: ERROR: [doc=118242] Error adding field 'marc490v'='97-2' msg=For input string: "97-2" => org.apache.solr.common.SolrException: ERROR: [doc=118242] Error adding field 'marc490v'='97-2' msg=For input string: "97-2"
+2022-09-25 02:12:50.093 INFO  (main) [] o.e.j.u.log Logging initialized @6546ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-09-25 02:12:50.505 INFO  (main) [] o.e.j.s.Server jetty-9.4.44.v20210927; built: 2021-09-27T23:02:44.612Z; git: 8da83308eeca865e495e53ef315a249d63ba9332; jvm 18.0.1.1+2-6
+2022-09-25 02:12:51.693 INFO  (main) [] o.a.s.s.CoreContainerProvider Using logger factory org.apache.logging.slf4j.Log4jLoggerFactory
+2022-09-25 02:12:51.736 INFO  (main) [] o.a.s.s.CoreContainerProvider  ___      _       Welcome to Apache Solr™ version 9.0.0
+2022-09-25 02:12:51.736 INFO  (main) [] o.a.s.s.CoreContainerProvider / __| ___| |_ _   Starting in standalone mode on port 8983
+2022-09-25 02:12:51.736 INFO  (main) [] o.a.s.s.CoreContainerProvider \__ \/ _ \ | '_|  Install dir: C:\Users\inaci\Desktop\Une\une\solr-9.0.0
+2022-09-25 02:12:51.736 INFO  (main) [] o.a.s.s.CoreContainerProvider |___/\___/_|_|    Start time: 2022-09-25T02:12:51.736722500Z
+2022-09-25 02:12:51.758 INFO  (main) [] o.a.s.s.CoreContainerProvider Solr Home: C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server\solr (source: system property: solr.solr.home)
+2022-09-25 02:12:51.761 INFO  (main) [] o.a.s.c.SolrXmlConfig Loading solr.xml from C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server\solr\solr.xml
+2022-09-25 02:12:53.762 WARN  (main) [] o.a.s.u.StartupLoggingUtils Jetty request logging enabled. Will retain logs for last 3 days. See chapter "Configuring Logging" in reference guide for how to configure.
+2022-09-25 02:12:53.783 WARN  (main) [] o.a.s.c.CoreContainer Not all security plugins configured!  authentication=disabled authorization=disabled.  Solr is only as secure as you make it. Consider configuring authentication/authorization before exposing Solr to users internal or external.  See https://s.apache.org/solrsecurity for more info
+2022-09-25 02:13:12.386 WARN  (main) [] o.a.s.h.a.SystemInfoHandler Resolving canonical hostname for local host took 18.473 seconds, possible DNS misconfiguration. Set the 'solr.dns.prevent.reverse.lookup'  sysprop to true on startup to prevent future lookups if DNS can not be fixed.
+2022-09-25 02:13:12.644 INFO  (main) [] o.a.s.c.CorePropertiesLocator Found 1 core definitions underneath C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server\solr
+2022-09-25 02:13:12.644 INFO  (main) [] o.a.s.c.CorePropertiesLocator Cores are: [Une]
+2022-09-25 02:13:12.659 INFO  (coreLoadExecutor-10-thread-1) [] o.a.s.c.TransientSolrCoreCacheDefault Allocating transient core cache for max 2147483647 cores with initial capacity of 1024
+2022-09-25 02:13:12.728 INFO  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.c.SolrConfig Using Lucene MatchVersion: 9.0.0
+2022-09-25 02:13:12.859 INFO  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.s.IndexSchema Schema name=default-config
+2022-09-25 02:13:13.497 INFO  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.s.IndexSchema Loaded schema default-config/1.6 with uniqueid field id
+2022-09-25 02:13:13.497 INFO  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.c.CoreContainer Creating SolrCore 'Une' using configuration from instancedir C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server\solr\Une, trusted=true
+2022-09-25 02:13:13.558 INFO  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.c.SolrCore Opening new SolrCore at [C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server\solr\Une], dataDir=[C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server\solr\Une\data\]
+2022-09-25 02:13:13.727 INFO  (main) [] o.e.j.s.h.ContextHandler Started o.e.j.w.WebAppContext@1eef9aef{/solr,file:///C:/Users/inaci/Desktop/Une/une/solr-9.0.0/server/solr-webapp/webapp/,AVAILABLE}{C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server/solr-webapp/webapp}
+2022-09-25 02:13:13.743 INFO  (main) [] o.e.j.s.RequestLogWriter Opened C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server\logs\2022_09_25.request.log
+2022-09-25 02:13:13.760 INFO  (main) [] o.e.j.s.AbstractConnector Started ServerConnector@62dae540{HTTP/1.1, (http/1.1, h2c)}{127.0.0.1:8983}
+2022-09-25 02:13:13.760 INFO  (main) [] o.e.j.s.Server Started @30212ms
+2022-09-25 02:13:14.057 INFO  (qtp1355887174-27) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json} status=0 QTime=149
+2022-09-25 02:13:32.756 WARN  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.h.a.SystemInfoHandler Resolving canonical hostname for local host took 18.474 seconds, possible DNS misconfiguration. Set the 'solr.dns.prevent.reverse.lookup'  sysprop to true on startup to prevent future lookups if DNS can not be fixed.
+2022-09-25 02:13:33.066 INFO  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.u.UpdateHandler Using UpdateLog implementation: org.apache.solr.update.UpdateLog
+2022-09-25 02:13:33.066 INFO  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.u.UpdateLog Initializing UpdateLog: dataDir= defaultSyncLevel=FLUSH numRecordsToKeep=100 maxNumLogsToKeep=10 numVersionBuckets=65536
+2022-09-25 02:13:33.112 INFO  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.u.CommitTracker Hard AutoCommit: if uncommitted for 15000ms; 
+2022-09-25 02:13:33.113 INFO  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.u.CommitTracker Soft AutoCommit: disabled
+2022-09-25 02:13:33.379 INFO  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.r.ManagedResourceStorage File-based storage initialized to use dir: C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server\solr\Une\conf
+2022-09-25 02:13:33.408 INFO  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.s.DirectSolrSpellChecker init: {maxEdits=2, minPrefix=1, maxInspections=5, minQueryLength=4, name=default, field=_text_, classname=solr.DirectSolrSpellChecker, distanceMeasure=internal, accuracy=0.5, maxQueryFrequency=0.01}
+2022-09-25 02:13:33.430 INFO  (coreLoadExecutor-10-thread-1) [ x:Une] o.a.s.h.ReplicationHandler Commits will be reserved for 10000 ms
+2022-09-25 02:13:33.441 INFO  (searcherExecutor-12-thread-1-processing-Une) [ x:Une] o.a.s.c.QuerySenderListener QuerySenderListener done.
+2022-09-25 02:13:33.442 INFO  (searcherExecutor-12-thread-1-processing-Une) [ x:Une] o.a.s.h.c.SpellCheckComponent Loading spell index for spellchecker: default
+2022-09-25 02:13:33.453 INFO  (searcherExecutor-12-thread-1-processing-Une) [ x:Une] o.a.s.c.SolrCore Registered new searcher autowarm time: 0 ms
+2022-09-25 02:16:24.942 INFO  (qtp1355887174-29) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1664071703965} status=0 QTime=9
+2022-09-25 02:16:25.151 INFO  (qtp1355887174-23) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1664071703965} status=0 QTime=218
+2022-09-25 02:16:25.339 INFO  (qtp1355887174-27) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1664071703965} status=0 QTime=148
+2022-09-25 02:16:27.761 INFO  (qtp1355887174-26) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1664071703965} status=0 QTime=1
+2022-09-25 02:16:27.803 INFO  (qtp1355887174-21) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/admin/luke params={numTerms=0&show=index&wt=json&_=1664071708484} status=0 QTime=8
+2022-09-25 02:16:27.809 INFO  (qtp1355887174-26) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/admin/ping params={action=status&wt=json&_=1664071703965&ts=1664071703965} status=503 QTime=8
+2022-09-25 02:16:27.819 INFO  (qtp1355887174-27) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/replication params={wt=json&command=details&_=1664071708484} status=0 QTime=25
+2022-09-25 02:16:28.268 INFO  (qtp1355887174-23) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1664071703965} status=0 QTime=494
+2022-09-25 02:16:28.308 INFO  (qtp1355887174-20) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/admin/system params={wt=json&_=1664071708484} status=0 QTime=510
+2022-09-25 02:16:41.095 INFO  (qtp1355887174-21) [ x:Une] o.a.s.u.p.LogUpdateProcessorFactory webapp=/solr path=/update params={}{add=[100636 (1744906171976777728), 108542 (1744906172094218240), 109926 (1744906172101558272), 110456 (1744906172104704000), 113265 (1744906172108898304), 114140 (1744906172112044032), 114144 (1744906172115189760), 114145 (1744906172119384064), 114146 (1744906172123578368), 114147 (1744906172126724096), ... (113 adds)]} 0 370
+2022-09-25 02:16:41.095 ERROR (qtp1355887174-21) [ x:Une] o.a.s.h.RequestHandlerBase org.apache.solr.common.SolrException: ERROR: [doc=118242] Error adding field 'marc490v'='97-2' msg=For input string: "97-2" => org.apache.solr.common.SolrException: ERROR: [doc=118242] Error adding field 'marc490v'='97-2' msg=For input string: "97-2"
 	at org.apache.solr.update.DocumentBuilder.toDocument(DocumentBuilder.java:247)
 org.apache.solr.common.SolrException: ERROR: [doc=118242] Error adding field 'marc490v'='97-2' msg=For input string: "97-2"
 	at org.apache.solr.update.DocumentBuilder.toDocument(DocumentBuilder.java:247) ~[?:?]
@@ -163,25 +157,55 @@ Caused by: java.lang.NumberFormatException: For input string: "97-2"
 	at org.apache.solr.update.DocumentBuilder.addOriginalField(DocumentBuilder.java:291) ~[?:?]
 	at org.apache.solr.update.DocumentBuilder.toDocument(DocumentBuilder.java:207) ~[?:?]
 	... 99 more
-2022-09-25 02:10:47.412 INFO  (qtp1355887174-28) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1664071847321} status=0 QTime=0
-2022-09-25 02:10:47.435 INFO  (qtp1355887174-22) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/config params={wt=json&_=1664071847386} status=0 QTime=15
-2022-09-25 02:10:47.442 INFO  (qtp1355887174-27) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/admin/luke params={show=schema&wt=json&_=1664071847386} status=0 QTime=29
-2022-09-25 02:10:47.678 INFO  (qtp1355887174-46) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/admin/luke params={numTerms=0&wt=json&_=1664071847386} status=0 QTime=149
-2022-09-25 02:10:47.776 INFO  (qtp1355887174-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1664071847322} status=0 QTime=364
-2022-09-25 02:10:51.582 INFO  (qtp1355887174-26) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1664071847321} status=0 QTime=0
-2022-09-25 02:10:51.588 INFO  (qtp1355887174-29) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/config params={wt=json&_=1664071847386} status=0 QTime=1
-2022-09-25 02:10:51.595 INFO  (qtp1355887174-28) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/admin/luke params={show=schema&wt=json&_=1664071847386} status=0 QTime=8
-2022-09-25 02:10:51.703 INFO  (qtp1355887174-22) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/admin/luke params={numTerms=0&wt=json&_=1664071847386} status=0 QTime=63
-2022-09-25 02:10:51.837 INFO  (qtp1355887174-27) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1664071847322} status=0 QTime=251
-2022-09-25 02:12:04.360 INFO  (searcherExecutor-12-thread-1-processing-Une) [ x:Une] o.a.s.c.QuerySenderListener QuerySenderListener done.
-2022-09-25 02:12:04.398 INFO  (searcherExecutor-12-thread-1-processing-Une) [ x:Une] o.a.s.c.SolrCore Registered new searcher autowarm time: 9 ms
-2022-09-25 02:12:04.445 INFO  (qtp1355887174-22) [ x:Une] o.a.s.u.p.LogUpdateProcessorFactory webapp=/solr path=/update params={commit=true}{deleteByQuery=*:* (-1744905882057048064), commit=} 0 274
-2022-09-25 02:12:38.855 INFO  (ShutdownMonitor) [] o.e.j.s.AbstractConnector Stopped ServerConnector@62dae540{HTTP/1.1, (http/1.1, h2c)}{127.0.0.1:8983}
-2022-09-25 02:12:38.877 INFO  (ShutdownMonitor) [] o.a.s.c.CoreContainer Shutting down CoreContainer instance=1196716338
-2022-09-25 02:12:38.884 INFO  (coreCloseExecutor-18-thread-1) [ x:Une] o.a.s.c.SolrCore CLOSING SolrCore org.apache.solr.core.SolrCore@541c6dff Une
-2022-09-25 02:12:38.885 INFO  (coreCloseExecutor-18-thread-1) [ x:Une] o.a.s.m.SolrMetricManager Closing metric reporters for registry=solr.core.Une tag=SolrCore@541c6dff
-2022-09-25 02:12:38.942 INFO  (coreCloseExecutor-18-thread-1) [ x:Une] o.a.s.u.DirectUpdateHandler2 Committing on IndexWriter.close()  ... SKIPPED (unnecessary).
-2022-09-25 02:12:38.959 INFO  (ShutdownMonitor) [] o.a.s.m.SolrMetricManager Closing metric reporters for registry=solr.node tag=null
-2022-09-25 02:12:38.987 INFO  (ShutdownMonitor) [] o.a.s.m.SolrMetricManager Closing metric reporters for registry=solr.jvm tag=null
-2022-09-25 02:12:38.998 INFO  (ShutdownMonitor) [] o.a.s.m.SolrMetricManager Closing metric reporters for registry=solr.jetty tag=null
-2022-09-25 02:12:39.042 INFO  (ShutdownMonitor) [] o.e.j.s.h.ContextHandler Stopped o.e.j.w.WebAppContext@1eef9aef{/solr,null,STOPPED}{C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server/solr-webapp/webapp}
+2022-09-25 02:17:11.401 INFO  (qtp1355887174-28) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1664071703965} status=0 QTime=0
+2022-09-25 02:17:11.417 INFO  (qtp1355887174-29) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/admin/luke params={show=schema&wt=json&_=1664071708484} status=0 QTime=15
+2022-09-25 02:17:11.417 INFO  (qtp1355887174-27) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/config params={wt=json&_=1664072231059} status=0 QTime=14
+2022-09-25 02:17:11.483 INFO  (qtp1355887174-44) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/admin/luke params={numTerms=0&wt=json&_=1664071708484} status=0 QTime=0
+2022-09-25 02:17:11.564 INFO  (qtp1355887174-46) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1664071703965} status=0 QTime=164
+2022-09-25 02:17:14.615 INFO  (qtp1355887174-26) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1664071703965} status=0 QTime=1
+2022-09-25 02:17:14.623 INFO  (qtp1355887174-21) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/config params={wt=json&_=1664072231059} status=0 QTime=1
+2022-09-25 02:17:14.626 INFO  (qtp1355887174-23) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/admin/luke params={show=schema&wt=json&_=1664071708484} status=0 QTime=6
+2022-09-25 02:17:14.677 INFO  (qtp1355887174-27) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/admin/luke params={numTerms=0&wt=json&_=1664071708484} status=0 QTime=0
+2022-09-25 02:17:14.865 INFO  (qtp1355887174-29) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1664071703965} status=0 QTime=252
+2022-09-25 02:17:34.166 INFO  (qtp1355887174-27) [ x:Une] o.a.s.s.ManagedIndexSchema Upgraded to managed schema at C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server\solr\Une\conf\managed-schema.xml
+2022-09-25 02:17:34.186 INFO  (qtp1355887174-27) [ x:Une] o.a.s.c.SolrConfig Using Lucene MatchVersion: 9.0.0
+2022-09-25 02:17:34.217 INFO  (qtp1355887174-27) [ x:Une] o.a.s.s.IndexSchema Schema name=default-config
+2022-09-25 02:17:34.301 INFO  (qtp1355887174-27) [ x:Une] o.a.s.s.IndexSchema Loaded schema default-config/1.6 with uniqueid field id
+2022-09-25 02:17:34.301 INFO  (qtp1355887174-27) [ x:Une] o.a.s.c.CoreContainer Reloading SolrCore 'Une' using configuration from instancedir C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server\solr\Une
+2022-09-25 02:17:34.386 INFO  (qtp1355887174-27) [ x:Une] o.a.s.c.SolrCore Opening new SolrCore at [C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server\solr\Une], dataDir=[C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server\solr\Une\data\]
+2022-09-25 02:17:52.944 WARN  (qtp1355887174-27) [ x:Une] o.a.s.h.a.SystemInfoHandler Resolving canonical hostname for local host took 18.447 seconds, possible DNS misconfiguration. Set the 'solr.dns.prevent.reverse.lookup'  sysprop to true on startup to prevent future lookups if DNS can not be fixed.
+2022-09-25 02:17:52.991 INFO  (qtp1355887174-27) [ x:Une] o.a.s.u.CommitTracker Hard AutoCommit: if uncommitted for 15000ms; 
+2022-09-25 02:17:52.991 INFO  (qtp1355887174-27) [ x:Une] o.a.s.u.CommitTracker Soft AutoCommit: disabled
+2022-09-25 02:17:53.024 INFO  (qtp1355887174-27) [ x:Une] o.a.s.r.ManagedResourceStorage File-based storage initialized to use dir: C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server\solr\Une\conf
+2022-09-25 02:17:53.024 INFO  (qtp1355887174-27) [ x:Une] o.a.s.s.DirectSolrSpellChecker init: {maxEdits=2, minPrefix=1, maxInspections=5, minQueryLength=4, name=default, field=_text_, classname=solr.DirectSolrSpellChecker, distanceMeasure=internal, accuracy=0.5, maxQueryFrequency=0.01}
+2022-09-25 02:17:53.032 INFO  (qtp1355887174-27) [ x:Une] o.a.s.h.ReplicationHandler Commits will be reserved for 10000 ms
+2022-09-25 02:17:53.067 INFO  (searcherExecutor-18-thread-1-processing-Une) [ x:Une] o.a.s.c.QuerySenderListener QuerySenderListener done.
+2022-09-25 02:17:53.067 INFO  (searcherExecutor-18-thread-1-processing-Une) [ x:Une] o.a.s.h.c.SpellCheckComponent Loading spell index for spellchecker: default
+2022-09-25 02:17:53.125 INFO  (qtp1355887174-27) [ x:Une] o.a.s.u.DefaultSolrCoreState New IndexWriter is ready to be used.
+2022-09-25 02:17:53.134 INFO  (searcherExecutor-18-thread-1-processing-Une) [ x:Une] o.a.s.c.SolrCore Registered new searcher autowarm time: 0 ms
+2022-09-25 02:17:53.149 INFO  (qtp1355887174-27) [] o.a.s.c.SolrCore CLOSING SolrCore org.apache.solr.core.SolrCore@35ab284c Une
+2022-09-25 02:17:53.154 INFO  (qtp1355887174-27) [] o.a.s.m.SolrMetricManager Closing metric reporters for registry=solr.core.Une tag=SolrCore@35ab284c
+2022-09-25 02:17:53.174 INFO  (searcherExecutor-18-thread-1-processing-Une) [ x:Une] o.a.s.c.QuerySenderListener QuerySenderListener done.
+2022-09-25 02:17:53.194 INFO  (searcherExecutor-18-thread-1-processing-Une) [ x:Une] o.a.s.c.SolrCore Registered new searcher autowarm time: 25 ms
+2022-09-25 02:18:23.540 INFO  (qtp1355887174-46) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1664072303460} status=0 QTime=1
+2022-09-25 02:18:23.545 INFO  (qtp1355887174-22) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/config params={wt=json&_=1664072303521} status=0 QTime=1
+2022-09-25 02:18:23.553 INFO  (qtp1355887174-29) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/admin/luke params={show=schema&wt=json&_=1664072303520} status=0 QTime=12
+2022-09-25 02:18:23.649 INFO  (qtp1355887174-44) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/admin/luke params={numTerms=0&wt=json&_=1664072303520} status=0 QTime=55
+2022-09-25 02:18:23.807 INFO  (qtp1355887174-23) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1664072303460} status=0 QTime=266
+2022-09-25 02:18:31.956 INFO  (qtp1355887174-23) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1664071847321} status=0 QTime=1
+2022-09-25 02:18:32.225 INFO  (qtp1355887174-26) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1664071847322} status=0 QTime=264
+2022-09-25 02:18:33.622 INFO  (qtp1355887174-22) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1664071847321} status=0 QTime=0
+2022-09-25 02:18:33.740 INFO  (qtp1355887174-29) [ x:Une] o.a.s.c.S.Request webapp=/solr path=/select params={q=*:*&indent=true&q.op=OR&_=1664072311623} hits=113 status=0 QTime=120
+2022-09-25 02:18:33.899 INFO  (qtp1355887174-46) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1664071847322} status=0 QTime=276
+2022-09-25 02:18:49.158 INFO  (searcherExecutor-18-thread-1-processing-Une) [ x:Une] o.a.s.c.QuerySenderListener QuerySenderListener done.
+2022-09-25 02:18:49.167 INFO  (searcherExecutor-18-thread-1-processing-Une) [ x:Une] o.a.s.c.SolrCore Registered new searcher autowarm time: 0 ms
+2022-09-25 02:18:49.195 INFO  (qtp1355887174-27) [ x:Une] o.a.s.u.p.LogUpdateProcessorFactory webapp=/solr path=/update params={commit=true}{deleteByQuery=*:* (-1744906306511175680), commit=} 0 192
+2022-09-25 02:18:58.660 INFO  (ShutdownMonitor) [] o.e.j.s.AbstractConnector Stopped ServerConnector@62dae540{HTTP/1.1, (http/1.1, h2c)}{127.0.0.1:8983}
+2022-09-25 02:18:58.667 INFO  (ShutdownMonitor) [] o.a.s.c.CoreContainer Shutting down CoreContainer instance=1196716338
+2022-09-25 02:18:58.671 INFO  (coreCloseExecutor-23-thread-1) [ x:Une] o.a.s.c.SolrCore CLOSING SolrCore org.apache.solr.core.SolrCore@24da8bd0 Une
+2022-09-25 02:18:58.672 INFO  (coreCloseExecutor-23-thread-1) [ x:Une] o.a.s.m.SolrMetricManager Closing metric reporters for registry=solr.core.Une tag=SolrCore@24da8bd0
+2022-09-25 02:18:58.703 INFO  (coreCloseExecutor-23-thread-1) [ x:Une] o.a.s.u.DirectUpdateHandler2 Committing on IndexWriter.close()  ... SKIPPED (unnecessary).
+2022-09-25 02:18:58.712 INFO  (ShutdownMonitor) [] o.a.s.m.SolrMetricManager Closing metric reporters for registry=solr.node tag=null
+2022-09-25 02:18:58.729 INFO  (ShutdownMonitor) [] o.a.s.m.SolrMetricManager Closing metric reporters for registry=solr.jvm tag=null
+2022-09-25 02:18:58.750 INFO  (ShutdownMonitor) [] o.a.s.m.SolrMetricManager Closing metric reporters for registry=solr.jetty tag=null
+2022-09-25 02:18:58.778 INFO  (ShutdownMonitor) [] o.e.j.s.h.ContextHandler Stopped o.e.j.w.WebAppContext@1eef9aef{/solr,null,STOPPED}{C:\Users\inaci\Desktop\Une\une\solr-9.0.0\server/solr-webapp/webapp}

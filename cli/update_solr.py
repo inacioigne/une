@@ -6,21 +6,21 @@ solr = pysolr.Solr('http://localhost:8983/solr/Une/', timeout=10)
 def Update(solr):
     #goeldi
     print('atualizando Goeldi...')
-    with open(f'goeldi.json', encoding="utf-8") as file_json:
+    with open(r'./goeldi.json', encoding="utf-8") as file_json:
         docs = json.loads(file_json.read())
         solr.add(docs)
         file_json.close()
 
     #inpe
     print('atualizando INPE...')
-    with open(f'inpe.json', encoding="utf-8") as file_json:
+    with open(r'./inpe.json', encoding="utf-8") as file_json:
         docs = json.loads(file_json.read())
         solr.add(docs)
         file_json.close()
     
     #mcti
     print('atualizando INPE...')
-    with open(f'mcti.json', encoding="utf-8") as file_json:
+    with open(r'./mcti.json', encoding="utf-8") as file_json:
         docs = json.loads(file_json.read())
         solr.add(docs)
         file_json.close()

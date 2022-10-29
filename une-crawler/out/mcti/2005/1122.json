@@ -1,0 +1,137 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001122"
+        },
+        {
+            "code": "005",
+            "value": "20190726131743.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8588325276"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.38 ",
+                "b": "R467m ",
+                "c": "2004"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Rezende, Sergio Machado ",
+                "d": "1940-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Materiais e dispositivos eletrônicos ",
+                "c": "Sergio M. Rezende ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "2. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Livraria da Física ",
+                "c": "2004"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xii, 547 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia eletrônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Semicondutores"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Diodo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Transistor"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Dispositivo eletrônico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Dispositivo magnético"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Dispositivo óptico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mecânica quântica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

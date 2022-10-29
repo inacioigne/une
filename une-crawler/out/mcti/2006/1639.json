@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001639"
+        },
+        {
+            "code": "005",
+            "value": "20190801150602.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "581 ",
+                "b": "F383e ",
+                "c": "1993 ",
+                "d": "INPA"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Ferreira, Carlos Alberto Cid"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Espécies botânicas do campus do INPA ",
+                "b": "arbustivas e arbóreas ",
+                "c": "Carlos Alberto Cid Ferreira, José Ferreira Ramos ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Manaus ",
+                "b": "Instituto Nacional de Pesquisas da Amazônia ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "17 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Botânica ",
+                "x": "Catálogo ",
+                "z": "Amazônia"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Ramos, José Ferreira ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto Nacional de Pesquisas da Amazônia (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

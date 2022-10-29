@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002073"
+        },
+        {
+            "code": "005",
+            "value": "20190813141409.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.43 ",
+                "b": "A345p ",
+                "c": "[1983?]"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Albuquerque, Fausto Aragão da Silva"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Como programar eficientemente em PL/I ",
+                "c": "Fausto Aragão da Silva Albuquerque ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Brasília] ",
+                "b": "[s.n.] ",
+                "c": "[1983?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "81 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Trabalho apresentado no 2. Concurso Nacional de Monografias em Informática, promovido pela Secretaria Especial de Informática (SEI) e pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq). teve como objetivo principal estimular a produção brasileira de literatura técnica no setor, tanto no que se refere a textos didáticos e de pesquisa como a aplicações de informática nos mais diversos aspectos da vida nacional."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "I. Introdução -- II. O uso desta publicação -- III. Otimização de programas -- 1. Declaração de variáveis -- 2. Especificiações de constantes -- 3. Conversões e comandos de atribuição em geral -- 4. Comandos de E/S -- 5. Grupos DO-END -- 6. Gerenciamento de memória -- 7. A sub-rotina para execução do \"Sort\" -- 8. Blocos de programas, sub-rotinas e funções -- 9. Grupos IF-THEN-ELSE -- 10. Condições -- 11. Processamento de tabelas -- 12. Operações -- 13. A clareza na programação -- 14. Verificações na listagem de compilação -- 15. Itens diversos - IV. Glossário dos termos e tradução usadas -- V. Índice alfabético -- VI. Bibliografia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem de programação (Computadores)"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Concurso Nacional de Monografias sobre Informática ",
+                "c": "Brasília, DF ",
+                "d": "1983 ",
+                "n": "2"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

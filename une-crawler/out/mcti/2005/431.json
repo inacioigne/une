@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nas  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000431"
+        },
+        {
+            "code": "005",
+            "value": "20170120095427.0"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.039(05)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Boletim de Informações ",
+                "c": "Instituto de Pesquisas Energéticas e Nucleares ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Comissão Nacional de Energia Nuclear ",
+                "c": "1993-1994"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "b": "v"
+            }
+        },
+        {
+            "code": "310",
+            "subfield": {
+                "a": "Irregular"
+            }
+        },
+        {
+            "code": "530",
+            "subfield": {
+                "a": "Documento eletrônico: CNEN, período disponível: (2011 - presente) - acesso livre"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia nuclear ",
+                "x": "Periódico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa nuclear ",
+                "x": "Periódico"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisas Energéticas e Nucleares ",
+                "c": "SP ",
+                "e": "Indefinida"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo - Acesso em: 10/12/2013 ",
+                "u": "http://www.cnen.gov.br/noticias/lst_noticia_corr.asp"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Periódicos"
+            }
+        }
+    ]
+}

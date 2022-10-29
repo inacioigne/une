@@ -1,0 +1,118 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "00559nam  2200157 i 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000220"
+        },
+        {
+            "code": "005",
+            "value": "20190726110740.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "020507s1981    fr d|||||     000|0 fre|d"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "2110006692"
+            }
+        },
+        {
+            "code": "029",
+            "subfield": {
+                "a": "0000721816"
+            }
+        },
+        {
+            "code": "035",
+            "subfield": {
+                "a": "721816"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "023.4 ",
+                "b": "T254f ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Tébéka, Jacques"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "La formation des spécialistes informaticiens ou la révolution informatique ne peut s'accomplir sans informaticiens ",
+                "b": "Rapport á Monsieur le Premier ministre ",
+                "c": "Jacques Tébéka ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "La Documentation Française ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "224 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Analistas de sistemas ",
+                "x": "Formação profissional ",
+                "z": "França"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Tendências ",
+                "z": "França"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados ",
+                "x": "Tendências ",
+                "z": "França"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

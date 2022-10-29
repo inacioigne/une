@@ -1,0 +1,125 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001084"
+        },
+        {
+            "code": "005",
+            "value": "20190805193904.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "551.583 ",
+                "b": "E82 ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Estudio para la identificación de medidas de mitigación de emisiones de gases de efecto invernadero del sector energía ",
+                "c": "realizado en forma conjunta por: Dirección Nacional de Medio Ambiente, Ministerio de Vivienda, Ordenamiento Territorial y Medio Ambiente, Dirección Nacional de Energía, Ministerio de Industria, Energía y Minería ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Montevideo ",
+                "b": "Unidad de Cambio Climático ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. (várias paginações) ",
+                "b": "il., tabs., grafs"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Proyecto URU/95/G31 (Proyecto del Fondo para el Medio Ambiente Mundial, FMAM, realizado por el Programa de las Naciones Unidas para el Desarrollo, PNYD)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Emissão de gases ",
+                "x": "Atmosfera"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Efeito estufa (Atmosfera) ",
+                "x": "Mitigação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Setor elétrico ",
+                "z": "Uruguai"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Politica energética ",
+                "z": "Uruguai"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política ambiental ",
+                "z": "Uruguai"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Uruguai. Dirección Nacional de Medio Ambiente ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Uruguai. Dirección Nacional de Energía ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

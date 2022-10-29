@@ -1,0 +1,99 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001773"
+        },
+        {
+            "code": "005",
+            "value": "20190805113453.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.315.59 ",
+                "b": "T355p ",
+                "c": "[1975]"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Texas Instruments Incorporated. Semiconductor Group"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The power semiconductor data book for design engineers ",
+                "c": "The engineering staff of Texas Instruments Incorporated, Semiconductor Group ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Dallas ",
+                "b": "Texas Instruments ",
+                "c": "[c1975]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. (várias paginações) ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Semicondutores"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia eletrônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Transistor"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito integrado"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

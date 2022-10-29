@@ -1,0 +1,133 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000983"
+        },
+        {
+            "code": "005",
+            "value": "20190806172156.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "531:004.021 ",
+                "b": "C355g ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Castro, Rodrigo E."
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A genetic algorithm for multiobjective structural optimization ",
+                "c": "Rodrigo E. Castro, Helio Jose C. Barbosa ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Petrópolis ",
+                "b": "Laboratório Nacional de Computação Científica ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "12 f. ",
+                "b": "il., grav."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Relatórios de pesquisa e desenvolvimento ",
+                "v": "n. 34/2000"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Periódico tratado como livro (ISSN: 0101-6113)"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "1. Introduction -- 2. Pareto multiobjetive genetic algorithm -- 3. Applications -- 4. Conclusions"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "A genetic algorithm for multiobjective optimization is presented which tries to evolve an evenly distributed set of solutions belonging to the Pareto set by: (i) ranking the population according to nondomination properties; (ii) defining a filter to retain Pareto set solutions and (iii) using adequate operators: exclusion, addition and single-objective operator which improves the individuals from the current filter in order to achieve a better distribution of solutions along the Pareto set. Numerical experiments are presented in order to illustrate the performance of the proposed algorithm when applied to multiobjective optimization problems in structural mechanics."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Algoritmos ",
+                "x": "Genética"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência da computação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Seleção natural"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Barbosa, Helio Jose Corrêa ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001120"
+        },
+        {
+            "code": "005",
+            "value": "20190726092849.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8570256167"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5/6-048.87(81:44)(063) ",
+                "b": "F745i ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Fórum Brasil-França ",
+                "c": "Porto Alegre, RS ",
+                "d": "2001"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Inovação e cooperação tecnológica ",
+                "b": "Fórum Brasil-França ",
+                "c": "organizadores: Maria Alice Lahorgue e Carlos Fernando Costa ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Porto Alegre ",
+                "b": "Universidade Federal do Rio Grande do Sul ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "368"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inovação tecnológica ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "França"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "França"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa científica ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "França"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa tecnológica ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "França"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Lahorgue, Maria Alice ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Costa, Carlos Fernando ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

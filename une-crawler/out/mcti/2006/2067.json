@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002067"
+        },
+        {
+            "code": "005",
+            "value": "20190813132714.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.382(81) ",
+                "b": "B823c ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Secretaria Especial de Informática"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Computadoras ",
+                "b": "evolución cuantitativa de unidades instaladas en el período 1970/1980 ",
+                "h": "Impresso ",
+                "c": "Secretaria Especial de Informática"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Secretaria Especial de Informática ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "24 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Este trabajo tiene como finalidad señalar algunas de las principales características de la evolución de la base instalada en el Brasil en el período compreendido entre 1970 y 1980."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Evolución general en el período -- Evolución de las diversas clases -- Distribución regional de las unidades instaladas."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores ",
+                "x": "1970-1980"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

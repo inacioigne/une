@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000748"
+        },
+        {
+            "code": "005",
+            "value": "20190729094225.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "347.771:025.5 ",
+                "b": "A663p ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Araujo, Vania Maria Rodrigues Hermes de"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A patente como ferramenta de informação ",
+                "c": "Vania Maria Rodrigues Hermes de Araujo. ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Instituto Nacional da Propriedade Intelectual ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "14 f."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Trabalho preparado para o 1º Congresso Latino-Americano de Biblioteconomia e Documentação. Salvador, Bahia, Brasil, 21a 26 de setembro de 1980."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Patentes (Direito internacional público) ",
+                "x": "Informação técnica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento tecnológico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Propriedade industrial"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto Nacional da Propriedade Industrial (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

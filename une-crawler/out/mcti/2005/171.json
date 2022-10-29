@@ -1,0 +1,200 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "01729cam  2200349 a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000171"
+        },
+        {
+            "code": "005",
+            "value": "20190805161711.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "970623s1995    uy b     r    000 0 spa d"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "010",
+            "subfield": {
+                "a": "2001418220"
+            }
+        },
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9290890460"
+            }
+        },
+        {
+            "code": "035",
+            "subfield": {
+                "a": "(OCoLC)ocm37177652"
+            }
+        },
+        {
+            "code": "035",
+            "subfield": {
+                "a": "12510427"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "AZU ",
+                "c": "AZU ",
+                "d": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "041",
+            "subfield": {
+                "a": "spaeng"
+            }
+        },
+        {
+            "code": "042",
+            "subfield": {
+                "a": "lccopycat"
+            }
+        },
+        {
+            "code": "043",
+            "subfield": {
+                "a": "e-sp---"
+            }
+        },
+        {
+            "code": "050",
+            "subfield": {
+                "a": "Q179.98 ",
+                "b": ".D57 1995"
+            }
+        },
+        {
+            "code": "082",
+            "subfield": {
+                "2": "21 ",
+                "a": "507/.2/01756"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "017[061-047.37](4/8=13) ",
+                "b": "D598 ",
+                "c": "1995 ",
+                "d": "UNESCO"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Directorio de centros de investigación científica y tecnológica en América Latina y el Caribe, España y Portugal 1996 ",
+                "b": "Directory of scientific and technological research centres in Latin America and the Caribbean, Spain and Portugal 1996. ",
+                "h": "Impresso ",
+                "c": "UNESCO"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Directory of scientific and technological research centres in Latin America and the Caribbean, Spain and Portugal 1996"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Centros de investigación científica y tecnológica en América Latina y el Caribe, España y Portugal ",
+                "b": "directorio"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Scientific and technological research centres in Latin America and the Caribbean, Spain and Portugal ",
+                "b": "directory"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Montevideo ",
+                "b": "UNESCO ",
+                "c": "c1995"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "x, 178 p. ",
+                "b": "mapas ",
+                "c": "30"
+            }
+        },
+        {
+            "code": "546",
+            "subfield": {
+                "a": "Texto em espanhol e inglês"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "x": "Diretórios",
+                "z": "Portugal "
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Instituição de pesquisa ",
+                "z": "Portugal ",
+                "x": "Diretórios"
+            }
+        },
+        {
+            "code": "906",
+            "subfield": {
+                "a": "7 ",
+                "b": "cbc ",
+                "c": "copycat ",
+                "d": "2 ",
+                "e": "ncip ",
+                "f": "20 ",
+                "g": "y-gencatlg"
+            }
+        },
+        {
+            "code": "925",
+            "subfield": {
+                "a": "acquire ",
+                "b": "1 shelf copy ",
+                "x": "policy default"
+            }
+        },
+        {
+            "code": "955",
+            "subfield": {
+                "a": "aa01 2001-11-02 ",
+                "e": "jp10 2001-10-10 to Dewey ",
+                "i": "jp18 2001-09-26"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

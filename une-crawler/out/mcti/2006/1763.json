@@ -1,0 +1,126 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001763"
+        },
+        {
+            "code": "005",
+            "value": "20190814184525.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "620.91(81) ",
+                "b": "B823ba ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Ministério das Minas e Energia"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Balanço energético nacional 2005 ",
+                "b": "ano base 2004 : sumário executivo ",
+                "h": "Impresso ",
+                "c": "Ministério das Minas e Energia"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Empresa de Pesquisa Energética ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "60 ",
+                "b": "il., tab., graf."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "O Balanço Energético Nacional é o documento oficial do Ministério de Minas e Energia, destinado a registrar estatísticas de energia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia ",
+                "z": "Brasil ",
+                "x": "Consumo (Economia)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos energéticos ",
+                "x": "Estatísticas ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Balanço energético (Geofísica) ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Empresa de Pesquisa Energética (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "http://www.mme.gov.br/web/guest/publicacoes-e-indicadores/balanco-energetico-nacional?p_p_id=20&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_20_struts_action=%2Fdocument_library%2Fview_file_entry&_20_redirect=http%3A%2F%2Fwww.mme.gov.br%2Fweb%2Fguest%2Fpublicacoes-e-indicadores%2Fbalanco-energetico-nacional%3Fp_p_id%3D20%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_count%3D1%26_20_redirect%3Dhttp%253A%252F%252Fwww.mme.gov.br%252Fweb%252Fguest%252Fpublicacoes-e-indicadores%252Fbalanco-energetico-nacional%253Fp_p_id%253D20%2526p_p_lifecycle%253D0%2526p_p_state%253Dnormal%2526p_p_mode%253Dview%2526p_p_col_id%253Dcolumn-1%2526p_p_col_count%253D1%2526_20_redirect%253Dhttp%25253A%25252F%25252Fwww.mme.gov.br%25252Fweb%25252Fguest%25252Fpublicacoes-e-indicadores%25252Fbalanco-energetico-nacional%25253Fp_p_id%25253D20%252526p_p_lifecycle%25253D0%252526p_p_state%25253Dnormal%252526p_p_mode%25253Dview%252526_20_entryEnd%25253D20%252526_20_displayStyle%25253Ddescriptive%252526_20_viewEntries%25253D1%252526_20_viewFolders%25253D1%252526_20_folderStart%25253D0%252526_20_folderEnd%25253D50%252526_20_entryStart%25253D0%252526_20_folderId%25253D1143891%2526_20_struts_action%253D%25252Fdocument_library%25252Fview%2526_20_folderId%253D1143905%26_20_struts_action%3D%252Fdocument_library%252Fview%26_20_folderId%3D3597237&_20_fileEntryId=3597413 ",
+                "y": "Texto completo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto Completo ",
+                "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\1763-Balanco_energetico_nacional_2005_sumario_executivo.pdf"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

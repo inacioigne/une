@@ -1,0 +1,120 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000836"
+        },
+        {
+            "code": "005",
+            "value": "20190808173307.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "351.72:001.891 ",
+                "b": "S586a ",
+                "c": "2004"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Silva, Alberto Carvalho da"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Atividades de fomento à pesquisa e formação de recursos humanos desenvolvidas pela FAPESP entre 1962 e 2001 ",
+                "c": "Alberto Carvalho da Silva ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Fundação de Amparo à Pesquisa do Estado de São Paulo ",
+                "c": "2004"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "59 ",
+                "b": "il., tab."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa ",
+                "x": "Política e governo ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa científica ",
+                "x": "Relatórios ",
+                "z": "São Paulo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa e desenvolvimento ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos humanos ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "http://www.fapesp.br/publicacoes/alberto.pdf ",
+                "y": "Texto completo (FAPESP) ",
+                "z": "Acesso em: 16/09/2014"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

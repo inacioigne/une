@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nas  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001266"
+        },
+        {
+            "code": "005",
+            "value": "20170123092225.0"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "061(05)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "INPE ",
+                "b": "notícias ",
+                "c": "Instituto Nacional de Pesquisas Espaciais ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São José dos Campos ",
+                "b": "Instituto Nacional de Pesquisas Espaciais ",
+                "c": "1997-1998"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "b": "v"
+            }
+        },
+        {
+            "code": "310",
+            "subfield": {
+                "a": "Bimestral"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Instituição de pesquisa ",
+                "x": "Periódico ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa científica ",
+                "x": "Periódico ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia espacial ",
+                "x": "Periódico ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto Nacional de Pesquisas Espaciais (Brasil) ",
+                "e": "Indefinida"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Periódicos"
+            }
+        }
+    ]
+}

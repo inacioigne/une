@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002089"
+        },
+        {
+            "code": "005",
+            "value": "20190806110920.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "853460438x"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.451.9 ",
+                "b": "M626g ",
+                "c": "=134.3 1995"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Stinson, Craig ",
+                "d": "1943-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Windows NT 3.5 ",
+                "b": "guia autorizado Microsoft ",
+                "c": "Craig Stison; tradução Fernando Milliet Roque, Lars Gustav Erick Unonius ; Revisão técnica Mário Magyar Franco ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Makron Books ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxxv, 846 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "516",
+            "subfield": {
+                "a": "Cutter baseado no nome da empresa afim de reunir com as demais obras no acervo."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistemas operacionais (Computadores) ",
+                "x": "Windows NT (Sistema operacional de computador)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aplicativo de tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador ",
+                "x": "Rede local"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

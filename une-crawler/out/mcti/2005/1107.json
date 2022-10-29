@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001107"
+        },
+        {
+            "code": "005",
+            "value": "20190729094636.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "681.5:007.5(469:81) ",
+                "b": "T255 ",
+                "c": "[1997]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Tecnologias da informação ",
+                "b": "Brasil - Portugal : oportunidades ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Conselho Nacional de Desenvolvimento Científico e Tecnológico ",
+                "c": "[1997]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "32 f."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Título da capa Programa Temático Multiinstitucional em Ciência da Computação"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Catálogo que pretende ser um fórum para a apresentação de propostas de futuros projetos entre Brasil e Portugal. Visa colher subsídios para a discussão do lançamento de uma chamada competitiva conjunta, propiciando o enlace de interesses comuns entre universidades e empresas (projetos com empresas no âmbito do programa brasileiro ProTeM-CC e Softex), divulgando iniciativas recentes dos dois países, e ainda melhorando as relações universitárias."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informação tecnológica ",
+                "z": "Portugal"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia da informação ",
+                "z": "Portugal"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inovação tecnológica ",
+                "z": "Portugal"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

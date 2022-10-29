@@ -1,0 +1,151 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001446"
+        },
+        {
+            "code": "005",
+            "value": "20190802143719.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "330.567.2(81) ",
+                "b": "G256 ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Gastos alimentares nas grandes regiões urbanas do Brasil ",
+                "b": "aplicação do modelo AID aos microdados da POF 1995-1996 IBGE ",
+                "c": "Tatiane Menezes ... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "21 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IPEA ",
+                "v": "896 ",
+                "x": "1415-4765"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Estima a elasticidade para 39 produtos alimentares a partir do modelo AID (Almost Ideal Demand System) com expansão quadrática para gastos familiares per capita. Utiliza a base de dados da Pesquisa de Orçamentos Familiares (POF) de 1995/1996 do IBGE."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Renda familiar ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Alimentos ",
+                "x": "Gastos"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Menezes, Tatiane ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Silveira, Fernando Gaiger ",
+                "d": "1964- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Magalhães, Luís Carlos G. de ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Tomich, Frederico Andrade ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Vianna, Salvador Werneck ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "IPEA ",
+                "u": "http://www.ipea.gov.br/portal/images/stories/PDFs/TDs/td_0896.pdf ",
+                "z": "Acesso em: 02/08/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

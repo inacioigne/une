@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001454"
+        },
+        {
+            "code": "005",
+            "value": "20190813115948.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0131651269"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "Br-MCT ",
+                "c": "Br-MCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.05 ",
+                "b": "F375c ",
+                "c": "1978"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Ferrari, Domenico ",
+                "d": "1940-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Computer systems performance evaluation ",
+                "c": "Domenico Ferrari ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Englewood Cliffs ",
+                "b": "Prentice-Hall ",
+                "c": "1978"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "554 ",
+                "c": "25 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computador digital ",
+                "x": "Avaliação de desempenho"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Simulação (Computadores)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de computador ",
+                "x": "Avaliação de desempenho"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aplicativo de tecnologia"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

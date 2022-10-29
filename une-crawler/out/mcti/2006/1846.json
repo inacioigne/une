@@ -1,0 +1,135 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001846"
+        },
+        {
+            "code": "005",
+            "value": "20190731131251.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "330.564(81) ",
+                "b": "S676d ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Soares, Sergei Suarez Dillon"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Distribuição de renda no Brasil de 1976 a 2004 com ênfase no período entre 2001 e 2004 ",
+                "c": "Sergei Suarez Dillon Soares ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "27 f. ",
+                "b": "gráfs., tabs."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IPEA ",
+                "v": "1166 ",
+                "x": "1415-4765"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Este texto tem dois objetivos: o primeiro é documentar a evolução da desigualdade no Brasil nas últimas três décadas, e o segundo é decompor a queda na desigualdade nos últimos três anos para apontar os fenômenos responsáveis por tal fato. Com relação ao primeiro objetivo, o trabalho mostra que 2004 foi o ano com menor desigualdade de renda no período 1976-2004 para quatro medidas: Theil T, Gini, razão 10/40 e razão 20/20. Adicionalmente, 2004 domina no sentido de Lorenz todos os anos, salvo 1984 e 1981. Devido à queda da renda após a desvalorização cambial de 1999, 2004 não domina em primeira ordem nenhum outro ano no período1995-2004, para o qual comparações de nível são confiáveis. A distribuição de 2004 domina em segunda ordem apenas a de 2003.Com relação ao segundo objetivo, a metodologia usada é a decomposição do coeficiente de Gini segundo fontes de renda. Os resultados são que programas de transferência de renda, tais como o Bolsa Família, são responsáveis por um quarto (¼) da queda da desigualdade entre 1995 e 2004, sendo que os outros três quartos (¾) são atribuíveis à redução na desigualdade nos rendimentos do trabalho. This text was written with two objectives: the first is to document the evolution of inequality during the last three decades and the second is to decompose the notable fall in inequality in the last three years. The text shows that 2004 was the year with lowest inequality in the thirty years between 1976 and 2004. This result holds true for inequality according to Theil T, Gini, the 10/40 ratio and the 20/20 ratio. In addition, 2004 presents Lorenz dominance over all years except 1984 and 1981. Due to the exchange rate debacle of1999, 2004 does not show first order dominance over any year in the period from1995 to 2004, during which level comparisons are trustworthy. For this same period, 2004 shows second order dominance over 2003 and no other year. To achieve the second objective, the methodology used is Gini decomposition by factor shares. The results are that income transfer programs such as Bolsa Família are responsible for close to ¼ of the fall of inequality from 1995 to 2004. The other¾ are due to a reduction in the concentration of labor income."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desigualdade de renda ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desigualdade social ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Renda ",
+                "x": "Distribuição ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Renda per capita ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "http://www.ipea.gov.br/portal/images/stories/PDFs/TDs/td_1166.pdf ",
+                "y": "IPEA ",
+                "z": "Acesso em: 28/08/2014"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

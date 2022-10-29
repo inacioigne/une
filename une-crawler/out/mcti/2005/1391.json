@@ -1,0 +1,146 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "01671nam  2200241 a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001391"
+        },
+        {
+            "code": "005",
+            "value": "20190812153126.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.45(81) ",
+                "b": "C331c ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Carvalho, José Henrique Dias de"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Ciclo comum na indústria regional ",
+                "c": "José Henrique Dias de Carvalho, Alexandre X. de Carvalho, Roberto Góes Ellery Júnior; autor corporativo: Instituto de Pesquisa Econômica Aplicada ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "24 ",
+                "b": "gráf., tab."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IPEA ",
+                "v": "1139 ",
+                "x": "1415-4765"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Comprova a existência de um componente comum não observado dirigindo a taxa de crescimento da indústria em oito estados brasileiros. Apresenta a metodologia baseada nos modelos de Hamilton (1989) e na versão generalizada em Krolzig (1997). Descreve os resultados dos modelos de mudança de Markov: primeiramente ulizando dados agregados da produção industrial e, posteriormente, supondo a existência do ciclo comum, com dados industriais desagregados por estado"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústrias ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Macroeconomia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Markov, Cadeias de"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Carvalho, Alexandre ",
+                "d": "1971- ",
+                "q": "Alexandre Xavier Ywata ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Ellery Júnior, Roberto de Góes ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo ",
+                "u": "www.ipea.gov.br/pub/td/2005/td_1139.pdf"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

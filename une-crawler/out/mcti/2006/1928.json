@@ -1,0 +1,121 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001928"
+        },
+        {
+            "code": "005",
+            "value": "20190805101350.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(100)(063) ",
+                "b": "F527i ",
+                "c": "[1988?]"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "International Informatics Congress ",
+                "c": "Rio de Janeiro, RJ ",
+                "d": "1988 ",
+                "n": "1"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The impact of using information technology ",
+                "b": "proceedings : Brazil, 22 to 26, August 1988 ",
+                "c": "1st International Informatics Congress of Rio de Janeiro"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Rio de Janeiro] ",
+                "b": "Association française pour la cybernétique économique et technique ",
+                "c": "[1988?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "180 ",
+                "c": "28 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Título da capa Inglês, com um artigo em francês"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia da informação ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de informação ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Association Francaise pour la Cybernetique Economique et Technique ",
+                "c": "França ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

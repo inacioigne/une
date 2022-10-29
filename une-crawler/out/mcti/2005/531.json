@@ -1,0 +1,191 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "01585nam  2200385 a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000531"
+        },
+        {
+            "code": "005",
+            "value": "20190808133900.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "970703s1994    bl a     b   f100 0 por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "010",
+            "subfield": {
+                "a": "97831310"
+            }
+        },
+        {
+            "code": "035",
+            "subfield": {
+                "9": "(DLC) 97831310"
+            }
+        },
+        {
+            "code": "035",
+            "subfield": {
+                "a": "4029666"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "DLC ",
+                "c": "DLC ",
+                "d": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "041",
+            "subfield": {
+                "a": "poreng"
+            }
+        },
+        {
+            "code": "042",
+            "subfield": {
+                "a": "lcode"
+            }
+        },
+        {
+            "code": "050",
+            "subfield": {
+                "a": "T385 ",
+                "b": ".S55 1994"
+            }
+        },
+        {
+            "code": "082",
+            "subfield": {
+                "2": "21 ",
+                "a": "006.6"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.924(81)(063) ",
+                "b": "S612a ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Simpósio Brasileiro de Computação Gráfica e Processamento de Imagens ",
+                "c": "Recife, PE ",
+                "d": "1993 ",
+                "n": "6"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais do SIBGRAPI 93 ",
+                "b": "VI Simpósio Brasileiro de Computação Gráfica e Processamento de Imagens ",
+                "c": "Editores: Luiz Henrique de Figueiredo, Jonas de Miranda Gomes; autor corporativo: Sociedade Brasileira de Computação, Universidade Federal de Pernambuco ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Recife ",
+                "b": "Universidade Federal de Pernambuco ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "355 ",
+                "b": "il., (algumas color)"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "\"Recife, PE, outubro de 1993\" (informação retirada da capa)"
+            }
+        },
+        {
+            "code": "546",
+            "subfield": {
+                "a": "Texto em português e inglês"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computação gráfica ",
+                "x": "Animação (computação gráfica)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de imagem ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática médica"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Figueiredo, Luiz Henrique de ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Gomes, Jonas de Miranda ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Sociedade Brasileira de Computação ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Universidade Federal de Pernambuco ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

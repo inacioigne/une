@@ -1,0 +1,90 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002102"
+        },
+        {
+            "code": "005",
+            "value": "20190809145510.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8534603154"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.91.032.6 ",
+                "b": "M626 ",
+                "c": "=134.3 ",
+                "d": "c1995"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Microsoft Powerpoint 4 for windows ",
+                "b": "passo a passo ",
+                "c": "Perspection, Inc. ; tradução José Eduardo Nóbrega Tortello ; revisão técnica Vilma Vaz dos Santos ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Makron Books ",
+                "c": "c1995"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "lvii, 445 p. ",
+                "b": "il., + 1 disquete 3 1/2"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programas de computador ",
+                "x": "Computação gráfica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002059"
+        },
+        {
+            "code": "005",
+            "value": "20190809152020.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.912WORD ",
+                "b": "M626i ",
+                "c": "c1992"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Microsoft Word para Windows ",
+                "b": "instruções passo a passo, versão 2.0 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Microsoft Press ",
+                "c": "c1992"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "362 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programas de computador ",
+                "x": "Word, Microsoft"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002105"
+        },
+        {
+            "code": "005",
+            "value": "20190802151528.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004 ",
+                "b": "B823g ",
+                "c": "1979 ",
+                "d": "CAPRE"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Comissão de Coordenação das Atividades de Processamento Eletrônico ",
+                "c": "Brasil"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Gerência de processamento de dados ",
+                "b": "manual de referências ",
+                "c": "Comissão de Coordenação das Atividades de Processamento Eletrônico ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Comissão de Coordenação das Atividades de Processamento Eletrônico ",
+                "c": "1979"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "101 ",
+                "b": "il., v"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Trabalho elaborado a partir do seminário patrocinado pela CAPRE, realizado em Petrólis (RJ), de 11 a 14 de outubro, onde foram reunidos 25 especialistas em PD com expressiva vivência gerencial. O critério adotado na seleção dos gerentes participantes, além da alta qualificação profissional, foi o de garantir a inclusão de especialistas com diferentes experiências, em função tanto dos variados ramos de negócio ou tipos de empresa em que estão ou estiveram engajados, quando a diversas técnicas de soluções e diferentes abordagens de problemas vivenciados no Processamento de Dados. O objetivo é transmitir à comunidade de Processamento de Dados em geral e aos Gerentes em particular, a valiosa experiência, conceitos e conselhos abordados ao longo do seminário, servindo como fonte de consulta a todos os interessados e, mesmo, como orientação para aqueles que se iniciam nas funções de gerenciamento de PD."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Capítulo 1 - O escopo da gerência de processamento de dados -- 1.1. Introdução -- 1.2. Um escopo amplo -- 1.3. Situação prática -- Capítulo 2 - Planejamento e controle global -- 2.1. Conteúdo de um Plano de Sistemas -- 2.2. Uma Caracterização dos Níveis de Planejamento Encontros, na Prática, no Brasil -- 2.3. Diretrizes sobre Planejamento -- Capítulo 3 - Desenvolvimento e manutenção de sistemas -- 3.1. A metodologia básica (etapas e participantes) para desenvolver um subsistema de PD -- 3.2. As variações na Metodologia para situações fora do exemplo considerado -- 3.3. Os cuidados específicos para manutenção de um sistema em operação -- 3.4. Outras recomendações importantes relativas a desenvolvimento e manutenção -- Capítulo 4 - Operações -- 4.1. Organização -- 4.2. Planeja e controle de horários e recursos -- 4.3. Instalações -- 4.4. Prevenção de erros e acidentes -- 4.5. Aquisição e controle de materiais --Capítulo 5 - Hardware e software -- 5.1. Configuração -- 5.2. Seleção de fornecedor -- 5.3. Contratação -- 5.4. Controle de performance -- Capítulo 6. Administração do Pessoal -- 6.1. Recrutamento -- 6.2. Seleção -- 6.3. Remuneração -- 6.4. Treinamento -- 6.5. Motivação --"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados ",
+                "x": "Planejamento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento de sistemas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos humanos"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001779"
+        },
+        {
+            "code": "005",
+            "value": "20190814184358.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "620.91(815.6) ",
+                "b": "S239b ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "São Paulo (Estado). Secretaria de Energia, Recursos Hídricos e Saneamento"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Balanço energético do estado de São Paulo - 2005 ",
+                "b": "ano base 2004 ",
+                "h": "Impresso ",
+                "c": "Secretaria de Energia, Recursos Hídricos e Saneamento"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Secretaria de Energia, Recursos Hídricos e Saneamento ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "155 p., [52] p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Informações Energéticas ",
+                "v": "2"
+            }
+        },
+        {
+            "code": "501",
+            "subfield": {
+                "a": "Informações energéticas do estado de São Paulo - 2005: ano base: 2004. São Paulo: Secretaria de Energia, Recursos Hídricos e Saneamento, 2005. 1 folha dobrada [8 p.], il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia ",
+                "x": "Consumo (Economia) ",
+                "z": "São Paulo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Balanço energético (Geofísica) ",
+                "z": "São Paulo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos energéticos ",
+                "x": "Estatísticas ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

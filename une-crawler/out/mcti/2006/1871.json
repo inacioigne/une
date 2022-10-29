@@ -1,0 +1,134 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001871"
+        },
+        {
+            "code": "005",
+            "value": "20190813110401.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "35.077CNEN/IPEN(062.552) ",
+                "b": "I59c ",
+                "c": "2003 ",
+                "d": "IPEN"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Ciência e tecnologia para o novo milênio ",
+                "b": "informe anual : 2003 ",
+                "c": "Coordenação Claudio Rodrigues ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Instituto de Pesquisas Energéticas e Nucleares ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "46 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Apresenta os principais resultados do Instituto de Pesquisas Energéticas e Nucleares - IPEN em pesquisas nas áreas de saúde, indústria, energia, materiais e meio ambiente, engenharia, tecnologia e ciências nucleares, segurança radiológica, ensino e informação científica e tecnológica, gestão e por fim ações de cidadania."
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Instituto de Pesquisas Energéticas e Nucleares ",
+                "c": "SP ",
+                "x": "Organização"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Radiofármacos ",
+                "x": "Produção"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Radiação ",
+                "x": "Saúde"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa nuclear"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Rodrigues, Claudio ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Comissão Nacional de Energia Nuclear (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "IPEN/CNEN ",
+                "u": "http://memoria.cnen.gov.br/doc/pdf/Relatorios/Relatorio%20IPEN_2003.PDF ",
+                "z": "Acesso em: 31/05/2016"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "01094nam  2200205 a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000270"
+        },
+        {
+            "code": "005",
+            "value": "20190729133129.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "027:004.4(063) ",
+                "b": "S471s ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Seminário sobre Automação em Bibliotecas e Centros de Documentação ",
+                "c": "Águas de Lindóia, SP ",
+                "d": "1997 ",
+                "n": "6"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "VI Seminário sobre Automação em Bibliotecas e Centros de Documentação ",
+                "b": "Programa final: 9 a 11 de setembro de 1997, Hotel Majestic, Águas de Lindóia, SP ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Águas de Lindóia ",
+                "b": "[s.n.] ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 v."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Capa como principal fonte de informação"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "v. 1 - Programa final --- v. 2 - Anais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Centro de documentação ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação de bibliotecas ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Bibliotecas ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

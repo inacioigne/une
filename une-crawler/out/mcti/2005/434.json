@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000434"
+        },
+        {
+            "code": "005",
+            "value": "20190726115343.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "005.55(047)CERTI ",
+                "b": "F981r ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Fundação CERTI"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Relatório de atividades 2003 ",
+                "b": "[CERTI] ",
+                "h": "Impresso ",
+                "c": "Fundação CERTI"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Florianópolis ",
+                "b": "Fundação Centros de Referências em Tecnologias Inovadoras ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "102 ",
+                "b": "il., color."
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Fundação CERTI ",
+                "x": "Gestão"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa científica ",
+                "x": "Financiamento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa tecnológica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

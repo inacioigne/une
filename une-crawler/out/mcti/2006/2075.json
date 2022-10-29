@@ -1,0 +1,118 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002075"
+        },
+        {
+            "code": "005",
+            "value": "20190809151037.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8534602972"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.451.9 ",
+                "b": "M626pa ",
+                "c": "=134.3 ",
+                "d": "1995"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Microsoft Windows NT ",
+                "b": "passo a passo ",
+                "c": "Catapult, Inc ; tradução Kátia A. Roque ; revisão técnica Ricardo Kutney Evangelinellis ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Makron Books ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xli, 483 ",
+                "b": "il., + 1 disquete (3 1/2)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistemas operacionais (Computadores) ",
+                "x": "Windows NT (Sistema operacional de computador)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aplicativo de tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador ",
+                "x": "Rede local"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Roque, Kátia A ",
+                "e": "Tradutor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Evangelinellis, Ricardo Kutney ",
+                "e": "Revisor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Catapult, Inc ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

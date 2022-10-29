@@ -1,0 +1,112 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000399"
+        },
+        {
+            "code": "005",
+            "value": "20190729095042.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "001.818(035) ",
+                "b": "V657p ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Vieira, Cássio Leite ",
+                "d": "1960-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Pequeno manual de divulgação científica ",
+                "b": "dicas para cientistas e divulgadores de ciência ",
+                "c": "Cássio Leite Vieira ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Universidade de São Paulo, Coordenadoria de Comunicação Social ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "48 f."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Redação técnica ",
+                "x": "Língua portuguesa ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cientistas ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Divulgação científica ",
+                "x": "Manual ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Normalização técnica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Metodologia científica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

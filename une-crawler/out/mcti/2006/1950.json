@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001950"
+        },
+        {
+            "code": "005",
+            "value": "20190808142251.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8598117102"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "331.452 ",
+                "b": "A171 ",
+                "c": "=134.3 2005"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Organização Internacional do Trabalho (OIT)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Prevenção de acidentes a bordo de navios no mar e nos portos ",
+                "b": "código de práticas da OIT ",
+                "c": "tradução Marco Junior de Faria Godinho ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Fundação Jorge Duprat Figueiredo de Segurança e Medicina do Trabalho ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "213"
+            }
+        },
+        {
+            "code": "534",
+            "subfield": {
+                "a": "Accident prevention on board ship at sea and in port"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Segurança do trabalho"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Navios ",
+                "x": "Normas de segurança"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000509"
+        },
+        {
+            "code": "005",
+            "value": "20190729124559.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.738:339(063) ",
+                "b": "C748p ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "IFIP Conference on E-Commerce, E-Business and E-Government ",
+                "c": "Guarujá, SP ",
+                "d": "2003 ",
+                "n": "3"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Proceedings ",
+                "b": "3rd IFIP conference on e-commerce, e-business and e-government ",
+                "c": "editors Reima Suomi ... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Guarujá ",
+                "b": "[s.n.] ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "ix, 649 ",
+                "b": "il., + 1 CD-ROM"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comércio eletrônico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Governo eletrônico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Negócios ",
+                "x": "Administração"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de informação"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Suomi, Reima ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

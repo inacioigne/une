@@ -1,0 +1,108 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001455"
+        },
+        {
+            "code": "005",
+            "value": "20190730123920.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "085012168X"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "Br-BrMCT ",
+                "c": "Br-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "005.92:004 ",
+                "b": "J77d ",
+                "c": "1977"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Jones, Gilbert Thomas ",
+                "d": "1939-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Data capture in the retail environment ",
+                "c": "G. T. Jones ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Manchester [Inglaterra] ",
+                "b": "NCC Publications ",
+                "c": "1977"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "152 ",
+                "c": "30 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gestão da informação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Acesso à informação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Armazenamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recuperação da informação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

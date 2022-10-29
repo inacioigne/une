@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002101"
+        },
+        {
+            "code": "005",
+            "value": "20190809145614.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8534608741"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4:005.8 ",
+                "b": "P964pa ",
+                "c": "=134.3 ",
+                "d": "1998"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Microsoft Project 98 ",
+                "b": "passo a passo ",
+                "c": "Catapult, Inc. ; tradução João Eduardo Nóbrega Tortello ; revisão técnica Mário Mgyar Franco ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Makron Books ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxxii, 305 p. ",
+                "b": "il., + 1 CD-Rom"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Cutter baseado no nome do programa afim de reunir com as demais obras no acervo."
+            }
+        },
+        {
+            "code": "501",
+            "subfield": {
+                "a": "Acompanhado de 1 CD-Rom"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programas de computador ",
+                "x": "Project, Windows"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gestão de projetos"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

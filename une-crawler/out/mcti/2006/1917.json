@@ -1,0 +1,115 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001917"
+        },
+        {
+            "code": "005",
+            "value": "20220725143244.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.039(047.31) ",
+                "b": "L123a ",
+                "c": "2004 ",
+                "d": "LNS"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Laboratório Nacional de Luz Síncrotron (Brasil)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Activity report, 2004 ",
+                "h": "Impresso ",
+                "c": "Laboratório Nacional de Luz Síncrotron ",
+                "b": "[LNLS]"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Laboratório Nacional de Luz Síncrotron ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "109 ",
+                "b": "il., + 1 CR-ROM (algumas color.)"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Introduction -- Science Highlights -- Facility Report -- High Order Quaternary Arrangement Confers Increased Structural Stability to Brucella Spp -- Synchrotron lon Recoil Momentum Spectroscopy in Laser Cooled and Trapped Atomic Samples -- Bragg Surface Diffraction: a high resolution probe to study shallow junction of B in Si(oo1) -- Theree-dimensional Mapping of strain Anisotropy in self-assembled quantum wires by Grazing incidence X-ray diffraction -- Er and yb Chemical Environment in Low Silica Calcium Aluminosilicate Glasses Investigated by EXAFS -- Ligand Induced Conformational Change in lys phospholipase A2 hints at a Molecular Mechanism for Membrane Damaning Activity -- Formation of Pentagonal cu nanowires -- Light on a Magnetics Structure: spin order and fluctuations of Gd2 IrIn8 Investigated by Resonant X-ray Diffraction -- The spin Transition in RNiO3 Perovskites Probed by X-ray absorpution spectroscopy -- Crystal Structures of B-galactosidase from penicillium sp. And its complex with galactose -- Small AngleX-ray scattering used as a Toll for 3D Structural Reconstruction of Multidomain Poretins involved in muscle contraction"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "       This Activity Report follows the model initiated last year, containing a section dedicated to scientific highlights. This selection, entirely of my responsibility, aims to exemplify the high quality work developed by the users of the LNLS's capacities. A complete list of the papers is given at the end of the Report and the complete papers are described in the accompanying CD. The highlights attest to the multidisciplinary nature of the activities conducted and, in particular, they offer a sampling of the scientific possibilities when different instrumentations and technical and scientific skills cooperate jointly to solve scientific problems. Fro example, evidence of the relativistic and multi-body effects in the electron energy levels in Cs atoms was resolved through a sophisticated experiment which required the cooperation of the accelerator team that developed the single-bunch mode of operation of the light source, the vacuum, machine and electronics teams that built the time-of-flight detector and the necessary electronics to operate the experiment, plus a group of scientists from several Brazilian universities and the LNLS. The result of the combined skills of all these people in atomic spectroscopy and cold atoms physics was an elegant demonstration of the quality of science that can be addressed in a national laboratory. The study of the induced strain in quantum dots and quantum wires using a combination of atomic force microscopy, electron transmission microscopy and X-ray diffraction at the synchrotron light laboratory was also an impressive demonstration of the quality of the work performed by the users at the LNLS. The study of multidomain proteins involved in muscle contraction, using the facilities of the Center for Structural Molecular Biology and the small angle X-ray scattering beamline, illustrates the far-reaching aspects of multidisciplinary cooperation and exemplifies the increasing need for sophisticated instrumentation in biology programs. Another important scientific breakthrough was the first successful determination of a magnetic structure - that of the GdIrIn family - using synchrotron light at LNLS."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Luz síncrotron"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa científica"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Associação Brasileira de Tecnologia de Luz Síncrotron ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

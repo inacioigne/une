@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001952"
+        },
+        {
+            "code": "005",
+            "value": "20190802140828.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.2 ",
+                "b": "Z94f ",
+                "c": "1978 ",
+                "d": "CAPRE"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Zuffo, João Antonio ",
+                "d": "1939-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Fundamentos da arquitetura e organização dos microprocessadores ",
+                "c": "João Antonio Zuffo ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "c": "1978 ",
+                "b": "Edgard Blucher"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "b": "il. ",
+                "a": "2 v."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Microprocessadores ",
+                "v": "2"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Prolegômenos IX/XII - 1. Elementos básicos de um processador -- 2. Conceitos básicos relacionados com a unidade de controle - 3. Detalhes da organização dos microprocessadores monolíticos -- 4. Pastilhas periféricas à UCP monolíticas -- 5. Microprocessadores por segmentação de bits -- Glossário de termos."
+            }
+        },
+        {
+            "code": "550",
+            "subfield": {
+                "a": "Publicado em convênio com a Fundação Nacional de Material Escolar, Ministério da Educação e Cultura e com a Comissão de Coordenação das Atividades de Processamento eletrónico, Secretaria do Planejamento da Presidência da Republica."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microprocessador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquitetura de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia eletrônica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000859"
+        },
+        {
+            "code": "005",
+            "value": "20190726085303.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "025.7/.9:5/6(81) ",
+                "b": "C755p ",
+                "c": "2003 ",
+                "d": "CNPq"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Uma proposta de política nacional de memória da ciência e da tecnologia ",
+                "b": "relatório da Comissão Especial constituídapela portaria 116/2003 do Presidente do CNPq em 04 de julho de 2003 ",
+                "h": "Impresso ",
+                "c": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Conselho Nacional de Desenvolvimento Científico e Tecnológico ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "204 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "1. Introdução -- 2. Propósitos -- 3. Aspectos conceituais -- 4. A memória da ciência e da tecnologia no Brasil -- 5. O desenvolvimento da História da Ciência no Brasil -- 6. Recomendações -- Anexos"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Este relatório reúne as conclusões dos trabalhos da Comissão Especil nomeada pela Presidência do CNPq (portaria 116/2003, de 4 de julho de 2003) para propor uma Política Nacional de Preservação da Memória da Ciência e da Tecnologia (Anexo I). Os trabalhos tomaram como ponto de partida experiências precedentes, contando inclusive com as valiosas colaborações de Jaime Antunes e Francisco Romeu Landi , integrantes de uma comissão nomeada pelo MCT em 2002, cuja \"Síntese Final\" foi anexada ao presente trabalho (Anexo II). O presente trabalho não apresenta um diagnóstico completo da situação da memória científica e tecnológica nacional, mas ilustra de forma inequívoca os graves problemas em pauta, ressalta importantes iniciativas em andamento e aborda aspectos fundamentais da discussão conceitual. As propostas adiantadas devem alimentar uma ampla discussão com a comunidade científica. No prosseguimento do debate, será necessário mobilizar instituições públicas nos âmbitos federal, estadual, e municipal. O mesmo deve ocorrer com as empresas e instituições privadas."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "x": "Legislação ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência ",
+                "x": "História ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e civilização ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "CNPq ",
+                "u": "http://centrodememoria.cnpq.br/politicadememoria.pdf ",
+                "z": "Acesso em: 20/02/2017"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

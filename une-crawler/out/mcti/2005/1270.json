@@ -1,0 +1,99 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001270"
+        },
+        {
+            "code": "005",
+            "value": "20170724153603.0"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "62:338.45(44) ",
+                "b": "T291"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "França. Ministère de l'économie et des finances"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Les cent technologies pour l'industrie française ",
+                "b": "à l'horizon 2000"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[França] ",
+                "b": "Ministère de l'économie et des finances ",
+                "c": "[1996?]"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "v": "1 v."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Serviço público ",
+                "z": "França ",
+                "x": "Ciência e tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia da informação ",
+                "z": "França"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia industrial ",
+                "z": "França"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telecomunicações ",
+                "x": "Aspectos sociais ",
+                "z": "França"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

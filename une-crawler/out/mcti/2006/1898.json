@@ -1,0 +1,127 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001898"
+        },
+        {
+            "code": "005",
+            "value": "20190808142934.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4(035) ",
+                "b": "M385p ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Mammana, Carlos Ignácio Zamitti"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Manuais do usuário do sistema didático de projetos ",
+                "c": "Carlos Ignácio Zamitti Mammana, Silvia Helena Machado de Oliveira ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Escola Brasileiro-Argentina de Informática ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "232 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Versão preliminar publicada para a V Escola Brasileiro-Argentina de Informática, Rio de Janeiro - Janeiro de 1991"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Coletânia dos manuais de usuário do Sistema Didático de Projetos em sua versão 1.1. Os manuais abrangem: SDP v1.1 Sistema Didático de Projetos; Programa de Entrada Esquemática PESQA v00; Editor de Estímulos Externos - EDTES v00; Simulador Lógico SIIMUL versão PC00; Manual do usuário do EPG; Editor Gráfico Interativo para Projetos de Circuitos Integrados EGIPCIS."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aplicativo de tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microeletrônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia elétrica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Manual do usuário"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Oliveira, Silvia Helena Machado de ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Escola Brasileiro-Argentina de Informática ",
+                "c": "Nova Friburgo, RJ ",
+                "d": "1991 ",
+                "n": "5"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

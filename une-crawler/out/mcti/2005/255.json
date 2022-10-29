@@ -1,0 +1,75 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000255"
+        },
+        {
+            "code": "005",
+            "value": "20190729125053.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "090",
+            "subfield": {
+                "a": "016:378.4(815.1) ",
+                "b": "U58p ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Produção científica UFMG ",
+                "b": "1991 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Belo Horizonte ",
+                "b": "Universidade Federal de Minas Gerais, Pró-Reitoria de Pesquisa ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "666"
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Universidade Federal de Minas Gerais ",
+                "x": "Bibliografia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisadores"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

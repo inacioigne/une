@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nas  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000261"
+        },
+        {
+            "code": "005",
+            "value": "20161201100836.0"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "022",
+            "subfield": {
+                "a": "0003-9810"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5/6(091)(05)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Archives internationales d'histoire des sciences ",
+                "c": "Union internationale d'histoire des sciences ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Teste"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Wiesbaden [Alemanha] ",
+                "b": "Steiner ",
+                "c": "1981-"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Alemanha"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "b": "v."
+            }
+        },
+        {
+            "code": "310",
+            "subfield": {
+                "a": "Semestral"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência ",
+                "x": "Periódico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia ",
+                "x": "Periódico"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Union Internationale d'Histoire des Sciences ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo - Acesso em: 09/12/2013 ",
+                "u": "www.brepols.net/Pages/BrowseBySeries.aspx?TreeSeries=ARIHS"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Periódicos"
+            }
+        }
+    ]
+}

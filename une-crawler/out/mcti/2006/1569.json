@@ -1,0 +1,152 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nas  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001569"
+        },
+        {
+            "code": "005",
+            "value": "20170124104605.0"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "022",
+            "subfield": {
+                "a": "0100-0551"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.98(05)"
+            }
+        },
+        {
+            "code": "210",
+            "subfield": {
+                "a": "Pesqui. planej. econ. ",
+                "b": "(Rio de J.)"
+            }
+        },
+        {
+            "code": "210",
+            "subfield": {
+                "a": "Pesqui. planej. econ."
+            }
+        },
+        {
+            "code": "222",
+            "subfield": {
+                "a": "Pesquisa e planejamento econômico ",
+                "b": "(Rio de Janeiro)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Pesquisa e planejamento econômico ",
+                "c": "Instituto de Pesquisa Econômica Aplicada ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "1973"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "b": "v"
+            }
+        },
+        {
+            "code": "310",
+            "subfield": {
+                "a": "Quadrimestral"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Coleção impressa: (v. 1, n. 1, jun. 1971 - presente)"
+            }
+        },
+        {
+            "code": "530",
+            "subfield": {
+                "a": "Documento eletrônico: Texto completo, período disponível (1971 - presente) - Livre acesso"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Economia política ",
+                "x": "Periódico ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Economia ",
+                "x": "Periódico ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Planejamento econômico ",
+                "x": "Periódico ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "http://ppe.ipea.gov.br/index.php/ppe/index ",
+                "y": "Texto completo - Livre acesso (IPEA) ",
+                "z": "Acesso em: 27/6/2013"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Periódicos"
+            }
+        }
+    ]
+}

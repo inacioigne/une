@@ -1,0 +1,104 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001745"
+        },
+        {
+            "code": "005",
+            "value": "20190813160452.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "930.25 ",
+                "b": "R696c ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Rodrigues, Alessandra P. A"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Código de classificação tabela de temporalidade índice ideográfico ",
+                "b": "instrumento para classificação e avaliação de documentos de arquivos ",
+                "c": "por: Alessandra P. A. Rodrigues (Arquivista), Marlize Pinto Ferrari (Arquivista), Osmar Pereira dos Santos (Assistente em C&T) ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Plano de classificação : instrumentos para classificação e avaliação de documentos de arquivo"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto Brasileiro de Informação em Ciência e Tecnologia, Gerência de Produtos e Serviços, Arquivo Geral e Protocolo, Sistema de Arquivos e Controle de Documentos ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "118 f ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquivo ",
+                "x": "Tabela de temporalidade"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Documentos ",
+                "x": "Avaliação"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto Brasileiro de Informação em Ciência e Tecnologia. Gerência de Produtos e Serviços ",
+                "b": "Sistema de Arquivos e Controle de Documentos ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

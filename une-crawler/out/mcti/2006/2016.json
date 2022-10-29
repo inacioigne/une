@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002016"
+        },
+        {
+            "code": "005",
+            "value": "20190801122252.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "005.342 ",
+                "b": "E55 ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Empreendedorismo ",
+                "b": "ciência, técnica e arte ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto Euvaldo Lodi ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "100"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gestão ",
+                "x": "Aprendizagem"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Formação profissional"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Criatividade"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração de empresas ",
+                "x": "Inovação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Estratégia empresarial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Empresário ",
+                "x": "Comportamento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Empreendedorismo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001101"
+        },
+        {
+            "code": "005",
+            "value": "20190806181927.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "604.6 ",
+                "b": "G943 ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Guias para la liberación en el medio ambiente de organismos modificados geneticamente ",
+                "h": "Impresso ",
+                "c": "Organização dos Estados Americanos, Organização Internacional de Epizootias, Instituto Interamericano de Cooperação para a Agricultura"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "San José ",
+                "b": "Instituto Interamericano de Cooperação para a Agricultura ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "145"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Publicaciones misceláneas / IICA ",
+                "v": "A1/SC9109"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Programa II: Generación y transferencia de tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biotecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Melhoramento genético"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia genética"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biossegurança"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Organização dos Estados Americanos (OEA) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Organização Internacional de Epizootias ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto Interamericano de Cooperação para a Agricultura ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

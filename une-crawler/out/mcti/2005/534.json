@@ -1,0 +1,133 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000534"
+        },
+        {
+            "code": "005",
+            "value": "20190806181315.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.942 ",
+                "b": "P853g ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Portugal, Renato"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Group-theoretic approach for symbolic tensor manipulation ",
+                "b": "I. Free Indices ",
+                "c": "Renato Portugal, B. F. Svaiter ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Petrópolis ",
+                "b": "Laboratório Nacional de Computação Científica ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "10 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Relatórios de pesquisa e desenvolvimento ",
+                "v": "n. 35/2000"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Periódico tratado como livro (ISSN: 0101-6113)"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "We describe how Computational Group Theory provides tools for manipulating indexed objects (tensors, spinors, and so on) in explicit index notation. In particular, we present algorithms that put tensors with free and dummy indices obeying permutation symmetries into the canonical form. The method is based on algorithms for determining canonical double coset representatives of subgroups of the symmetric group. The complexity of the algorithms is polynomial on the number of indices in practical applications and allows one to address the simplification of tensor expressions with hundreds of indices, going beyond what is needed in practical applications."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Teoria dos grupos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Algoritmos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Teoria da computação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Simetria"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Álgebra"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Svaiter, Benar Fux ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

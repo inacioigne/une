@@ -1,0 +1,137 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001147"
+        },
+        {
+            "code": "005",
+            "value": "20190806185744.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8588442353"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "573:004(063) ",
+                "b": "W926p ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Workshop Brasileiro de Bioinformática ",
+                "c": "Gramado, RS ",
+                "d": "2002 ",
+                "n": "1"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "I Workshop Brasileiro de Bioinformática ",
+                "b": "Anais , 18 de outubro de 2002, Gramado, Rio Grande do Sul, Brasil ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Porto Alegre ",
+                "b": "Instituto de Informática, Universidade Federal do Rio grande do Sul ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "107 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Conhecido também como WOB 2002."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biologia computacional"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Genoma"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aprendizagem ",
+                "x": "Máquina"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aplicativo de tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Algoritmos ",
+                "x": "Genética"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Bazzan, Ana Lucia Cetertich ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Carvalho, André Carlos Ponce de Leon Ferreira de ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

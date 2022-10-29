@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001962"
+        },
+        {
+            "code": "005",
+            "value": "20190813101620.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.3.049.77 ",
+                "b": "Z94c ",
+                "c": "1977 ",
+                "d": "CAPRE"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Zuffo, João Antonio ",
+                "d": "1939-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Circuitos integrados em média escala e em larga escala ",
+                "c": "João Antonio Zuffo ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Edgard Blucher ",
+                "c": "1977"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "422 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Microprocessadores ",
+                "v": "1"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Prolegômeros XI/XII -- 1. Técnicas de fabricação de circuitos integrados - 1.1. Introdução - 1.2. Técnica planar. Processos básicos utilizandos na fabricação CIs - 1.3. Silício sobre safira - 1.4. Corrosão anisotrópica vertical - 1.5. Silício policristalino - 1.6. Circuitos integrados híbridos - 1.7. Circuitos integrados com múltiplas camadas condutoras - 1.8. Dispositivos MNOS - 1.9. Dispositivos FAMOS - 1.10. Tecnicas não-convencionais em silício - 1.11. Utilização de arseneto de gálio como substrato - 1.12. Material amorfos - 1.13. Conclusões -- 2. Dispositivos e circuitos integrados - 2.1. Introdução - 2.2. Dispositivos MOS - 2.3. Memória endereçáveis por feixe eletrônicos -- 3. Dispositivos e circuitos integrados bipolares - 3.1. Introdução - 3.2. Dispositivos bipolares - 3.3. Lógica por acoplamento de emissor -- 3.4. Lógica transistor - transistor - 3.5. Lógica de injeção integrada - 3.6. Litografia eletrônica - 3.7. Inspeção visual de CI -- 4. Boblhas magnéticas - 4.1. Introdução - 4.2. Princípios de operação - 4.3. Organização das memórias - 4.5. Aplicações e perspectivas -- 5. Circuitos integrados em larga escala - 5.1. Introdução - 5.2. Subsistemas MAL - 5.3. Caracterização de subsistemas seqüênciais - 5.4. Registradores de deslocamento - 5.5. Memórias - 5.6. Subsistemas ALPS - 5.7. Outros subsistemas CI ILE -- 6. Projeto de circuitos intregados em larga escala - 6.1. Avaliação das tecnologias disponíveis - 6.2. Roteiro para pojeto ILE - 6.3. Programas auxiliares para o projeto de circuito - 6.4. Custos de fabricação de CI ILE."
+            }
+        },
+        {
+            "code": "550",
+            "subfield": {
+                "a": "Publicado em convênio com a Fundação Nacional de Material Escolar (FENAME), Ministério da Educação e Cultura (MEC) e com a Comissão de Coordenação das Atividades de Processamento eletrónico (CAPRE), Secretaria do Planejamento da Presidência da Republica (SEPLAN)."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia elétrica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito integrado"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microprocessador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

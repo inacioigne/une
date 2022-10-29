@@ -1,0 +1,124 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001420"
+        },
+        {
+            "code": "005",
+            "value": "20190812123004.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "331.5 ",
+                "b": "R175n ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Ramos, Carlos Alberto"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Notas sobre políticas de emprego ",
+                "c": "Carlos Alberto Ramos ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "49 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IPEA ",
+                "v": "471 ",
+                "x": "1415-4765"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Discute as políticas de emprego mais utilizadas hoje no mundo. Os dados e as experiências analisadas referem-se aos países da OCDE, fazendo-se algumas referências ao caso brasileiro. As políticas de formação profissional e elevação do nível educacional, talvez a mais popular das medidas contra o desemprego, parecem ser uma panacéia. Após discutir várias políticas, afirma que setorialmente, os segmentos associados ao trinômio lazer - educação - saúde parecem ser os mais férteis em termos de geração de empregos."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política de emprego"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Formação profissional"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Contrato de trabalho"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "IPEA ",
+                "u": "http://www.ipea.gov.br/portal/images/stories/PDFs/TDs/td_0471.pdf ",
+                "z": "Acesso em: 12/08/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001955"
+        },
+        {
+            "code": "005",
+            "value": "20190806105733.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:35 ",
+                "b": "B823i ",
+                "c": "[197-?] ",
+                "d": "CAPRE"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Comissão de Coordenação das Atividades de Processamento Eletrônico ",
+                "c": "Brasil"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Informática na administração ",
+                "b": "seminário para executivos ",
+                "h": "Impresso ",
+                "c": "Comissão de Coordenação das Atividades de Processamento Eletrônico"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Rio de Janeiro] ",
+                "b": "Comissão de Coordenação das Atividades de Processamento de Dados ",
+                "c": "[197-?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 v."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Material didático de suporte especialmente desenvolvido para o seminário audio visual \"A Informática na Empresa\", elaborado pela CAPRE, cujo objetivo é apresentar a empresários e executivos os principais conceitos das técnicas e problemas gerenciais de processamento de dados."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Volume I - 1. Objetivo do seminário. - 2. Organização geral. - 2.1. Recursos utilizados. 2.2. Conteúdo do seminário. - 3. Questionário dos módutos. - Módulo II - O computador; - Módulo III - Linguagens e programação; - Módulo IV - Software; - Módulo V - Utilização do computador; - Módulo VII - Projeto de sistema; - Módulo VIII - CPD x Empresa; - Módulo IX - Custos x Benefícios; 4. Respostas às questões. - 5. Bibliografia."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração pública ",
+                "x": "Informática"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

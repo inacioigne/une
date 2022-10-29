@@ -1,0 +1,148 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001425"
+        },
+        {
+            "code": "005",
+            "value": "20190809135415.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "330.55(81) ",
+                "b": "P964 ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Produto interno bruto por unidade da federação ",
+                "c": "Antonio Braz de Oliveira e Silva ... [et. al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "105 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IPEA ",
+                "v": "424 ",
+                "x": "1415-4765"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Apresenta dados estatísticos sobre o pib por Estado no período de 1985 a 1994."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Fornece o valor do Produto Interno Bruto (PIB) das unidades da federação brasileira. Para atualizar os resultados do PIB estadual calculado pelo IBGE com base nos Censos Econômicos de 1985, foi desenvolvido uma metodologia com dois objetivos básicos: o de ter o máximo de homogeneidade possível em relação ao uso das fontes estatísticas nos diferentes Estados; e, o de não se afastar da referência metodológica adotada pelo IBGE nas estimativas das Contas Nacionais. As estimativas do PIB a custo de fatores total e per capita é apresentado para cada atividade econômica a preços correntes."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Produto Interno Bruto ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Índice de desenvolvimento humano (IDH) ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Silva, Antonio Braz de Oliveira e ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Considera, Cláudio Monteiro ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Valadão, Lucília de Fátima Rocha ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Medina, Mérida Herasme ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo ",
+                "u": "http://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=3592 ",
+                "z": "Acesso em: 09/08/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

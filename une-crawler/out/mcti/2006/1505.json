@@ -1,0 +1,122 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nas  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001505"
+        },
+        {
+            "code": "005",
+            "value": "20170124091812.0"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "022",
+            "subfield": {
+                "a": "1980-3842"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "62.001.76(05)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Locus ",
+                "b": "ambiente da inovação brasileira ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Associação Nacional de Entidades Promotoras de Empreendimentos Inovadores ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "b": "v"
+            }
+        },
+        {
+            "code": "310",
+            "subfield": {
+                "a": "Bimestral"
+            }
+        },
+        {
+            "code": "530",
+            "subfield": {
+                "a": "Documento eletrônico: Texto completo dos cinco últimos números - Livre acesso"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Incubadoras de empresas ",
+                "x": "Periódico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Incubadora tecnológica ",
+                "x": "Periódico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Parque tecnológico ",
+                "x": "Período"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Associação Nacional das Entidades Promotoras de Empreendimentos de Tecnologias Avançadas ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "http://www.anprotec.org.br/revista.php ",
+                "y": "Texto completo - Livre acesso"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Periódicos"
+            }
+        }
+    ]
+}

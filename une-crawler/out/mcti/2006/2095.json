@@ -1,0 +1,117 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002095"
+        },
+        {
+            "code": "005",
+            "value": "20190809144405.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8534602603"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.67EXCEL ",
+                "b": "M626 ",
+                "c": "=134.3 ",
+                "d": "1994"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Microsoft Excel 5 for Windows ",
+                "b": "passo a passo ",
+                "c": "Catapult, Inc. ; tradução Kátia A. Roque ; revisão técnica Mário Magyar Franco ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Makron Books ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xlvii, 403 p. ",
+                "b": "il., + 1 disquete 3 1/2"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "A biblioteca não possui o disquete que acompanha a obra"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programas de computador ",
+                "x": "Excel, Microsoft"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aplicativo de tecnologia"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Roque, Kátia A ",
+                "e": "Tradutor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Franco, Mário Magyar ",
+                "e": "Revisor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Catapult, Inc ",
+                "e": "Indefinida"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

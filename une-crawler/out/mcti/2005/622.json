@@ -1,0 +1,140 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000622"
+        },
+        {
+            "code": "005",
+            "value": "20190726115103.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "35.077RNP(062.535) ",
+                "b": "R314r ",
+                "c": "1997-1998 ",
+                "d": "RNP"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Rede Nacional de Pesquisa (Brasil)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Relatório de atividades ",
+                "b": "1997/1998 [RNP] ",
+                "h": "Impresso ",
+                "c": "Rede Nacional de Pesquisa (Brasil)"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Rede Nacional de Pesquisa ",
+                "c": "[1999?]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "40 f. ",
+                "b": "il., color"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Apresentação -- Missão da RNP -- Breve histórico do backbone da RNP -- Backbone da RNP: 97/98 -- Transição para o novo backbone -- Atividades relacionadas com a operação da rede -- Ações de capacitação -- Atividades de coordenação -- Produtos -- Projetos espaciais -- Fontes de financiamento -- Apoio institucional -- Estrutura administrativa -- Anexos"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "É com um prazer especial que apresentamos este Relatório Anual da Rede Nacional de Pesquisa. A ocasião é ainda mais especial por ser esta a primeira publicação deste tipo desde que a RNP iniciou suas atividades, em 1989. Às véspera de completarmos uma década de atuação, cumpre iniciar a divulgação de forma sistemática, aos nossos parceiros e à sociedade brasileira, das conquistas alcançadas como fruto do trabalho e da dedicação de toda a nossa equipe. Não podemos deixar de citar, neste momento, o apoio fundamental do Governo Federal, através do MCT e do CNPq, das instituições Federais de Ensino Superior, dos Institutos de Pesquisa, dos governos estaduais, através de suas Fundações de Amparo à Pesquisa, além de empresas privadas que vêm, conjuntamente, possibilitando à RNP lograr sucesso na importante tarefa de implantação e consolidação da Internet no Brasil. Ao longo de 1998, a RNP dirigiu suas atenções para as regiões Norte e Nordeste do País, ampliando os serviços de acesso à Internet. Inauguramos os Pontos de Presença nos Estados do Acre e do Amapá, na Amazônia e elevamos a velocidade mínima de conexão dos circuitos instalados nos estados do Nordeste para 256 Kbps. Destaque especial para as conexões com os estados da Paraíba e Bahia, que passaram de 128 Kbps para 1 Mbps e de 128 Kbps para 2 Mbps, respectivamente. Os investimentos na infra-estrutura da nossa rede nacional permitiram, ainda, a realização de doze atualizações na largura de banda de enlaces existentes, além da ampliação da velocidade de nossas backbone já interligava mais de 800 instituições de ensino, centros de pesquisa e órgãos de governo, a partir dos 26 Pontos de Presença espalhados pelo País. Ao nosso permanente esforço para expandir e atualizar a infra-estrutura do backbone acadêmico nacional acrescentamos, a partir de 1998, iniciativas para implantar serviços de Rede de Alto Desempenho no Brasil, seguindo a tendência mundial da comunidade acadêmica, liderada pelo projeto norte-americano Internet2. O plano brasileiro consiste em criar as condições básicas para a implantação de infra-estrutura de serviços de redes de alto desempenho, além de promover a capacitação técnica necessária para operar as novas tecnologias dessas redes eletrônicas. O estímulo à implantação das Redes Metropolitanas de Alto Desempenho foi resultado de uma importante parceria com o Programa Temático Multiinstitucional em Ciência da Computação - ProTeM-CC, coordenada pelo CNPq. Atualmente, já está em andamento a implantação dessas redes em seis importantes regiões metropolitanas do País e esperamos, ainda no primeiro semestre de 1999, dar início à implantação em mais seis regiões. Na segunda etapa, está previsto a interligação nacional das redes existentes, além de uma conexão à Internet2, nos Estados Unidos. Além de todas as informações relevantes sobre os avanços na operação do backbone, este relatório apresenta ainda um resumo das principais atividades de capacitação empreendidas pela RNP em 1998. Dentre elas, destacamos o treinamento de cerca de 300 profissionais em tecnologias Internet em diversas universidades do País, através de uma ação conjunta com o Programa de Modernização das Instituições de Ensino Superior do MEC. Realizamos, ainda, o primeiro Workshop em Tecnologias de Redes Internet para a América Latina e Caribe - WALC'98, como parte do programa internacional da Internet Society, além de seminários exclusivos para os técnicos que compõem o quadro da RNP e de seus Pontos de Presença. A intensa evolução das tecnologias que lidamos no nosso dia-a-dia nos impõe o desafio de treinar permanentemente nossos recursos humanos, pois o bom funcionamento de nossos serviços só pode ser garantido por pessoal qualificado e atualizado. Ainda que tenhamos enfrentado dificuldades, materializadas na crise progressiva das condições de infra-estrutura de telecomunicações do Brasil e, também, na insuficiência de recursos financeiros para o pleno financiamento de nossos Projeto, estamos certos de que avançamos bastante em 1998. Para 1999, estaremos empenhados em promover uma reformulação dos serviços atualmente oferecidos pela RNP à comunidade acadêmica, focalizando nossas atenções na modernização da infra-estrutura de serviços, adequando-a às necessidades da nossa comunidade científica e, acima de tudo, mantendo nossas atividades da nossa comunidade científica e, acima de tudo, mantendo nossas atividades antenadas com as modernas tecnologias que norteiam o desenvolvimento da Internet em todo o mundo."
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Rede Nacional de Pesquisa (Brasil) ",
+                "x": "História ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telecomunicações ",
+                "z": "Brasil ",
+                "x": "Política e governo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cooperação internacional"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Brasil. Ministério das Relações Exteriores ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico ",
+                "b": "Diretoria de Programas Especiais ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,216 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "01644cam  2200337 a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000048"
+        },
+        {
+            "code": "005",
+            "value": "20190807152610.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "040810s2000    bl a     b   f000 0 por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "010",
+            "subfield": {
+                "a": "2004342450"
+            }
+        },
+        {
+            "code": "035",
+            "subfield": {
+                "a": "2004342450"
+            }
+        },
+        {
+            "code": "035",
+            "subfield": {
+                "a": "13707022"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "DLC ",
+                "c": "DLC ",
+                "d": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "042",
+            "subfield": {
+                "a": "lcode"
+            }
+        },
+        {
+            "code": "050",
+            "subfield": {
+                "a": "NX260 ",
+                "b": ".I56 2000"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "02 ",
+                "b": "I61 ",
+                "c": "2000 ",
+                "d": "IBICTI"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Interdiscursos da ciência da informação ",
+                "b": "arte, museu e imagem ",
+                "c": "organização, Lena Vania Ribeiro Pinheiro e Maria Nélida González de Gómez ; prefácio, Lena Vania Ribeiro Pinheiro ; Diana Farjalla Correia Lima ... [et al.]. ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Instituto Brasileiro de Informação em Ciência e Tecnologia, Departamento de Ensino e Pesquisa, Departamento de Disseminação de ICT ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "228 ",
+                "c": "23 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "\"As pesquisas que constituem esta coletânea foram realizadas na disciplina do curso de Pós-graduação em Ciência da Informação do IBICT, denominada Informação em Arte\"--P. 5"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Apresenta estudos que representam a reflexão articulada entre informação, arte e cultura e suas transformações sob os impactos das novas tecnologias."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arte ",
+                "x": "Recursos de rede de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Museus ",
+                "x": "Processamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência da informação ",
+                "x": "Interdisciplinariedade"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Imagem ",
+                "x": "Recuperação da informação"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Pinheiro, Lena Vânia Ribeiro ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "González de Gómez, Maria Nélida ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto Brasileiro de Informação em Ciência e Tecnologia ",
+                "b": " Departamento de Ensino e Pesquisa ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto Brasileiro de Informação em Ciência e Tecnologia ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "906",
+            "subfield": {
+                "a": "7 ",
+                "b": "cbc ",
+                "c": "origode ",
+                "d": "3 ",
+                "e": "ncip ",
+                "f": "20 ",
+                "g": "y-gencatlg"
+            }
+        },
+        {
+            "code": "925",
+            "subfield": {
+                "a": "acquire ",
+                "b": "1 shelf copy ",
+                "x": "policy default"
+            }
+        },
+        {
+            "code": "955",
+            "subfield": {
+                "a": "wr08; 08/10/04; desc ",
+                "d": "jh34 2004-10-25 to SL ",
+                "e": "jh09 2004-11-26 c. 1 to BCCD"
+            }
+        },
+        {
+            "code": "985",
+            "subfield": {
+                "e": "ODE-rj"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        },
+        {
+            "code": "991",
+            "subfield": {
+                "b": "c-GenColl ",
+                "o": "am ",
+                "p": "00108279977"
+            }
+        }
+    ]
+}

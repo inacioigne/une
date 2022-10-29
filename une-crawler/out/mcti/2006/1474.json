@@ -1,0 +1,143 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "01408cam  2200337 a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001474"
+        },
+        {
+            "code": "005",
+            "value": "20190813180540.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "980803s1996    fr a     b   i000 0 eng d"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "035",
+            "subfield": {
+                "a": "169819"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "FMU ",
+                "c": "FMU ",
+                "d": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "043",
+            "subfield": {
+                "a": "l------"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "551.46 ",
+                "b": "I61g ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Comissão Oceanográfica Internacional ",
+                "b": "overview and future ",
+                "c": "by Dr J.R. Wilson ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "UNESCO ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "30 p. (várias paginações) ",
+                "b": "mapas"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Technical series = Série technique = Colección técnica / Intergovernmental Oceanographic Commission ",
+                "v": "49"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "SC.98/WS/59 Cutter e volume da série a fim de reuni-la na estante"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Medição oceanográfica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Salinidade"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Temperatura"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Oceanografia"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Comissão Oceanográfica Internacional ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo ",
+                "u": "unesdoc.unesco.org/images/0011/001139/113964eo.pdf ",
+                "z": "Acesso em: 13/08/2019"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "unesdoc.unesco.org/images/0010/001035/103569sb.pdf ",
+                "y": "Texto completo em espanhol"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

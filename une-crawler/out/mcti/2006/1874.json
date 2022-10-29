@@ -1,0 +1,141 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001874"
+        },
+        {
+            "code": "005",
+            "value": "20190813132146.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "859035721X"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "582.687.66 ",
+                "b": "C172c ",
+                "c": "2003 ",
+                "d": "INPA"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Camargo, J. L. C. ",
+                "q": "José Luís Campana"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Castanha-de-macaco ",
+                "b": "Cariniana micrantha Ducke : Lecythidaceae ",
+                "c": "[Camargo, J. L. C., Ferraz, I. D. K. & Sampaio, P. T. B.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Manaus ",
+                "b": "Instituto Nacional de Pesquisas da Amazônia ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "5 f. ",
+                "b": "il., (algumas color.) ",
+                "c": "30 cm"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Manual de sementes da Amazônia ",
+                "v": "2"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Dados retirados da capa."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Lecitidácea"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Ferraz, I. D. K. ",
+                "q": "Isolde Dorothea Kossmann ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Sampaio, P. T. B. ",
+                "q": "Paulo de Tarso Barbosa ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto Nacional de Pesquisas da Amazônia (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "MCTIC ",
+                "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\1874-fasciculo2_cariniana-2.pdf ",
+                "z": "Acesso em: 13/08/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

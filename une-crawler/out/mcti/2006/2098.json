@@ -1,0 +1,89 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002098"
+        },
+        {
+            "code": "005",
+            "value": "20190806103805.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "853460276"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "b": "V834n ",
+                "c": "=134.3 1994 ",
+                "a": "004.438VisualBASIC"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Nelson, Ross"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Visual Basic for Windows versão 3.0 ",
+                "b": "guia autorizado Microsoft ",
+                "c": "Ross Nelson ; tradução Lars Gustav Erick Unonius ; revisão técnica Antonio Barros Uchoa ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Makron Books ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxiii, 390 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem de programação (Computadores) ",
+                "x": "Visual Basic (Linguagem de programação de computador)"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

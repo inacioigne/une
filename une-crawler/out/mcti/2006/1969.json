@@ -1,0 +1,93 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001969"
+        },
+        {
+            "code": "005",
+            "value": "20190730112931.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "658.56 ",
+                "b": "A849a ",
+                "c": "[19--]"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Associação Brasileira de Controle da Qualidade"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Curso ABCQ de preparação para os exames de certificação \"Quality Engineer\" da American Society for Quality Control ",
+                "h": "Impresso ",
+                "c": "Associação Brasileira de Controle da Qualidade"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Associação Brasileira de Controle da Qualidade ",
+                "c": "[19--]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "273 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Qualidade total"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gestão da qualidade"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Controle de qualidade"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

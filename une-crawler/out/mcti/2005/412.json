@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000412"
+        },
+        {
+            "code": "005",
+            "value": "20190726094126.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0852964714"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.3:025.43 ",
+                "b": "I59i ",
+                "d": "R ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Institution of Electrical Engineers"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "INSPEC thesaurus ",
+                "b": "1987 ",
+                "h": "Impresso ",
+                "c": "Institution of Electrical Engineers"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Surrey [Reino Unido] ",
+                "b": "The Institution of Electrical Engineers ",
+                "c": "c1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Tesauro com aproximadamente 11.700 termos, que cobrem as áreas de física, eletrônica, comunicação, engenharia elétrica, informação tecnológica e computadores."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia elétrica ",
+                "x": "Tesauro"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Tesauro"
+            }
+        }
+    ]
+}

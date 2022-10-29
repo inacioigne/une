@@ -1,0 +1,119 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001757"
+        },
+        {
+            "code": "005",
+            "value": "20190802110906.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0735700419"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.655.3 ",
+                "b": "R974f ",
+                "c": "c1999"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Ruth, Andy"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Fast track MCSE, SQL Server 7 administration ",
+                "c": "Andy Ruth, Anil Desai ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Indianapolis ",
+                "b": "New Riders ",
+                "c": "c1999"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xiv, 265 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Fast track MCSE"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Banco de dados relacionais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem de programação (Computadores) ",
+                "x": "SQL (Linguagem de programação de computador)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gerenciamento de banco de dados"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Desai, Anil ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

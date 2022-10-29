@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000465"
+        },
+        {
+            "code": "005",
+            "value": "20190726134023.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.912WORD ",
+                "b": "R467m ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Rezende, Carlos Alberto de"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Microsoft word 6.0 ",
+                "c": "Carlos Alberto de Rezende ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Brasília] ",
+                "b": "Universidade de Brasília, Centro de Informática ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "105 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "\"Contrato MCT/CPD-UnB\""
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programas de computador ",
+                "x": "Word, Microsoft"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Treinamento de pessoal"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Universidade de Brasília. Centro de Informática ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

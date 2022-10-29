@@ -1,0 +1,148 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000363"
+        },
+        {
+            "code": "005",
+            "value": "20190808140301.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por  "
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(063) ",
+                "b": "W926w ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Workshop de Computação ",
+                "c": "São José dos Campos, SP ",
+                "d": "1999 ",
+                "n": "2"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais do Workshop de Computação ",
+                "b": "WORKCOMP'99, São José dos Campos, SP, 05 a 06 de outubro de 1999 ",
+                "c": "editor: Clovis Torres Fernandes ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "WORKCOMP'99"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "V ENCITA"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São José dos Campos ",
+                "b": "Instituto de Tecnológico da Aeronáutica, Divisão de Ciência da Computação ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "70 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Robótica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede neural ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de informação gerencial ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Realidade virtual ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Compressão de dados ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Fernandes, Clovis Torres ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Encontro de Iniciação Científica e Pós-Graduação ",
+                "c": "São José dos Campos, SP ",
+                "d": "1999 ",
+                "n": "5"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

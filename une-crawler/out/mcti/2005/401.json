@@ -1,0 +1,117 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "am   nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000401"
+        },
+        {
+            "code": "005",
+            "value": "20190729091614.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "por                                por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "001.89:06.5(81)(058) ",
+                "b": "O65 ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Ordem Nacional do Mérito Científico (Brasil)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Ordem nacional do mérito científico ",
+                "h": "Impresso ",
+                "c": "Ordem Nacional do Mérito Científico"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "c": "[1994] ",
+                "b": "Ministério da Ciência e Tecnologia"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "22 f."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Decreto de criação da Ordem Nacional do Mérito Científico -- Decreto de Nomeação -- Biografias -- Solenidade de condecoração."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Traz o decreto de criação da Ordem Nacional do Mérito Científico (Decreto nº 772, de 16 de março de 1993."
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Ordem Nacional do Mérito Científico (Brasil) ",
+                "x": "Biografia",
+                "z": "Brasil "
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "z": "Brasil ",
+                "x": "Biografia"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo ",
+                "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\401_Ordem_Nacional_Merito_Cientifico.pdf ",
+                "z": "Acesso em: 29/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

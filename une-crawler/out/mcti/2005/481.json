@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000481"
+        },
+        {
+            "code": "005",
+            "value": "20190805191357.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004-052(060.13) ",
+                "b": "F293e ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Federação Latino-Americana de Usuários de Informática"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Estatutos sociais ",
+                "h": "Impresso ",
+                "c": "Federação Latino-Americana de Usuários de Informática"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Federação Latino-Americana de Usuários de Informática ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "22 f."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Texto em português e espanhol."
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Federação Latino-Americana de Usuários de Informática ",
+                "x": "Organização"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Estatuto social"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

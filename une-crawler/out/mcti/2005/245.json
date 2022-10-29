@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000245"
+        },
+        {
+            "code": "005",
+            "value": "20180814164004.0"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "001.8(815.1)(063) ",
+                "b": "S471s"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Semana de Iniciação Cientifica da UFMG ",
+                "c": "Belo Horizonte, MG ",
+                "d": "1993 ",
+                "n": "2"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "II Semana de Iniciação Cientifica da UFMG ",
+                "b": "05 a 07 de outubro de 1993, Belo Horizonte : [resumos]"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "A universidade mostra os trabalhos dos alunos de graduação dias 5, 6 e 7 de outubro 1993"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Belo Horizonte ",
+                "b": "Universidade Federal de Minas Gerais, Pró-Reitoria de Pesquisa ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "140"
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Universidade Federal de Minas Gerais ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa científica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Iniciação científica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa e desenvolvimento ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "Minas Gerais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Instituição de pesquisa ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "Minas Gerais"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

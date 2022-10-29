@@ -1,0 +1,81 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001961"
+        },
+        {
+            "code": "005",
+            "value": "20190808164856.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "629.783(450) ",
+                "b": "A244 ",
+                "c": "[200-?]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Advanced satellite networks developed in Italy ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Roma ",
+                "b": "Telespazio ",
+                "c": "[200-?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "10 folhas soltas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Satélite artificial ",
+                "z": "Italia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "z": "Italia"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

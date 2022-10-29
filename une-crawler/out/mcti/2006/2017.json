@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002017"
+        },
+        {
+            "code": "005",
+            "value": "20190812111628.0"
+        },
+        {
+            "code": "007",
+            "value": "c"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "VT004.451.9 ",
+                "b": "M939 ",
+                "c": "[199-?]"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Silva Júnior, Rubens Pereira"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Ms-dos 6 avançado ",
+                "h": "gravação de vídeo ",
+                "c": "Rubens Pereira Silva Júnior"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Vídeo-aula MS-Dos 6 avançado"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "MPO Vídeo ",
+                "c": "[199-?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 fita de video (105min) ",
+                "b": "son., color."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Projeto Informática"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Esta vídeo-aula é destinada aos usuários que já possuem alguma noção de DOS. Neste curso são mostrados vários comandos BATCH como: PAUSE, IF, GOTO e FOR entre outros, permitindo ao usuário criar vários arquivos BAT que automatizam as tarefas rotineiras. São mostrados também as canalizações de entrada e saída, como criar e ajustar o arquivo CONFIG.SYS para diversas configurações (inclusive com menu), como instalar drivers de dispositivo (como mouse por exemplo) além de como utilizar memória expandida e extendida através dos gerenciadores de memória que vem com o DOS6."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "MS-DOS (Sistema operacional de computador) ",
+                "x": "Estudo e ensino"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Vídeos"
+            }
+        }
+    ]
+}

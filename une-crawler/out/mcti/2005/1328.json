@@ -1,0 +1,138 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001328"
+        },
+        {
+            "code": "005",
+            "value": "20190805181048.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "620.9:537.214(81) ",
+                "b": "B978e ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Buslik, Sérgio Alencar"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Energia elétrica ",
+                "b": "setor emergencial ",
+                "c": "Sérgio Alencar Buslik ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "41 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IPEA ",
+                "v": "341 ",
+                "x": "1415-4765"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Aponta aspectos do setor elétrico. Discute as diversas possibilidades de crescimento da demanda por energia elétrica em frente de alguns cenários econômicos preestabelecidos. Discute, ainda, a questão dos investimentos no setor e a privatização e desestatização do mesmo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia elétrica ",
+                "z": "Brasil",
+                "x": "Consumo (Economia) "
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Empresa de energia elétrica ",
+                "x": "Privatização ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos energéticos ",
+                "x": "Privatização ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Politica energética ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "http://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=3439%3Aenergia-eletrica-setor-emergencial-&catid=170%3Apresidencia&directory=1&Itemid=1 ",
+                "y": "IPEA ",
+                "z": "Acesso em: 05/08/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

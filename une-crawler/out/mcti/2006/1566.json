@@ -1,0 +1,84 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001566"
+        },
+        {
+            "code": "005",
+            "value": "20190731083402.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5 ",
+                "b": "P945d ",
+                "c": "=134.3 ",
+                "d": "1976"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Price, Derec John de Solla"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "O desenvolvimento da ciência ",
+                "b": "análise histórica, filosófica, sociológica e econômica ",
+                "c": "Derec John de Solla Price ; tradução de Simão Mathias (com a colaboração de Gilda Maria Braga) ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Livros Técnicos e Científicos ",
+                "c": "1976"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "77 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "534",
+            "subfield": {
+                "a": "Little science, big science"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência ",
+                "x": "Aspectos economicos"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

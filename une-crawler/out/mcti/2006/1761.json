@@ -1,0 +1,134 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001761"
+        },
+        {
+            "code": "005",
+            "value": "20190812122711.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "853461122x"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.655.3 ",
+                "b": "S271m ",
+                "c": "=134.3 ",
+                "d": "2000"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Sawtell, Rick"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Notas para exame ",
+                "b": "SQL server 7 administration, exame 70 - 028 ",
+                "c": "Rick Sawtell, Lance Mortensen, Joseph L. Jorden ; tradução: Ariovaldo Griesi ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Makron Books ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxxi, 316 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Certificação Profissional"
+            }
+        },
+        {
+            "code": "534",
+            "subfield": {
+                "a": "Tradução de MCSE exam notes : SQL Server 7 administration"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Banco de dados relacionais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gerenciamento de banco de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem de programação (Computadores) ",
+                "x": "SQL (Linguagem de programação de computador)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Mortensen, Lance ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Jorden, Joseph L ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

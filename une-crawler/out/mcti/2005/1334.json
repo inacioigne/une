@@ -1,0 +1,121 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001334"
+        },
+        {
+            "code": "005",
+            "value": "20190726151346.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "339.923'564 ",
+                "b": "S622 ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Sistemas e instrumentos de estímulos às exportações nos países do Mercosul ",
+                "c": "Eduardo Augusto Guimarães, coord ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "35 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IPEA ",
+                "v": "290 ",
+                "x": "1415-4765"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Identifica os mecanismos e instrumentos que integraram no passado recente e os que integram hoje as políticas de promoção às exportações dos países do Mercosul. Propõe diretrizes de harmonização e a estratégia de implementação de regras comunitárias que levam em considaração as tradições nacionais nessa área e a regulamentação do GATT. Descreve inicialmente as políticas nacionais de promoção às exportações do Brasil, Argentina, Uruguai, e Paraguai, focalizando os incentivos fiscais e os mecanismos de financiamento vigentes e aqueles que vigoraram ao longo dos anos 80. Em seguida, compara essas políticas nacionais, tendo em vista inclusive identificar as principais assimetrias existentes. Por fim, sugere uma estratégia para o processo de harmonização das políticas de promoção às exportações no âmbito do Mercosul."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política de exportação ",
+                "z": "Paraguai"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Guimarães, Eduardo Augusto ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "MERCOSUL ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "IPEA ",
+                "u": "http://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=3369:td-0290-sistemas-e-instrumentos-de-estimulos-as-exportacoes-nos-paises-do-mercosul&catid=321:1993&directory=1 ",
+                "z": "Acesso em: 26/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

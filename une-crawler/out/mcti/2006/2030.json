@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002030"
+        },
+        {
+            "code": "005",
+            "value": "20190805130110.0"
+        },
+        {
+            "code": "007",
+            "value": "c"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng  "
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "VT004.91.032.6 ",
+                "b": "H383 ",
+                "c": "[199-?]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Harvard graphics for windows ",
+                "h": "gravação de vídeo"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Vídeo-aula Harvard graphics for windows"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "MPO Vídeo ",
+                "c": "[199-?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 fita de vídeo (90 min) ",
+                "b": "son., color."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Projeto Informática"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Nesta vídeo-aula são mostradas passo a passo todos os tipos de Slides pré programados que o Harvard Graphics 1.0 for Windows possui: Title, Bullet, Table, Pie, Gráficos de Barras, High/Low/Close, Scatter, Organization e ainda o modo Drawling. Também são mostrados como utilizar desenhos do Harvard, editar textos (cor, bold, itálico, etc.), cores e efeitos especiais assim como utilizar e personalizar o Slide Show."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software gráfico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Editoração eletrônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computação gráfica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Estudo e ensino"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Vídeos"
+            }
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002100"
+        },
+        {
+            "code": "005",
+            "value": "20190809150350.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.438VisualBASIC ",
+                "b": "M626 ",
+                "c": "c1995"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Microsoft Visual Basic building client/server applications with visual basic ",
+                "b": "programming system for windows, version 4.0 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Microsoft Press ",
+                "c": "c1995"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "ix, 275 p."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem de programação (Computadores) ",
+                "x": "Visual Basic (Linguagem de programação de computador)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aplicativo de tecnologia"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

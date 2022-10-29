@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "am   nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002013"
+        },
+        {
+            "code": "005",
+            "value": "20190814172559.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "por                                por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "VT004.896 ",
+                "b": "A939 ",
+                "c": "[199-?]"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Pereira, Marcos"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Autocad release 12 for windows ",
+                "h": "gravação de vídeo ",
+                "c": "Marcos Pereira"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Vídeo-aula autocad r12 fo windows ( 2d )"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "MPO Vídeo ",
+                "c": "[199-?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 fita de video (180 min) ",
+                "b": "son., color."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Projeto Informática"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "A proposta dessa vídeo aula é abordar os comandos necessários para a elaboração/edição de um desenho bidimensional (2D) no AutoCad R12 for Windows, a distribuição desses comandos nos seus respectivos menus, as diferentes formas de acesso à esses comandos, comandos de precisão e a utilização de coordenadas absolutas, relativas e polares de forma prática. Seria impossível estudarmos os comandos tridimensionais (3D) e a programação do AutoCad R12 for Windows em apenas uma aula, para isso seriam necessários cursos subsequentes a este, com estudos mais avançados, porém com essa fita você terá condições de atuar como projetista substituindo totalmente a prancheta pelo AutoCad."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Projeto auxiliado por computador ",
+                "x": "Estudo e ensino"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computação gráfica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Vídeos"
+            }
+        }
+    ]
+}

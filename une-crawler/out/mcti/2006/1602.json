@@ -1,0 +1,129 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "am   nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001602"
+        },
+        {
+            "code": "005",
+            "value": "20220318164656.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "por                                por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "35.077AEB/PNAE(062.535) ",
+                "b": "A265p ",
+                "c": "2005-2014 ",
+                "d": "AEB"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Agência Espacial Brasileira"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Programa Nacional de Atividades Espaciais ",
+                "b": "PNAE : 2005-2014 ",
+                "h": "Impresso ",
+                "c": "Agência Espacial Brasileira"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Agência Espacial Brasileira ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "114 ",
+                "b": "il., graf., foto (color)"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Apresentação - Introdução - Estratégia -- Observação da Terra -- Missões Científicas e Tecnológicas -- Telecomunicações - Meteorologia -- Acesso ao Espaço. -- Infra-Estrutura. -- Pesquisa e Desenvolvimento -- Recursos Humanos -- Política Industrial -- Temas Transversais -- Execução. -- Anexo I - Marco Legal das Atividades Espaciais -- Anexo II - Lei nº 8.854, de 10 de fevereiro de 1994 -- Anexo III - Decreto nº 1.332, de 8 de dezembro de 1994 -- Anexo IV - Decreto nº 1.953, de 10 de julho de 1996 -- Índice de Siglas."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "A atividade espacial contribui de maneira significativa para o projeto de desenvolvimento do Brasil, seja pelas informações que disponibiliza, sob a forma de imagens e dados coletados sobre o território nacional, seja pelo efeito indutor de inovação que decorre dos esforços na aquisição e no desenvolvimento de tecnologias e de conhecimentos críticos para atender às necessidades do Programa Nacional de Atividades Espaciais - PNAE, os quais resultam em proveito para a indústria e para a sociedade. As missões de satélites, cargas úteis suborbitais e balões, para Observação da Terra, Meteorologia, Ciências Espaciais e Telecomunicações respondem às necessidades governamentais para a implementação de políticas públicas eficazes e a solução de problemas nacionais nesse campo. A construção de veículos lançadores, outro ponto decisivo para a estratégia do Programa Espacial no País, não apenas garante e preserva a necessária autonomia para o acesso ao espaço, como possibilita, também, a exploração comercial de serviços de lançamento. Para suporte de todas as atividades que se desenvolvem em torno da fabricação, integração, testes, lançamento e controle dos veículos espaciais, é de importância absoluta toda a infra-estrutura mantida pelo PNAE, uma vez que, sem a qual, seria impossível qualquer desenvolvimento autônomo. Buscando vencer os desafios tecnológicos que se apresentam na execução de grandes projetos mobilizadores, o PNAE se firma, mediante a prática de ações de Pesquisa e Desenvolvimento, juntamente com o setor acadêmico, como forte indutor de inovação, fato que repercute diretamente na capacitação e na competitividade da indústria nacional, sob a forma de aquisição de competências e tecnologias estratégicas, de novas metodologias e processos de trabalho, à luz de normas de qualidade de padrão internacional. Este conhecimento é fator de modernização e alavancagem de todo o setor produtivo do país, por meio de mecanismos de absorção de tecnologia. Na base de todo este esforço, encontram-se os recursos humanos, um conjunto integrado por diversos atores responsáveis pelas competências críticas que tornam exeqüível a implementação e o desenvolvimento das múltiplas atividades do Programa Espacial. Este documento, que é fruto da terceira revisão do Programa Nacional de Atividades Espaciais - PNAE, e abrange o período de 2005 a 2014, responde às orientações da Política Nacional de Desenvolvimento de Atividades Espaciais - PNDAE, definindo missões e estabelecendo ações destinadas a concretizar os objetivos ali estabelecidos. Nele se incluem, também, as prioridades e diretrizes que norteiam a execução do conjunto das atividades espaciais e que deverão servir de referência para o planejamento anual e plurianual dos componentes do Sistema Nacional de Desenvolvimento de Atividades Espaciais - SINDAE."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa espacial ",
+                "z": "Brasil",
+                "x": "Política e governo "
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia espacial ",
+                "z": "Brasil",
+                "x": "Política e governo "
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Exploração espacial ",
+                "x": "Política e governo ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Brasil. Ministério da Ciência e Tecnologia ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "https://www.gov.br/aeb/pt-br/centrais-de-conteudo/publicacoes/institucional/PNAE2005.2014.pdf ",
+                "y": "Texto completo (AEB) ",
+                "z": "Acesso em: 18/03/2022"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

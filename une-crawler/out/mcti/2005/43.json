@@ -1,0 +1,176 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "00972nam  2200277 a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000043"
+        },
+        {
+            "code": "005",
+            "value": "20190729103142.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "870916s1987    cau      c    001 0 eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "010",
+            "subfield": {
+                "a": "87404912"
+            }
+        },
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0915835053 ",
+                "c": "$12.95"
+            }
+        },
+        {
+            "code": "035",
+            "subfield": {
+                "9": "(DLC) 87404912"
+            }
+        },
+        {
+            "code": "035",
+            "subfield": {
+                "a": "4795998"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "DLC ",
+                "c": "DLC ",
+                "d": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "050",
+            "subfield": {
+                "a": "QA76.753 ",
+                "b": ".P3 1987"
+            }
+        },
+        {
+            "code": "082",
+            "subfield": {
+                "2": "19 ",
+                "a": "005.36/5"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4 ",
+                "b": "P348 ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The PC-SIG library ",
+                "b": "a directory of public domain and user-supported software for the IBM-PC, PCjr, and compatibles. ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "4th ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Sunnyvale [Estados Unidos] ",
+                "b": "PC-SIG ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "vi, 424 p. ",
+                "c": "23"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Domínio público"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programas de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aplicativo de tecnologia"
+            }
+        },
+        {
+            "code": "906",
+            "subfield": {
+                "a": "7 ",
+                "b": "cbc ",
+                "c": "orignew ",
+                "d": "2 ",
+                "e": "ncip ",
+                "f": "19 ",
+                "g": "y-gencatlg"
+            }
+        },
+        {
+            "code": "952",
+            "subfield": {
+                "a": "SOURCE:co"
+            }
+        },
+        {
+            "code": "952",
+            "subfield": {
+                "a": "unbound"
+            }
+        },
+        {
+            "code": "952",
+            "subfield": {
+                "a": "ba14 to be00 09-16-87; be20 to SCD 11-03-87; fg09 11-05-87; fr01 04-09-88"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        },
+        {
+            "code": "991",
+            "subfield": {
+                "b": "c-GenColl ",
+                "h": "QA76.753 ",
+                "i": ".P3 1987 ",
+                "p": "00003635934 ",
+                "t": "Copy 1 ",
+                "w": "BOOKS"
+            }
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001753"
+        },
+        {
+            "code": "005",
+            "value": "20190805094239.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0262041901"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.738.5:339 ",
+                "b": "C837g ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Costa, Eduardo da"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Global e-commerce strategies for small businesses ",
+                "c": "Eduardo da Costa ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Cambridge ",
+                "b": "Massachusetts Institute of Technology ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "202 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comércio eletrônico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pequena e média empresa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração de empresas"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

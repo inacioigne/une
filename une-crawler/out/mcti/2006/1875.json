@@ -1,0 +1,135 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001875"
+        },
+        {
+            "code": "005",
+            "value": "20190812180322.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8590357228"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "582.746.41 ",
+                "b": "F381c ",
+                "c": "2003 ",
+                "d": "INPA"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Ferraz, I. D. K. ",
+                "q": "Isolde Dorothea Kossmann"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Andiroba ",
+                "b": "Carapa guianensis Aubl, Carapa procera D.C. Meliaceae ",
+                "c": "[Ferraz, I. D. K., Camargo, J. L. C. & Sampaio, P. T. B.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Manaus ",
+                "b": "Instituto Nacional de Pesquisas da Amazônia ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "6 f. ",
+                "b": "(algumas color.) ",
+                "c": "30 cm"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Manual de sementes da Amazônia ",
+                "v": "1"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Dados retirados da capa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Meliácea"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Camargo, J. L. C. ",
+                "q": "José Luís Campana ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Sampaio, P. T. B. ",
+                "q": "Paulo de Tarso Barbosa ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto Nacional de Pesquisas da Amazônia (Brasil) ",
+                "e": "Indefinida"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (INPA) ",
+                "u": "http://www.inpa.gov.br/sementes/manuais/fasciculo1_carapa.pdf ",
+                "z": "Acesso em: 23/09/2014"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

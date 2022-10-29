@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001183"
+        },
+        {
+            "code": "005",
+            "value": "20190729114036.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "620.95(047) ",
+                "b": "L533p ",
+                "c": "2004"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Leite, Rogério Cezar de Cerqueira"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A preliminary report for the IUAP working group on energy ",
+                "b": "energy from biomass ",
+                "c": "Rogério Cezar Cerqueira Leite ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l. ",
+                "b": "s.n] ",
+                "c": "2004"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "97 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biomassa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biogás"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biocombustíveis"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Álcool como combustível"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Metanol"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biodiesel"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

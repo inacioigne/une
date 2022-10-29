@@ -1,0 +1,91 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001136"
+        },
+        {
+            "code": "005",
+            "value": "20190726110405.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "604.6(83) ",
+                "b": "B615 ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "La biotecnologia vegetal en Chile ",
+                "b": "analisis de sus oportunidades y limaciones ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Santiago (Chile) ",
+                "b": "Organização das Nações Unidas para Agricultura e Alimentação ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "124"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biotecnologia ",
+                "z": "Chile",
+                "x": "Meio ambiente "
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biotecnologia vegetal ",
+                "z": "Chile"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Organização das Nações Unidas para Agricultura e Alimentação. Regional Office for Latin America and the Caribbean ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

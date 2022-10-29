@@ -1,0 +1,115 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nas  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001526"
+        },
+        {
+            "code": "005",
+            "value": "20170124092700.0"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "022",
+            "subfield": {
+                "a": "0100-6045"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "1(05)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Manuscrito ",
+                "b": "revista internacional de filosofia ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Campinas ",
+                "b": "Universidade Estadual de Campinas, Centro de Lógica, Epistemologia e História da Ciência ",
+                "c": "1977"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "b": "v."
+            }
+        },
+        {
+            "code": "310",
+            "subfield": {
+                "a": "Semestral"
+            }
+        },
+        {
+            "code": "530",
+            "subfield": {
+                "a": "Documento eletrônico: Texto completo, período disponível (2011) - Livre Acesso"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Filosofia ",
+                "x": "Periódico"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Universidade Estadual de Campinas. Centro de Lógica, Espistemologia e História da Ciência ",
+                "e": "Indefinida"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Universidade Estadual de Campinas ",
+                "e": "Indefinida"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "http://www.scielo.br/scielo.php?script=sci_issues&pid=0100-6045&lng=en&nrm=iso ",
+                "y": "Texto completo (SCIELO) - Livre acesso ",
+                "z": "Acesso em: 18/02/2014"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Periódicos"
+            }
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nas  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001575"
+        },
+        {
+            "code": "005",
+            "value": "20170124100612.0"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "022",
+            "subfield": {
+                "a": "0102-9495"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "52(05)"
+            }
+        },
+        {
+            "code": "210",
+            "subfield": {
+                "b": "(Rio J.)"
+            }
+        },
+        {
+            "code": "210",
+            "subfield": {
+                "a": "Perspicillum"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Perspicillum ",
+                "c": "Museu de Astronomia e Ciências Afins ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Museu de Astronomia e Ciências Afins ",
+                "c": "1987-1995"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "b": "v"
+            }
+        },
+        {
+            "code": "310",
+            "subfield": {
+                "a": "Irregular"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Coleção impressa: (v. 1, n. 1, maio 1987 / v. 9, n. 1, nov. 1995)"
+            }
+        },
+        {
+            "code": "530",
+            "subfield": {
+                "a": "Documento eletrônico: Sumários, período disponível (v. 1, n. 1, maio 1987 - v. 9, n. 1, nov. 1995) - Livre acesso"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência ",
+                "x": "Periódico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Astronomia ",
+                "x": "Periódico"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Museu de Astronomia e Ciências Afins ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Periódicos"
+            }
+        }
+    ]
+}

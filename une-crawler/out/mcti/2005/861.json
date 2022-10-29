@@ -1,0 +1,130 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000861"
+        },
+        {
+            "code": "005",
+            "value": "20190805174258.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8524910194"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "37:6 ",
+                "b": "E24 ",
+                "c": "=134.3 ",
+                "d": "2004"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Educação e novas tecnologias ",
+                "b": "esperança ou incerteza? ",
+                "c": "Juan Carlos Tedesco (Org.); tradução de Claudia Berliner, Silvana Cobucci Leite. ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Cortez"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Buenos Aires ",
+                "b": "Instituto Internacional de Planeamiento de la Educacion"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "UNESCO ",
+                "c": "2004"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "255 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia educacional"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia da informação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Educação ",
+                "x": "Inovação tecnológica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inovação educacional"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política educacional"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Tedesco, Juan Carlos ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

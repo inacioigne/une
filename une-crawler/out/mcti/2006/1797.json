@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001797"
+        },
+        {
+            "code": "005",
+            "value": "20190731110709.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8573333227"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "334.012.64(038) ",
+                "b": "D546 ",
+                "d": "R ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Dicionário básico da pequena empresa ",
+                "c": "[Organizador: João Humberto de Azevedo] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Serviço Brasileiro de Apoio às Micro e Pequenas Empresas ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "227"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração de empresas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pequena e média empresa ",
+                "x": "Dicionários"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Azevedo, João Humberto de ",
+                "d": "1944- ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000672"
+        },
+        {
+            "code": "005",
+            "value": "20190726112624.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "336:5/6:061.1(81) ",
+                "b": "F491r ",
+                "c": "[1997] ",
+                "d": "FINEP"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Financiadora de Estudos e Projetos (Brasil)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Regimento interno ",
+                "b": "conselho consultivo ",
+                "h": "Impresso ",
+                "c": "Financiadora de Estudos e Projetos (Brasil)"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Financiadora de Estudos e Projetos ",
+                "c": "[1997]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "8 f."
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Financiadora de Estudos e Projetos (Brasil)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa e desenvolvimento ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa tecnológica ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa ",
+                "x": "Financiamento ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

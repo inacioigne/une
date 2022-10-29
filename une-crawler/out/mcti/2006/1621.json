@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001621"
+        },
+        {
+            "code": "005",
+            "value": "20190813160353.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "930.25 ",
+                "b": "D614co ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Distrito Federal (Brasil). Tribunal de Contas"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Código de classificação de documentos de arquivo e da tabela de temporalidade de documentos ",
+                "c": "Tribunal de Contas do Distrito Federal ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Seção de Documentação ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "202"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Coleção estudos e documentos / TCDF ",
+                "v": "v. 2"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Histórico -- Código de classificação de documentos de Arquivo -- Tabelas auxiliares -- Tabela de temporalidade e destinação de documentos de arquivo relativos as atividades-meio da administração pública"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquivo ",
+                "x": "Classificação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

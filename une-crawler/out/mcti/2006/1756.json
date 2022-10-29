@@ -1,0 +1,115 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001756"
+        },
+        {
+            "code": "005",
+            "value": "20190801140159.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8521612699"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "681.5:004.7 ",
+                "b": "M827e ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Moraes, Cícero Couto de"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Engenharia de automação industrial ",
+                "c": "Cícero Couto de Moraes, Plínio de Lauro Castrucci ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Livros Técnicos e Científicos ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "295 ",
+                "c": "23 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação industrial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Controle de processo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Controlador programável"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem de programação (Computadores)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador ",
+                "x": "Petri"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Castrucci, Plínio ",
+                "d": "1932- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

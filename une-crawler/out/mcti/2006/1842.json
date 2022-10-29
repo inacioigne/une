@@ -1,0 +1,129 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam a22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001842"
+        },
+        {
+            "code": "005",
+            "value": "20190730101837.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "330.35(813.5) ",
+                "b": "S586c ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Silva, Alexandre Manoel Angelo da"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Crescimento econômico comparado dos municípios alagoanos e mineiros ",
+                "b": "uma análise espacial ",
+                "c": "Alexandre Manoel Angelo da Silva, Guilherme Mendes Resende ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "28 f. ",
+                "b": "il., mapas, tabs."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IPEA ",
+                "v": "1162 ",
+                "x": "1415-4765"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Neste texto, apresentam-se os resultados da investigação sobre quais variáveis determinam as taxas de crescimento da renda do trabalho por habitante dos municípios alagoanos (com até 50 mil habitantes) e mineiros (com até 50 mil habitantes), entre 1991 e 2000. Na análise econométrica, não se encontrou auto correlação espacial no modelo estimado para os pequenos municípios alagoanos. No caso dos pequenos municípios mineiros, essa auto correlação espacial foi verificada. A investigação econométrica mostra que os determinantes do crescimento econômico de um estado relativamente rico não são idênticos aos determinantes de um estado relativamente pobre. No que diz respeito à estimação do modelo para pequenos municípios de Alagoas, somente o índice de Gini é significativo e negativo na determinação do crescimento da renda do trabalho por habitante. No que concerne aos pequenos municípios de Minas Gerais, foram obtidas quatro variáveis estatisticamente significativas: i) renda do trabalho por habitante em 1991; ii) número médio de anos de estudo da população com 25 ou mais anos de idade; iii) percentual de domicílios com acesso à iluminação elétrica; e iv) índice de Gini. Suspeitou-se, portanto, que os pequenos municípios de um estado relativamente pobre precisam de uma melhoria mais acentuada do que a verificada nos indicadores de produtividade e de qualidade de vida, a fim de que esses indicadores possam surtir efeito sobre o crescimento da renda do trabalho por habitante, tendo em vista que, nos pequenos municípios alagoanos, os níveis de produtividade e da qualidade de vida são extremamente baixos, em relação aos pequenos municípios mineiros. In this article, we investigate which variables determine the income per capita growth rates of the Alagoas municipalities (up to 50.000 inhabitants) and of the Minas Gerais municipalities (up to 50.000 inhabitants) between 1991 and 2000. In the econometric analysis, we do not find spatial autocorrelation in the model for the small Alagoas municipalities. In the case of Minas Gerais municipalities, spatial autocorrelation is verified. The econometric results show that the economic growth determinants of a relatively rich state are not identical to the determinants of a relatively poor state. In respect to the model estimation for the small Alagoas municipalities, only the Gini index is significant and negative in the determination of income per capita growthrates. Concerning the small Minas Gerais municipalities, we get four statically significant variables: income per capita in 1991, years of schooling, percentage of households with access to the lightning and Gini index. We suspect, therefore, that small municipalities of a relatively poor state need an additional improvement than the ones verified in his indicators of productivity and quality of life, so that those indicators can have effect on the income per capita growth rates. In view of that, in the small Alagoas municipalities, the levels of productivity and quality of life are extremely low in relation to the small Minas Gerais municipalities."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento econômico ",
+                "z": "Minas Gerais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Crescimento populacional ",
+                "z": "Minas Gerais"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Resende, Guilherme Mendes ",
+                "d": "1979- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "IPEA ",
+                "u": "http://www.ipea.gov.br/portal/images/stories/PDFs/TDs/td_1162.pdf ",
+                "z": "Acesso em: 18/08/2015"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "01589nam  2200313 a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000073"
+        },
+        {
+            "code": "005",
+            "value": "20190726140250.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "931021s1993    fr       b   i000 0 eng d"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "010",
+            "subfield": {
+                "a": "93220949"
+            }
+        },
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9264138595 ",
+                "c": "80.00F"
+            }
+        },
+        {
+            "code": "035",
+            "subfield": {
+                "9": "(DLC) 93220949"
+            }
+        },
+        {
+            "code": "035",
+            "subfield": {
+                "a": "(OCoLC)28135534"
+            }
+        },
+        {
+            "code": "035",
+            "subfield": {
+                "a": "2062363"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "NSbSU ",
+                "c": "NSbSU ",
+                "d": "DLC"
+            }
+        },
+        {
+            "code": "042",
+            "subfield": {
+                "a": "lccopycat"
+            }
+        },
+        {
+            "code": "050",
+            "subfield": {
+                "a": "TP248.65.F66 ",
+                "b": "S24 1993"
+            }
+        },
+        {
+            "code": "082",
+            "subfield": {
+                "2": "20 ",
+                "a": "363.19/29"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "608.3 ",
+                "b": "S128f ",
+                "c": "c1993"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Safety evaluation of foods derived by modern biotechnology ",
+                "b": "concepts and principles ",
+                "h": "Impresso ",
+                "c": "Organização de Cooperação e Desenvolvimento Econômico. Environment Directorate"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Organisation for Economic Co-operation and Development ",
+                "c": "c1993"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "79 ",
+                "c": "23"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Preparado pela \"OECD Environment Directorate\", em colaboração com o \"Directorate for Science, Technology and Industry\". É o produto do trabalho realizado pelo \"Group of National Experts on Safety in Biotechnology\""
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Alimentos ",
+                "x": "Medida de segurança"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biossegurança"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Higiene de alimento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia de alimentos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microorganismo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Organização de Cooperação e Desenvolvimento Econômico. Environment Directorate ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Organização de Cooperação e Desenvolvimento Econômico. Directorate for Science, Technology, and Industry ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Organização de Cooperação e Desenvolvimento Econômico. Group of National Experts on Safety and Biotechnology ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "906",
+            "subfield": {
+                "a": "7 ",
+                "b": "cbc ",
+                "c": "copycat ",
+                "d": "2 ",
+                "e": "ncip ",
+                "f": "19 ",
+                "g": "y-gencatlg"
+            }
+        },
+        {
+            "code": "922",
+            "subfield": {
+                "a": "ax"
+            }
+        },
+        {
+            "code": "955",
+            "subfield": {
+                "a": "ud05 to cat 09-29-93; jc05 10-21-93; jd85 11-12-93; recvd in DDC 12-10-93, aa07 12-23-93"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        },
+        {
+            "code": "991",
+            "subfield": {
+                "b": "c-GenColl ",
+                "h": "TP248.65.F66 ",
+                "i": "S24 1993 ",
+                "t": "Copy 1 ",
+                "w": "BOOKS"
+            }
+        }
+    ]
+}

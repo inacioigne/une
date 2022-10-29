@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002005"
+        },
+        {
+            "code": "005",
+            "value": "20190809135752.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.382.7 ",
+                "b": "B244m ",
+                "c": "1981 ",
+                "d": "SEI"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Barczak, Czeslau L ",
+                "d": "1936- ",
+                "q": "Czeslau Lubomiro"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Micro computador TTL ",
+                "c": "Czeslau Lubomiro Barczak ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Brasília ",
+                "b": "s.n.] ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "62 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Trabalho apresentado no 1. Concurso Nacional de Monografias em Informática, promovido pela Secretaria Especial de Informática (SEI) e pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq). teve como objetivo principal estimular a produção brasileira de literatura técnica no setor, tanto no que se refere a textos didáticos e de pesquisa como a aplicações de informática nos mais diversos aspectos da vida nacional."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "1. Introdução -- 2. Descrição de tecnologias -- 3. Arquitetura de sistemas lógicos -- 4. Estrutura de barramento e microprogramação -- 5. Sistemas mínimos de processamento -- 6. Conjunto de instruções -- 7. Unidades de cálculos -- 8. Contador de programa -- 9. Registro de endereços -- 10. Registro de endereços da memória -- 11. Registro de Instruções -- 12. Ciclo de instrução -- 13. Ciclo de busca -- 14. Ciclo de execução -- 15. Unidade de controle -- 16. Unidade de entrada e saída -- 17. Fonte de alimentação -- 18. Custos do sistema -- 19. Conclusões -- 20. Bibliografia."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microcomputador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microprogramação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia da informação"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Concurso Nacional de Monografias sobre Informática ",
+                "c": "Brasília, DF ",
+                "d": "1981 ",
+                "n": "1"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

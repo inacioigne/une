@@ -1,0 +1,134 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "as   nas  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001685"
+        },
+        {
+            "code": "005",
+            "value": "20170126173538.0"
+        },
+        {
+            "code": "008",
+            "value": "por                                por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "022",
+            "subfield": {
+                "a": "0034-9240"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "35(05)"
+            }
+        },
+        {
+            "code": "210",
+            "subfield": {
+                "a": "RSP"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Revista do serviço público ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Escola Nacional de Administração Pública ",
+                "c": "1973"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "b": "v"
+            }
+        },
+        {
+            "code": "310",
+            "subfield": {
+                "a": "Trimestral"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Editada pelo DASP em nov. 1937 a 1974. Publicada no Rio de Janeiro até 1959. No periódo de 1981 a 1988 foi publicada trimestralmente. Em 1989 periodicidade quadrimestral. A partir de 1998, novamente trimestral Coleção impressa: (v. 108, n. 1, jan./abr. 1973 - v. 56, n. 2, abr./jun. 2006)"
+            }
+        },
+        {
+            "code": "515",
+            "subfield": {
+                "a": "Interrompida entre 1975/1981; 1989/1993."
+            }
+        },
+        {
+            "code": "530",
+            "subfield": {
+                "a": "Documento eletrônico: Texto completo, período disponível (1996 - presente) - Livre acesso"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração pública ",
+                "x": "Periódico ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Serviço público ",
+                "x": "Periódico ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Escola Nacional de Administração Pública (Brasil) ",
+                "e": "Indefinida"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "http://seer.enap.gov.br/index.php/RSP ",
+                "y": "Texto completo (ENAP) - Livre acesso ",
+                "z": "Acesso em: 25/01/2017"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Periódicos"
+            }
+        }
+    ]
+}

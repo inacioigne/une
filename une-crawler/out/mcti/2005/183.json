@@ -1,0 +1,150 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "01403cam  2200289 a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000183"
+        },
+        {
+            "code": "005",
+            "value": "20190806161250.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "890823s1989    dcua     b    000 0 eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "010",
+            "subfield": {
+                "a": "89063061"
+            }
+        },
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0309040760 ",
+                "c": "$19.95"
+            }
+        },
+        {
+            "code": "035",
+            "subfield": {
+                "9": "(DLC) 89063061"
+            }
+        },
+        {
+            "code": "035",
+            "subfield": {
+                "a": "2455511"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "DLC ",
+                "c": "DLC ",
+                "d": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "050",
+            "subfield": {
+                "a": "TP248.6 ",
+                "b": ".N38 1989"
+            }
+        },
+        {
+            "code": "082",
+            "subfield": {
+                "2": "20 ",
+                "a": "660/.65"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "602.6 ",
+                "b": "N277f ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "National Research Council (Estados Unidos). Board on Biology. Committee on Scientific Evaluation of the Introduction of Genetically Modified Microorganisms and Plants into the Environment"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Field testing genetically modified organisms ",
+                "b": "framework for decisions ",
+                "c": "Committee on Scientific Evaluation of the Introduction of Genetically Modified Microorganisms and Plants into the Environment, Board on Biology, Commission on Life Sciences, National Research Council. ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "National Academy Press ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xiii, 170 p ",
+                "c": "23 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia genética"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Vegetais ",
+                "x": "Melhoramento genético"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microbiologia ",
+                "x": "Engenharia genética"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Melhoramento genético"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Genética vegetal"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

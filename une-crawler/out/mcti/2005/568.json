@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000568"
+        },
+        {
+            "code": "005",
+            "value": "20190812185901.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "35.077CNPq(047.31) ",
+                "b": "C755c ",
+                "c": "[199-?]"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "CNPq ",
+                "b": "proyectos, programas y perspectivas ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Conselho Nacional de Desenvolvimento Científico e Tecnológico ",
+                "c": "[199-?]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "13"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "El Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq está pasando por profundas transformaciones en su infraestructura, organización y programación. Se hizo una planificación estratégica situacional y todos los programas, proyectos y actividades están bajo constante evaluación y seguimiento, lo que permite un permanente análisis crítico y corrección o confirmación de rumbos y tendencias. Esta publicación pretende dar una información clara sobre los programas y proyectos del CNPq y sobre los diferentes instrumentos que están disponibles para la comunidad científica y tecnológica de Brasil. Al finalizar, se presenta una síntesis de las propuestas llevadas a práctica, ofreciendo una idea del alcance del sistema en curso y su potencial. Se espera que, por medio de esta publicación, el usuario y la sociedad puedan hacerse una idea del rol del CNPq en la ciencia y la tecnología de Brasil y del trabajo que hace."
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil) ",
+                "x": "Projeto ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração pública"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000944"
+        },
+        {
+            "code": "005",
+            "value": "20190729141858.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5:62(73) ",
+                "b": "W872 ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Women, minorities, and persons with disabilities in science and engineering ",
+                "b": "1996 ",
+                "h": "Impresso ",
+                "c": "National Science Foundation (Estados Unidos)"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Arlington [Estados Unidos] ",
+                "b": "National Science Foundation ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xx, 284 p."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "\"NSF 93-311\""
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mulheres ",
+                "x": "Indicadores"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Minoria ",
+                "x": "Indicadores"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Deficientes ",
+                "x": "Indicadores"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "National Science Foundation (Estados Unidos) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

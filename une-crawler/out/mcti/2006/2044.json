@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002044"
+        },
+        {
+            "code": "005",
+            "value": "20190805114620.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "327 ",
+                "b": "R719r ",
+                "c": "[19--?]"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Roett, Riordan ",
+                "d": "1938-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The role of Argentina and Brazil ",
+                "b": "a view from the United States ",
+                "c": "by Riordan Roett and Gunnar Wiegand"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l. ",
+                "b": "s.n] ",
+                "c": "[19--?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "31 f."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Relações econômicas internacionais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comércio internacional"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política internacional"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Wiegand, Gunnar ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

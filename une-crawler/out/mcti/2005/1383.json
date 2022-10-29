@@ -1,0 +1,121 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001383"
+        },
+        {
+            "code": "005",
+            "value": "20190805175613.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "629.331(81) ",
+                "b": "D392e ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "De Negri, João Alberto"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Elasticidade-renda e elasticidade de preço da demanda de automóveis no Brasil ",
+                "c": "João Alberto De Negri, IPEA ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "22 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IPEA ",
+                "v": "558 ",
+                "x": "1415-4765"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "O desempenho da indústria automobilística brasileira nos anos 90 tem sido influenciado pela liberalização do mercado doméstico. A análise das variáveis preços, vendas e importações de veículos novos no Brasil comprovou que os efeitos da abertura sobre os preços domésticos são mais evidentes a partir de julho de 1993. Além da abertura do mercado, o setor foi influenciado por políticas de incentivos específicas como os acordos das Câmaras Setoriais (1992 e 1993) e o regime automotivo (1996 a 1999). As análises dos impactos dessas políticas e de políticas alternativas sobre o desempenho do setor dependem do tamanho das elasticidades da demanda estimadas. Este trabalho avaliou a elasticidade-renda e a elasticidade-preço da demanda de automóveis no Brasil para os anos 90. Os resultados indicaram a elasticidade-renda entre 1,1 e 1,5; a elasticidade-preço, entre -0,6 e -0,7; a elasticidade cruzada da demanda de automóveis nacionais, em relação ao preço dos carros importados, foi 0,2."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria automobilística ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automóveis ",
+                "x": "Preço ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "http://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=3834 ",
+                "y": "Texto completo (IPEA) ",
+                "z": "Acesso em: 16/01/15"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

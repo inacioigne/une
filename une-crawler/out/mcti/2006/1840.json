@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001840"
+        },
+        {
+            "code": "005",
+            "value": "20190808132015.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "656.615(81) ",
+                "b": "C198p ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Campos Neto, Carlos Álvares da Silva"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Portos brasileiros ",
+                "b": "área de influência, ranking, porte e os principais produtos movimentados ",
+                "c": "Carlos Alvares da Silva Campos Neto ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "29 f. ",
+                "b": "il., gráfs"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IPEA ",
+                "v": "1164 ",
+                "x": "1415-4765"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Desenvolve metodologias que permitem a análise, da forma mais detalhada possível, de várias características dos portos brasileiros. Analisa 24 portos envolvidos com o comércio externo do Brasil, possibilitando a classificação de cada porto."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Porto ",
+                "z": "Brasil ",
+                "x": "Infra-estrutura física"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Terminal de transporte ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000000527"
+        },
+        {
+            "code": "005",
+            "value": "20190812124928.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "929-051(81) ",
+                "b": "A168 ",
+                "c": "1994 ",
+                "d": "R"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Academia Brasileira de Ciências"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Catálogo dos acadêmicos ",
+                "h": "Impresso ",
+                "c": "Academia Brasileira de Ciências"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Academia Brasileira de Ciências ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "385"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Breve histórico da Academia -- Relação dos acadêmicos -- Listagens dos acadêmicos por Seção -- Listagem dos acadêmicos por países e estados"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Traz relacionados informações sobre os membros da Academia Brasileira de Ciências em 1993. Encontra-se relacionado além dos dados pessoais, dados profissionais que sumariam suas atividades científicas. Foi catalogado as linhas de pesquisas, as principais áreas de interessses, os prêmios recebidos, assim como publicações que melhor representam a atividade de pesquisa de cada membro."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cientistas ",
+                "x": "Formação profissional",
+                "z": "Brasil "
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência ",
+                "x": "História ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

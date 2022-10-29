@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001963"
+        },
+        {
+            "code": "005",
+            "value": "20190812095432.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.42COBOL ",
+                "b": "B327p ",
+                "c": "1977"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Bastos, Alex C"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Programação COBOL ",
+                "c": "Alex C. Bastos ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Livros Técnicos e Científicos ",
+                "c": "1977"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xvi, 316 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Aplicações de computadores"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "1. Conceitos básicos de programação -- 2. Idéia básica do COBOL -- 3. Data division -- 4. File section -- 5. Procedure division -- 6. Procedure division (cont.) -- 7. Procedure division (cont.) -- 8. Procedure division (cont.) -- 9. Indexação -- 10. Revisão do desvio incondicional go to -- 11. Dispositivos auxiliares da programação COBOL -- 12. Pesquisa de tabelas - cláusulas search - classificação de informações - cláusula sort -- 13. Programação modular - conceitos de programação COBOL avançada -- 14. Gerador de relatórios -- 15. Armazenamento em dispositivos de acesso direto - discos magnéticos - organização dos arquivos -- 16. Arquivos seqüênciais -- 17. Arquivos de acesso direto - criação e atualização - comandos COBOL - métodos de randomização e sinônimos -- 18. Arquivos de organização relativa e indexada -- Apêndice A - Teleprocessamento - dispositivos COBOL -- Apêndice B - Palavras reservadas ao COBOL ANSI implantado no computador IBM/370."
+            }
+        },
+        {
+            "code": "550",
+            "subfield": {
+                "a": "Publicado em convênio com a Fundação Nacional de Material Escolar, Ministério da Educação e Cultura e com a Comissão de Coordenação das Atividades de Processamento eletrónico, Secretaria do Planejamento da Presidência da Republica. Publicado em regime de co-edição da FENAME/MEC e da CAPRE/SEPLAN."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem de programação (Computadores) ",
+                "x": "COBOL"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

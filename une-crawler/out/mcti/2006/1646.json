@@ -1,0 +1,127 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001646"
+        },
+        {
+            "code": "005",
+            "value": "20190802114917.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8521100108"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "630*2(811) ",
+                "b": "F634 ",
+                "c": "1998 ",
+                "d": "INPA"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Floresta amazônica ",
+                "b": "dinâmica, regeneração e manejo ",
+                "c": "editores, Claude Gascon, Paulo Moutinho ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Manaus ",
+                "b": "Instituto Nacional de Pesquisas da Amazônia ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "373 ",
+                "b": "il., (algumas color.)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Floresta Amazônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Florestas ",
+                "x": "Exploração ",
+                "z": "Amazônia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa florestal ",
+                "z": "Amazônia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Florestas ",
+                "z": "Amazônia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Economia florestal ",
+                "z": "Amazônia"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Gascon, Claude ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Moutinho, Paulo ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto Nacional de Pesquisas da Amazônia (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

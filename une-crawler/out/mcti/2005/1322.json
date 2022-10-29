@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000001322"
+        },
+        {
+            "code": "005",
+            "value": "20190729134828.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "678.83 ",
+                "b": "I58v ",
+                "c": "[2005]"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Innocentini-Mei, Lucia Helena"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Visão geral sobre polímeros ou plásticos ambientalmente degradáveis (PADs) ",
+                "c": "Lucia Helena Innocentini, Pilar Drummond Sampaio Corrêa Mariani ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l. ",
+                "b": "s.n. ",
+                "c": "2005]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "41 f."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Polímeros ",
+                "x": "Aspectos ambientais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Plástico ",
+                "x": "Aspectos ambientais"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Mariani, Pilar Drummond Sampaio Corrêa ",
+                "d": "1977- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "FEQ ",
+                "u": "http://www.feq.unicamp.br/images/stories/documentos/dtp_edps.pdf ",
+                "z": "Acesso em: 29/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002052"
+        },
+        {
+            "code": "005",
+            "value": "20190806112722.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "007 ",
+                "b": "M444i ",
+                "c": "[1983] ",
+                "d": "MC"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Mattos, Haroldo Corrêa de"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A informatização da sociedade ",
+                "c": "Haroldo Correa de Mattos ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Brasília] ",
+                "b": "Ministério das Comunicações ",
+                "c": "[1983]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "32 f. ",
+                "b": "il., tab."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Pronunciamento do Exmo. Senhor Secretário-Geral do Ministério das Comunicações do Simpósio de Informática do Senado Federal, Brasília, 14 de junho de 1983."
+            }
+        },
+        {
+            "code": "611",
+            "subfield": {
+                "a": "Simpósio de Informática do Senado Federal ",
+                "c": "Brasília, DF ",
+                "d": "1983"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Democratização ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Serviços - Telecomunicações"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

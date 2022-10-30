@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002261"
+        },
+        {
+            "code": "005",
+            "value": "20190731093952.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.056(047) ",
+                "b": "B823rp ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Secretaria Especial de Informática"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Relatório da comissão especial n. 21 ",
+                "b": "proteção de dados ",
+                "c": "Secretaria Especial de Informática ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Secretaria Especial de Informática ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "343 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "I. Introdução -- 1. Comissão Especial n. 21 - Proteção de Dados -- 2. Portaria n. 202, de 21 de agosto de 1985 -- 3. Portaria n. 320, de 19 de dezembro de 1985 -- 4. Integrantes da Comissão Especial n. 21 - Proteção de Dados -- II. Situação atual -- 1. Segurança lógica -- 1.2. Cenário atual -- 1.3. Segurança em sistemas operacionais -- 1.4. Segurança em banco de dados -- 1.5. Segurança nas aplicações -- 1.6. Análise econômicas da segurança -- 1.7. Recursos humanos em segurança lógica -- 1.8. Normas técnicas -- 2. Segurança das comunicações - 2.1. Aspectos gerais -- 2.2. Aspectos técnicos -- 2.3. Aspectos legais -- 2.4. Aspectos do usuário -- 2.5. Formação de recursos humanos para criptologia -- 2.6. Termos utilizados -- 3. Segurança físicas das instalações -- 3.1. Aspectos gerais -- 3.2. Aspectos técnicos da segurança física -- 3.3. Principais problemas identificados (Perfil) -- 3.4. Profissionais de PED e condições de trabalho -- 4. Auditoria de sistemas -- 4.1. Aspectos gerais -- 4.2. Aspectos abordados -- 4.3. Resumo do cenário atual da auditoria de sistemas -- III. Considerações e recomendações -- 1. Segurança lógica -- 2. Segurança das comunicações -- 4. Auditoria de sistemas -- 5. Cultura, recursos humanos e legislação -- 6. Votos em separados -- IV. Anexos -- A) Avaliação de softwares de segurança -- B) Aspectos referentes a pessoal -- C) Padrões e diretrizes de segurança de dados -- D) Descrição de equipamentos critotécnicos nacionais -- E) Relação de diplomas legais sobre sigilo -- F) Perfil das aplicações quanto ao sigilo -- G) Glossário de termos técnicos -- I) Lista de checagem para segurança física das instalações de PED -- J) Aspectos técnicos sobre segurança física das instalações -- L - Roteiro para plano de contingência -- V. Bibliografia."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "A Lei n. 7.232, de 29 de outubro de 1984, que dispõe sobre a Política Nacional de Informática, no inciso VIII do seu artigo 2º, prevê o estabelecimento de mecanismos e instrumentos legais e técnicos para a proteção do sigilo dos dados armazenados, processados e veiculados, do interesse da privacidade e de segurança das pessoas físicas e jurídicas, privadas e pública. A Secretaria Especial de Informática - SEI vem acompanhando o desenvolvimento ocorrido no segmento de Proteção de Dados, em nosso País, bem como suas tendências de evolução, a curto e médio prazos. A dinâmica deste segmento do Setor de Informática, em suas múltiplas variáveis, recomendou a constituição de uma Comissão Especial, de caráter temporário, interligada por representantes de diversos órgãos governamentais, entidades de classe, universidade e centros de pesquisa, com o objetivo de realizar estudo específico relacionado a questões, de caráter técnico, inerentes à matéria. Para um melhor tratamento dos vários aspectos da Proteção de Dados foram constituídas quatro Subcomissões, no âmbito da Comissão: Segurança Lógica, Segurança das Comunicações, Segurança Físicas das Instalações e Auditoria de Sistemas."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Proteção de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Segurança de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Armazenamento de dados"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

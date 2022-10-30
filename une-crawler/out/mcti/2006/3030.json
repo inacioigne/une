@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003030"
+        },
+        {
+            "code": "005",
+            "value": "20190807114050.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0201059681"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "519.61 ",
+                "b": "P927i ",
+                "c": "c1973"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Preparata, Franco P"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Introduction to discrete structures for computer science and engineering ",
+                "c": "Franco P. Preparata, Raymond T. Yeh ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Reading, Massachusetts ",
+                "b": "Addison-Wesley ",
+                "c": "c1973"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xi, 354 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Matemática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Álgebra"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Álgebra booleana"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Estrutura algébrica"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Yeh, Raymond Tzuu-Yau ",
+                "d": "1937- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003340"
+        },
+        {
+            "code": "005",
+            "value": "20190807134731.0"
+        },
+        {
+            "code": "007",
+            "value": "c"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8575181688"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "030 ",
+                "b": "P474 ",
+                "d": "CD ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Pesquisas especiais Barsa Society ",
+                "b": "versão 2.3 ",
+                "h": "Recurso Eletrônico"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Encyclopaedia Britannica do Brasil ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 CD-ROM"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Enciclopédia ",
+                "x": "Língua portuguesa"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "CD-ROM"
+            }
+        }
+    ]
+}

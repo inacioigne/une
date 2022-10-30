@@ -1,0 +1,108 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002935"
+        },
+        {
+            "code": "005",
+            "value": "20190809134428.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0850121604"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "658.56 ",
+                "b": "H726p ",
+                "c": "1976"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Holden, G. K. ",
+                "q": "George Keith"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Production control packages and services ",
+                "b": "a survey of computer application packages and services for production control in the UK ",
+                "c": "by G. K. Holden ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "2. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Manchester [Inglaterra] ",
+                "b": "NCC Publications ",
+                "c": "1976"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "155"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Factfinder ",
+                "v": "13"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Controle de produção ",
+                "x": "Processamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

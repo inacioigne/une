@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002732"
+        },
+        {
+            "code": "005",
+            "value": "20190807112758.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0850121116"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.42 ",
+                "b": "C699i ",
+                "c": "c1974"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Collin, W. G"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Introducing computer programming ",
+                "b": "(a machine and language-independent textbook for beginners) ",
+                "c": "by W. G. Collin ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Manchester [Inglaterra] ",
+                "b": "NCC Publications ",
+                "c": "c1974"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "364 ",
+                "c": "22 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de suporte a decisão"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de informação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

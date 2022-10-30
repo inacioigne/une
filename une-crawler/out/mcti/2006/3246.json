@@ -1,0 +1,98 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003246"
+        },
+        {
+            "code": "005",
+            "value": "20190807092052.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "669:573(100)(063) ",
+                "b": "I61i ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "International Symposium on Biohydrometallurgy ",
+                "c": "Ouro Preto ",
+                "d": "2001 ",
+                "n": "14"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "International biohydrometallurgy symposium ",
+                "b": "\"the scientific knowledge for technology and sustainable development\" : symposium abstracts ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Amsterdam ",
+                "b": "Elsevier ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "99"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Lixiviação ",
+                "x": "Aspectos ambientais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Metalurgia ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microbiologia ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

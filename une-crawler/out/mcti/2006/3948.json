@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003948"
+        },
+        {
+            "code": "005",
+            "value": "20190801152816.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.651:371.11(043.2) ",
+                "b": "G291s ",
+                "c": "1973"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Gazzaneo, Giosafatte"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Sistema de processamento de informações ",
+                "b": "um modelo para a administração escolar ",
+                "c": "Giosafatte Gazzaneo ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "c": "1973 ",
+                "a": "[S.l. ",
+                "b": "s.n]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "105 f."
+            }
+        },
+        {
+            "code": "502",
+            "subfield": {
+                "a": "Tese (Mestrado) - Pontifícia Universidade Católica do Rio de Janeiro, Rio de Janeiro, 1973."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Escolas ",
+                "x": "Organização e administração"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática na educação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dissertações/Teses/TCC"
+            }
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003037"
+        },
+        {
+            "code": "005",
+            "value": "20190808130212.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:615.478.1 ",
+                "b": "B214o ",
+                "c": "1971"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Bandelier, René"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "L'ordinateur a l'hopital ",
+                "b": "Pourquoi? Comment? ",
+                "c": "René Bandelier ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Éditions d'organisation ",
+                "c": "1971"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "174 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração hospitalar ",
+                "x": "Processamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Hospital"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

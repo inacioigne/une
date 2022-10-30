@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004018"
+        },
+        {
+            "code": "005",
+            "value": "20190802103700.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0080285694"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.382.2 ",
+                "b": "S959 ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Supercomputer systems technology ",
+                "c": "Editor: F. Sumner ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Berkshire, [Inglaterra] ",
+                "b": "Pergamon Infotech ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "455 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "State of the art report ",
+                "v": "série 10, n. 6"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Supercomputador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquitetura de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Sumner, F ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

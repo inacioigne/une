@@ -1,0 +1,115 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003616"
+        },
+        {
+            "code": "005",
+            "value": "20190731085722.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "1806-1184"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "061.2SOFTEX(047) ",
+                "b": "S678r ",
+                "c": "2002-2003"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Sociedade Brasileira para Promoção da Exportação de Software"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Relatório 2002/2003 ",
+                "h": "Impresso ",
+                "c": "Sociedade Brasileira para Promoção da Exportação de Software"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "SOFTEX : Brazilian Society for promoting the Brazilian Software Excellence : biennial report 2002/2003"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Campinas ",
+                "b": "Sociedade Brasileira para Promoção da Exportação de Software ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "27, 25 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Periódico tratado como livro (ISSN 1806-1184)"
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Sociedade Brasileira para Promoção da Exportação de Software ",
+                "x": "Relatórios"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Desenvolvimento ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

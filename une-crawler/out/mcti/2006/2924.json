@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002924"
+        },
+        {
+            "code": "005",
+            "value": "20190730094932.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0444000879"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "005.31 ",
+                "b": "F533c ",
+                "c": "1971"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Fisher, Gene Harvey ",
+                "d": "1922-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Cost considerations in systems analysis ",
+                "c": "Gene H. Fisher ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "American Elsevier ",
+                "c": "1971"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xiv, 334 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Análise de sistemas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Custo de produção"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

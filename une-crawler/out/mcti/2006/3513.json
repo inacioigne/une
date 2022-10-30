@@ -1,0 +1,88 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "am   nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003513"
+        },
+        {
+            "code": "005",
+            "value": "20190808144854.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "por                                por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "622-051(815.1)(036) ",
+                "b": "M663m ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Minas Gerais. Secretaria de Estado de Minas e Energia"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Manual de orientação básica ao pequeno e médio minerador ",
+                "h": "Impresso ",
+                "c": "Secretaria de Estado de Minas e Energia"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Belo Horizonte ",
+                "b": "Companhia Mineradora de Minas Gerais ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "35 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mineração ",
+                "x": "Manual"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Beneficiamento de minério"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

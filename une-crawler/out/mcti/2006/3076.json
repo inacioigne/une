@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003076"
+        },
+        {
+            "code": "005",
+            "value": "20190809140724.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8575291483"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "633.15 ",
+                "b": "M775p ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Monteiro, Antonio Augusto"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Produtor de milho ",
+                "c": "Antonio Augusto Monteiro ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Fortaleza ",
+                "b": "Instituto Centro de Ensino Tecnológico ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "56 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Cadernos tecnológicos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Agricultura ",
+                "x": "Milho"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto Centro de Ensino Tecnológico ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

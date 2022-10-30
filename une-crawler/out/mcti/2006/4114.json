@@ -1,0 +1,131 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004114"
+        },
+        {
+            "code": "005",
+            "value": "20190805142751.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "334.726:004.78 ",
+                "b": "S989t ",
+                "c": "1979"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Symposium on Transborder Data Flows and the Protection of Privacy ",
+                "c": "Vienna, Austria ",
+                "d": "1977"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Transborder data flows and the protection of privacy ",
+                "b": "proceedings of a symposium held in Vienna, Austria, 20th-23rd September 1977 ",
+                "h": "Impresso ",
+                "c": "Symposium on Transborder Data Flows and the Protection of Privacy"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Les flux de données transfrontières et la protection des libertés individuelles : compte rendu d'un colloque qui a eu lieu à Vienne, Autriche, du 20 au 23 septembre 1977"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Organisation for Economic Co-operation and Development ",
+                "c": "1979"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "335"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Information, computer, communications policy ",
+                "v": "1"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Privacidade ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Fluxo de dados transfronteiras"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Organização de Cooperação e Desenvolvimento Econômico ",
+                "e": "Indefinida"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

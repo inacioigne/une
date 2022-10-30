@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002826"
+        },
+        {
+            "code": "005",
+            "value": "20190729144421.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0850120705"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.41 ",
+                "b": "C652p ",
+                "c": "1972"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Coan, D. R. A"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Programming standards ",
+                "c": "by D. R. A. Coan, J. R. Sharratt ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Manchester [Inglaterra] ",
+                "b": "National Computing Centre ",
+                "c": "c1972"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 v. ",
+                "c": "32 m"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Computers and the professional"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "1. Documentation -- 2. Techniques."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador ",
+                "x": "Normalização"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Sharratt, J. R ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

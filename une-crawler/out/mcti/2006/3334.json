@@ -1,0 +1,82 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003334"
+        },
+        {
+            "code": "005",
+            "value": "20190802144430.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "853959853x"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "030 ",
+                "b": "L788 ",
+                "d": "R ",
+                "c": "2008"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Temática Barsa ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Encyclopaedia Britannica do Brasil ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "9 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "v. 1. História -- v. 2. Economia e geografia -- v. 3. Filosofia -- v. 4. Física e Química -- v. 5. Ciências da vida e da Terra -- v. 6. Matemática -- v. 7. Tecnologia -- v. 8. Língua e literatura -- v. 9. Artes."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Enciclopédia ",
+                "x": "Língua portuguesa"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

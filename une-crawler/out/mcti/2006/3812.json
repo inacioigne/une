@@ -1,0 +1,126 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003812"
+        },
+        {
+            "code": "005",
+            "value": "20190807111204.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "519.218.84 ",
+                "b": "M274 ",
+                "c": "1983 ",
+                "d": "IMPA"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Mañé, Ricardo ",
+                "d": "1948-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Introdução a teoria ergódica ",
+                "c": "Ricardo Mañé ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Instituto Nacional de Matemática Pura e Aplicada ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "388 ",
+                "b": "il., form. graf."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Projeto Euclides"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "0 - Teoria da Medida -- I - Medidas -- II - Funções Mensuráveis -- III - Funções Integráveis -- IV - Derivação e Integração -- V - Partições e Derivação -- I - Transformações que Preservam Medida -- 1 - Introdução -- 2 - O Teorema de recorrência de Poincaré -- 3 - Difeomorfismos e Campos que preservam volume -- 4 - Integrais Primeiras -- 5 - Hamiltonianos -- 6 - Decomposição em Frações Contínuas -- 7 - Grupos Topológicos e de Lie. Medida de Haar -- 8 - Medidas Invariantes -- 9 - Transformações Unicamente Ergódicas -- 10 - Shifts. O ponto de vista probabilístico -- 11 - Shifts. O ponto de vista topológico -- 12 - Transformações equivalentes -- II - ERGODICIDADE -- 1 - O Teorema de Birkhoff -- 2 - Ergodicidade -- 3 - Ergodicidade dos homomorfismos e translações de Tn -- 4 - Outros exemplos de ergodicidade -- 5 - O Teorema de Arnold-Kolmogorov-Moser -- 6 - Decomposição Ergódica de Medidas Invariantes -- 7 - O exemplo de Furstenberg -- 8 - Transformações Mixing e de Lebesgue -- 9 - Teoria Espectral -- 10 - Shifts Gaussianos -- 11 - Automorfismos de Kolmogorov -- 12 - Mixing e Ergodicidade dos shifts de Markov -- III - Transformações Expansoras e Difeomorfismos de Anosov -- 1 - Transformações Expansoras -- 2 - Difeomorfismos de Anosov -- 3 - Continuidade absoluta da folheação estável -- 4 - Aplicações da continuidade absoluta da folheação estável -- IV - Entropia -- 1 - Introdução -- 2 - Prova de Teorema de Shannon-Mc Millan-Breiman -- 3 - Entropia -- 4 - O Teorema de Kolmogorov-Sinai -- 5 - Entropia das Transformações Expansoras -- 6 - A medida de Parry -- 7 - Entropia Topológica -- 8 - A propriedade variacional da entropia -- 9 - Homeomorfismos hiperbólicos -- 10 - Expoentes de Lyapounov. Os Teoremas de Oseledec e Pesin -- 11 - Prova do Teorema de Oseledec -- 12 - Prova da desigualdade de Ruelle -- 13 - Prova da fórmula de Pesin -- 14 - Entropia dos difeomorfismos de Anosov -- 15 - Medidas hiperbólicas. O Teorema de Katok -- Bibliografia -- Índice"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Este texto é uma introdução à Teoria Ergódica, enfatizando sua inter-relação com a Teoria dos Sistemas Dinâmicos Diferenciáveis, a que as vezes denomina-se Teoria Ergódica Diferenciável."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Matemática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Teoria ergódica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Análise matemática"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Matemática Pura e Aplicada (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

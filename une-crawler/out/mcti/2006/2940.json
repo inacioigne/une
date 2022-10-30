@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002940"
+        },
+        {
+            "code": "005",
+            "value": "20190730124802.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0884050572"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:005.51 ",
+                "b": "B819d ",
+                "c": "1974"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Brandon, Dick H"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Data processing organization and manpower planning ",
+                "c": "Dick H. Brandon ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Petrocelli Books ",
+                "c": "1974"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "x, 269 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Administração"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gerência de sistema"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de Gerenciamento de Informações"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

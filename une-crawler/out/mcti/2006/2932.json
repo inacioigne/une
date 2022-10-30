@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002932"
+        },
+        {
+            "code": "005",
+            "value": "20190801155814.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "005.591.6:004.89 ",
+                "b": "P954i ",
+                "c": "=134.3 1975"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Prince, Thomas Richard"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Sistemas de informação ",
+                "b": "planejamento, gerência e controle ",
+                "c": "Thomas R. Prince ; tradutor José Ricardo Brandão Azevedo ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Livros Técnicos e Científicos ",
+                "c": "1975"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Coleção universitária de administração ",
+                "v": "13"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração de empresas ",
+                "x": "Serviço de informação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processo decisório"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Planejamento ",
+                "x": "Serviço de informação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Serviço de informação ",
+                "x": "Controle"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

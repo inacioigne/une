@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003667"
+        },
+        {
+            "code": "005",
+            "value": "20190805105536.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0792337816"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "551.588.74 ",
+                "b": "G813 ",
+                "c": "c1995"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Greenhouse gas mitigation assessment ",
+                "b": "a guidebook ",
+                "c": "lead authors, Jayant Sathaye and Stephen Meyers ; chapter authors, Barbara Allen-Diaz ... [et al.] ; contributing authors, Gunther conzelmann ... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Dordrecht ",
+                "b": "Kluwer Academic Publishers ",
+                "c": "c1995"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. (paginação irregular) ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Environmental science and technology library ",
+                "v": "v. 6"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Efeito estufa (Atmosfera) ",
+                "x": "Mitigação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ar ",
+                "x": "Poluição"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Sathaye, Jayant A. ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Meyers, Stephen ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

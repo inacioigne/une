@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002997"
+        },
+        {
+            "code": "005",
+            "value": "20190807143201.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:005 ",
+                "b": "M253m ",
+                "c": "c1971"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Mallet, Robert A"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "La méthode informatique ",
+                "b": "conception et réalisation de l'informatique de gestion ",
+                "c": "Robert A. Mallet. ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Paris] ",
+                "b": "Hermann ",
+                "c": "c1971"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "521 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Actualités scientifiques et industrielles ",
+                "v": "1340"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de Gerenciamento de Informações"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Empresas ",
+                "x": "Processamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

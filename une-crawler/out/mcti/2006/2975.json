@@ -1,0 +1,89 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002975"
+        },
+        {
+            "code": "005",
+            "value": "20190813135039.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0930072014"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "343.45 ",
+                "b": "S642c ",
+                "c": "1978"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Smith, Robert Ellis"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Compilation of state and federal privacy laws ",
+                "b": "1978-79 ",
+                "c": "by Robert Ellis Smith ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "Privacy Journal ",
+                "c": "c1978"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "165"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Privacidade ",
+                "z": "Estados Unidos ",
+                "x": "Legislação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

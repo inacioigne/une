@@ -1,0 +1,132 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002583"
+        },
+        {
+            "code": "005",
+            "value": "20190813130255.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "377:004(063) ",
+                "b": "R585c ",
+                "c": "1972"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "The Rio Symposium on Computer Education for Developing Countries ",
+                "c": "Rio de Janeiro, RJ ",
+                "d": "1972"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Computer education for development ",
+                "b": "proceedings based on The Rio Sympodium on Computer Education for Developing Countries, August 6/12-1972 ",
+                "c": "prepared and edited by Claudia Bussel ; organized by: Brazilian Academy of Sciences and Intergovernmental Bureau for Informatics - International Computation Center (IBI - ICC) ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Ao Livro Técnico ",
+                "c": "c1972"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. (várias paginações)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática na educação ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia educacional ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aplicativo de tecnologia ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Formação profissional"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Bussel, Claudia ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Intergovernmental Bureau for Informatics ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "International Computation Centre ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Academia Brasileira de Ciências ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

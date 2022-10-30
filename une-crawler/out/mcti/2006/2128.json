@@ -1,0 +1,97 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002128"
+        },
+        {
+            "code": "005",
+            "value": "20190808134239.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:061 ",
+                "b": "B823m ",
+                "c": "1981 ",
+                "d": "SEI"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Secretaria Especial de Informática"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Main brazilian institutions dedicated to higher education and research in informatics ",
+                "h": "Impresso ",
+                "c": "Secretaria Especial de Informática"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Secretaria Especial de Informática ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "45 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Departamento de Informática da Pontifícia Universidade Católica do Rio de Janeiro (PUC/RJ) -- Núcleo de Computação e Eletrônica da Universiade Federal do Rio de Janeiro (NCE/UFRJ) -- Cooredanação dos Programas de Pós-Graduação de Engenharia da Universidade Federal do Rio de Janeiro (COPPE/UFRJ) -- Universidade Federal do Rio Grande do Sul (UFRGS) -- Instituto de Física da Universidade Federal do Rio Grande do Sul (IF/UFRGS) -- Departamento de Ciência da Computação da Universidade Federal de Minas Gerais (DCC/UFMG) -- Laboratório de Sistemas Digitais da Escola Politécnica da Universiade de São Paulo (LSD/USP) -- Laboratório de Subsistemas Integráveis da Universiade de São Paulo (LSI/USP) -- Laboratório de Subsistemas Integráveis da Universidade de São Paulo (LSC/USP) -- Laboratório de Controle de Processos e Eletrônica Industrial da Escola Politécnica da Universidade de São Paulo (LEI/USP) - Instituto de Pesquisas Espaciais (INPE) -- Instituto Tecnológico de Aeronáutica (ITA) -- Centro de Pesquisas e Desenvolvimento da TELEBRÁS (CPqD/TELEBRÁS) -- Departamento de Ciência da Computação da Universidade Estadual de Campinas (DCC/UNICAMP) -- Laboratório de Eletrônica e Dispositivos da Universidade de Campinas (LED/UNICAMP) -- Laboratório de Pesquisa em Dispositivos da Universidade de Campinas (LPD/UNICAMP) -- Laboratório de Material de Grau Eletrônico da Universidade de Campinas (MGE/UNICAMP) -- Instituto de Pesquisa Tecnológicas do Estado de São Paulo S.A. (IPT) -- Laboratório de Computação Científica do Conselho Nacional de Desenvolvimento Científico e Tecnológico (LCC/CNPq) -- Appendix: Special Secretariat of Informatics - Brazil."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Instituição de ensino ",
+                "x": "Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Cadastros ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

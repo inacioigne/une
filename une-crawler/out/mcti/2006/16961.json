@@ -1,0 +1,79 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     naa  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000016961"
+        },
+        {
+            "code": "005",
+            "value": "20190902142333.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por  "
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCTIC ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Ribeiro, Sergio de Otero"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Teleprocessamento; uma experiência de uso de teleprocessamento no Brasil ",
+                "h": "Impresso ",
+                "c": "Sérgio de Otero Ribeiro"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "O PRODASEN: breve histórico, objetivos, estrutura e recursos."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Teleprocessamento ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "773",
+            "subfield": {
+                "d": "Rio de Janeiro : Comissão de Coordenação das Atividades de Processamento de Dados, 1973-1979. ",
+                "g": "v. 4, n. 1 (jan./mar. 1976), p. 15-6 ",
+                "h": "v. ",
+                "n": "Publicação interrompida de 1977 a 1979 ",
+                "q": "4:1 ",
+                "t": "Capre : boletim informativo ",
+                "w": "000001951 ",
+                "7": "   s"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Analítica de Periódicos"
+            }
+        }
+    ]
+}

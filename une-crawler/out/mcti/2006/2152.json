@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002152"
+        },
+        {
+            "code": "005",
+            "value": "20190808125057.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8534603111"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.451.9 ",
+                "b": "M939wo ",
+                "c": "=134.3 ",
+                "d": "1994"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Woodcock, Joanne ",
+                "d": "1944-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "O livro definitivo e consagrado MS-DOS ",
+                "b": "versões 6 e 6.2 ",
+                "c": "Joanne Woodcock ; tradução Kátia A. Roque ; revisão técnica Márcio Magyar Franco ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Makron Books ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xv, 492 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Cutter baseado no nome do programa afim de reunir com as demais obras no acervo."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistemas operacionais (Computadores) ",
+                "x": "MS-DOS (Sistema operacional de computador)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aplicativo de tecnologia"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

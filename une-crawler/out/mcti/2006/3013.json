@@ -1,0 +1,88 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003013"
+        },
+        {
+            "code": "005",
+            "value": "20190809104349.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "51-029:336 ",
+                "b": "F237m ",
+                "c": "1974"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Faro, Clóvis de ",
+                "d": "1941-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Matemática financeira ",
+                "c": "Clóvis de Faro ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "5. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Associação de Cooperação Econômica da Ásia e do Pacífico ",
+                "c": "1974"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "440 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Matemática financeira"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

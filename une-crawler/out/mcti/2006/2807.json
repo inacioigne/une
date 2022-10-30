@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002807"
+        },
+        {
+            "code": "005",
+            "value": "20190809152210.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.738.5 ",
+                "b": "C376m ",
+                "c": "2003-2004"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Cavalcante, Vladimir Araujo"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "As mil faces da liberdade na internet ",
+                "b": "quem domina os domínios ",
+                "c": "Vladimir Araujo Cavalcante ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Ed. do Autor ",
+                "c": "2003-2004"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Internet"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Controle social"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Privacidade"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

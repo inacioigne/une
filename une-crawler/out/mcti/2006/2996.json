@@ -1,0 +1,99 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002996"
+        },
+        {
+            "code": "005",
+            "value": "20190802105526.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0138812195"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.414.2 ",
+                "b": "T435s ",
+                "c": "1975"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Thierauf, Robert J"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Systems analysis and design of real-time management information systems ",
+                "c": "Robert J. Thierauf ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Englewood Cliffs ",
+                "b": "Prentice-Hall ",
+                "c": "c1975"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xi, 607 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de Gerenciamento de Informações"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Análise de sistemas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tempo real"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002539"
+        },
+        {
+            "code": "005",
+            "value": "20190808152430.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "008(81)(084.4) ",
+                "b": "B823m ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Ministério da Educação"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Mapa cultural ",
+                "b": "artesanato, folclore, patrimônio ecológico, patrimônio histórico : v. 1 Acre - MInas Gerais ",
+                "h": "Impresso ",
+                "c": "Ministério da Educação"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Fundação Movimento Brasileiro de Alfabetização ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "544 ",
+                "b": "il., mapas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Patrimônio cultural ",
+                "x": "Noção de Conservação ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Artesanato ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Folclore ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Conservação da natureza ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Fundação Movimento Brasileiro de Alfabetização ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

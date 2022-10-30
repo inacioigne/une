@@ -1,0 +1,90 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003683"
+        },
+        {
+            "code": "005",
+            "value": "20190807093441.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "551.509 ",
+                "b": "I61 ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "The Task Group"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "International Research Institute for Climate Prediction ",
+                "b": "a proposal ",
+                "c": "by The Task Group, A.D. Moura (Chairman) ... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Silver Spring, Estados Unidos ",
+                "b": "IRICP Task Group ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "ix, 51, [14] p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Climatologia ",
+                "x": "Pesquisa ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Meteorologia"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

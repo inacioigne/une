@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002898"
+        },
+        {
+            "code": "005",
+            "value": "20190806110503.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.6:658 ",
+                "b": "S998i ",
+                "c": "1972"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Szweda, Ralph A"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Information processing management ",
+                "c": "Ralph A. Szweda ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Princeton [Estados Unidos] ",
+                "b": "Auerbach ",
+                "c": "1972"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "632 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Administração"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Armazenamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informação ",
+                "x": "Administração"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002780"
+        },
+        {
+            "code": "005",
+            "value": "20190801133120.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "620.9 ",
+                "b": "E56 ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Energia ",
+                "b": "recomendações para uma estratégia nacional de combate ao desperdício ",
+                "c": "Keith Kozloff ... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Grafcamp ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "193"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Elaborado pela equipe do Projeto de Inovação de Tecnologia Energética (Energy Technology Innovation Project, ETIP)."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia elétrica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia elétrica ",
+                "z": "Brasil",
+                "x": "Aspectos economicos "
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Kozloff, Keith ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Cowart, Richard ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Jannuzzi, Gilberto de Martino ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Mielnik, Otavio ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

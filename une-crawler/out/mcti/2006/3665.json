@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003665"
+        },
+        {
+            "code": "005",
+            "value": "20190807144756.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9233013561"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502.51:504.5 ",
+                "b": "G618s ",
+                "c": "=134.2 ",
+                "d": "1979"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Goldberg, Edward D"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "La salud de los océanos ",
+                "c": "por Edward D. Goldberg ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "UNESCO ",
+                "c": "1979"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "194 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Oceano"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Poluição marinha"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "UNESCO ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

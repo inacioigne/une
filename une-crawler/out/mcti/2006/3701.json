@@ -1,0 +1,121 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003701"
+        },
+        {
+            "code": "005",
+            "value": "20190808145628.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "332.025.28(81) ",
+                "b": "P961 ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A privatização no Brasil ",
+                "b": "o caso dos serviços de utilidade pública ",
+                "c": "editado por Armando Castelar Pinheiro, Kiichiro Fukasaku ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Banco Nacional de Desenvolvimento Econômico e Social ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "369 ",
+                "b": "il., grafs., tabs."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Os antecedentes macroeconômicos e a estrutura institucional da privatização no Brasil / Armando Castelar Pinheiro e Fabio Giambiagi -- Reforma do setor público na América Latina: uma perspectiva comparada / Francisco Galrão Carneiro e Carlos Henrique Rocha -- Privatização e governança empresarial no Brasil / Luiz R. de Mello Jr. -- Privatização de serviços públicos: a experiência da OCDE / Stilpon Nestor e Ladan Mahboodi -- Privatização do setor de telecomunicações no Brasil / Ana Novaes -- Privatização do setor elétrico no Brasil / Carlos Kawall Leal Ferreira -- Privatização do setor de transportes no Brasil / Newton de Castro -- Privatização do setor de saneamento no Brasil / Antonio Carlos Parlatore -- Um balanço da privatização nos anos 90 / Eduardo Modiano -- Utilidades públicas, cidadania e participação / Bolívar Lamounier -- O juiz e a privatização / José Renato Nalini -- Evolução do mercado de telecomunicações no Brasil no período pós-privatização / Antonio Carlos Valente da Silva -- O futuro da privatização no Brasil / Ricardo Coelho."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Privatização ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Serviço de utilidade pública ",
+                "x": "Privatização ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Serviço público ",
+                "x": "Análise comparativa ",
+                "z": "América Latina"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Pinheiro, Armando Castelar ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Fukasaku, Kiichiro ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (BNDES) ",
+                "u": "https://web.bndes.gov.br/bib/jspui/handle/1408/2222 ",
+                "z": "Acesso em: 08/08/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004006"
+        },
+        {
+            "code": "005",
+            "value": "20190813130012.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.056 ",
+                "b": "E79cm ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Estados Unidos. Congress. Senate. Committee on Governmental Affairs. Subcommittee on Oversight of Government Management"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Computer Matching and Privacy Protection Act of 1986 ",
+                "b": "hearings before the Subcommittee on Oversight of Government Management of the Committee on Governmental Affairs, United States Senate, Ninety-ninth Congress, second session, on S. 2756 ... September 16, 1986 ",
+                "h": "Impresso ",
+                "c": " Congress. Senate. Committee on Governmental Affairs. Subcommittee on Oversight of Government Management"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "U.S. Government Printing Office ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "iv, 364 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "S. Hrg ",
+                "v": "98-898"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Publicações oficiais ",
+                "x": "Legislação ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Privacidade"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Segurança de computador ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

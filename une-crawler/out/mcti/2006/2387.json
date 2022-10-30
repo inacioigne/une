@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002387"
+        },
+        {
+            "code": "005",
+            "value": "20190731102020.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.732:658.7(047) ",
+                "b": "B823re ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Secretaria Especial de Informática"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Relatório do grupo de especificação para aquisição de redes locais de computadores para uso no setor federal ",
+                "c": "Secretaria Especial de Informática ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Secretaria Especial de Informática ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "47 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "1. Prefácio 1.1. -- 2. Apresentação dos resultados. -- 2.1.1. Automação de escritório. -- 2.1.2. Automação industrial. -- 2.2. Especificações. -- 2.2.1. Automação de escritório. -- 2.2.2. Automação industrial. -- 3. Medidas propostas para a implantação do modelo. -- Anexo 1. Relação dos participantes. -- Anexo 2. Previsão de demanda de empresas do segmento de automação industrial. -- Anexo 3. A certificação de redes locais de computadores."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "As Redes Locais vem tendo um crescente uso a nível mundial, representando hoje, somente para o segmento da automação de escritórios, um mercado da ordem de 1,5 bilhão de dólares em 1987, devendo atingir 3,5 bilhões de dólares em 199. Essa situação vem se refletindo no mercado brasileiro, que consta atualmente com 10 empresas produtoras de equipamentos de \"software\" de Rede Local voltada para o segmento de automação de escritórios, e 12 empresas que atuam nos segmentos CLP e SDCD, voltados para a automação industrial, e que usam as Redes Locais como meio para interligação dos equipamentos que produzem. A análise da situação brasileira revela que a viabilização de empresas auto-sustentadas e que disponha de desenvolvimento próprio no segmento de Redes Locais, para por uma ação coordenada que abranja o uso do poder de compra dos usuários, em particular os da área do governo federal. Além do poder de compra, serão importantes a disponibilidade de linhas de financiamento a pesquisa, ao desenvolvimento e à comercialização, elaboração e especificações de serviço e de desempenho que levem à competitividade internacional, e a observância às normas nacionais e internacionais existentes. Com a finalidade de equacionar os aspectos relativos às especificações Redes Locais ao poder de compra do governo, foi realizada em 11.05.87 uma reunião promovida pela Secretaria Especial de Informática, como representantes de diversas áreas do governo federal que deu origem a um Grupo com a finalidade de identificar a demanda inerente a esses órgãos, e elaborar especificações de aquisição de Redes Locais de computadores no setor público federal, bem como propor medidas que possam contribuir para a padronização e interconectividade."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede local ",
+                "x": "Governo federal"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação de escritório"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

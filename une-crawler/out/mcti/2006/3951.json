@@ -1,0 +1,98 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003951"
+        },
+        {
+            "code": "005",
+            "value": "20190809133431.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.651(043.2) ",
+                "b": "A994m ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Azevedo Neto, Carlos F. de"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Uma metodologia para definição do esquema de banco de dados ",
+                "c": "Carlos F. de Azevedo Neto ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Porto Alegre ",
+                "b": "Universidade Federal do Rio Grande do Sul ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "100"
+            }
+        },
+        {
+            "code": "502",
+            "subfield": {
+                "a": "Tese (Mestrado) - Universidade Federal do Rio Grande do Sul, Porto Alegre, 1980."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Banco de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gerenciamento de banco de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Análise de sistemas"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dissertações/Teses/TCC"
+            }
+        }
+    ]
+}

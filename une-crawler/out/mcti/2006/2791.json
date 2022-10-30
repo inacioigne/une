@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002791"
+        },
+        {
+            "code": "005",
+            "value": "20190730111432.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "626.81/.84(282.281.5) ",
+                "b": "C968 ",
+                "c": "[2003?]"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Veras, Beni ",
+                "d": "1935-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Cultivando água boa ",
+                "b": "projeto piloto sub-bacia do Rio São Francisco Verdadeiro ",
+                "c": "Beni Veras ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Foz do Iguaçu ",
+                "b": "Usina hidrelétrica de Itaipu ",
+                "c": "[2003?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "31 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Bacias hidrográficas ",
+                "z": "Rio São Francisco"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Transposição de rio ",
+                "z": "Rio São Francisco"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Irrigação ",
+                "x": "Planejamento"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Usina Hidrelétrica de Itaipu ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

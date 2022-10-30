@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002407"
+        },
+        {
+            "code": "005",
+            "value": "20190808143744.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.65 ",
+                "b": "C335p ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Casanova, Marco Antonio"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Princípios de sistemas de gerência de bancos de dados distribuídos ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Campus ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xii, 355 ",
+                "c": "23 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Esta é uma edição preliminar preparada para a Quarta Escola de Computação, São Paulo, 12 a 20 de julho de 1984."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "O que é um Sistema de Gerência de Bancos de Dados Distribuídos -- Tipos de SGBDs Distribuídos -- Requisitos funcionais de SGBD distribuído -- Especificação das interfaces de um SGBD distribuído -- Introdução ao processamento de comandos da LMD: o caso centralizado e o caso distribuído -- Introdução a gerência de transações -- Executando transações -- Controle de concorrência e de integridade."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Banco de dados distribuído"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de gerenciamento de banco de dados"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Moura, Arnaldo Vieira ",
+                "d": "1950- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

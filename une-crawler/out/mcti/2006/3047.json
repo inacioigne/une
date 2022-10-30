@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003047"
+        },
+        {
+            "code": "005",
+            "value": "20190801162423.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.434:004.94 ",
+                "b": "F375e ",
+                "c": "[19--?]"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Ferrari, Marcio Nei"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Estudo comparativo de linguagens de simulação ",
+                "c": "Marcio Nei Ferrari, Marcia Aguiar Rabuske, Renato Antonio Rabuske ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l. ",
+                "b": "s.n. ",
+                "c": "19--?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "145 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem de programação (Computadores)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem de simulação"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Rabuske, Marcia Aguiar ",
+                "d": "1940- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Rabuske, Renato Antonio ",
+                "d": "1942- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003641"
+        },
+        {
+            "code": "005",
+            "value": "20190812153920.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "332.122-029:62(100)(063) ",
+                "b": "S471a ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Seminário Internacional Parques Tecnológicos ",
+                "c": "Rio de Janeiro, RJ ",
+                "d": "1987"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais do Seminário Internacional Parques Tecnológicos ",
+                "b": "auditório do BNDES, Rio de Janeiro, 1 a 4 de dezembro de 1987 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Universidade Federal do Rio de Janeiro, Coordenação dos Programas de Pós-graduação de Engenharia, Nucleo de Inovação Tecnológica ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "330 ",
+                "b": "il., tab."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Patrocinio: Organização dos Estados Americanos ... [et al.]; realização Nucleo de Inovação Tecnologica, COPPE/UFRJ, colaboração: PACTO-IA/FEA/USP, BNDES"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inovação tecnológica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Parque tecnológico"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

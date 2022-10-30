@@ -1,0 +1,90 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002499"
+        },
+        {
+            "code": "005",
+            "value": "20190813125515.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.42 ",
+                "b": "B496a ",
+                "c": "1974"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Berger, Raymond M"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Computer programmer job analysis ",
+                "b": "an AFIPS report ",
+                "c": "by Raymond M. Berger ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Montvale [Estados Unidos] ",
+                "b": "American Federation of Information Processing Societies ",
+                "c": "c1974"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "93 ",
+                "c": "28 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "American Federation of Information Processing Societies ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002158"
+        },
+        {
+            "code": "005",
+            "value": "20190806095735.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.451.9(07) ",
+                "b": "U66 ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Updating support skills from Microsoft Windows NT 4.0 to Microsoft Windows 2000 workbook ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Redmont, Washington ",
+                "b": "Microsoft Press ",
+                "c": "c2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. (paginação irregular) ",
+                "b": "il., ",
+                "e": "+ 3 CD-ROMs"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Material didático destinado ao curso Microsoft Training and Certification, Microsoft Official Curriculum. Course instruction 1560B."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistemas operacionais (Computadores) ",
+                "x": "Treinamento de pessoal"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aplicativo de tecnologia"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002831"
+        },
+        {
+            "code": "005",
+            "value": "20190808145145.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.42(035) ",
+                "b": "M294 ",
+                "c": "1972"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Manual de programação ",
+                "h": "Impresso ",
+                "c": "Serviço Federal de Processamento de Dados"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "1. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Serviço Federal de Processamento de Dados ",
+                "c": "1972"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. (várias paginações) ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Fluxograma"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Técnica de programação"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Serviço Federal de Processamento de Dados (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

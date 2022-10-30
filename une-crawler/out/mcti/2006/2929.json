@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002929"
+        },
+        {
+            "code": "005",
+            "value": "20190805094035.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.5 ",
+                "b": "E24 ",
+                "c": "1971"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The EDP people problem ",
+                "c": "Fred Gruenberger, editor ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Los Angeles ",
+                "b": "Data Processing Digest ",
+                "c": "c1971"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "176"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Treinamento de pessoal"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos humanos"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Gruenberger, Fred Joseph ",
+                "d": "1918- ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

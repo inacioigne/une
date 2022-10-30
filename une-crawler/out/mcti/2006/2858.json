@@ -1,0 +1,121 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002858"
+        },
+        {
+            "code": "005",
+            "value": "20190809160112.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0876264100"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.42 ",
+                "b": "C767i ",
+                "c": "1975"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Conway, Richard Walter ",
+                "d": "1931-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "An introduction to programming ",
+                "b": "a structured approach using PL/I and PL/C ",
+                "c": "Richard Conway, David Gries, contributions by John E. Dennis and Jorge Moré ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "2. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Cambridge (Estados Unidos) ",
+                "b": "Winthrop Publishers ",
+                "c": "1975"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xiv, 509 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Winthrop Computer Systems Series"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem de programação (Computadores)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação estruturada"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Gries, David ",
+                "d": "1939- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002426"
+        },
+        {
+            "code": "005",
+            "value": "20190805115608.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8570130104"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "016:050(81) ",
+                "b": "G943 ",
+                "d": "R ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Guia de publicações seriadas brasileiras ",
+                "h": "Impresso ",
+                "c": "Instituto Brasileiro de Informação em Ciência e Tecnologia"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto Brasileiro de Informação em Ciência e Tecnologia ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "671"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Conhecimento -- Ciências exatas -- Ciências biológicas -- Ciências da saúde -- Agricultura -- Meio ambiente e recursos naturais -- Ciências sociais -- Engenharia -- Tecnologia -- Lingüística - arte - religião -- Desenvolvimento -- Multidisciplinar -- Indice alfabético dos cabeçalhos de assuntos -- Índice alfabético dos títulos das publicações -- Lista dos editores -- Lista dos ISSN's"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "A primeira edição desta publicação foi feita, em 1956, pelo Instituto Brasileiro de Bibliografia e Documentação, com o título de Periódicos Brasileiros de Cultura. Em 1977, sob a denominação de Periódicos Brasileiros de Ciência e Tecnologia, apareceu uma nova edição, distribuída tanto sob a forma impressa como em microfichas. Em 1983, uma publicação que continha os títulos de periódicos aos quais tinha sido atribuído o Número Internacional Normalizado de Publicações Seriadas foi editada sob o título ISSN: Publicações Periódicas Brasileiras. Este guia atual continua o esforço iniciado há mais de 30 anos visando à manutenção de um registro permanente das publicações seriadas editadas no Brasil, com o objetivo básico de promover sua mais ampla difusão e utilização. Ele arrola publicações seriadas, principalmente periódicos de interesse para as áreas científicas e tecnológicas, que se acham registradas na base de dados do Catálogo Coletivo Nacional de Publicações Seriadas (CCN), do Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT). São aqui incluídas apenas aquelas publicações que se consideram como de publicação corrente, o que não implica que estejam sendo editadas dentro da periodicidade estabelecida. O guia não se limita apenas a arrolar os periódicos primários de cunho estritamente científico, embora, por outro lado, não pretenda incluir publicações de caráter meramente noticioso ou de interesse passageiro. Além de publicações seriadas primárias, aqui também se acham registradas publicações secundárias, como bibliografias, índices e publicações de resumos."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Periódico ",
+                "x": "Bibliografia ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto Brasileiro de Informação em Ciência e Tecnologia ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

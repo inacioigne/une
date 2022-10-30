@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003525"
+        },
+        {
+            "code": "005",
+            "value": "20190801114258.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8585637056"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "025.21 ",
+                "b": "V498s ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Vergueiro, Waldomiro"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Seleção de materiais de informação ",
+                "b": "princípios e técnicas ",
+                "c": "Waldomiro Vergueiro ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Briquet de Lemos ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "109"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Serviço de aquisição"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biblioteconomia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Livro ",
+                "x": "Política de seleção"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

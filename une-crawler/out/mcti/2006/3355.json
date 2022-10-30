@@ -1,0 +1,89 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003355"
+        },
+        {
+            "code": "005",
+            "value": "20190802144632.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "857518086x"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "008 ",
+                "b": "P287 ",
+                "d": "DVD ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Os templos da selva ",
+                "b": "passeio pelo patrimônio : Machu-Pichu, Bandiagara, Palenque, Copán ",
+                "h": "Recurso Eletrônico"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Encyclopaedia Britannica do Brasil ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 DVD ",
+                "b": "son., color. ;4 3/4 pol."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Acima do título : Casas dos deuses ; Cutter baseado no título da série, afim de reunir com as demais obras no acervo."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Patrimônio mundial"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "UNESCO ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "DVD"
+            }
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002979"
+        },
+        {
+            "code": "005",
+            "value": "20190809122501.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "085012154x"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.2 ",
+                "b": "L412p ",
+                "c": "1976"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Lavington, S. H. ",
+                "d": "1939- ",
+                "q": "Simon Hugh"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Processor architecture ",
+                "c": "by S. H. Lavington ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Manchester [Inglaterra] ",
+                "b": "NCC Publications ",
+                "c": "1976"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "126 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquitetura de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computador digital"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

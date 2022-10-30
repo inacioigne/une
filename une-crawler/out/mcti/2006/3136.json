@@ -1,0 +1,127 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003136"
+        },
+        {
+            "code": "005",
+            "value": "20190731125116.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8586552704"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "628.4 ",
+                "b": "R433 ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Resíduos sólidos urbanos ",
+                "b": "aterro sustentável para municípios de pequeno porte ",
+                "c": "Coordenador Armando Borges de Castilhos Junior ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Associação Brasileira de Engenharia Sanitária e Ambiental ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xii, 280 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Lixo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tratamento de residuo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Resíduo industrial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aterro sanitário"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Castilhos Junior, Armando Borges de ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Associação Brasileira de Engenharia Sanitária e Ambiental ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Programa de Pesquisa em Saneamento Básico (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

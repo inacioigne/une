@@ -1,0 +1,118 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004003"
+        },
+        {
+            "code": "005",
+            "value": "20190808110423.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "2717804285"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "62-027.15 ",
+                "b": "A849m"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Association pour le Développement des Études Sur la Firme et L'industrie ",
+                "c": "França"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Les mutations technologiques ",
+                "b": "VIèmes rencontres nationales de Chantilly, septembre 1980 ",
+                "h": "Impresso ",
+                "c": "Association pour le Développement des Études Sur la Firme et L'industrie"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Économica ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "314 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Collection Firme et système industriel"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Acima do título : ADÉFI, Association pour le développement des études sur la firme et l'industrie. Rencontres organisées par le Centre de recherche en économie industrielle, Université de Paris XIII."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "z": "França ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação ",
+                "x": "Congressos, eventos, encontros",
+                "z": "França "
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia ",
+                "x": "Congressos, eventos, encontros",
+                "z": "França "
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

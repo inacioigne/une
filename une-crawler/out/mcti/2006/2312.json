@@ -1,0 +1,119 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "am   nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002312"
+        },
+        {
+            "code": "005",
+            "value": "20190812185027.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "por                                por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "61:001.891(81) ",
+                "b": "A654 ",
+                "c": "2000 ",
+                "d": "CNPq"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Apreciação geral e estratégica da pesquisa no campo da saúde no Brasil ",
+                "b": "desafios em ciência e tecnologia no Brasil ",
+                "h": "Impresso ",
+                "c": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Conselho Nacional de Desenvolvimento Científico e Tecnológico ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "118 ",
+                "b": "il., graf., tab."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Prefácio -- Panorama geral das bolsas de pesquisa no Brasil -- Objetivo geral -- Resultados gerais -- Conteúdos das bolsas de produtividade em pesquisa do campo da saúde no Brasil"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Historicamente a área da Saúde tem merecido tratamento prioritário na formulação e implementação das ações do CNPq. Considerando a grande área, em consonância com as políticas do Ministério da Ciência e Tecnologia, têm-lhe sido destinados cerca de 30% dos recursos para pesquisa e desenvolvimento tecnológico. As exigências da nova ordem econômica mundial e da realidade brasileira, com seus desequilíbrios e contradições, motivaram alterações no modelo de operacionalização do fomento, vigente há décadas, para assegurar o atendimento a prioridades determinadas pela necessidade de resolução de problemas específicos, mormente os sociais. Assim, de um modelo que atendia quase que exclusivamente à demanda espontânea por financiamento à pesquisa e formação de recursos humanos, passou o CNPq a operar, também, segundo um modelo que tem nos programas um forte instrumento de fomento e que enfatiza questões cuja solução é crucial para que o país logre alcançar seu desenvolvimento com justiça e equidade social."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Saúde ",
+                "x": "Pesquisa ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa médica ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\2312-Apreciacao_geral_estrategica_pesquisa_campo_saude_Brasil.pdf ",
+                "y": "MCTIC ",
+                "z": "Acesso em: 17/02/2017"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

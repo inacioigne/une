@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003847"
+        },
+        {
+            "code": "005",
+            "value": "20190812111320.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.311 ",
+                "b": "M916 ",
+                "d": "FINEP ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Mostra energia Brasil de produtos e serviços inovadores para as micro, pequenas e médias empresas ",
+                "h": "Impresso ",
+                "c": "Financiadora de Estudos e Projetos"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Financiadora de Estudos e Projetos ",
+                "c": "[2002]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "56 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Equipamento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Fonte alternativa de energia"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Financiadora de Estudos e Projetos (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003090"
+        },
+        {
+            "code": "005",
+            "value": "20190809140204.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8575290460"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "635.652 ",
+                "b": "Q7p ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Quinderé, Mary Ann Weyne"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Produtor de feijão ",
+                "c": "Mary Ann Weyne Quinderé, Antônio Apoliciano dos Santos, Paulo Diógenes Barreto, Júlio Cal Vidal ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Fortaleza ",
+                "b": "Instituto Centro de Ensino Tecnológico ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "48 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Cadernos tecnológicos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Agricultura ",
+                "x": "Feijão"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Barreto, Paulo Diógenes ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Santos, Antônio Apoliciano dos ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Vidal, Júlio Cal ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto Centro de Ensino Tecnológico ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

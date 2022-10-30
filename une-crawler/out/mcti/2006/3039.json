@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003039"
+        },
+        {
+            "code": "005",
+            "value": "20190730124719.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0442210310"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:347.4 ",
+                "b": "B819d ",
+                "c": "c1976"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Brandon, Dick H"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Data processing contracts ",
+                "b": "structure, contents, and negotiation ",
+                "c": "Dick H. Brandon and Sidney Segelstein ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Van Nostrand Reinhold ",
+                "c": "c1976"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxii, 465 p."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores ",
+                "x": "Aluguel ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Contratos ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Segelstein, Sidney ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

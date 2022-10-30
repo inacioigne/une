@@ -1,0 +1,89 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003465"
+        },
+        {
+            "code": "005",
+            "value": "20190807131808.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "373.546 ",
+                "b": "P438 ",
+                "c": "[19--?]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Perfil da Politécnica ",
+                "b": "atualidade e vanguarda ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Hacker ",
+                "c": "[19--?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "112 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia ",
+                "x": "História"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Instituição de ensino"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Universidade de São Paulo. Escola Politécnica ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

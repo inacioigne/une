@@ -1,0 +1,112 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002581"
+        },
+        {
+            "code": "005",
+            "value": "20190806094714.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "1405-2903"
+            }
+        },
+        {
+            "code": "022",
+            "subfield": {
+                "a": "1405-2903"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "336.531.2:5/6(72) ",
+                "b": "I39 ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Indicadores de actividades científicas y tecnológicas ",
+                "b": "México, 1996 ",
+                "h": "Impresso ",
+                "c": "Consejo Nacional de Ciencia y Tecnología, Secretaría de Educación Pública"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "México ",
+                "b": "Consejo Nacional de Ciencia y Tecnología ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "196 ",
+                "b": "il., tabs., grafs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa científica ",
+                "x": "Estatísticas ",
+                "z": "México"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "x": "Indicadores ",
+                "z": "México"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Consejo Nacional de Ciencia y Tecnología (México) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "México. Secretaría de Educación Pública ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

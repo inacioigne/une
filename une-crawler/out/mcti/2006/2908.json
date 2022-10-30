@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002908"
+        },
+        {
+            "code": "005",
+            "value": "20190808134936.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "005.591.6:004 ",
+                "b": "K16m ",
+                "c": "c1970"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Kanter, Jerome"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Management guide to computer system selection and use ",
+                "c": "Jerome Kanter ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Englewood Cliffs ",
+                "b": "Prentice-Hall ",
+                "c": "c1970"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "ix, 257 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados ",
+                "x": "Empresas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Empresas ",
+                "x": "Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

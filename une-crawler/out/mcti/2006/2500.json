@@ -1,0 +1,135 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002500"
+        },
+        {
+            "code": "005",
+            "value": "20190729145620.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "336.22(81) ",
+                "b": "H711p ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Hoffmann, Rodolfo ",
+                "d": "1942-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Progressividade e sacrifício eqüitativo na tributação ",
+                "b": "o caso do Brasil ",
+                "c": "Rodolfo Hoffmann, Fernando Gaiger Silveira, José Adrian Pintos Payeras ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "22 f. ",
+                "b": "gráfs., tabs."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IPEA ",
+                "v": "1188"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Busca, com base nos dados sobre tributos diretos e indiretos obtidos da Pesquisa de Orçamentos Familiares (POF) de 1995-1996 e nos dados sobre tributos diretos obtidos da POF de 2002-2003, avaliar como se combinam, no caso brasileiro, o princípio do sacrifício eqüitativo na tributação com a pressuposição de que a elasticidade da utilidade marginal em relação à renda é constante. Aponta a existência de uma equação não-linear, relacionando o tributo per capita e a renda per capita com aquela elasticidade, determinando se o tributo é progressivo ou regressivo."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Impostos ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Orçamento familiar ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Silveira, Fernando Gaiger ",
+                "d": "1964- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Pintos Payeras, José Adrian ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo ",
+                "u": "http://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=4339 ",
+                "z": "Acesso em: 29/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

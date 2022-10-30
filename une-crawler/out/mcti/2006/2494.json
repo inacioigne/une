@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002494"
+        },
+        {
+            "code": "005",
+            "value": "20190806112412.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0885860004"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.2:002 ",
+                "b": "H961i ",
+                "c": "1976"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Hurtubise, Rolland A. ",
+                "d": "1942-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Informatique et information ",
+                "b": "la conception des systèmes d'information : les banques de données ",
+                "c": "Rolland Hurtubise ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Montreal ",
+                "b": "Agence d'Arc ",
+                "c": "1976"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "357 ",
+                "c": "23 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de informação gerencial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de gerenciamento de banco de dados"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

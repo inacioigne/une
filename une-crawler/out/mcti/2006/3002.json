@@ -1,0 +1,88 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003002"
+        },
+        {
+            "code": "005",
+            "value": "20190813115203.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0471298980"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.356.4 ",
+                "b": "G468c ",
+                "c": "1974"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Gildenberg, Robert F"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Computer-output-microfilm systems ",
+                "c": "Robert F. Gildenberg ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Los Angeles ",
+                "b": "Melville Pub. Co. ",
+                "c": "c1974"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "199 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores ",
+                "x": "Microforma"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004002"
+        },
+        {
+            "code": "005",
+            "value": "20190806093026.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "2880740223"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.3.049.77 ",
+                "b": "J86d ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Journées D'Électronique ",
+                "c": "Lausanne, Suiça ",
+                "d": "1983"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Un défi, le test des circuits intégrés complexes comptes rendus des Journées d'électronique 1983 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Testing complex integrated circuits, a challenge : proceedings of Journées d'électronique 1983"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Lausanne [Suiça] ",
+                "b": "Presses polytechniques romandes ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xii, 338 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia eletrônica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito integrado"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "École polytechnique fédérale de Lausanne ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Association of Swiss Electrotechnicians ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

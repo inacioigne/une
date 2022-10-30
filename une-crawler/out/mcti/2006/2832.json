@@ -1,0 +1,124 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002832"
+        },
+        {
+            "code": "005",
+            "value": "20190807101632.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0070394555"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.451 ",
+                "b": "M182o"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Madnick, Stuart E"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Operating systems ",
+                "c": "Stuart E. Madnick, John J. Donovan ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "McGraw-Hill ",
+                "c": "c1974"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xvii, 640 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistemas operacionais (Computadores) ",
+                "x": "Análise estruturada"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem de programação (Computadores)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microprocessador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Hardware"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Algoritmos"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Donovan, John J ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

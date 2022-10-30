@@ -1,0 +1,99 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003954"
+        },
+        {
+            "code": "005",
+            "value": "20190812171316.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.65(043.2) ",
+                "b": "N763a ",
+                "c": "1978"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Noé, Gerson Oscar"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Uma análise de sistemas de gerência de base de dados ",
+                "c": "Gerson Oscar Noé ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "c": "1978 ",
+                "a": "Porto Alegre ",
+                "b": "Universidade Federal do Rio Grande do Sul"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "141 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "502",
+            "subfield": {
+                "a": "Tese (Mestrado) - Universidade Federal do Rio Grande do Sul, Porto Alegre, 1978."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gerenciamento de banco de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Banco de dados"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dissertações/Teses/TCC"
+            }
+        }
+    ]
+}

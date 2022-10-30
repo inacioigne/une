@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002610"
+        },
+        {
+            "code": "005",
+            "value": "20190807114007.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0850121086"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.42 ",
+                "b": "W331i ",
+                "c": "c1974"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Waters, S. J"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Introduction to computer systems design (planning files & programs) ",
+                "c": "by S. J. Waters ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Manchester [Inglaterra] ",
+                "b": "NCC Publications ",
+                "c": "c1974"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "198 ",
+                "c": "22 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquitetura de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento de sistemas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Documentação de sistemas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de computador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

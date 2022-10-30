@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003067"
+        },
+        {
+            "code": "005",
+            "value": "20190802150545.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "005.332.3 ",
+                "b": "G633g ",
+                "c": "1979"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Gomes, F. Araujo ",
+                "q": "Francelino Araujo"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Gerência ",
+                "b": "da direção científica à direção na mudança ",
+                "c": "F. Araujo Gomes ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Interciência ",
+                "c": "1979"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "200 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração de empresas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mudança organizacional"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gerência"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Planejamento"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

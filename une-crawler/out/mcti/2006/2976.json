@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002976"
+        },
+        {
+            "code": "005",
+            "value": "20190808144032.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.056 ",
+                "b": "P961 ",
+                "c": "1972"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Privacy and computers ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Ottawa [Canadá] ",
+                "b": "Information Canada ",
+                "c": "1972"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "236 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "A report of a Task Force established jointly by Dept. of Communications/Dept. of Justice."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Privacidade ",
+                "z": "Canadá"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informação tecnológica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores ",
+                "x": "Legislação ",
+                "z": "Canadá"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

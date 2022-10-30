@@ -1,0 +1,88 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004157"
+        },
+        {
+            "code": "005",
+            "value": "20190808132041.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "81'366 ",
+                "b": "A474p ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Alves, Ivan"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Português ",
+                "b": "morfologia e sintaxe, exercícios, módulo III ",
+                "c": "Ivan Alves ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "1. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Primor ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "99"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua portuguesa ",
+                "x": "Problemas, questões, exercícios, etc."
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

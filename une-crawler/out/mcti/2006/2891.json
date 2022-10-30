@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002891"
+        },
+        {
+            "code": "005",
+            "value": "20190813114341.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0877691535"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.6:657.6 ",
+                "b": "C738 ",
+                "c": "1973"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Computers ",
+                "b": "auditing and control ",
+                "c": "ed. Elise G. Jancura and Arnold H. Berger ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Philadelphia ",
+                "b": "Auerbach ",
+                "c": "1973"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xii, 498"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados ",
+                "x": "Empresas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Auditoria"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aplicativo de tecnologia"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Jancura, Elise G. ",
+                "d": "1938- ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Berger, Arnold H ",
+                "d": "1931- ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

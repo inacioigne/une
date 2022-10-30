@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002625"
+        },
+        {
+            "code": "005",
+            "value": "20190813133212.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.382(035) ",
+                "b": "A428c ",
+                "c": "=134.3 1972"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Allen, Paul"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "O computador ",
+                "b": "manual de instrução programada ",
+                "c": "Paul Allen ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Renes ",
+                "c": "c1972"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "111 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Publicação técnica do SERPRO ",
+                "v": "v. 03"
+            }
+        },
+        {
+            "code": "534",
+            "subfield": {
+                "a": "Exploring the computer"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores ",
+                "x": "Estudo e ensino"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Serviço Federal de Processamento de Dados (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

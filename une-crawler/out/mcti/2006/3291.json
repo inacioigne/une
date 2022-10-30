@@ -1,0 +1,99 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003291"
+        },
+        {
+            "code": "005",
+            "value": "20190812111135.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.3.049:771.14(043.3) ",
+                "b": "M357m ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Marques, José Manuel Costa Alves"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "MOSAIC ",
+                "b": "une méthodologie de conception pour les circuits système VLSI ",
+                "c": "par José Manuel Costa Alves Marques ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Grenoble [França] ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "356 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "502",
+            "subfield": {
+                "a": "Tese (Doutorado) - Institut National Polytechnique de Grenoble, Grenoble, 1980."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito integrado"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Projeto MOSAIC"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquitetura de computador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dissertações/Teses/TCC"
+            }
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002964"
+        },
+        {
+            "code": "005",
+            "value": "20190809142309.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0471015954"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.31 ",
+                "b": "B581m ",
+                "c": "c1977"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Bibbero, Robert J"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Microprocessors in instruments and control ",
+                "c": "by Robert J. Bibbero ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Wiley ",
+                "c": "c1977"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xv, 301 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microprocessador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Controle de processo ",
+                "x": "Processamento de dados"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

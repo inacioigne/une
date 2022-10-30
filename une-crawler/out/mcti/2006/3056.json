@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003056"
+        },
+        {
+            "code": "005",
+            "value": "20190802105747.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0872018148"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.414.2:371.11 ",
+                "b": "S587s ",
+                "c": "1972"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Silvern, Leonard Charles ",
+                "d": "1919-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Systems engineering applied to training ",
+                "c": "Leonard C. Silvern ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Houston [Estados Unidos] ",
+                "b": "Gulf Pub. Co. ",
+                "c": "c1972"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xiii, 170 ",
+                "b": "il., (1 fold. in pocket)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Escolas ",
+                "x": "Organização e administração ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Análise de sistemas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Escola ",
+                "x": "Gerência"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

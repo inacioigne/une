@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004200"
+        },
+        {
+            "code": "005",
+            "value": "20190730112309.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.05 ",
+                "b": "Q1 ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Qualidade de software ",
+                "b": "seleção de textos ",
+                "c": "editores Ana Regina Cavalcanti da Rocha, Kival Chaves Weber ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Curitiba ",
+                "b": "Centro Internacional de Tecnologia de Software ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "136 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Controle de qualidade"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Desenvolvimento"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Rocha, Ana Regina Cavalcanti da ",
+                "d": "1948- ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Weber, Kival Chaves ",
+                "d": "1946- ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Centro Internacional de Tecnologia de Software ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

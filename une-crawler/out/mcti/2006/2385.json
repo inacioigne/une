@@ -1,0 +1,90 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002385"
+        },
+        {
+            "code": "005",
+            "value": "20190731103211.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4(047) ",
+                "b": "S471rs ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Seminário de Software ",
+                "c": "Brasília, DF ",
+                "d": "1988 ",
+                "n": "1"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Relatório do seminário de software ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Secretaria Especial de Informática ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "92 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "I. Introdução -- II. Constituição do seminário, metodologia de trabalho e lista de participantes -- III. Levantamento e diagnóstico da situação atual -- VI. Tendências tecnológicas. - V. Considerandos e Recomendações -- VI. Proposta de objetivos e diretrizes para o II PLANIN -- VII. Anexos -- A) Legislação na área de informática -- B) Produtividade e qualidade de software -- C) Produção e comercialização de software no Brasil -- D) Importância estratégica dos UNIXes brasileiros -- E) PLURIX, UNIX e os SOFIX para tempo-real -- F) UNIX, OS/2 e os SOFIX brasileiros."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

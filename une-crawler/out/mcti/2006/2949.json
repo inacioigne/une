@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002949"
+        },
+        {
+            "code": "005",
+            "value": "20190808135058.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:005 ",
+                "b": "A211m ",
+                "c": "1975"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Management of information technology ",
+                "b": "case studies ",
+                "c": "Compiled and edited by Elizabeth B. Adams ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "1. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Petrocelli Books ",
+                "c": "1975"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "viii, 196 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de Gerenciamento de Informações ",
+                "x": "Estudo de casos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informação tecnológica ",
+                "x": "Estudo de casos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Adams, Elizabeth Byrne ",
+                "d": "1933- ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002291"
+        },
+        {
+            "code": "005",
+            "value": "20190807181000.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4(81)(063) ",
+                "b": "W926 ",
+                "c": "1985 ",
+                "d": "CTI"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "1st Workshop on the Brazilian Software Plant Project ",
+                "b": "comimitte's report : relatório dos comitês ",
+                "h": "Impresso ",
+                "c": "organizadores M. D. Ferraretto, V. Stenning; Centro Tecnológico para Informática"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Centro Tecnológico para Informática ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Master Plan -- 1. Overall Analysis -- 2. The situation in Brazil -- 2.1. Present situation -- 2.2. The Brazilian software industry demand and requirements -- 2.3. The software plant - Its mission -- 2.4. Compliance with Policies and Guidelines -- 3. Strategy -- 3.1. Introduction -- 3.2. Integration strategy models -- 3.3. Technology strategy -- 3.4. Strategy for financial autonomy -- 3.5. Human resources strategy -- 3.6. Strategy for project management -- 4. The software plant -- 4.1. Functions -- 4.2. External functions -- 4.3. Internal function -- 4.4. Organisation -- 5. Planning and control system -- 5.1. Planning and control of the software plant project during its implementation -- 5.2. Administration of the software plant in its \"steady state\" (in prepartion) -- 6. Financial program -- 6.1. SPP Staff Profile Tables -- 6.2. Investment tables -- 6.3. Cost tables -- 6.4. Earnings tables -- 6.5. Parameters -- Appendix -- A - Software plant basic plans -- B - Action plan -- C - PPL (preliminary) design."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Indústria"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Ferraretto, M. D. ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Stenning, V. ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

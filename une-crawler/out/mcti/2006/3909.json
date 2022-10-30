@@ -1,0 +1,112 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003909"
+        },
+        {
+            "code": "005",
+            "value": "20190802095937.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "551.509(73) ",
+                "b": "S898 ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A strategic plan for a coastal forecast system"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Washington (Distrito de Colúmbia, Estados Unidos)] ",
+                "b": "U.S. Dept. of Commerce, National Oceanic and Atmospheric Administration ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "31 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ecologia ",
+                "z": "Estados Unidos",
+                "x": "Previsão "
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Previsão do tempo ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Proteção ambiental ",
+                "x": "Pesquisa ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Meteorologia ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Estados Unidos. National Oceanic and Atmospheric Administration ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\3909 - A strategic plan for a coastal forecast system.pdf ",
+                "y": "Texto completo ",
+                "z": "Acesso em: 02/08/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

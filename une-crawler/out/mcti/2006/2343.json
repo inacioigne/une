@@ -1,0 +1,112 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "am   nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002343"
+        },
+        {
+            "code": "005",
+            "value": "20190807181541.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "por                                por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "3893360719"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "339(81:430.1) ",
+                "b": "A615 ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "20 anos de cooperação científica e tecnológica entre a República Federativa do Brasil e a Republica Federal da Alemanha ",
+                "b": "realizada no âmbito do acordo geral de cooperação nos setores da pesquisa científica e do desenvolvimento assinado em Bonn, em 24 de junho de 1969 ",
+                "c": "[Redação, H. Höhlein, Linnich Guilherme Dieken] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Bonn ",
+                "b": "Forschungszentrum Julich ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Alemanha"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "368 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa ",
+                "x": "Cooperação internacional ",
+                "z": "Alemanha"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia ",
+                "x": "Cooperação internacional ",
+                "z": "Alemanha"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Höhlein, H ",
+                "e": "Autor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Dieken, Linnich Guilherme ",
+                "e": "Autor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

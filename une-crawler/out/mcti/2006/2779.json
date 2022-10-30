@@ -1,0 +1,112 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002779"
+        },
+        {
+            "code": "005",
+            "value": "20190802144217.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.8 ",
+                "b": "S699t ",
+                "c": "1972"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Sontag, Eduardo Daniel"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Temas de inteligencia artificial ",
+                "c": "por Eduardo Daniel Sontag con la colaboración de Jose Luis Tesoro ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Buenos Aires ",
+                "b": "Prolam ",
+                "c": "1972"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "189 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inteligência artificial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Simulação (Computadores)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aplicativo de tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cibernética"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Tesoro, José Luis ",
+                "e": "Colaborador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

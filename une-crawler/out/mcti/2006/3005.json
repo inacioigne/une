@@ -1,0 +1,133 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003005"
+        },
+        {
+            "code": "005",
+            "value": "20190813113152.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.391.6 ",
+                "b": "C741 ",
+                "c": "1981 ",
+                "d": "MCT"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Comunicações ópticas ",
+                "c": "editado por José Ellis Ripper Filho e Carlos Alberto Ribeiro ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Universidade Estadual de Campinas ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xii, 306 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "504",
+            "subfield": {
+                "a": "Inclui bibliografia."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Introdução -- Fibras ópticas: introdução e conceitos básicos / Ramakant Srivastava -- Fabricação e preparo do vidro / José Mauro Leal Costa -- Fabricação, puxamento e revestimento / Edison Bittencourt -- Propriedades mecânicas das fibras ópticas / Ricardo Medrano -- Características de propagação em fibras ópiticas / Harish R. D. Sunak -- Caracterização ópitca de fibras / Francisco Martim Smolka -- Diodo laser e led: princípios físicos de operação / Navin B. Patel -- Led / Marcio Alberto Araujo Pudensi -- Propriedades específicas de lasers e led's ligadas a comunicações ópticas / Philippe Brosson -- Fotodetetor / Antonio Carlos G. Bordeaux Rego -- Fabricação e caracterização dos dispositivos opto eletrônicos dos compostos III-V / Francisco Carlos Prince -- Processamento / Douglas John Bull -- Microscopia eletrônica de varredura e microanálise / Carlos Alberto Ribeiro -- Equipamentos de linhas ópiticas / José Manuel Duarte Mendes -- Sistemas de comunicações ópticas / Claudio Aparecido Violato -- Aplicações militares / Regis Romero Pereira dos Santos -- Aplicações de fibras ópticas no setor elétrico / Nicholas Lionel Brooking -- O programa brasileiro de comunicações ópticas / José Ellies Ripper Filho."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Reúne um conjunto de trabalhos para seres usados como referência, acompanhando o curso de extensão universitária sobre Comunicações Ópticas, oferecido pelo Laboratório de Pesquisas em Dispositivos do Instituto de Física da Unicamp, em colaboração com o Centro de Pesquisas e Desenvolvimento da Telebrás. Visa o texto e o curso difundir conhecimentos à nova tecnologia, em particular para potenciais usuários, dentro do programa de implantação de comunicações ópticas no Brasil."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comunicação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Fibras ópticas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Diodos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Dispositivo óptico"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Ripper Filho, José Ellis ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Ribeiro, Carlos Alberto ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "TELEBRÁS ",
+                "b": "Centro de Pesquisa e Desenvolvimento"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

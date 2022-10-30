@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003139"
+        },
+        {
+            "code": "005",
+            "value": "20190730112440.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8587918540"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.05 ",
+                "b": "Q1r ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Qualidade de software ",
+                "b": "teoria e prática ",
+                "c": "organizadores Ana Regina Cavalcanti da Rocha, José Carlos Maldonado, Kival Chaves Weber ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Prentice-Hall ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xvi, 303 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Qualidade"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Controle de qualidade"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Rocha, Ana Regina Cavalcanti da ",
+                "d": "1948- ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Maldonado, José Carlos ",
+                "d": "1954- ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Weber, Kival Chaves ",
+                "d": "1946- ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

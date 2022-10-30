@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003831"
+        },
+        {
+            "code": "005",
+            "value": "20190801145330.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338(81) ",
+                "b": "G112s ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Gabeira, Gabriel Luiz"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Síntese da economia brasileira ",
+                "b": "2002 ",
+                "c": "Gabriel Luiz Gabeira ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Synthesis of the brazilian economy"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Confederação Nacional do Comércio ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "152 ",
+                "b": "il., tabs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indicador econômico ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Condições econômicas ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Relações econômicas internacionais ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

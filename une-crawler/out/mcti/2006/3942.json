@@ -1,0 +1,104 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003942"
+        },
+        {
+            "code": "005",
+            "value": "20190807113025.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.3:33 ",
+                "b": "P257 ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Parque de equipamentos de processamento de dados ",
+                "c": "Retrospectiva organizada por: Luiz de Freitas Bueno, coordenador ; Antonio Paschoal de Caroli ... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Secretaria Especial de Informática ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "501 ",
+                "b": "il., tabs."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "1. Parte: Composição do parque de equipamentos -- 2. Parte: Evolução anual dos parques -- Anexo I - Classificação dos equipamentos -- Anexo II - Comparação dos totais por classe, considerando a nova classificação."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores ",
+                "x": "Mercado financeiro"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de computador ",
+                "x": "Mercado financeiro"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Bueno, Luiz de Freitas ",
+                "d": "1919- ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Caroli, Antonio Paschoal de ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

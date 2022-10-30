@@ -1,0 +1,122 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003064"
+        },
+        {
+            "code": "005",
+            "value": "20190806095426.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "3519020548"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "681.5 ",
+                "b": "E33u ",
+                "c": "1974"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Universal theory of automata ",
+                "b": "a categorical approach ",
+                "c": "by H. Ehrig ... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Stuttgart [Alemanha] ",
+                "b": "Teubner ",
+                "c": "1974"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "240 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Teubner Studienbücher : Informatik"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Máquinas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Matemática aplicada"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Ehrig, Hartmut ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Kiermeier, K. D. ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Kreowski, H. J. ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Kühnel, W. ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

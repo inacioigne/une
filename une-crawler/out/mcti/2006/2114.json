@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002114"
+        },
+        {
+            "code": "005",
+            "value": "20190809150706.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "853460178x"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.451.9 ",
+                "b": "W765p ",
+                "c": "=134.3 ",
+                "d": "1994"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Microsoft Windows 3.1 passo passo ",
+                "c": "Catapult, Inc. ; tradução Lídia Yumi Sato ; revisão técnica Plínio Borges ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Makron Books ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxxii, 373 p. ",
+                "b": "il., + 1 disquete 3 1/2"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Cutter baseado no nome do programa a fim de reunir com as demais obras no acervo."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistemas operacionais (Computadores)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programas de computador ",
+                "x": "Windows 3.1 (Sistema operacional de computador)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aplicativo de tecnologia"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

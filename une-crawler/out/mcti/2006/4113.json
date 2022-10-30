@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004113"
+        },
+        {
+            "code": "005",
+            "value": "20190805142628.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "334.726:004.78 ",
+                "b": "N144t ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Centre on Transnational Corporations (Nações Unidas)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Transborder data flows ",
+                "b": "access to the international on-line data-base market : a technical paper ",
+                "h": "Impresso ",
+                "c": "Centre on Transnational Corporations"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Nações Unidas ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "x, 140 ",
+                "b": "il., tabs., grafs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Fluxo de dados transfronteiras"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comunicação de dados ",
+                "x": "Empresas multinacionais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de transmissão de dados"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

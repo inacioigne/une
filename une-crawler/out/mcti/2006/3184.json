@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003184"
+        },
+        {
+            "code": "005",
+            "value": "20190813130040.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "314(81) ",
+                "b": "I59c ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Instituto Brasileiro de Geografia e Estatística"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Censo Demográfico 2000 ",
+                "b": "características da população e dos domicílios : resultados do universo ",
+                "h": "Impresso ",
+                "c": "Instituto Brasileiro de Geografia e Estatística"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Instituto Brasileiro de Geografia e Estatística ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "519 ",
+                "b": "il., tabs., grafs. + 1 CD-Rom"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Apresenta um anexo com a relação da população residente, segundo os municípios de origem em 2000 e os instalados em 2001, e um apêndice com a lista das 1052 tabelas de resultados incluídas no CD-ROM."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Censo demográfico ",
+                "z": "Brasil ",
+                "x": "2000"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "População ",
+                "x": "Estatísticas ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Domicílios ",
+                "x": "Estatísticas ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

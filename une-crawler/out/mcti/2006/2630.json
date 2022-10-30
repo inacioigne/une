@@ -1,0 +1,122 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002630"
+        },
+        {
+            "code": "005",
+            "value": "20190808142519.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "556.16 ",
+                "b": "P944 ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Previsão de vazões com base na previsão climática ",
+                "h": "Impresso ",
+                "c": "Carlos E. M. Tucci ... [et. al.]"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Agência Nacional de Energia Elétrica ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "182 ",
+                "b": "il., grafs."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Projeto BRA/00/029 - Capacitação do setor elétrico brasileiro em relação à mudança global do clima. Projeto realizado com o apoio das informções do Centro de Previsão de Tempo e Clima do Instituto Nacional de Pesquisas Espaciais - CPTEC/INPE"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Hidrologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Previsão de vazões"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Climatologia"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Tucci, Carlos E. M. ",
+                "q": "Carlos Eduardo Morelli ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Clarke, Robin Thomas ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Silva Dias, Pedro Leite da ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Collischonn, Walter ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

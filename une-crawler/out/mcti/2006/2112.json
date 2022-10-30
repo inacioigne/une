@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002112"
+        },
+        {
+            "code": "005",
+            "value": "20190806111002.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8534601003"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.451.9 ",
+                "b": "W765j ",
+                "c": "=134.3 1993"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Jamsa, Kris A. ",
+                "d": "1960-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Windows para workgroups ",
+                "c": "Kris Jamsa ; tradução Elaine Somma Andrade Pezzoli ; revisão técnica José Eduardo Maluf de Carvalho ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Makron Books ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxii, 337 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Cutter baseado no nome do programa a fim de reunir com as demais obras no acervo."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistemas operacionais (Computadores) ",
+                "x": "Windows para workgroups, Microsoft"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador ",
+                "x": "Rede local"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programas de computador ",
+                "x": "Linguagem de programação (Computadores)"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003990"
+        },
+        {
+            "code": "005",
+            "value": "20190807132312.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.382.7 ",
+                "b": "N277p ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "National Computer Conference Personal Computing Festival ",
+                "c": "Chicago, Estados Unidos ",
+                "d": "1981"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Personal computing digest ",
+                "b": "1981 National Computer Conference Personal Computing Festival, May 4-7, McCormick Place, Chicago, Illinois ",
+                "c": "Sam Papa, chairman ; James R. Gerdes, editor ; Joseph S. Jerbich, digest chairman. ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Arlington [Estados Unidos] ",
+                "b": "American Federation of Information Processing Societies ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "x, 297 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microcomputador ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computador pessoal"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática na educação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

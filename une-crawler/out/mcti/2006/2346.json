@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002346"
+        },
+        {
+            "code": "005",
+            "value": "20190806112633.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0821357298"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "316.42:338.1 ",
+                "b": "W927 ",
+                "c": "2004"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "World development indicators 2004 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "Banco Mundial ",
+                "c": "2004"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxiv, 386 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento social ",
+                "x": "Indicadores"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento econômico ",
+                "x": "Indicadores"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Banco Mundial ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (WORLD BANK) ",
+                "u": "http://www-wds.worldbank.org/external/default/WDSContentServer/IW3P/IB/2004/06/08/000160016_20040608153404/Rendered/PDF/289690PAPER0WDI02004.pdf ",
+                "z": "Acesso em: 23/11/12"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

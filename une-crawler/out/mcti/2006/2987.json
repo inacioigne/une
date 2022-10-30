@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002987"
+        },
+        {
+            "code": "005",
+            "value": "20190808143018.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:002(035) ",
+                "b": "M294 ",
+                "c": "1973"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Manual da documentação operacional de sistemas ",
+                "h": "Impresso ",
+                "c": "Serviço Federal de Processamento de Dados. Divisão de Normas Técnicas"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Serviço Federal de Processamento de Dados ",
+                "c": "1973"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "147 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Documentação de sistemas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Documentação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Fluxograma"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Manual"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Serviço Federal de Processamento de Dados. Divisão de Normas Técnicas ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

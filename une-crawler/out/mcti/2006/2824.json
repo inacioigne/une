@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002824"
+        },
+        {
+            "code": "005",
+            "value": "20190808140519.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "377.014.53:5/6 ",
+                "b": "N277a ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "National Science Foundation (Estados Unidos)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Activities in support of two-year college science, mathematics, engineering, and technology education ",
+                "b": "fiscal year 1995 highlights ",
+                "h": "Impresso ",
+                "c": "National Science Foundation"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Arlington [Estados Unidos] ",
+                "b": "National Science Foundation ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "v, 69 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência ",
+                "x": "Estudo e ensino ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Matemática ",
+                "x": "Estudo e ensino ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia ",
+                "x": "Estudo e ensino ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

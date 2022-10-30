@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002714"
+        },
+        {
+            "code": "005",
+            "value": "20190809142140.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0835943712"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.38 ",
+                "b": "S915m ",
+                "c": "c1979"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Streitmatter, Gene A"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Microprocessors ",
+                "b": "theory and applications ",
+                "c": "Gene A. Streitmatter, Vito Fiore ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Reston [Estados Unidos] ",
+                "b": "Reston ",
+                "c": "c1979"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xx, 456 p. ",
+                "c": "25 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microprocessador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquitetura de software"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquitetura de computador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Fiore, Vito ",
+                "d": "1945- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

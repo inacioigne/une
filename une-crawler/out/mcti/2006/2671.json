@@ -1,0 +1,130 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002671"
+        },
+        {
+            "code": "005",
+            "value": "20190731093941.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8572270132"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "669 ",
+                "b": "V726d ",
+                "c": "1991 ",
+                "d": "CETEM"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Villas Boas, Roberto C. ",
+                "q": "Roberto Cerrini"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Design of experiments in planning metallurgical tests ",
+                "c": "Roberto C. Villas Bôas ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro de Tecnologia Mineral ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "17 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Tecnologia mineral / CETEM ",
+                "v": "50 ",
+                "x": "0103-7382"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Resumo --- Abstract --- 1. Introduction --- 2. designing experiments --- 3. statistical design of experiments in metallurgy --- 4. Final remarks --- References"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Este trabalho apresenta algumas noções básicas do planejamento estatístico de experimentos e faz uma revisão da aplicação desta técnica à metalurgia, com as referências respectivas."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Planejamento experimental"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Metalurgia"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Centro de Tecnologia Mineral ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

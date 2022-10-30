@@ -1,0 +1,117 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002522"
+        },
+        {
+            "code": "005",
+            "value": "20190813111752.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8585374012"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "001.32(815.3) ",
+                "b": "C569 ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Ciência e tecnologia no estado do Rio de Janeiro ",
+                "b": "cadastro de entidades atuantes ",
+                "h": "Impresso ",
+                "c": "Empresa Fluminense de Tecnologia, Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "2. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxxiii, 526 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "z": "Rio de Janeiro"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Instituição de pesquisa ",
+                "x": "Indicadores ",
+                "z": "Rio de Janeiro"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Empresa Fluminense de Tecnologia ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

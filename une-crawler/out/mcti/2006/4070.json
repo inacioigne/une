@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004070"
+        },
+        {
+            "code": "005",
+            "value": "20190812173807.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.42 ",
+                "b": "L935a ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Lucena, Carlos J. P. ",
+                "q": "Carlos José Pereira"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Análise e síntese de programas de computador ",
+                "c": "Carlos J. P. de Lucena ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Universidade de Brasília ",
+                "c": "c1982"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "185 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Cadernos da UnB"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador ",
+                "x": "Metodologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Técnica de programação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação estruturada"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

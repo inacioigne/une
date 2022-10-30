@@ -1,0 +1,82 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002841"
+        },
+        {
+            "code": "005",
+            "value": "20190805124632.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4(035) ",
+                "b": "W223g ",
+                "c": "c1969"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Walsh, Dorothy ",
+                "d": "1929-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A guide for sofware documentation ",
+                "c": "Prepared by Dorothy Walsh ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Advanced Computer Techniques Corporation ",
+                "c": "c1969"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "iv, 152"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Documentação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

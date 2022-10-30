@@ -1,0 +1,92 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     naa  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000016964"
+        },
+        {
+            "code": "005",
+            "value": "20190828155859.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por  "
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCTIC"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. [Leis etc.]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Decreto nº 77.118, de 9 de fevereiro de 1976 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Reestrutura a comissão de coordenação das atividades de processamento eletronico (CAPRE) e lhe da novas atribuições."
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Comissão de Coordenação das Atividades de Processamento Eletrônico ",
+                "c": "Brasil ",
+                "x": "Competência"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política e governo ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "773",
+            "subfield": {
+                "d": "Rio de Janeiro : Comissão de Coordenação das Atividades de Processamento de Dados, 1973-1979. ",
+                "g": "v. 4, n. 1 (jan./mar. 1976), p. 19-20 ",
+                "h": "v. ",
+                "n": "Publicação interrompida de 1977 a 1979 ",
+                "q": "4:1 ",
+                "t": "Capre : boletim informativo ",
+                "w": "000001951 ",
+                "7": "   s"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "d": "http://www6.senado.gov.br/legislacao/ListaPublicacoes.action?id=123258 ",
+                "z": "Texto completo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Analítica de Periódicos"
+            }
+        }
+    ]
+}

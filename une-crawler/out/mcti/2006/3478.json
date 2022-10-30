@@ -1,0 +1,83 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003478"
+        },
+        {
+            "code": "005",
+            "value": "20190808105331.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "556.18:321(094) ",
+                "b": "B823p ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Ministério do Meio Ambiente, dos Recursos Hídricos e da Amazônia Legal"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Política nacional de recursos hídricos ",
+                "b": "legislação ",
+                "h": "Impresso ",
+                "c": "Ministério do Meio Ambiente, dos Recursos Hídricos e da Amazônia Legal"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Ministério do Meio Ambiente, Secretaria de Recursos Hídricos ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "54"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos hídricos ",
+                "z": "Brasil ",
+                "x": "Legislação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

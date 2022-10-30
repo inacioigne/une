@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002140"
+        },
+        {
+            "code": "005",
+            "value": "20190812163500.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "37.018.8:004(063) ",
+                "b": "S471a ",
+                "c": "1982 ",
+                "d": "SEI"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Seminários Nacionais de Informática na Educação ",
+                "c": "Brasília, DF ",
+                "d": "1982 ",
+                "n": "1 e 2"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais do Seminários nacionais de informática na educação ",
+                "b": "Brasília, DF, 25 a 27 de agosto de 1981 e 26 a 28 de agosto de 1982 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "I e II Seminários Nacionais de Informática na Educação"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Secretaria Especial de Informática ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "164 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática na educação ",
+                "x": "Aspectos políticos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores ",
+                "x": "Aspectos políticos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Países em desenvolvimento"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

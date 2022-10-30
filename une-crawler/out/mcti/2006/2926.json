@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002926"
+        },
+        {
+            "code": "005",
+            "value": "20190805125919.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0877690561"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:005(035) ",
+                "b": "H236 ",
+                "c": "1971"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Handbook of data processing management ",
+                "c": "Martin L. Rubin, editor ; Thomas Harrell, technical editor ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Princeton [Estados Unidos] ",
+                "b": "Auerbach ",
+                "c": "1971"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "6 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "v. 1. Introduction to the system life cycle. M. L. Rubin, author.--v. 2. System life cycle standards. M. L. Rubin, principal author and editor.--v. 3. System life cycle standards: forms method, by P. Zuckerman.--v. 4. Advanced technology: input and output. M. L. Rubin, editor.--v. 5. Advanced technology-systems concepts. M. L. Rubin, editor.--v. 6. Data processing administration. M. L. Rubin, editor."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Manual"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computador digital ",
+                "x": "Manual"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gerência de sistema"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de informação"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Rubin, Martin L ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

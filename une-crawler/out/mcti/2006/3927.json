@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003927"
+        },
+        {
+            "code": "005",
+            "value": "20190801090318.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0850121663"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4 ",
+                "b": "L839d ",
+                "c": "1977"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Lomax, Jeffrey David"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Documentation of software products ",
+                "b": "recommendations for producers and users ",
+                "c": "by J. D. Lomax ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Manchester [Inglaterra] ",
+                "b": "NCC Publications ",
+                "c": "1977"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xi, 60 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Documentação de sistemas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Documentação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

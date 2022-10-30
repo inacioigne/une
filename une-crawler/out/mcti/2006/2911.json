@@ -1,0 +1,90 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002911"
+        },
+        {
+            "code": "005",
+            "value": "20190802105641.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:005 ",
+                "b": "C639s ",
+                "c": "1970"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Clifton, H. D. ",
+                "d": "1927- ",
+                "q": "Harold Dennis"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Systems analysis for business data processing ",
+                "c": "H. D. Clifton ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Princeton [Estados Unidos] ",
+                "b": "Auerbach ",
+                "c": "1970"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "244 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Análise de sistemas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Empresas"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

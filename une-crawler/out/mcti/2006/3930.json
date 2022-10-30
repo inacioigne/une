@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003930"
+        },
+        {
+            "code": "005",
+            "value": "20190730124048.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0131973681"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.7:621.39 ",
+                "b": "H842d ",
+                "c": "1979"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Housley, Trevor ",
+                "d": "1942-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Data communications & teleprocessing systems ",
+                "c": "Trevor Housley ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Englewood Cliffs ",
+                "b": "Prentice-Hall ",
+                "c": "1979"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xvii, 474 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de telecomunicação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de informação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

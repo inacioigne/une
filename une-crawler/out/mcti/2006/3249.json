@@ -1,0 +1,99 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003249"
+        },
+        {
+            "code": "005",
+            "value": "20190809105023.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "51:33 ",
+                "b": "Y19m ",
+                "c": "=134.3 ",
+                "d": "1974"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Yamane, Taro"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Matemática para economistas ",
+                "c": "Taro Yamane ; tradução de Vera de Oliveira Lima Pires ; revisão técnica de Sebastião Medeiros da Silva ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "3. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Atlas ",
+                "c": "1974"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 v."
+            }
+        },
+        {
+            "code": "534",
+            "subfield": {
+                "a": "Titulo original: mathematics for economists"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Economia matemática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Matemática aplicada a economia"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

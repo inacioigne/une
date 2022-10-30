@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002576"
+        },
+        {
+            "code": "005",
+            "value": "20190812132413.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "75(815.1) ",
+                "b": "D331n ",
+                "c": "1978"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Del Negro, Carlos ",
+                "d": "1901-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Nova contribuição ao estudo da pintura mineira, (norte de Minas) ",
+                "b": "pinturas dos tetos de igrejas ",
+                "c": "Carlos Del Negro ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Instituto do Patrimônio Histórico e Artístico Nacional ",
+                "c": "1978"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "431 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Publicações do Instituto do Patrimônio Histórico e Artístico Nacional ",
+                "v": "29"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pintura ",
+                "z": "Minas Gerais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Igreja ",
+                "z": "Minas Gerais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arte sacra ",
+                "z": "Minas Gerais"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002151"
+        },
+        {
+            "code": "005",
+            "value": "20190809144442.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "1572316381"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.455.2:004.774 ",
+                "b": "M626 ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Microsoft Internet information server resource kit ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Redmont, Washington ",
+                "b": "Microsoft Press ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxiii, 587 p. ",
+                "b": "il., + 2 CD-ROMs"
+            }
+        },
+        {
+            "code": "501",
+            "subfield": {
+                "a": "Acompanhado de 2 CD-Roms"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Internet ",
+                "x": "Cliente/servidor (Computadores)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador ",
+                "x": "Arquitetura de software"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

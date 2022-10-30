@@ -1,0 +1,93 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002775"
+        },
+        {
+            "code": "005",
+            "value": "20190806124120.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "62-027.15 ",
+                "b": "J762i ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Jones, Ary Marques"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Inovação tecnológica ",
+                "b": "como patenteá-la, engenheirá-la, comprá-la, transferi-la, financiá-la, administrá-la, comercializá-la e memorizá-la ",
+                "c": "Ary Marques Jones ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Serviço de Apoio às Micro e Pequenas Empresas no Estado do Rio de Janeiro ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "198"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inovação tecnológica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Patentes (Direito internacional público)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústrias"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

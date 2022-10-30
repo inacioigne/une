@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003180"
+        },
+        {
+            "code": "005",
+            "value": "20190731101552.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "d": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "35.077CETEM(047.32) ",
+                "b": "C397r ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Centro de Tecnologia Mineral ",
+                "c": "Brasil"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Relatório de gestão ",
+                "b": "ano 2002 [CETEM] ",
+                "h": "Impresso ",
+                "c": "Centro de Tecnologia Mineral"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro de Tecnologia Mineral ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "18 f. ",
+                "b": "il., tab."
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Centro de Tecnologia Mineral ",
+                "c": "Brasil ",
+                "x": "Relatórios"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mineralogia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia mineral ",
+                "x": "Pesquisa"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Brasil. Ministério da Ciência e Tecnologia ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

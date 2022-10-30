@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002428"
+        },
+        {
+            "code": "005",
+            "value": "20190813131935.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:378.4(036) ",
+                "b": "B823c ",
+                "c": "1989 ",
+                "d": "SEI"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Secretaria Especial de Informática"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Catálogo das instituições de ensino superior ",
+                "b": "1989 ",
+                "c": "Secretaria Especial de Informática ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Secretaria Especial de Informática ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "48 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "I - Tecnólogo -- Quadro demonstrativo da distribuição dos cursos por região -- Localização geográfica dos Cursos de Tecnólogo em Processamento de Dados -- Relação das Instituições de Ensino Superior - I.E.S. que mantêm curso de Tecnólogo em Processamento de Dados -- Relação das I.E.S. que mantém Curso de Tecnólogo em Técnicas Digitais e Manutenção de Computadores -- II - Bacharelado -- Quadro demonstrativo da distribuição dos Cursos por região -- Localização geográfica dos Cursos de Bacharel em Ciência da Computação -- Relação das Instituições de Ensino Superior que mantêm Cursos em Ciência da Computação -- III - Engenharia - Localização geográfica dos cursos de engenharia com ênfase em computação e/ou eletrônica -- Relação das I. E. S. que mantêm Cursos de Engenharia com ênfase em Análise de Sistemas -- IV - Administração -- Relação das I. E. S. que mantêm Cursos de Administração com ênfase em Sistema de Informação -- V - Matemática -- Relação das I.E.S. que mantêm Cursos de Matemática com ênfase em Análise de Sistemas -- VI - Pós-graduação -- Localização geográfica dos Cursos de Pós-Graduação existentes no país na área de informática -- Relação das I.E.S. que mantêm cursos de Pós-Graduação e suas áreas de concentração."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Neste Catálogo estão agrupadas informações quanto à distribuição geográfica, variedade dos Cursos, número de vagas e endereços das Instituições de Ensino que oferecem os Custos. As informações básicas aqui apresentadas têm o objetivo de facilitar ao leitor a busca de outros dados segundo suas necessidades. Apresenta também, a relação dos Cursos de nível superior de Graduação e Pós-Graduação em campos específicos da Informática elaborado a partir da informações disponíveis até novembro de 1988 do Conselho Federal de Educação, Secretaria de Ensino Superior e Ensino Superior e Coordenação de Aperfeiçoamento de Pessoal de Nível Superior do MEC e do Departamento de Recursos Humanos/SEI."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Ensino superior ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ensino superior ",
+                "x": "Cadastros ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

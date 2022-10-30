@@ -1,0 +1,83 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002510"
+        },
+        {
+            "code": "005",
+            "value": "20190807180104.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "51 ",
+                "b": "P953 ",
+                "c": "[2005] ",
+                "d": "IMPA"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "1ª Olimpíada Brasileira de matemática das escolas públicas ",
+                "b": "somando novos talentos para o Brasil ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Instituto Nacional de Matemática Pura e Aplicada ",
+                "c": "[2005]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "109 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Obra contém as informações sobre a Olimpíada Brasileira de matemática, e modelos das provas aplicadas no ptojeto."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Matemática ",
+                "x": "Problemas, questões, exercícios, etc."
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

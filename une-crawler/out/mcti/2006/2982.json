@@ -1,0 +1,130 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002982"
+        },
+        {
+            "code": "005",
+            "value": "20190813134045.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004 ",
+                "b": "H114c ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Haberkorn, Ernesto ",
+                "d": "1943-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Computador e processamento de dados ",
+                "c": "Ernesto Mario Haberkorn ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "1. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Atlas ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "142 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "7. tiragem"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "1. O Conceito de Processamento de Dados -- 2.-Funções de um Sistema de Processamento de Dados -- 3. Entrada e Saída de Dados -- 4. Armazenagem de Informações -- 5. Sistemas de Numeração -- 6. Partes de um Computador Eletrônico digital -- 7. O conceito de Programa e o conceito de Instrução -- 8. Os Principais Códigos Utilizados pelos Computadores Eletrônicos -- 9. A Entrada e a Saída de Dados: Veículos de entrada e saída -- 10. Etapas da Elaboração de um Programa -- 11. Conceito de Software: os principais recursos de software -- 12. O Computador Dentro da Empresa."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Armazenamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Entrada de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Saída de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de informação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

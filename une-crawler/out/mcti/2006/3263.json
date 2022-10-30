@@ -1,0 +1,91 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003263"
+        },
+        {
+            "code": "005",
+            "value": "20190813130523.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "355.43(81) ",
+                "b": "B823c ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Presidencia da República ",
+                "b": "Secretaria de Assuntos Estratégicos"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Cenários exploratórios do Brasil 2020 ",
+                "b": "texto para discussão ",
+                "h": "Impresso ",
+                "c": "Presidencia da República. Secretaria de Assuntos Estratégicos"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Secretaria de Assuntos Estratégicos ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "94 ",
+                "b": "il., tabs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Projeto de desenvolvimento ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Previsão econômica ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

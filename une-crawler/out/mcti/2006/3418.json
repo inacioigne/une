@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003418"
+        },
+        {
+            "code": "005",
+            "value": "20190814151943.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.315.59(81)(063) ",
+                "b": "B827b ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Brazilian Workshop on Semiconductor Physics ",
+                "c": "Fortaleza, CE ",
+                "d": "2003 ",
+                "n": "11"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Book of abstract ",
+                "b": "11th Brazilian Workshop on Semiconductor Physics, March9-14, 2003 - Fortaleza - Ceará - Brazil ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Fortaleza ",
+                "b": "Universidade Federal do Ceará ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. (paginação irregular) ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Semicondutores ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "740",
+            "subfield": {
+                "a": "BWSP 2003"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

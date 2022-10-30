@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002840"
+        },
+        {
+            "code": "005",
+            "value": "20190802112105.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0810459434"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.031.43 ",
+                "b": "L493f ",
+                "c": "c1969"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Lefkovitz, David ",
+                "d": "1936-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "File structures for on-line systems ",
+                "c": "David Lefkovitz ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Spartan Books ",
+                "c": "c1969"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "215 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados ",
+                "x": "Tempo real"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Armazenamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recuperação da informação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Banco de dados"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

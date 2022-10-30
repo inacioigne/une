@@ -1,0 +1,127 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003133"
+        },
+        {
+            "code": "005",
+            "value": "20190806085720.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8586552690"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "628.16 ",
+                "b": "T776 ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Tratamento de água para abastecimento por filtração direta ",
+                "c": "coordenador Luiz Di Bernardo ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Associação Brasileira de Engenharia Sanitária e Ambiental ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xv, 480 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Água"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Água ",
+                "x": "Tratamento de residuo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tratamento de residuo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Saneamento básico"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Di Bernardo, Luiz ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Associação Brasileira de Engenharia Sanitária e Ambiental ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Programa de Pesquisa em Saneamento Básico (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

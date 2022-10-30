@@ -1,0 +1,89 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003335"
+        },
+        {
+            "code": "005",
+            "value": "20190805115425.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8575182331"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "331.54 ",
+                "b": "G943 ",
+                "d": "R ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Guia de profissões ",
+                "h": "Impresso ",
+                "c": "Barsa Planeta"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro, RJ ",
+                "b": "Encyclopaedia Britannica do Brasil ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "148 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Orientação profissional"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Profissão"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Barsa Planeta ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003705"
+        },
+        {
+            "code": "005",
+            "value": "20190808145436.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "332.025.28(81) ",
+                "b": "P961 ",
+                "c": "=111 1999"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Privatisation in Brazil ",
+                "b": "the case of public utilities ",
+                "c": "edited by Armando Castelar Pinheiro and Kiichiro Fukasaku ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Banco Nacional de Desenvolvimento Econômico e Social ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "218 ",
+                "b": "il., tabs., grafs."
+            }
+        },
+        {
+            "code": "534",
+            "subfield": {
+                "a": "A privatização no Brasil : o caso dos serviços de utilidade pública."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Privatização ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Serviço público ",
+                "x": "Privatização ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Serviço de utilidade pública ",
+                "x": "Privatização ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Pinheiro, Armando Castelar ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Fukasaku, Kiichiro ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

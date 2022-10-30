@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002870"
+        },
+        {
+            "code": "005",
+            "value": "20190805091421.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.1:004 ",
+                "b": "A652 ",
+                "c": "1971"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The application of computer technology for development ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Nações Unidas ",
+                "c": "1971"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "121 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "501",
+            "subfield": {
+                "a": "Ao alto do título: Department of Economic and Social Affairs"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento econômico ",
+                "x": "Processamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Nações Unidas ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

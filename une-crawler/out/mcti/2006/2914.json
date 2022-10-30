@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002914"
+        },
+        {
+            "code": "005",
+            "value": "20190730124931.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0877691002"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:005 ",
+                "b": "C639d ",
+                "c": "1971"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Clifton, H. D. ",
+                "d": "1927- ",
+                "q": "Harold Dennis"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Data processing systems design ",
+                "b": "case studies from the application of computers to business ",
+                "c": "H. D. Clifton ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Princeton [Estados Unidos] ",
+                "b": "Auerbach ",
+                "c": "1971"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xii, 154 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia industrial ",
+                "x": "Estudo de casos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Negócios ",
+                "x": "Estudo de casos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

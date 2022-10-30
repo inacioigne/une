@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002160"
+        },
+        {
+            "code": "005",
+            "value": "20190730152122.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:061(047) ",
+                "b": "C397d ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Centro Tecnológico para Informática ",
+                "c": "Brasil"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Descrição de atividades ",
+                "h": "Impresso ",
+                "c": "Centro Tecnológico para Informática (Brasil)"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Centro Tecnológico para Informática ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "13 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "I. Centro Tecnolótico para informática (CTI) - Objetivos -- Estrutura -- II. Instituto de Automação -- Objetivos -- Estrutura -- Departamento de Controle de Processos -- Departamento de Automação da Manufatura -- Departamento de Engenharia Integrada -- Projetos contratados -- Cooperação com Universidades e Centros de Pesquisa -- Resultados técnicos e fincanciamento em 1983."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa e desenvolvimento ",
+                "x": "Relatórios"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Relatórios"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

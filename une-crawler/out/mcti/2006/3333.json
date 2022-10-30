@@ -1,0 +1,89 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003333"
+        },
+        {
+            "code": "005",
+            "value": "20190808151013.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8575181637"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "d": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "808.1(044.4) ",
+                "b": "M294 ",
+                "d": "R ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Manual de redação Barsa ",
+                "h": "Impresso ",
+                "c": "Ana Maria Goulart Bustamante ...[et al.]"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Encyclopaedia Britannica do Brasil ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "392"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Redação ",
+                "x": "Língua portuguesa"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Bustamante, Ana Maria Goulart ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

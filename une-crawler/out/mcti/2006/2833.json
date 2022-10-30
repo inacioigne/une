@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002833"
+        },
+        {
+            "code": "005",
+            "value": "20190807110059.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.438PL/I ",
+                "b": "F992i ",
+                "c": "1978"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Furtado, A. L. ",
+                "d": "1934- ",
+                "q": "Antonio Luz"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Introdução à programação com PL/I ",
+                "c": "Antonio Luz Furtado, Emmanuel Lopes Passos ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Livros Técnicos e Científicos ",
+                "c": "1978"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "115 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem de programação (Computadores)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Passos, Emmanuel Lopes ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

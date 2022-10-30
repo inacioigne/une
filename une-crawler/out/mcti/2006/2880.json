@@ -1,0 +1,120 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002880"
+        },
+        {
+            "code": "005",
+            "value": "20190806110215.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8585637021"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "021:004 ",
+                "b": "R884c ",
+                "c": "=134.3 ",
+                "d": "1994"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Rowley, J. E. ",
+                "d": "1950-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Informática para bibliotecas ",
+                "c": "Jennifer Rowley ; tradução de Antonio Agenor Briquet de Lemos ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Briquet de Lemos ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xvi, 307 p. ",
+                "c": "23 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Computadores -- Sistemas -- Estrutura da informação e programas -- Base de dados -- Gerenciamento de sistemas de informação -- Fundamentos da recuperação da informação -- Hospedeiros externos em linha -- Discos ópticos -- Sistemas de gerenciamento de informação textuais -- Outros tópicos sobre recuperação da informação -- Fundamentos dos sistemas de gerenciamento de bibliotecas -- Funções dos sistemas de gerenciamento de bibliotecas -- Panorama do mercado de sistemas de gerenciamento de bibliotecas -- Redes"
+            }
+        },
+        {
+            "code": "534",
+            "subfield": {
+                "a": "Computers for libraries"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biblioteconomia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de recuperação da informação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação de bibliotecas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002893"
+        },
+        {
+            "code": "005",
+            "value": "20190809155330.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.6:657.6 ",
+                "b": "P655a ",
+                "c": "1966"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Pinkney, A"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "An audit approach to computers ",
+                "c": "A. Pinkney ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Londres (Inglaterra) ",
+                "b": "The Institute of Chartered Accountants in England and Wales ",
+                "c": "1966"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "159 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Empresas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de computador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004011"
+        },
+        {
+            "code": "005",
+            "value": "20190808125246.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0080285813"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.39:004.7 ",
+                "b": "D232 ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Local area networks ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Berkshire, [Inglaterra] ",
+                "b": "Pergamon Infotech ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Inglaterra"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xii, 211 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "State of the art report ",
+                "v": "11:8ii"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Volume pertecente a \"Data communications\", v. 2. ; ISBN : 0080285791 ; Cutter baseado no nome do título do todo."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede local"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de telecomunicação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

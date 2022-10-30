@@ -1,0 +1,92 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003945"
+        },
+        {
+            "code": "005",
+            "value": "20190813113453.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.39:004.7 ",
+                "b": "C741 ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Comunicação de dados, exposição à Telebrás e Minicom ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Secretaria Especial de Informática ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "58 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "1. Introdução -- A teleinformática -- Diretrizes governamentais -- Princípios da Portaria 104 -- Reações do mercado -- 2. Estrutura de análise do problema -- 3. As características do negócio de comunicação de dados -- Mercado -- Planejamento e implantação -- Operação e manutenção -- Comercialização -- Indústria -- 4. Novas Posturas da Embratel -- 5. Ações imediatas -- Novos serviços -- Revisão da Portaria 104 -- Utilização rede telefônica."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de telecomunicação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comunicação de dados"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

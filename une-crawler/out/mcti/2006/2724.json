@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002724"
+        },
+        {
+            "code": "005",
+            "value": "20190731130157.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "013215871X"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.42 ",
+                "b": "D575d ",
+                "c": "c1976"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Dijkstra, Edsger Wybe"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A discipline of programming ",
+                "c": "Edsger W. Dijkstra ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Englewood Cliffs ",
+                "b": "Prentice-Hall ",
+                "c": "c1976"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xvii, 217 p ",
+                "c": "24 cm"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Prentice-Hall series in automatic computation"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem de programação (Computadores)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação matemática"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

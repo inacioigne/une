@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003332"
+        },
+        {
+            "code": "005",
+            "value": "20190731110603.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8575181629"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "811.134.3'373.42(038) ",
+                "b": "D546 ",
+                "d": "R ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Dicionário Barsa de sinônimos e antônimos ",
+                "c": "[coordenação Elisabete Lins Muniz, Hermínia Maria Totti de Castro] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Encyclopaedia Britannica do Brasil ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "376"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua portuguesa ",
+                "x": "Dicionários"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Muniz, Elisabete Lins ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Castro, Hermínia Maria Totti de ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dicionários"
+            }
+        }
+    ]
+}

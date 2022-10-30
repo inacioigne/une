@@ -1,0 +1,167 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "02222nas  22004453a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003055"
+        },
+        {
+            "code": "005",
+            "value": "20170120103237.0"
+        },
+        {
+            "code": "008",
+            "value": "060601c20009999enkqr p       0    0eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "010",
+            "subfield": {
+                "a": "00244550"
+            }
+        },
+        {
+            "code": "016",
+            "subfield": {
+                "2": "DNLM ",
+                "a": "100912837"
+            }
+        },
+        {
+            "code": "022",
+            "subfield": {
+                "a": "1467-5463"
+            }
+        },
+        {
+            "code": "030",
+            "subfield": {
+                "a": "BBIMFX"
+            }
+        },
+        {
+            "code": "035",
+            "subfield": {
+                "a": "(OCoLC)ocm44107488"
+            }
+        },
+        {
+            "code": "035",
+            "subfield": {
+                "a": "14397180"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "573:681.32"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Briefings in bioinformatics ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Bioinformatics"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Londres (Inglaterra) ",
+                "b": "H. Stewart Publications ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "v ",
+                "b": "il ",
+                "c": "30"
+            }
+        },
+        {
+            "code": "310",
+            "subfield": {
+                "a": "Quadrimestral"
+            }
+        },
+        {
+            "code": "362",
+            "subfield": {
+                "a": "v. 1, n. 1 (Fev. 2000)-"
+            }
+        },
+        {
+            "code": "506",
+            "subfield": {
+                "a": "Documento eletrônico: Portal de periodicos da CAPES,EBSCOhost Academic Search Premier - Disponível desde 2001"
+            }
+        },
+        {
+            "code": "510",
+            "subfield": {
+                "a": "Chemical abstracts ",
+                "x": "0009-2258"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biologia molecular ",
+                "x": "Periódico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biologia computacional ",
+                "x": "Periódico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Genética ",
+                "x": "Periódico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Genoma ",
+                "x": "Periódico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática médica ",
+                "x": "Periódico"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "bib.oxfordjournals.org/ ",
+                "y": "Texto completo - Acesso restrito (CAPES)"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Periódicos"
+            }
+        }
+    ]
+}

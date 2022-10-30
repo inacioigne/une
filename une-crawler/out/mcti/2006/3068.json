@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003068"
+        },
+        {
+            "code": "005",
+            "value": "20190813121530.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "304291285"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.056 ",
+                "b": "H217c ",
+                "c": "1973"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Hamilton, Peter"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Computer security ",
+                "c": "Peter Hamilton ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "1. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Philadelphia ",
+                "b": "Auerbach ",
+                "c": "1973"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "122"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Segurança"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Segurança de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Proteção de dados"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

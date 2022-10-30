@@ -1,0 +1,87 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004139"
+        },
+        {
+            "code": "005",
+            "value": "20190802132203.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "37.012 ",
+                "b": "M966t ",
+                "c": "[19--]"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Muniz, Amaury Pereira"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A técnica de aprender ",
+                "c": "Amaury Pereira Muniz ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Degrau Cultural ",
+                "c": "[19--]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "48 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Método de estudo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aprendizagem"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

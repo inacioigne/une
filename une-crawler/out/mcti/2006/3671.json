@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003671"
+        },
+        {
+            "code": "005",
+            "value": "20190801114929.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0770328520"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502.17(261.683) ",
+                "b": "R586 ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "El Río de la Plata ",
+                "b": "una revision ambiental : un informe de antecedentes del Proyecto EcoPlata ",
+                "c": "P.G. Wells y G.R. Daborn, editores ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "The Río de la Plata : an environmental overview : an EcoPlata Project background report"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Halifax, Canadá ",
+                "b": "Universidad de Dalhousie ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxiv, 256 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ecologia ",
+                "z": "Rio da Prata"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Rio da Prata ",
+                "z": "Argentina"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Daborn, Graham R. ",
+                "q": "Graham Richard ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Wells, P. G ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

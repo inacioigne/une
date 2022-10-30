@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004038"
+        },
+        {
+            "code": "005",
+            "value": "20190812175138.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   ita"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.45:004 ",
+                "b": "A532 ",
+                "c": "1976"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Analisi di settore ",
+                "b": "informatica (allegato III al libro bianco fast sull'elettronica italiana) ",
+                "h": "Impresso ",
+                "c": "coordenadores Stefano Crespi-Reghizzi, G. Sacerdoti"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Milano ",
+                "b": "Federazione Delle Associazioni Scientifiche e Tecniche ",
+                "c": "1976"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. (paginação irregular) ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Condizioni e proposte per lo sviluppo dell'industria elettronica nazionale, Milano, 1976"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Aspectos economicos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia eletrônica"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Crespi-Reghizzi, Stefano ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Sacerdoti, G. ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003337"
+        },
+        {
+            "code": "005",
+            "value": "20190805104146.0"
+        },
+        {
+            "code": "007",
+            "value": "c"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8575182811"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "CD030 ",
+                "b": "G751 ",
+                "c": "[2005]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Grande Barsa CD ",
+                "b": "versão 6.0 ",
+                "h": "Recurso Eletrônico"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Encyclopaedia Britannica do Brasil ",
+                "c": "[2005]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "5 CD-Rom"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Enciclopédia ",
+                "x": "Língua portuguesa"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "CD-ROM"
+            }
+        }
+    ]
+}

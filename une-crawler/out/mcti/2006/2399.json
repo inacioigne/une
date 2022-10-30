@@ -1,0 +1,108 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002399"
+        },
+        {
+            "code": "005",
+            "value": "20190813131754.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4(036) ",
+                "b": "B823c ",
+                "c": "t. 3 ",
+                "d": "1983 SEI"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Secretaria Especial de Informática"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Catálogo de software ",
+                "b": "supridores profissionais, aplicação técnico-científico, industrial e relação dos supridores ",
+                "c": "Secretaria Especial de Informática ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Secretaria Especial de Informática ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Tomo1 -- Índice geral em ordem alfabética -- Índice por tipo de software -- Índice por tipo de software e aplicação -- Índice por aplicação e tipo de software -- Software básico -- Software de suporte."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Este tomo do catálogo de software contém os produtos de aplicação técnico-científica, aplicação industrial e a relação dos supridores. Os produtos de aplicação técnico-científica-dedicados á apuração de resultado dessas áreas do conhecimento-foram divididos segundo o campo de aplicação em: arquitetura e artes, ciências humanas e sociais, economia, educação, engenharia, estatística, matemática e física, medicina e biologia, PAC- projetos assistidos por computador, pesquisa operacional, reconhecimento de padrões e processamento de imagens, simulação e modelagem e outros. Os produtos de aplicação industrial- destinados A apuração de resultados em tempo real, voltados ao controle de processos industriais ou monitoração de serviços técnicos- foram divididos segundo o campo de aplicação em: aquisição de dados, controle digital direto (DDC), controle numérico, controle programável, controle supervisionado, FAC- fabricação assistida por computador, registro de eventos, robotização, teste-diagnóstico, automático e outros. Os índices para acesso a estes produtos estão no tomo 1 deste catálogo. A relação dos supridores contém os principais dados sobre os fornecedores dos softwares contidos neste catálogo e está classificada em ordem alfabética segundo a sua razão social."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Catálogo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programas de computador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

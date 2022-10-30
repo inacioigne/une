@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002980"
+        },
+        {
+            "code": "005",
+            "value": "20190809140419.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "007042327x"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.3.049.77 ",
+                "b": "M655m ",
+                "c": "c1979"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Millman, Jacob ",
+                "d": "1911-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Microelectronics ",
+                "b": "digital and analog circuits and systems ",
+                "c": "Jacob Millman ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "McGraw-Hill ",
+                "c": "c1979"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxviii, 881 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "McGraw-Hill series in electrical engineering"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microeletrônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito integrado"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito eletrônico"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

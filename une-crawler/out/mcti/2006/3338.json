@@ -1,0 +1,75 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003338"
+        },
+        {
+            "code": "005",
+            "value": "20190731110855.0"
+        },
+        {
+            "code": "007",
+            "value": "c"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8575181998"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "811.134.3(038) ",
+                "b": "D546 ",
+                "d": "CDROM ",
+                "c": "[200-?]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Dicionário eletrônico Barsa ",
+                "h": "Recurso Eletrônico"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Encyclopaedia Britannica do Brasil ",
+                "c": "[200-?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 CD-Rom"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Dicionários ",
+                "x": "Língua portuguesa"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "CD-ROM"
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003692"
+        },
+        {
+            "code": "005",
+            "value": "20190813141737.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0662214110"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "551.583(71) ",
+                "b": "C212n ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Canada's national report on climate change ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Ottawa [Canadá] ",
+                "b": "Government of Canada ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "x, 144 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mudanças climáticas ",
+                "x": "Política e governo ",
+                "z": "Canadá"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Efeito estufa (Atmosfera) ",
+                "x": "Política e governo ",
+                "z": "Canadá"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

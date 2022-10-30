@@ -1,0 +1,137 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002342"
+        },
+        {
+            "code": "005",
+            "value": "20190805134720.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8572271953"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "679.85 ",
+                "b": "M665i ",
+                "c": "2003 ",
+                "d": "CETEM"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Mini-Foro Iberoeka en Mármoles y Granitos ",
+                "c": "Salvador, BA ",
+                "d": "2003"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Iberoeka en mármoles y granitos ",
+                "b": "mini-foro ",
+                "c": "Roberto C. Villas Boas, Benjamín Calvo y Carlos César Peiter, editores ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Ciencia y Tecnologia para el Desarrollo ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "230 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Capítulo I - El sector de rocas ornamentales -- Capítulo II - Importância de la investigación -- Capítulo III - Caracterización de la Piedra -- Capítulo IV - Durabilidad de las Rocas Ornamentales -- Capítulo V - A camino del éxito - Experiencias Positivas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rochas ornamentais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mármore"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Granito"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mineralogia"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Villas Boas, Roberto C. ",
+                "q": "Roberto Cerrini ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Calvo, Benjamin ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Peiter, Carlos César ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

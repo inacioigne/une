@@ -1,0 +1,108 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003949"
+        },
+        {
+            "code": "005",
+            "value": "20190731090047.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.891:025.5 ",
+                "b": "J62d ",
+                "c": "[1981?]"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Jobim Filho, Paulo"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Desenvolvimento de sistemas de informação ",
+                "b": "metodologias para especificação, programação estruturada, equipes de programação, avaliação de sistemas ",
+                "c": "Paulo Jobim Filho, Anibal Pereira Cardoso, Jackson Guedes ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Secretaria Especial de Informática ",
+                "c": "[1981?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "266 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de informação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Cardoso, Anibal Pereira ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Guedes, Jackson ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

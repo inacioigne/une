@@ -1,0 +1,119 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002931"
+        },
+        {
+            "code": "005",
+            "value": "20190808135822.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0916580008"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:658 ",
+                "b": "B321m ",
+                "c": "c1976"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Bassler, Richard A"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Managing data processing ",
+                "c": "Richard A. Bassler and Edward O. Joslin ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Alexandria [Estados Unidos] ",
+                "b": "College Readings ",
+                "c": "c1976"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "viii, 343 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Computer readings series"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Administração"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Empresas"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Joslin, Edward O ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

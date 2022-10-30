@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002187"
+        },
+        {
+            "code": "005",
+            "value": "20190730102304.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004 ",
+                "b": "B823p ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Secretaria Especial de Informática"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Proposta de programa de interação entra a SEI e a classe empresarial ",
+                "c": "Secretária Especial de Informática, Departamento de Recursos Humanos ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Secretaria Especial de Informática ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. (sem paginação) ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Apresentação -- Planejamento estratégico -- 1ª parte - usuários de informática (ou potenciais usuários) -- Planejamento tático dos processos."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "A idéia central que levou à apresentação deste \"Plano de Trabalho\" é que a informática, por ser um recurso flexível, coloca à disposição do empresariado uma série de facilidades que, bem aproveitadas, podem contribuir para o aumento da produtividade, a diminuição de custos e melhoria de qualidade de produtos. Contudo, sua utilização deve ser feita de maneira consciente, uma vez que informatização de uma empresa provoca uma série de mudanças, tanto de ordem física, quanto de ordem administrativa. Por outro lado, também a Indústria Brasileira de Informática requer apoio na busca de soluções de problemas inerentes a um setor jovem, e de tecnologia sofisticada. Daí a presente proposta engloba um plano de esclarecimento de empresariado, em diversos níveis, quer como usuários quer como produtores da informática, incluindo-se aí os potenciais produtores e usuários."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política Nacional de Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Governo ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Empresa nacional"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

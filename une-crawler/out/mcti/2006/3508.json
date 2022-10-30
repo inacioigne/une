@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003508"
+        },
+        {
+            "code": "005",
+            "value": "20190814185600.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "553.2(81)(063) ",
+                "b": "W926b ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Workshop on Base Metal Deposits of Brazil ",
+                "c": "Salvador, BA ",
+                "d": "1998"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Base metal deposits of Brazil ",
+                "b": "invited papers presented in the Workshop, held in Salvador, Bahia, from September 6-11, 1998 ",
+                "c": "editors, Maria da Gloria da Silva, Aroldo Misi ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Belo Horizonte ",
+                "b": "Ministério das Minas e Energia ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "108 ",
+                "b": "il., graf."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Geologia econômica ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Metalogenia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Metal pesado"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Silva, Maria da Gloria da ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Misi, Aroldo ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

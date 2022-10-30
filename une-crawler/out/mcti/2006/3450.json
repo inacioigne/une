@@ -1,0 +1,93 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003450"
+        },
+        {
+            "code": "005",
+            "value": "20190809152245.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "622 ",
+                "b": "M664 ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Mineração ",
+                "b": "orientação aos mineradoes e às prefeituras ",
+                "h": "Impresso ",
+                "c": "Secretaria de Meio Ambiente. Departamento de Recursos Minerais"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Niterói ",
+                "b": "Departamento de Recursos Minerais ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "40 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mineração ",
+                "x": "Aspectos juridicos ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos minerais ",
+                "x": "Aspectos ambientais ",
+                "z": "Rio de Janeiro"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Rio de Janeiro (Estado). Secretaria de Meio Ambiente. Departamento de Recursos Minerais ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

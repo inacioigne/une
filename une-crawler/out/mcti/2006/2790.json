@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002790"
+        },
+        {
+            "code": "005",
+            "value": "20190730131737.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "342.7:575 ",
+                "b": "I61d ",
+                "c": "2004"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Declaração internacional sobre os dados genéticos humanos ",
+                "b": "recolha, tratamento, utilização, conservação ",
+                "h": "Impresso ",
+                "c": "UNESCO"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "UNESCO ",
+                "c": "2004"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "15 f."
+            }
+        },
+        {
+            "code": "534",
+            "subfield": {
+                "a": "Título original: International Declaration on Human Genetic Data: collection, processing, use, storage"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Direitos humanos ",
+                "x": "Genética humana"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Bioética"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Proteção de dados"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "UNESCO ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

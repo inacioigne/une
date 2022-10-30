@@ -1,0 +1,142 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002447"
+        },
+        {
+            "code": "005",
+            "value": "20190802151501.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "339.5(81) ",
+                "b": "H737t ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Hollauer, Gilberto"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Testing Brazilians' imports and exports co-integration with monthly data for 1996-2005 ",
+                "c": "Gilberto Hollauer, Marco Aurélio Alves de Mendonça ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "14 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IPEA ",
+                "v": "n. 1154"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Testa o modelo de Husted e inspeciona a sustentabilidade de longo prazo das contas correntes brasileiras em um período muito específico de tempo (1996-2005) por meio do uso de dados mensais. Realiza teste da condição de restrição orçamentária inter-temporal (IBC) via teste de raiz unitária com quebra estrutural e co-integração pelo método de Gregory-Hansen em séries (117 pontos) nominais, normalizadas pelo PIB e normalizadas pelo índice de preços ao consumidor norte-americano (CIP). Os resultados indicam que a condição IBC pura não se sustenta para a economia brasiliera, mas há co-integração entre as séries utilizadas, indicando que o equilíbrio de contas é sustentável."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comércio internacional ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comércio exterior"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Exportação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Importação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Modelos econométricos"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Mendonça, Aurélio Alves de ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto na integra ",
+                "u": "http://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=4321&Itemid=1 ",
+                "z": "Acesso em: 02/08/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002876"
+        },
+        {
+            "code": "005",
+            "value": "20190808143625.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:519.67 ",
+                "b": "C154p ",
+                "c": "=134.3 1969"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Calingaert, Peter"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Princípios de computação ",
+                "c": "Peter Calingaert ; tradução Placidino Machado Fagundes ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Ao Livro Técnico ",
+                "c": "1969"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "224 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação matemática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador ",
+                "x": "Análise matemática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência da computação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

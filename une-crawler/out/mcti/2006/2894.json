@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002894"
+        },
+        {
+            "code": "005",
+            "value": "20190813131421.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.38 ",
+                "b": "V331co ",
+                "c": "1968"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Vasconcellos, Augusto de"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Computadores eletrônicos digitais ",
+                "c": "Augusto de Vasconcellos ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "2. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Kosmos ",
+                "c": "1968"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "131 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computador digital"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Equipamento de entrada de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquitetura de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Matemática"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

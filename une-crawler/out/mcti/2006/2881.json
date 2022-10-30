@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002881"
+        },
+        {
+            "code": "005",
+            "value": "20190813132532.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.38 ",
+                "b": "S487c ",
+                "c": "1970"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Serra, Celso Marques Penteado ",
+                "d": "1925-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Computadores analógicos e digitais ",
+                "c": "Celso Marques Penteado Serra ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "ETEGIL ",
+                "c": "1970"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xvi, 410 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computador digital"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computador analógico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquitetura de computador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

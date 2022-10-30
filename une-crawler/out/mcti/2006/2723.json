@@ -1,0 +1,99 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002723"
+        },
+        {
+            "code": "005",
+            "value": "20190730131651.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0131973762"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.424.25 ",
+                "b": "G468d ",
+                "c": "c1970"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Gildersleeve, Thomas Robert"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Decision tables and their practical application in data processing ",
+                "c": "Thomas R. Gildersleeve ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Englewood Cliffs ",
+                "b": "Prentice-Hall ",
+                "c": "c1970"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "206 ",
+                "c": "29 cm"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de suporte a decisão"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de informação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

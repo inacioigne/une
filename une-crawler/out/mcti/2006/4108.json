@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004108"
+        },
+        {
+            "code": "005",
+            "value": "20190814151551.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "551.468 ",
+                "b": "S713a ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Sorensen, Jens C"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Arreglos institucionales para manejar ambientes y recursos costeros ",
+                "c": "Jens C. Sorensen, Scott T. McCreary, Aldo Brandani ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "1. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Universidad de Rhode Island ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "186"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Proteção ambiental ",
+                "z": "Litoral ",
+                "x": "Gerenciamento costeiro"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos marinhos ",
+                "z": "Litoral ",
+                "x": "Aspectos ambientais"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "McCreary, Scott T ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Brandani, Aldo A ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

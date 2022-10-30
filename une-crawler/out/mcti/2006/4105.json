@@ -1,0 +1,86 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004105"
+        },
+        {
+            "code": "005",
+            "value": "20190808131700.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "006.91 ",
+                "b": "M174 ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Macrocenários mundiais, do Mercosul e nacionais com focalizações em metrologia, normalização e qualidade industrial no horizonte de 1997/2020 ",
+                "b": "versão preliminar para discussão interna no INMETRO ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Instituto Nacional de Metrologia, Normalização e Qualidade Industrial ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "160"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Metrologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Normalização industrial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Qualidade da produção"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002974"
+        },
+        {
+            "code": "005",
+            "value": "20190808145341.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0385142889"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "342.72/.73 ",
+                "b": "S642p ",
+                "c": "1979"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Smith, Robert Ellis"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Privacy, how to protect what's left of it ",
+                "h": "Impresso ",
+                "c": "Robert Ellis Smith"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Garden City [Estados Unidos] ",
+                "b": "Anchor Press ",
+                "c": "1979"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xi, 346"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Segredo profissional"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Privacidade ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

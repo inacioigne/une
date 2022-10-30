@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002765"
+        },
+        {
+            "code": "005",
+            "value": "20190814183706.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "556.51(817.1) ",
+                "b": "B125f ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Bacia hidrográfica do rio Formoso ",
+                "b": "qualidade das águas ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Campo Grande, MS ",
+                "b": "Instituto de Meio Ambiente Pantanal ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "66 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Projeto implementação de práticas de gerenciamento integrado de Bacia hidrográfica para o Pantanal e Bacia do Alto Paraguai, Projeto GEF Pantanal / Alto Paraguai ANA / GEF / PNUMA / DEA."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Bacias hidrográficas ",
+                "z": "Rio Formoso"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Água ",
+                "x": "Controle de qualidade"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Conservação da natureza"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

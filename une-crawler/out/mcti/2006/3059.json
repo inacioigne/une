@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003059"
+        },
+        {
+            "code": "005",
+            "value": "20190806101651.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.3:338.45(81)(043) ",
+                "b": "T568i ",
+                "c": "1978"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Tigre, Paulo Bastos"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Indústria de computadores e dependência tecnológica no Brasil ",
+                "c": "Paulo Bastos Tigre ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "c": "1978 ",
+                "a": "Rio de Janeiro, RJ"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "160 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "502",
+            "subfield": {
+                "a": "Dissertação (mestrado) - Universidade Federal do Rio de Janeiro. Coordenação dos Programas de Pós-Graduação em Engenharia, Rio de Janeiro, 1978."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de computador ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Transferência de tecnologia ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dissertações/Teses/TCC"
+            }
+        }
+    ]
+}

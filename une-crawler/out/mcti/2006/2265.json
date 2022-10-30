@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002265"
+        },
+        {
+            "code": "005",
+            "value": "20190730094415.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.42 ",
+                "b": "P964 ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Projeto fábrica de software ",
+                "b": "documento de divulgação ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Campinas] ",
+                "b": "[s.n.] ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "23 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "1. Motivação -- 1.1. Introdução -- 1.2. Esforços em outros países -- 1.3. Situação brasileira -- 2. Modelo de integração -- 2.1. Instituições participantes -- 2.2. Outras instituições -- 2.3. Contexto da fábrica de software -- 3. Projeto fábrica de software -- 3.1. Contexto funcional -- 3.2. Intercâmbio internacional -- 3.3. Estratégia para implantação da LPP."
+            }
+        },
+        {
+            "code": "562",
+            "subfield": {
+                "a": "Cópia da versão original de Documento de divulgação de set/85."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Computador de quinta geração"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa e desenvolvimento"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

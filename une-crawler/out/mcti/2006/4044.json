@@ -1,0 +1,119 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004044"
+        },
+        {
+            "code": "005",
+            "value": "20180724122905.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0471262544"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.39:004.7 ",
+                "b": "F553f ",
+                "c": "1978"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "FitzGerald, Jerry ",
+                "d": "1936-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Fundamentals of data communications ",
+                "c": "Jerry FitzGerald, Tom S. Eason ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Santa Barbara [Estados Unidos] ",
+                "b": "Wiley ",
+                "c": "1978"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xii, 260 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Preface -- 1 Introduction to Data Cmmunications -- 2 Fundamental Communications Concepts -- 3 Data Communication Hardware -- 4 Network Configuration Concepts and Control Techniques -- 5 Error Detection and Correction -- 6 Data Communication Software -- 7 Common Carriers and Tariffs -- 8 Designing Communication Networks -- Glossary -- Bibliography -- Index."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telecomunicações"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de transmissão de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de telecomunicação"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Eason, Tom S ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

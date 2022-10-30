@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003939"
+        },
+        {
+            "code": "005",
+            "value": "20190813141641.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4:347.771(71) ",
+                "b": "D912c ",
+                "c": "1975"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Duncan, Gaylen Arthur"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Canadian business and economic implications of protecting computer programmes ",
+                "c": "Gaylen Arthur Duncan ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "c": "1975 ",
+                "a": "Michigan, EUA"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "304 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "502",
+            "subfield": {
+                "a": "Dissertação (Doutorado) - University of Texas at Austin, Ann Arbor, Mich., 1975."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programas de computador ",
+                "x": "Direitos autorais ",
+                "z": "Canadá"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Direito comercial ",
+                "x": "Direitos autorais"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dissertações/Teses/TCC"
+            }
+        }
+    ]
+}

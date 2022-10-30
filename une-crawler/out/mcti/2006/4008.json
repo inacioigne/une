@@ -1,0 +1,92 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004008"
+        },
+        {
+            "code": "005",
+            "value": "20190805145417.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.896 ",
+                "b": "E79i ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Estados Unidos. Congress. House. Committee on Small Business. Subcommittee on General Oversight and the Economy"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Impact of robots and computers on the work force of the 1980's ",
+                "b": "hearings before the Subcommittee on General Oversight and the Economy of the Committee on Small Business, House of Representatives, Ninety-eighth Congress, first session, Washington, D.C., May 17 and 18, 1983 ",
+                "h": "Impresso ",
+                "c": "Estados Unidos. Congress. House. Committee on Small Business. Subcommittee on General Oversight and the Economy"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "U.S. Government Printing Office ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "iv, 255 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Robo industrial ",
+                "x": "Aspectos sociais ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores ",
+                "x": "Aspectos sociais ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

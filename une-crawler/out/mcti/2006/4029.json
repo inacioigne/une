@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004029"
+        },
+        {
+            "code": "005",
+            "value": "20190813115624.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0471258849"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.35 ",
+                "b": "F499c ",
+                "c": "1975"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Finkel, Jules ",
+                "d": "1932-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Computer-aided experimentation ",
+                "b": "interfacing to minicomputers ",
+                "c": "Jules Finkel ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Wiley-Interscience ",
+                "c": "1975"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xviii, 422 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Equipamento de entrada de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Saída de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Equipamento periférico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Minicomputador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002989"
+        },
+        {
+            "code": "005",
+            "value": "20190731131452.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0814454577"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.75 ",
+                "b": "B842d ",
+                "c": "c1978"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Breslin, Jud"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Distributed processing systems ",
+                "b": "end of the mainframe era? ",
+                "c": "Judson Breslin and C. Bradley Tashenberg ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "AMACOM ",
+                "c": "c1978"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "228 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Empresas ",
+                "x": "Processamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gerência ",
+                "x": "Processamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Sistema distribuído"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microcomputador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Tashenberg, C. Bradley ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

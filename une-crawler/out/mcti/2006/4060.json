@@ -1,0 +1,108 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004060"
+        },
+        {
+            "code": "005",
+            "value": "20190805143348.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "331.101.5(043.2) ",
+                "b": "F312t"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Feldmann, Paulo Roberto ",
+                "d": "1949-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A transformação das ocupações e as mudanças nos metodos de trabalho a partir da microeletronica ",
+                "c": "Paulo Roberto Feldmann ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "c": "1987 ",
+                "a": "[S.l. ",
+                "b": "s.n]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "247 f."
+            }
+        },
+        {
+            "code": "502",
+            "subfield": {
+                "a": "Tese (doutorado) - Escola de Administração de Empresas de São Paulo. Fundação Getúlio Vargas, São Paulo, 1987."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação ",
+                "x": "Aspectos economicos ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Aspectos sociais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mercado de trabalho ",
+                "x": "Inovação tecnológica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microeletrônica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dissertações/Teses/TCC"
+            }
+        }
+    ]
+}

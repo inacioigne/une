@@ -1,0 +1,104 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002822"
+        },
+        {
+            "code": "005",
+            "value": "20190805105043.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "eng                                eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "001.891(73)(083.2) ",
+                "b": "N277g ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "National Science Foundation (Estados Unidos)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Grant proposal guide ",
+                "h": "Impresso ",
+                "c": "National Science Foundation"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Arlington [Estados Unidos] ",
+                "b": "National Science Foundation ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "40 f."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Issues for 1994 include: Proposal forms kit, NSF 98-2 (Replaces NSF 95-27)."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa ",
+                "x": "Financiamento",
+                "z": "Estados Unidos "
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa científica ",
+                "z": "Estados Unidos ",
+                "x": "Manual"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia ",
+                "x": "Pesquisa ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

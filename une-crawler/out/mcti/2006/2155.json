@@ -1,0 +1,116 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002155"
+        },
+        {
+            "code": "005",
+            "value": "20190807091845.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0782124259"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.7.056 ",
+                "b": "S914n ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Strebe, Matthew"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "NT 4 network security ",
+                "c": "Matthew Strebe, Charles Perkins, Michael G. Moncur ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "2. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "San Francisco ",
+                "b": "Network Press ",
+                "c": "c1999"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxxii, 940 ",
+                "b": "il., ",
+                "e": "+ 1 CD-ROM"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador ",
+                "x": "Proteção de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistemas operacionais (Computadores) ",
+                "x": "Windows NT (Sistema operacional de computador)"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Perkins, Charles Arthur ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Moncur, Michael G ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

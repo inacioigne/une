@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003605"
+        },
+        {
+            "code": "005",
+            "value": "20190731110823.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "35.077LNLS(047) ",
+                "b": "A849r ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Associação Brasileira de Tecnologia de Luz Síncrotron"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Relatório sobre o Laboratório Nacional de Luz Síncrotron (LNLS) ",
+                "b": "resumo da 3. reunião do Comitê Científico no LNLS, Campinas, Brasil ",
+                "h": "Impresso ",
+                "c": "Associação Brasileira de Tecnologia de Luz Síncrotron"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "b": "Associação Brasileira de Tecnologia de Luz Síncrotron ",
+                "c": "2003 ",
+                "a": "Campinas, SP"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "28 f."
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Laboratório Nacional de Luz Síncrotron (Brasil)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Luz síncrotron"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa científica"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Laboratório Nacional de Luz Síncrotron (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

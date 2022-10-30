@@ -1,0 +1,93 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002623"
+        },
+        {
+            "code": "005",
+            "value": "20190806131727.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9058088199"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "628.35 ",
+                "b": "C376i ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Cavalcanti, Paula Frassinetti Feitosa"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Integrated application of the UASB reactor and ponds for domestic sewage treatment in tropical regions ",
+                "c": "Paula Frassinetti Feitosa Cavalcanti ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Wageningen, Alemanha ",
+                "b": "Wageningen University ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xiii, 139 p. ",
+                "b": "il., tabs., grafs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tratamento de residuo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Esgoto sanitário"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

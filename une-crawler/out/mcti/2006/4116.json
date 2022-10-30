@@ -1,0 +1,99 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004116"
+        },
+        {
+            "code": "005",
+            "value": "20190814184000.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "330 ",
+                "b": "B171 ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Balance preliminar de la economía de América Latina y el Caribe ",
+                "c": "Comisión Económica para América Latina y el Caribe ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Santiago (Chile)] ",
+                "b": "Nações Unidas, Comissão Econômica para América Latina e Caribe ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "59 ",
+                "c": "28 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indicador econômico ",
+                "z": "Caribe"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "América Latina ",
+                "x": "Estatísticas"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Caribe ",
+                "x": "Estatísticas"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Nações Unidas ",
+                "b": "Comissão Econômica para a América Latina e Caribe ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

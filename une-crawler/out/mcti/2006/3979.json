@@ -1,0 +1,89 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003979"
+        },
+        {
+            "code": "005",
+            "value": "20190805143825.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "334.726 ",
+                "b": "N125t ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Centre on Transnational Corporations (Nações Unidas)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Transnational corporations and transborder data flows ",
+                "b": "a technical paper ",
+                "h": "Impresso ",
+                "c": "Centre on Transnational Corporations"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Nações Unidas ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "149 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comércio internacional ",
+                "x": "Sistema de comunicação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Fluxo de dados transfronteiras"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

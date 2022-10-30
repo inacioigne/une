@@ -1,0 +1,161 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002605"
+        },
+        {
+            "code": "005",
+            "value": "20190628122503.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502.2(213.56:811)(063) ",
+                "b": "L432a ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "LBA Scientific Conference ",
+                "c": "Belém, PA ",
+                "d": "2000 ",
+                "n": "1"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Abstracts of the first LBA Scientific Conference ",
+                "h": "Impresso ",
+                "c": "general editors, Paulo Artaxo, Michael Keller ; colaboradores, Instituto Nacional de Pesquisa Espaciais, National Aeronautics and Space Administration, Alterra Green World Foundation"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Belém ",
+                "c": "2000 ",
+                "b": "Large Scale Biosphere-Atmosphere Experiment in Amazonia"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "295"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Na capa: Book of abstracts."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Meteorologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Conservação da natureza"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Bacias hidrográficas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos florestais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Amazônia"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Artaxo, Paulo ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Keller, Michael ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto Nacional de Pesquisas Espaciais (Brasil) ",
+                "e": "Colaborador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Estados Unidos. National Aeronautics and Space Administration ",
+                "b": "National Aeronautics and Space Administration ",
+                "e": "Colaborador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Alterra Green World Foundation ",
+                "e": "Colaborador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

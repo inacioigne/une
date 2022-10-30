@@ -1,0 +1,124 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003112"
+        },
+        {
+            "code": "005",
+            "value": "20190813143700.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8573831766"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "631.52 ",
+                "b": "C144 ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Calculando e atribuindo os benefícios da pesquisa de melhoramento de variedades ",
+                "b": "o caso da Embrapa ",
+                "c": "Editores-técnicos Eliseu Roberto Andrade Alves, Marília Castelo Magalhães, Pedro Pereira Guedes ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Embrapa, Informação Tecnológica ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "248 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Agricultura"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Vegetais ",
+                "x": "Melhoramento genético"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa científica"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Alves, Eliseu Roberto de Andrade ",
+                "d": "1930- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Magalhães, Marília Castelo ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Guedes, Pedro Pereira ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Empresa Brasileira de Pesquisa Agropecuária ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

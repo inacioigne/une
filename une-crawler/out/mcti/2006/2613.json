@@ -1,0 +1,104 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002613"
+        },
+        {
+            "code": "005",
+            "value": "20190813113531.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0471330051"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.382.4 ",
+                "b": "G888c ",
+                "c": "1973"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Gruenberger, Fred Joseph ",
+                "d": "1918-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Computing with mini computers ",
+                "c": "Fred Gruenberger, David Babcock ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Los Angeles ",
+                "b": "Melville Pub. Co. ",
+                "c": "c1973"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xv, 288 ",
+                "c": "24 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Computer science series"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Minicomputador ",
+                "x": "Programação de computador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Babcock, David ",
+                "q": "David John ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

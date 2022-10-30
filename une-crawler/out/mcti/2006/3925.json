@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003925"
+        },
+        {
+            "code": "005",
+            "value": "20190805091537.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0130447684"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.2'382.4 ",
+                "b": "L765a ",
+                "c": "1979"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Lippiatt, Arthur G. ",
+                "d": "1936-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The architecture of small computer systems ",
+                "c": "Arthur G. Lippiatt ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Englewood Cliffs ",
+                "b": "Prentice-Hall ",
+                "c": "1979"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xiii, 173 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquitetura de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microcomputador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Minicomputador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

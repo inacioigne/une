@@ -1,0 +1,108 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003985"
+        },
+        {
+            "code": "005",
+            "value": "20190806100732.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9264218610"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.7(4) ",
+                "b": "U89 ",
+                "c": "1979"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Utilisation des réseaux internationaux des transmission des données en Europe ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Organisation de coopération et de développement économiques ",
+                "c": "1979"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "275 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Politiques d'information, d'informatique et de communications ",
+                "v": "2"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telecomunicações ",
+                "z": "Europa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de informação ",
+                "z": "Europa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Organização de Cooperação e Desenvolvimento Econômico ",
+                "e": "Indefinida"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

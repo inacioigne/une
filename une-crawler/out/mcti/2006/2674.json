@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002674"
+        },
+        {
+            "code": "005",
+            "value": "20190805131501.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.5 ",
+                "b": "K31h ",
+                "c": "=134.3 ",
+                "d": "1974"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Kemeny, John G. ",
+                "d": "1926-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "O homem e o computador ",
+                "c": "John G. Kemeny ; tradução de Gastão Jacinto Gomes ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Gráfica Lux ",
+                "c": "1974"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "150 ",
+                "c": "21 cm"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores ",
+                "x": "História"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

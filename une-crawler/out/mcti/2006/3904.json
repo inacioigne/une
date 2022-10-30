@@ -1,0 +1,122 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003904"
+        },
+        {
+            "code": "005",
+            "value": "20190801095313.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.1(81)(084.21) ",
+                "b": "E19 ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A Economia brasileira em gráficos ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "the brazilian economy in graphs"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Fundação Getulio Vargas ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "130 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Apresenta dados estatisticos atraves de graficos do pib, população, desemprego, salario minimo, distribuição de renda, grãos, pecuaria, industria, exportações, importações, divida externa, icms, dolar paralelo, e de ativos financeiros ate 1995."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Condições econômicas ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Condições sociais ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mercado de trabalho ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Agropecuária ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústrias ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Finanças públicas ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004005"
+        },
+        {
+            "code": "005",
+            "value": "20190813121456.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.056 ",
+                "b": "E79c ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Estados Unidos. Congress. Senate. Committee on Governmental Affairs. Subcommittee on Oversight of Government Management"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Computer security in the federal government and the private sector ",
+                "b": "hearings before the Subcommittee on Oversight of Government Management of the Committee on Governmental Affairs, United States Senate, Ninety-eighth Congress, first session, October 25 and 26, 1983 ",
+                "h": "Impresso ",
+                "c": "Congress. Senate. Committee on Governmental Affairs. Subcommittee on Oversight of Government Management"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "U.S. Government Printing Office ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "504 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "S. Hrg ",
+                "v": "98-440"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Segurança de computador ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Centros de processamento de dados ",
+                "x": "Normas de segurança"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

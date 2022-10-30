@@ -1,0 +1,123 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002941"
+        },
+        {
+            "code": "005",
+            "value": "20190808144149.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "005.591.6 ",
+                "b": "H333i ",
+                "c": "=134.2 ",
+                "d": "1973"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Hartman, W"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Manual de los sistemas de información ",
+                "b": "análisis, requisitos y su determinación, diseño y desarrollo, implantación y su evaluación ",
+                "c": "W. Hartman, H. Matthes, A. Proeme ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Madri (Espanha) ",
+                "b": "Paraninfo ",
+                "c": "1973"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "382 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Biblioteca técnica Philips"
+            }
+        },
+        {
+            "code": "534",
+            "subfield": {
+                "a": "Título original: Information systems handbook"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Empresas ",
+                "x": "Automação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de informação ",
+                "x": "Projeto"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Matthes, H ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Proeme, A ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

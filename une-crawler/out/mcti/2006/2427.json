@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002427"
+        },
+        {
+            "code": "005",
+            "value": "20190805112129.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5/6(815.2)(035) ",
+                "b": "G943 ",
+                "d": "R ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Guia de informações em ciência e tecnologia ",
+                "h": "Impresso ",
+                "c": "Coordenação Estadual de Ciência e Tecnologia, Coordenação de Planejamento do Governo"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "4. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Vitória ",
+                "b": "Coordenação de Planejamento do Governo ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "468"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Instituição de pesquisa ",
+                "x": "Indicadores ",
+                "z": "Espirito Santo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Espírito Santo (Estado). Coordenação Estadual de Ciência e Tecnologia ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Espírito Santo (Estado). Coordenação de Planejamento do Governo ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

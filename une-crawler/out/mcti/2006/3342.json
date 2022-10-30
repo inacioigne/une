@@ -1,0 +1,75 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003342"
+        },
+        {
+            "code": "005",
+            "value": "20190805131054.0"
+        },
+        {
+            "code": "007",
+            "value": "c"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "1564090647"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "CD030 ",
+                "b": "H673 ",
+                "c": "=134.2 ",
+                "d": "2003"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Hispánica CD ",
+                "h": "Recurso Eletrônico"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Encyclopaedia Britannica do Brasil ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 CD-Rom"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Enciclopédia ",
+                "x": "Língua espanhola"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "CD-ROM"
+            }
+        }
+    ]
+}

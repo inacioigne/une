@@ -1,0 +1,82 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002628"
+        },
+        {
+            "code": "005",
+            "value": "20190805100509.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.382(035) ",
+                "b": "F981 ",
+                "c": "1972"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The fundamentals of office computers ",
+                "b": "a handbook of programmed instruction ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "West Germany ",
+                "b": "EDWE Eiserfeld ",
+                "c": "1972"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. (várias paginações) ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores ",
+                "x": "Estudo e ensino"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

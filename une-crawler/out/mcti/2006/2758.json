@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002758"
+        },
+        {
+            "code": "005",
+            "value": "20190729140221.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.422.833 ",
+                "b": "M471p ",
+                "c": "=134.3 1976"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Maynard, Jeff"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Programação modular ",
+                "c": "Jeff Maynard ; tradutor, Heitor M. Quitella ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Livros Técnicos e Científicos ",
+                "c": "1976"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "96 ",
+                "c": "23 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "534",
+            "subfield": {
+                "a": "Modular programming"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação modular"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

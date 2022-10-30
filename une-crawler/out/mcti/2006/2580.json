@@ -1,0 +1,97 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002580"
+        },
+        {
+            "code": "005",
+            "value": "20190730114326.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.28-048.87(7/4=13) ",
+                "b": "C569c ",
+                "c": "2000-2001"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Programa Iberoamericano de Ciência e Tecnologia para o Desenvolvimento"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "CYTED, Memoria, 2000-2001 ",
+                "b": "Programa Iberoamericano de Ciencia y Tecnología para el Desarrollo ",
+                "h": "Impresso ",
+                "c": "Programa Iberoamericano de Ciência e Tecnologia para o Desenvolvimento"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Espanha ",
+                "b": "Programa Iberoamericano de Ciência e Tecnologia para o Desenvolvimento ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "374 ",
+                "b": "il., tabs"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "z": "Ibero-americano"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento tecnológico ",
+                "z": "Ibero-americano"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento científico ",
+                "z": "Ibero-americano"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

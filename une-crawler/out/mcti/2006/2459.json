@@ -1,0 +1,86 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002459"
+        },
+        {
+            "code": "005",
+            "value": "20190730091949.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502.17:574.1(811.6)(094) ",
+                "b": "C764 ",
+                "c": "[1999]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Controle do acesso à biodiversidade do Amapá, Lei 0388, 10.12.97 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Belém ",
+                "b": "Supercores ",
+                "c": "[1999]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "55 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biodiversidade ",
+                "x": "Legislação ",
+                "z": "Amapá"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biotecnologia ",
+                "x": "Legislação ",
+                "z": "Amapá"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos do germoplasma ",
+                "x": "Legislação ",
+                "z": "Amapá"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

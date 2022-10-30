@@ -1,0 +1,108 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003254"
+        },
+        {
+            "code": "005",
+            "value": "20190813164510.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.039(81) ",
+                "b": "C397c ",
+                "c": "2000/2001 ",
+                "d": "CNEM"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Centro de Desenvolvimento da Tecnologia Nuclear ",
+                "c": "Brasil"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Coletânea 2000/2001 ",
+                "h": "Impresso ",
+                "c": "Centro de Desenvolvimento da Tecnologia Nuclear"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Belo Horizonte ",
+                "b": "Centro de Desenvolvimento da Tecnologia Nuclear ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "28 f."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia nuclear ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Radiação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Medicina"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia nuclear"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Comissão Nacional de Energia Nuclear (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003492"
+        },
+        {
+            "code": "005",
+            "value": "20190731120046.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.45(73) ",
+                "b": "W855r ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Wolfe, Raymond M"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Research and development in industry ",
+                "b": "1993 : funds, 1993, scientistis and engineers, january 1994 ",
+                "c": "Raymond M. Wolfe ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Arlington [Estados Unidos] ",
+                "b": "National Science Foundation, Division of Science Resources Studies, Directorate for Social, Behavioral and Economic Sciences ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "x, 130"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Detailed statistical tables, NSF 96-304"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa industrial ",
+                "x": "Estatísticas ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003066"
+        },
+        {
+            "code": "005",
+            "value": "20190731113700.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0471053767"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.31 ",
+                "b": "M996d ",
+                "c": "c1980"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Myers, Glenford J. ",
+                "d": "1946-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Digital system design with LSI Bit-Slice logic ",
+                "c": "Glenford J. Myers ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Wiley-Interscience ",
+                "c": "c1980"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xi, 338 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computador digital"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito lógico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microprogramação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito integrado"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003425"
+        },
+        {
+            "code": "005",
+            "value": "20190814161528.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "14154765"
+            }
+        },
+        {
+            "code": "022",
+            "subfield": {
+                "a": "14154765"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "364.3-058.243.2 ",
+                "b": "C198a ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Campos, André Gambier"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Aspectos da proposta de mudança na regulamentação da previdência rural no Brasil ",
+                "c": "André Campos ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "b": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "2006 ",
+                "a": "Rio de Janeiro"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "21 ",
+                "b": "il., tab."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IPEA ",
+                "v": "n. 1195"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Sinopse -- abstract -- 1. Introdução -- 2. Resenha histórica -- 3. Séries escolhidas -- 4. Procedimentos de datação -- 5. Metodologias utilizadas de construção dos indicadores coincidentes -- 6. Resultados -- 7. Conclusão -- Referências -- Anexo"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Neste trabalho aplicam-se e testam-se, dentro da amostra, algumas metodologias de construção de indicadores coincidentes para atividade industrial visando à detecção de ciclos de crescimento/recessão da atividade industrial. Com respeito à seleção das séries para o caso brasileiro, será apoio a literatura recente (SPACOV, 2001). Especi-ficamente, testou-se uma versão baseada no indicador coincidente da The Conference Board (TCB), uma versão modificada, na qual as volatilidades são modeladas e a a-bordagem de Stock-Watson tradicional. Finalmente, testou-se uma abordagem tipo Hamilton para a série de desemprego especificamente. Concluiu-se que, em geral, o índice TCB padrão é superior a outros métodos testados, sendo apenas competitivo com o método modificado. Mais ainda, o índice TCB tende a englobar os períodos recessivos apresentados pelos outros índices, sendo correspondentes com os períodos recessivos conhecidos do setor industrial. O método de Stock e Watson e o de Hamilton não são adequados, pois o pri-meiro indica quase nenhum período recessivo, enquanto o segundo os encontra em demasia. Além disso, uma comparação das técnicas com os resultados de datação fei-tos por Duarte, Issler e Spacov indica que o método do TCB (ou TCB modificado) tem performance superior à dos outros dois, sendo, portanto, a forma mais indicada para computar indicadores coincidentes da indústria no Brasil."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "In this paper we perform and evaluate, in sample, some methodologies for building of coincident indicators focusing on the detection of business cycle of the Industrial activity. In respect of selection of coincident series for the Brazilian case, we will lean on recent literature (SPACOV, 2001). Specifically, we try a version of coincident indicator based on the coincident indicator for economy of the TCB (The Conference Board), a modified version in which the volatility is modeled and a Stock-Watson approach. Finally, we test if the unemployment series can be a good indicator for recession, as in American case, when submitted to a Hamilton Modeling. We conclude that, in general, the TCB index outperform the others methods tested, being competitive just with the modified method. Furthermore, The TCB Traditional has the tendency to comprehend the recessives periods of the others, in correspondence with the known recessive periods for industrial activity. The Stock-Watson approach and the Hamilton modeling are not appropriate for Brazilian Industrial Economy. The former because ignore almost all recessive periods known and the second, on the contrary, since indicates a excessive ones. In addition, we have concluded that when we compare with preceding research, dating made by Duarte, Issler e Spacov for instance, the standard TCB method is superior and most appropriated."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Economia rural"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Trabalhador rural"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Direito do trabalho"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Seguridade social"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Previdência social rural"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (IPEA) ",
+                "u": "http://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=4351 ",
+                "z": "Acesso em: 14/08/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003092"
+        },
+        {
+            "code": "005",
+            "value": "20190809113935.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8575290673"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "613.281 ",
+                "b": "T583p ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Timbó, Maria Olinda de Paiva"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Processamento de pescado ",
+                "c": "Maria Olinda de Paiva Timbó ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Fortaleza ",
+                "b": "Instituto Centro de Ensino Tecnológico ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "32 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Cadernos tecnológicos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesca"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Peixe"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de pescado"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

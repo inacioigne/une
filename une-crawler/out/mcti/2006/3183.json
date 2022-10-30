@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003183"
+        },
+        {
+            "code": "005",
+            "value": "20190801145925.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8524008431"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "308(81) ",
+                "b": "S618 ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Síntese de indicadores sociais, 2000 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Instituto Brasileiro de Geografia e Estatística ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "368 ",
+                "b": "il., tabs., grafs. + 1 CD-Rom"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Estudos e pesquisas. Informação demográfica e socioeconômica ",
+                "v": "5"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Retrata aspectos da dinâmica social brasileira, nos anos de 1992/1999, abrangendo os principais aspectos demográficos, de saúde, educação, trabalho e rendimento, domicílios, família, crianças, adolescentes e jovens, idosos e desigualdades raciais."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indicadores sociais ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Estatística social ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

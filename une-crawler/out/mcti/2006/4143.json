@@ -1,0 +1,158 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004143"
+        },
+        {
+            "code": "005",
+            "value": "20190802093245.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "331.5 ",
+                "b": "S738 ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Spatial dynamics of labor markets in Brazil ",
+                "c": "Alexandre carvalho ... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "46 f. ",
+                "b": "gráfs., mapas, tabs."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IPEA ",
+                "v": "1110"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Analisa o mercado de trabalho brasileiro, que apresentou uma dinâmica espacial diversa durante a década de 1990. Estima um modelo espacial de demanda e oferta por trabalho no qual descreve as mudanças no nível de salários e empregos dos municípios. Utiliza o método GMM espacial desenvolvido por Conley (1999)."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mercado de trabalho ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Emprego ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Modelos econométricos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Oferta e demanda ",
+                "x": "Emprego ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Carvalho, Alexandre ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Mata, Daniel da ",
+                "d": "1982- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Magalhães, João Carlos Ramos ",
+                "d": "1972- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Chomitz, Kenneth M. ",
+                "d": "1953- ",
+                "q": "Kenneth Mark ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo ",
+                "u": "http://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=4286 ",
+                "z": "Acesso em: 02/08/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

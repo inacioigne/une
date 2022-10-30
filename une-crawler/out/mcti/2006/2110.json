@@ -1,0 +1,89 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002110"
+        },
+        {
+            "code": "005",
+            "value": "20190809150622.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.42 ",
+                "b": "M626 ",
+                "c": "c1995"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Microsoft visual sourcesafe ",
+                "b": "preject-oriented version control, version 4.0 : for Windows 95, Windows NT, Microsoft Windows 3.1, MS-DOS, and Macintosh ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Redmont, Washington ",
+                "b": "Microsoft Press ",
+                "c": "c1995"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "204 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Users's Guide"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador ",
+                "x": "Proteção de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programas de computador ",
+                "x": "Software - Desenvolvimento"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

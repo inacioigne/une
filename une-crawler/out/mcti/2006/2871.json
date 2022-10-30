@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002871"
+        },
+        {
+            "code": "005",
+            "value": "20190812183942.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "658.5(81) ",
+                "b": "I25a ",
+                "c": "1972"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Iida, Itiro"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Aplicações da engenharia de produção ",
+                "b": "estudo de sete casos em empresas brasileiras ",
+                "c": "Itiro Iida ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Pioneira ",
+                "c": "1972"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "287 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Coleção de engenharia de produção e administração industrial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia de produção"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração da produção"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústrias"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

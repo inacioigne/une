@@ -1,0 +1,83 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004107"
+        },
+        {
+            "code": "005",
+            "value": "20190801114700.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "551.468 ",
+                "b": "M274 ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "El manejo de ambientes y recursos costeros en America Latina y el Caribe ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Buenos Aires ",
+                "b": "Organização dos Estados Americanos ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "269 ",
+                "b": "il., mapas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos marinhos ",
+                "z": "Litoral ",
+                "x": "Aspectos ambientais"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Litoral ",
+                "x": "Gerenciamento costeiro"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

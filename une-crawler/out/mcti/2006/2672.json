@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002672"
+        },
+        {
+            "code": "005",
+            "value": "20190805093455.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0091194903"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "519.7:37 ",
+                "b": "P282c ",
+                "c": "1975"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Pask, Gordon"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The cybernetics of human learning and performance ",
+                "b": "a guide to theory and research ",
+                "c": "Gordon Pask ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Londres (Inglaterra) ",
+                "b": "Hutchinson Educational ",
+                "c": "1975"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "347 ",
+                "c": "24 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cibernética"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Psicologia da aprendizagem"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Psicologia educacional"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

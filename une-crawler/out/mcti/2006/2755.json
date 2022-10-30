@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002755"
+        },
+        {
+            "code": "005",
+            "value": "20190807112322.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.422.63 ",
+                "b": "L935i ",
+                "c": "1970"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Lucena, Carlos J. P. ",
+                "q": "Carlos José Pereira"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Introdução às estruturas de informação ",
+                "c": "Carlos José Pereira de Lucena ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Ao Livro Técnico ",
+                "c": "1970"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "86 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Estrutura de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Algoritmos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação matemática"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

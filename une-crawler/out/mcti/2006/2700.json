@@ -1,0 +1,151 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002700"
+        },
+        {
+            "code": "005",
+            "value": "20190809152717.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8572271376"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "622.7 ",
+                "b": "L759m ",
+                "c": "2000 ",
+                "d": "CETEM"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Lins, Fernando A. Freitas ",
+                "q": "Fernando Antonio Freitas"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Minerais coloidais, teoria DLVO estendida e forças estruturais ",
+                "c": "Vanilda da Rocha Barros e Antonio Rodrigues de Campos ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro de Tecnologia Mineral ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "29 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Tecnologia mineral / CETEM ",
+                "v": "78 ",
+                "x": "0103-7382"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Resumo/Abstract --- 1. Introdução --- 2. Teorias DLVO e X-DLVO - 2.1 Teoria DLVO - 2.2 Teoria X-DLVO --- 3. Interação por Forças Estruturais - 3.1 Origem das Forças Estruturais - 3.2 Interações Simétricas - 3.3 Interações Assimétricas --- 4. Considerações Finais --- Referências Bibliográficas --- Anexo"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Este trabalho apresenta uma breve revisão da teoria DLVO estendida, com ênfase nas forças estruturais (hidrofóbicas e hidrofílicas), no contexto do tratamento de minerais ultrafinos ou minerais coloidais."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Precipitação (Química)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Química coloidal"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia mineral"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Rupen, Adamian ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Centro de Tecnologia Mineral ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "www.cetem.gov.br/publicacao/series_stm/stm-78.pdf ",
+                "y": "CETEM ",
+                "z": "Acesso em: 21/05/2014"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

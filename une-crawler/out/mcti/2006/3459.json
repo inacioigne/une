@@ -1,0 +1,90 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003459"
+        },
+        {
+            "code": "005",
+            "value": "20190808115230.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "334.7:62(81) ",
+                "b": "L714 ",
+                "c": "2008"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Liderança do movimento de incubação de empresas e parques tecnológicos no Brasil ",
+                "h": "Impresso ",
+                "c": "Associação Nacional das Entidades Promotoras de Empreendimentos de Tecnologias Avançadas"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Associação Nacional de Entidades Promotoras de Empreendimentos Inovadores ",
+                "c": "2008"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "14 f."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Incubadoras de empresas ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Incubadora tecnológica ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Associação Nacional das Entidades Promotoras de Empreendimentos de Tecnologias Avançadas ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

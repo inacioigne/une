@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002253"
+        },
+        {
+            "code": "005",
+            "value": "20190801155340.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004-051 ",
+                "b": "B823e ",
+                "c": "[1985?] ",
+                "d": "SEI"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Secretaria Especial de Informática"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Estimativa de profissionais da área de serviços técnicos de informática, até 1985 ",
+                "c": "Secretaria Especial de Informática ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Secretaria Especial de Informática ",
+                "c": "[1985?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. (sem paginação) ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Apresentação -Recursos computacionais no Brasil - 1981(valores ajustados) - Função: Analista - Função: Programador - Função: Operador - Função: Digitador - Função: Fitotecário - Função: Preparador de dados - Estimativa Brasil por funções - Unidades da Federação - Sinopse: Estimativa de necessidades de analistas período 1985/1990 - Demanda quantitativa: estimativas."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Contém estimativas de profissionais da área de Serviços Técnicos de Informática, no Brasil, em Brasil, em 1984 e 1985. Essas estimativas foram agregadas por função, unidade de federação e país, tendo como fonte a Pesquisa SEI 1980/81, o Boletim nº 08/SEI julho/agosto/setembro de 82 e Relatório da Comissão Especial nº10 de junho 83."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos humanos ",
+                "x": "Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política Nacional de Informática"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002493"
+        },
+        {
+            "code": "005",
+            "value": "20190805124256.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8585239328"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "001.818(076) ",
+                "b": "M239g ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Malavoy, Sophie"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Guia prático de divulgação científica ",
+                "c": "Sophie Malavoy ; tradução Bernardo Esteves ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Fundação Oswaldo Cruz ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "51"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Trabalho intelectual"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa científica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Metodologia científica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Redação técnica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

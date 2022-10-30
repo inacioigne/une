@@ -1,0 +1,108 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002435"
+        },
+        {
+            "code": "005",
+            "value": "20190730104729.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8525600474"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "37.057(81) ",
+                "b": "R852c ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Rouanet, Sérgio Paulo ",
+                "d": "1934-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Criação no Brasil de uma Escola Superior de Administração Pública ",
+                "c": "Sergio Paulo Rouanet ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Escola Nacional de Administração Pública ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "94"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Instituição de ensino"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração pública ",
+                "x": "Estudo e ensino"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Formação profissional"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "ENAP ",
+                "u": "http://antigo.enap.gov.br/downloads/livro_rouanet.pdf ",
+                "z": "Acesso em: 30/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

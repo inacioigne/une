@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003048"
+        },
+        {
+            "code": "005",
+            "value": "20190730093927.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "51-37:62(043) ",
+                "b": "L111p ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "La Neve, Alessandro"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Projeto e construção de uma máquina de calcular serial-binária ",
+                "c": "Alessandro La Neve ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Universidade de São Paulo ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "92 p. + anexos ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "502",
+            "subfield": {
+                "a": "Dissertação (Mestrado) - Departamento de Engenharia Elétrica, Escola Politécnica., Universidade de São Paulo, São Paulo, 1980"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Máquinas de calcular ",
+                "x": "Engenharia de programação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Número binário ",
+                "x": "Circuito eletrônico"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dissertações/Teses/TCC"
+            }
+        }
+    ]
+}

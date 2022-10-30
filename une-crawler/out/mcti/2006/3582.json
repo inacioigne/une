@@ -1,0 +1,97 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003582"
+        },
+        {
+            "code": "005",
+            "value": "20190813133103.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "608.3 ",
+                "b": "C322f ",
+                "c": "[2003]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Cartagena protocol on biosafety ",
+                "b": "from negotiation to implementation : historical and new perspectives as the wolrd marks the entry-into-force of the protocol ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Montreal ",
+                "b": "Secretariat of the Convention on Biological Diversity ",
+                "c": "[2003]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "40 f. ",
+                "b": "il., (algumas color)"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Periódico tratado como livro ; CBD News, special edition"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biotecnologia ",
+                "x": "Legislação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biodiversidade ",
+                "x": "Legislação"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "CBD ",
+                "u": "http://www.cbd.int/doc/publications/bs-brochure-02-en.pdf ",
+                "z": "Acesso em: 13/08/2018"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

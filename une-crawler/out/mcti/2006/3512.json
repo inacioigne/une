@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003512"
+        },
+        {
+            "code": "005",
+            "value": "20190807194042.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "622(813.8) ",
+                "b": "B151a ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Bahia. Secretaria da Indústria, Comércio e Mineração"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Acompanhamento do setor mineral baiano, 2000 ",
+                "h": "Impresso ",
+                "c": "Alexandre José Alves da Silva, Adalberto F. Ribeiro, Secretaria da Indústria, Comércio e Mineração"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Salvador ",
+                "b": "Secretaria da Indústria Comércio e Mineração ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "53 ",
+                "b": "il., tab., graf."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mineração ",
+                "z": "Bahia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos minerais ",
+                "x": "Indústria"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Produção mineral"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Silva, Alexandre José Alves da ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Ribeiro, Adalberto F. ",
+                "q": "Adalberto Figueiredo ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

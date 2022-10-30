@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003988"
+        },
+        {
+            "code": "005",
+            "value": "20190730110106.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "2867710030"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4:347.77 ",
+                "b": "B548p ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Bertrand, André"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Protections juridiques du logiciel ",
+                "b": "progiciels, vidéo jeux, logiciels spécifiques, firmware ",
+                "c": "André Bertrand ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Éditions des Parques ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "293"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Direitos autorais ",
+                "z": "França"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Videogame ",
+                "x": "Direitos autorais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microprogramação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

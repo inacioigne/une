@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002604"
+        },
+        {
+            "code": "005",
+            "value": "20190802093702.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502.2(213.56:811) ",
+                "b": "E96 ",
+                "c": "=134.2 ",
+                "d": "1996"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Experimento de grande escala biosfera-atmosfera en la Amazonía (LBA) ",
+                "b": "plan experimental conciso ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "O experimento de grande escala da biosfera-atmosfera na Amazônia (LBA): plano experimental conciso. Espanhol"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Cachoeira Paulista ",
+                "b": "Large Scale Biosphere-Atmosphere Experiment in Amazonia ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "48 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Grupo de Planejamento Científico do LBA"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Meteorologia ",
+                "z": "Amazônia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Satélite meteorológico"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003932"
+        },
+        {
+            "code": "005",
+            "value": "20190802095729.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.3.049.77 ",
+                "b": "I61 ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Integrated Circuit Engineering Corporation"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Status' 82 ",
+                "b": "a report on the integrated circuit industry ",
+                "c": "Edited by Mel H. Eklund, William L. Strauss ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Scottsdale [Estados Unidos] ",
+                "b": "Integrated Circuit Engineering Corporation ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "x, 118 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Periódico tratado como livro (ISSN : 0195-9190)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito integrado ",
+                "x": "Estatísticas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Semicondutores ",
+                "x": "Estatísticas"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Eklund, Mel H ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Strauss, William I ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002542"
+        },
+        {
+            "code": "005",
+            "value": "20190801104944.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "4879732109"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "620.9:311(520) ",
+                "b": "E56 ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "EDMC, handbook of energy & economic statistics in Japan ",
+                "h": "Impresso ",
+                "c": "The Energy Data and Modelling Center (Japão), The Institute of Energy Economics (Japão)"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Japão ",
+                "b": "The Energy Conservation Center ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "315 ",
+                "b": "tabs"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia ",
+                "x": "Indicadores ",
+                "z": "Japão"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Economia ",
+                "x": "Indicadores ",
+                "z": "Japão"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "The Energy Data and Modelling Center (Japão) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "The Institute of Energy Economics (Japão) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

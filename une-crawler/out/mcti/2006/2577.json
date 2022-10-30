@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002577"
+        },
+        {
+            "code": "005",
+            "value": "20190730093923.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "378.4:658 ",
+                "b": "C778p ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Cooperacion empresa-universidad en iberoamerica ",
+                "b": "avances recientes ",
+                "c": "editado por Guilherme Ary Plonski ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Programa Iberoamericano de Ciência e Tecnologia para o Desenvolvimento ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "113"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia de produção"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Universidade"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Plonski, Guilherme Ary ",
+                "d": "1948- ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

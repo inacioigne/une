@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003012"
+        },
+        {
+            "code": "005",
+            "value": "20190812174538.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "517 ",
+                "b": "A341a ",
+                "c": "1973"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Albrecht, Peter"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Análise numérica ",
+                "b": "um curso moderno ",
+                "c": "Peter Albrech ; colaboração Prof. Therezinha Costa Ferreira Chaves ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Livros Técnicos e Científicos ",
+                "c": "1973"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xii, 240 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Análise matemática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cálculo numérico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Matrizes (matemática)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Algoritmos"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Chaves, Therezinha Costa Ferreira ",
+                "e": "Colaborador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

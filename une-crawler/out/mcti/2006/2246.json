@@ -1,0 +1,112 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002246"
+        },
+        {
+            "code": "005",
+            "value": "20190731093139.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "681.5:336.7 ",
+                "b": "B823ra ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Secretaria Especial de Informática"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Relatório da comissão especial de automação bancária ",
+                "c": "Secrataria Especial de Informática ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Secretaria Especial de Informática ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "304 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "I. Introdução -- 1. Breve retrospectiva história -- 2. A função social dos bancos -- 3. Sistema financeiro nacional -- 4. Considerações sobre tecnologias envolvidas -- II. Situação atual -- 1. CPD central -- 2. Processamento distribuído -- 3. Agência on-line -- 4. Postos de serviço -- 5. Independentes - 6. Transferência de fundos -- 7. Aspectos de segurança -- 8. Recursos humanos -- 9. Conclusões -- 10. Tabelas -- III. Aspectos sociais, econômicos e trabalhistas da automação bancária -- 1. Histórico do processo de automação nos bancos -- 2. Força motrizes do atual processo de automação -- 3. Impactos sócio-econômicos da automação bancária -- 4. Conclusões -- IV. Recomendações -- R1 Padronização de duplicatas e protestos -- R2 Microfilmagem -- R3 Microfilmagem -- R4 Rede interbancária de transmissão de dados -- R5 Apoio à indústria e a comercialização de hardware e software -- R6 Periféricos -- R7 Facilidades -- R8 Padronização e normalização -- R9 Locação e apoio financeiro à universidade -- R10 Rede interbancária de transmissão -- R11 CETIP - Central de Custódia e Liquidação de Títulos -- R12 CMC7 -- R13 Legislação -- R14 Resposta audível -- R15 Comunicação e transmissão de dados, voz e imagem -- R16 Protocolos de comunicação -- R17 Protocolos de comunicação -- R18 Importação de software -- R19 Cartões magnéticos -- R20 Política de informática -- R21 Impactos sobre o trabalho -- R22 Legislação trabalhista - R23 Privacidade da informação -- R24 Pesquisa e estatística -- R25 Ergonomia -- R26 Impactos sócio-econômicos -- Votos em separado - V. Apêndices."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "A Comissão Especial n. 15/AUTOMAÇÃO BANCÁRIA foi constituída com o objetivo de levantar e analisar as questões relevantes de caráter tecnológico, social e econômico, suscitadas pela automação dos serviços bancários no País, e fornecer subsídios à Secretaria Especial de Informática, no que diz respeito à definição das diretrizes básicas para o tratamento da matéria, no âmbito da Política Nacional de Informática."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação bancária ",
+                "x": "Aspectos sócio-econômicos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Proteção de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Transferência de informação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003864"
+        },
+        {
+            "code": "005",
+            "value": "20190801091555.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8524402148"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "51:001.891 ",
+                "b": "I59d ",
+                "c": "2003 ",
+                "d": "IMPA"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Doutores do IMPA = PhD's from IMPA ",
+                "c": "Arnaldo Garcia, Marcelo Viana (Editores) ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "PHD's from IMPA"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Instituto Nacional de Matemática Pura e Aplicada ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "29 f. ",
+                "b": "il., graf."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "A presente publicação é irmã gêmea de Pesquisa no IMPA lançada recentemente, pois retrata com fidelidade o sucesso do Instituto na formação ao de novos pesquisadores. O par investigação científica-doutores formados constitui a contribuição maior do IMPA à Ciência Brasileira. Destina-se a relacionar, em ordem cronológica, as 233 teses de doutorado defendidas no IMPA e indicar as revistas em que foram publicadas 86% delas. A grande maioria das teses deu origem a artigos que aparecem nas melhores revistas de matemática de circulação internacional e várias delas nas que são consideradas de primeiríssimo nível. Creio que poucas instituições em nível mundial atingem um tal padrão de excelência. Um encarte mostra as instituições atuais dos doutores do IMPA, dando uma boa ideia da abrangência geográfica em que se encontram. Há ainda ao final da publicações um índice em ordem alfabética dos mesmos. Este trabalho é o resultado de um esforço conjunto dos Departamentos de Ensino e de Informática, após relevante iniciativa de Marcelo Viana."
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Instituto de Matemática Pura e Aplicada (Brasil) ",
+                "x": "Doutorado"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Garcia, Arnaldo ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Viana, Marcelo ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Matemática Pura e Aplicada (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

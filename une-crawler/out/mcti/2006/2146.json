@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nas  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002146"
+        },
+        {
+            "code": "005",
+            "value": "20170127091319.0"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "022",
+            "subfield": {
+                "a": "1517-7165"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(05)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "RNP notícias ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Rede Nacional de Pesquisa ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "b": "v"
+            }
+        },
+        {
+            "code": "310",
+            "subfield": {
+                "a": "Trimestral"
+            }
+        },
+        {
+            "code": "530",
+            "subfield": {
+                "a": "Documento eletrônico: Sumários, período disponível (1999 - presente) - Livre acesso"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Internet ",
+                "x": "Periódico ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador ",
+                "x": "Periódico ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Rede Nacional de Pesquisa (Brasil) ",
+                "e": "Indefinida"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Periódicos"
+            }
+        }
+    ]
+}

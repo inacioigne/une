@@ -1,0 +1,112 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002535"
+        },
+        {
+            "code": "005",
+            "value": "20190813184342.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "016:5/6COSTA ",
+                "b": "M986a ",
+                "c": "1995 ",
+                "d": "MAST"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Museu de Astronomia e Ciências Afins ",
+                "c": "Brasil"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Arquivo Amoroso Costa ",
+                "b": "inventário sumário ",
+                "h": "Impresso ",
+                "c": "Museu de Astronomia e Ciências Afins"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Museu de Astronomia e Ciências Afins ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "31 f."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Introdução -- Cronologia -- Ficha técnica do acervo -- Organização dos documentos -- Inventário -- Documentos textuais -- Série 1 - Pessoal -- Série 2 - Técnico -- Série 3 - Produção intelectual -- Série 4 - Documentos complementares -- Documentos iconográficos -- Fotografias -- Diapositivos em vidro -- Documentos cartográficos -- Planta -- Publicações -- Indice de Assuntos"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "O Museu de Astronomia e Ciências Afins (MAST), por intermédio do Departamento de Informação e Documentação, coloca à disposição de pesquisadores e estudiosos o Inventário Sumário do arquivo do engenheiro e professor Manuel Amoroso Costa, figura de destaque na História da Ciência no Brasil, notadamente nos campos de ensino e pesquisa matemática. A publicação do presente inventário é resultado direto do preojto \"Museu de Astronomia e Ciência Afins\" e o legado científico no país: aquisição e organização de arquivos particulares de cientístas\", idealizado e desenvolvido pelo Departamento, visando à recuperação e preservação da memória científica nacional. O Arquivo Amoros Costa, gentilmente doado por Beatriz Amoroso Costa, consta de quase 150 itens, incluindo documentos textuais, iconográficos e cartográficos, abarcando não só a vida e a atividade científica deste grande matemático, como também boa parte da ciência que era desenvolvida no inicio do século. Sua descoberta e transferência para o acervo do MAST foi resultado de um trabalho integrado que envolveu Ildeu de Castro Moereira - Professor do Instituto de Física da UFRJ, Ana Maria Ribeiro de Andrade - Pesquisadora do Departamento de Pesquisa do MAST, é técnicos desse Departamento. A identificação de parte do material iconográfico contou com a colaboração de Ramiro de La Reza, astrônomo do Observatório Nacional. Durante a realização deste trabalho, as chefias do Departamento de Informação e do Serviço de Arquivo estavam a cargo de Thereza Maria da Silva Araújo e Araci Gomes Lisboa, respectivamente."
+            }
+        },
+        {
+            "code": "600",
+            "subfield": {
+                "a": "Costa, Amoroso ",
+                "d": "1885-1928"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência ",
+                "x": "Catálogo ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (MAST) ",
+                "u": "http://site.mast.br/hotsite_acervo_arquivistico/amoroso_costa.html ",
+                "z": "Acesso em: 13/08/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

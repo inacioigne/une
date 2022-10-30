@@ -1,0 +1,93 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002123"
+        },
+        {
+            "code": "005",
+            "value": "20190731094915.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.651(047) ",
+                "b": "B823rs ",
+                "c": "[1982]"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Secretaria Especial de Informática"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Relatório da comissão especial sobre serviços de consulta a base de dados ",
+                "c": "Secretaria Especial de Informática ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Secretaria Especial de Informática ",
+                "c": "[1982]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "[56]"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "I. Introdução -- 1.1. Constituição e metodologia de trabalho da Comissão -- Portaria de criação da Comissão Especial n. 08 de 19.08.81 - Serviços de Consulta a Bases de Dados -- 1.2. Resultados obtidos -- II. Cenário -- 2.1. Bancos de dados, serviços de consultas a banco de dados: cenário atual e cenário futuro -- 2.2. Os impactos dos serviços de consultas a banco de dados -- III. Diretrizes -- 3.1. Objetivos -- 3.2. Princípios -- IV. Recomendações -- CEBD - R1 - Supervisão dos serviços de consultas a bases de dados - (SCBD) -- CEBD - R2 - Padronização do videotexto e teletexto -- CEBD - R3 - Regulamentação da exploração de bases de dados -- CEBD - R4 - Importação de bases de dados -- CEBD - R5 - Uso de equipamentos nacionais na formação de recursos humanos -- CEBD - R6 - Adequação de \"Hardware\" e \"Software\" nacionais aos SCBC -- CEBD - R7 - Proteção à privacidade -- CEBD - R8 - Tarifas de telecomunicações nos serviços de consultas a bases de dados (SCBD) -- CEBD - R9 - Linguagem de acesso a Banco de dados -- CEBD - R10 - Glossário sobre bases de dados -- CEBD -- R11 - Representação junto à ISSO -- CEBD - R12 - Ligações internacionais de acesso a bases de dados -- CEBD - R13 - Protocolos de comunicação de dados -- CEBD - R14 - Integração e difusão de base de dados oficiais -- CEBD - R15 - Cooperativas de informação -- CEBD - R16 - Operações de serviços de consultas a bases de dados -- CEBD - R17 - Direitos sobre informações residentes em bancos de dados."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Teve como objetivo analisar a situação atual e perspectivas dos Serviços de Consultas a Bases de Dados para fornecer subsídios a elaboração de diretrizes para o setor, destinadas a integra a Política Nacional de Informática. A Comissão foi dividida em três Subcomissões que compreenderam os seguintes assuntos: 1. Infra-estrutura de Serviços de Consultas a Bases de Dados. 2. Exploração de Serviços de Consultas a Bases de Dados. 3. Impactos dos Serviços de Consultas a Bases de Dados."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Banco de dados ",
+                "x": "Exploração"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

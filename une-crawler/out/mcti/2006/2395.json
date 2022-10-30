@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002395"
+        },
+        {
+            "code": "005",
+            "value": "20190809153446.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.3.049.77(083.77) ",
+                "b": "C397p ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Centro Tecnológico para Informática ",
+                "c": "Brasil"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Programa de microeletrônica, diretrizes, prioridades, recomendações ",
+                "b": "PCT/8301/0301 ",
+                "c": "Centro Tecnológico para Informática ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Campinas ",
+                "b": "Centro Tecnológico para Informática ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. (sem paginação) ",
+                "b": "il., tab."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Diretrizes gerais do Conselho Político FINEP/TELEBRÁS/SEI -- Diretrizes gerais do Conselho Técnico - Consultivo -- Diretrizes para avaliação -- Metas -- Tópicos preferenciais de P&D em mciroeletrônica -- Documentos descritivos das propostas de P&D do programa de microeletrônica -- Especificação dos resultados -- Recomendações."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microeletrônica ",
+                "x": "Planejamento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política Nacional de Informática"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

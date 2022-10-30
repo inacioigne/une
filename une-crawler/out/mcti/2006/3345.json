@@ -1,0 +1,80 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003345"
+        },
+        {
+            "code": "005",
+            "value": "20190802144536.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8575182366"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "CD030 ",
+                "b": "T278 ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Temática Barsa CD ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Encyclopaedia Britannica do Brasil ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 CD-Rom"
+            }
+        },
+        {
+            "code": "565",
+            "subfield": {
+                "a": "CD 1 : contém a íntegra dos 9 v. de Temática Barsa do formato impresso ; CD 2 : apresenta 5 contúdos especiais : datas comemorativas, questionários temáticos, orientação vocacional, simulados, guia de profissões."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Enciclopédia ",
+                "x": "Língua portuguesa"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "CD-ROM"
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003010"
+        },
+        {
+            "code": "005",
+            "value": "20190805101300.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "066211597x"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.3.049.77(71)(063) ",
+                "b": "S416i ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Science Council of Canada. Committee on Computers and Communication"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The impact of the microelectronics revolution on the Canadian electronics industry ",
+                "b": "proceedings of a workshop ",
+                "h": "Impresso ",
+                "c": "Science Council of Canada. Committee on Computers and Communication"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Ottawa [Canadá] ",
+                "b": "Science Council of Canada ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Canadá"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "109"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria eletrônica ",
+                "z": "Canadá ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microeletrônica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inovação tecnológica ",
+                "z": "Canadá ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

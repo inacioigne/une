@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003729"
+        },
+        {
+            "code": "005",
+            "value": "20190729150237.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8570193556"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "556.18(812/814) ",
+                "b": "S939c ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Suassuna, João ",
+                "d": "1952-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Contribuição ao estudo hidrológico do semi-árido nordestino ",
+                "c": "João Suassuna ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Recife ",
+                "b": "Fundação Joaquim Nabuco ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "95 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Estudos e pesquisas (Fundação Joaquim Nabuco) ",
+                "v": "108"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Estuda a realidade hídrica nordestina, principalmente os aspectos de oferta e uso da água na região. Trata a questão da água sob a perpectiva de identificação dos potenciais existentes na região e suas limitações; das tecnologias de uso; da problemática de mineralização das águas trduzida em termos de salinização e de alerta sobre a implementação do polêmico projeto de transposição do Rio São Francisco."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Hidrologia ",
+                "z": "Região nordeste"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Transposição de rio ",
+                "z": "Rio São Francisco"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

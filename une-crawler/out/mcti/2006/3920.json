@@ -1,0 +1,124 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003920"
+        },
+        {
+            "code": "005",
+            "value": "20190807112535.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "330.564 ",
+                "b": "S729i ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Medeiros, Marcelo ",
+                "d": "1969-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Uma introdução às representações gráficas da desigualdade de renda ",
+                "c": "Marcelo Medeiros ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "40 f. ",
+                "b": "gráfs., tabs."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IPEA ",
+                "v": "1202"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Descreve conceitos como distribuição e desigualdade, assim como apresenta quatro das principais ferramentas gráficas utilizadas para se representar a desigualdade em uma distribuição. Apresenta a notação formal destas curvas e indica literatura de apoio que permite um aprofundamento do tema."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Renda ",
+                "x": "Distribuição"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desigualdade econômica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desigualdade social"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "IPEA ",
+                "u": "http://www.ipea.gov.br/portal/images/stories/PDFs/TDs/td_1202.pdf ",
+                "z": "Acesso em: 07/08/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002706"
+        },
+        {
+            "code": "005",
+            "value": "20190809142033.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0444195653"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4 ",
+                "b": "B877p ",
+                "c": "1973"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Brown, A. R. ",
+                "d": "1945- ",
+                "q": "Arthur Robert"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Program debugging ",
+                "b": "the prevention and cure of program errors ",
+                "c": "A. R. Brown and W. A. Sampson ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Londres (Inglaterra) ",
+                "b": "Macdonald"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "American Elsevier ",
+                "c": "1973"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "[10], 166 ",
+                "c": "23 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Computer monographs"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Depuração de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Depuração de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Sampson, W. A ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

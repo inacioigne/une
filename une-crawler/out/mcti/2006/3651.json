@@ -1,0 +1,89 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003651"
+        },
+        {
+            "code": "005",
+            "value": "20190801112038.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9290439086"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "575(091) ",
+                "b": "P679s ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Pistorius, Robin"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Scientists, plants, and politics ",
+                "b": "a history of the plant genetic resources movement ",
+                "c": "by Robin Pistorius ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Roma ",
+                "b": "International Plant Genetic Resources Institute ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "134 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Genética vegetal ",
+                "x": "Utilização"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

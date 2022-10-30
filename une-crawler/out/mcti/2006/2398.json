@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002398"
+        },
+        {
+            "code": "005",
+            "value": "20190801160050.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.382.4 ",
+                "b": "B823e ",
+                "c": "[1984?]"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Secretaria Especial de Informática"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Estimativa superminis ",
+                "c": "Secretaria Especial de informática ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Secretaria Especial de Informática ",
+                "c": "[1984?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. (paginação irregular) ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Estimativa de mercado para superminis em substituição ao parque instalado -- 1. Premissas consideradas -- Projeto de nacionalização, produção e comercialização de um supermini -- 1. Definição dos perfis hardware e software do produto -- 1.1. Hardware -- 1.2. Software base -- 2. Premissas gerais do projeto -- 3. Desenvolvimento de produto -- 3.1. Pessoal -- 3.2. Treinamento no exterior -- 3.3. Desenvolvimento de Hw e Sw -- 3.4. Documentação técnica -- 4. Produção -- 4.1. Pessoal produção -- 4.2. Instalação, partes, peças e equipamentos -- 5. Distribuição -- 5.1. Marketing -- 5.2. Infra-estrutura -- 5.3. Suporte de software -- 5.4. Manutenção -- 5.5. Documentação técnica -- 6. Necessidade de recursos -- 6.1. Desenvolvimento do produto -- 6.2. Produção -- 6.3. Distribuição -- 6.4. Total geral de recursos -- Análise do mercado brasileiro de superminis."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Parque nacional ",
+                "x": "Minicomputador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Minicomputador ",
+                "x": "Mercado ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos humanos ",
+                "x": "Formação profissional"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

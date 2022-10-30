@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004123"
+        },
+        {
+            "code": "005",
+            "value": "20190809152054.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "341.67(5-15) ",
+                "b": "I59mi ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Instituto das Nações Unidas para Pesquisa de Desarmamento"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Middle east ",
+                "h": "Impresso ",
+                "c": "Instituto das Nações Unidas para Pesquisa de Desarmamento"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Genebra (Suiça) ",
+                "b": "United Nations Institute for Disarmament Research ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "70"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Periódico tratado como livro (UNIDIR Newsletter, no. 21, April 1993). Texto em inglês e francês"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desarmamento ",
+                "z": "Oriente Médio"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Negociação diplomática ",
+                "z": "Oriente Médio"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Paz ",
+                "z": "Oriente Médio"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

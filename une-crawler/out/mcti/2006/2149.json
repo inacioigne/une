@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002149"
+        },
+        {
+            "code": "005",
+            "value": "20190807140358.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.65 ",
+                "b": "B823p ",
+                "c": "[1983?]"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Secretaria Especial de Informática"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Plano de alternativas de solução - (PAS) ",
+                "c": "Secretaria Especial de Informática ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Secretaria Especial de Informática ",
+                "c": "[1983?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. (sem paginação) ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "O presente plano se materializa, entre outros tópicos, quatro alternativas de solução que, embora com peculiaridades, vantagens e desvantagens próprias, visam a implantação de um Sistema automatizado de Controle de Importação de Materiais, na área de informática, com o intuito de preencher e agilizar a satisfação das necessidades dos elementos demandados do mercado e da própria SEI."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "1. Introdução -- 2. Glossário -- 3. Situação atual -- 3.1. Estrutura da organização -- 3.2. Legislação básica -- 3.3. Levantamento -- 4. Análise e identificação de pontos críticos -- 5. Formulação de alternativas de solução -- 6. Sistema de aprovação."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Importação ",
+                "x": "Automação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

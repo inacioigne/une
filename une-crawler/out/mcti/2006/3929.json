@@ -1,0 +1,99 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003929"
+        },
+        {
+            "code": "005",
+            "value": "20190813130356.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "681.5:004 ",
+                "b": "S266c ",
+                "c": "1965"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Savas, Emanuel S"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Computer control of industrial processes ",
+                "c": "Emanuel S. Savas ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "McGraw-Hill ",
+                "c": "1965"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xiv, 400 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação industrial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Controle de processo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aplicativo de tecnologia"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003132"
+        },
+        {
+            "code": "005",
+            "value": "20190807095712.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8588715023"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "331.5.024.5 ",
+                "b": "S471o ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Seminário Internacional, Observatórios do Trabalho ",
+                "c": "Porto Alegre, RS ",
+                "d": "2001 ",
+                "n": "1"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Observatórios do trabalho ",
+                "b": "pesquisa social para políticas públicas : I seminário internacional ",
+                "c": "Organização Paulo Roberto Arantes do Valle, André Luiz Reis da Silva, Alexandre Jorge Loloian ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Porto Alegre ",
+                "b": "Armazem Digital ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "105"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mão-de-obra ",
+                "x": "Política"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Políticas públicas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mercado de trabalho"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Trabalho ",
+                "x": "Política"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Valle, Paulo Roberto Arantes do ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Silva, André Luiz Reis da ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Loloian, Alexandre Jorge ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

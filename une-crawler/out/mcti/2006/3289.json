@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003289"
+        },
+        {
+            "code": "005",
+            "value": "20190802110747.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.39(81) ",
+                "b": "A345f ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Albuquerque, Antônio"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Fantasia tecnológica ",
+                "b": "reflexões sobre o CPqD da modernidade ",
+                "c": "Antônio Albuquerque ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Campinas ",
+                "b": "Dríade Publicidade e Propaganda ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "48 f."
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Empresa Brasileira de Telecomunicações ",
+                "x": "História"
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Telebras"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telecomunicações"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

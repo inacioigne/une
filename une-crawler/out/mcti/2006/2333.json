@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002333"
+        },
+        {
+            "code": "005",
+            "value": "20190802114250.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "535(075.3) ",
+                "b": "M845f ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Moretto, Vasco Pedro ",
+                "d": "1942-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Física em módulos de ensino ",
+                "b": "óptica, ondas, calor : segundo grau ",
+                "c": "Vasco Pedro Moretto ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "2. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Ática ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "480 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física ",
+                "x": "Estudo e ensino"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ondas mecânicas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Óptica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ondas eletromagnéticas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Calor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

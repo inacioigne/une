@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002466"
+        },
+        {
+            "code": "005",
+            "value": "20190807131849.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "62-027.15 ",
+                "b": "A849p ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Associação Nacional de Pesquisa e Desenvolvimento das Empresas Industriais ",
+                "c": "Brasil"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Perfil do quadro de associados titulares ",
+                "h": "Impresso ",
+                "c": "Associação Nacional de Pesquisa e Desenvolvimento das Empresas Industriais"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[São Paulo] ",
+                "b": "Associação Nacional de Pesquisa, Desenvolvimento e Engenharia das Empresas Inovadoras ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "47 f. ",
+                "b": "il., tab."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inovação tecnológica ",
+                "x": "Indicadores ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa tecnológica ",
+                "x": "Indicadores ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia industrial ",
+                "x": "Indicadores ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

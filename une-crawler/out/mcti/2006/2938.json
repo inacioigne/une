@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000002938"
+        },
+        {
+            "code": "005",
+            "value": "20190808102232.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.05 ",
+                "b": "D985e ",
+                "c": "c1971"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Duverger, Lucien"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "L'efficacité des systèmes informatiques ",
+                "b": "dix critères d'appréciation ",
+                "c": "Lucien Duverger ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "França ",
+                "b": "Éditions Hommes et techniques ",
+                "c": "c1971"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "286 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de informação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gerência de sistema"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

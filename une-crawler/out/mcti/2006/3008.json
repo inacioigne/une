@@ -1,0 +1,99 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003008"
+        },
+        {
+            "code": "005",
+            "value": "20190807092213.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0471653365"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "62-52 ",
+                "b": "O45n ",
+                "c": "1970"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Olesten, Nils O"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Numerical control ",
+                "c": "Nils O. Olesten ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Wiley-Interscience ",
+                "c": "c1970"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xiii, 646 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Máquinas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Controle automático"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

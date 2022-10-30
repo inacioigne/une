@@ -1,0 +1,104 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004076"
+        },
+        {
+            "code": "005",
+            "value": "20190809155736.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.75(043.3) ",
+                "b": "Q3m ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Queiróz, José Antônio Monteiro de"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Um modelo de sistema distribuido e proposta de kernel para a redurgs ",
+                "c": "José Antônio Monteiro de Queiróz ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "c": "1984 ",
+                "a": "Rio Grande do Sul"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "171 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "502",
+            "subfield": {
+                "a": "Dissertação (Mestrado) - Universidade Federal do Rio Grande do Sul. Curso de Pós-Graduação em Ciência da Computação,Porto Alegre, BR-RS, 1984."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comunicação de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento distribuído"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema distribuído"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede local"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dissertações/Teses/TCC"
+            }
+        }
+    ]
+}

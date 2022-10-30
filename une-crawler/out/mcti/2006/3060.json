@@ -1,0 +1,115 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000003060"
+        },
+        {
+            "code": "005",
+            "value": "20190805125125.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "013881466x"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.414.2 ",
+                "b": "C284s ",
+                "c": "1973"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Carlsen, Robert D ",
+                "d": "1925-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The systems analysis workbook ",
+                "b": "a complete guide to project implementation and control ",
+                "c": "Robert D. Carlsen and James A. Lewis. Graphics by Donald L. Vest ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Englewood Cliffs ",
+                "b": "Prentice-Hall ",
+                "c": "c1973"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "242 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Análise de sistemas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Planejamento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Manual"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Documentação de sistemas"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Lewis, James A ",
+                "d": "1926- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

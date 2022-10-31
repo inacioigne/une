@@ -1,0 +1,125 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004800"
+        },
+        {
+            "code": "005",
+            "value": "20190731101422.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "35.077LNCC(062.535) ",
+                "b": "L123r ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Laboratório Nacional de Computação Científica (Brasil)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Relatório de atividades, 2000 ",
+                "b": "[LNCC] ",
+                "h": "Impresso ",
+                "c": "Laboratório Nacional de Computação Científica"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Petrópolis ",
+                "b": "Laboratório Nacional de Computação Científica ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Introdução -- Histórico 20 anos do LNCC -- Estrutura organizacional -- Programa de pós graduação em modelagem computacional -- Serviço de biblioteca -- Serviços computacionais -- Produção científica -- Projetos de P&D -- Corpo técnico cientifico -- Coordenação de administração"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "O Laboratório Nacional de Computação Científica foi criado em 1980 no Rio de Janeiro e transferido para a cidade de Petrópolis em 1997. O LNCC desenvolve pesquisa básica e aplicada, bem como aplicativos e tecnologia em diversas áreas das ciências e da engenharia. Seu quadro de pessoal é formado por especialistas em engenharia, matemática aplicada, ciência da computação, física, estatística, ciências sociais, análise de sistemas, dentre outras áreas de conhecimento. Além de realizar pesquisas fundamentais, o LNCC dispõe de recursos computacionais acessíveis à comunidade científica e tecnológica nacional. O LNCC tem realizado ao longo de sua existência diversos projetos resultantes da solicitação de empresas e instituições . Esses projetos incluem, por exemplo, modelagem e tratamento matemático, programação computacional, análise numérica e validação de modelos. Os resultados das pesquisas desenvolvidas no LNCC são publicados na série Relatórios de Pesquisa e Desenvolvimento (P&D), editados pelo próprio Laboratório, anais de congressos, em periódicos científicos, congressos e encontros científicos nacionais e internacionais. O LNCC também promove reuniões científicas, simpósios nacionais e internacionais, além de seminários regulares. Desde 1997 o corpo de pesquisadores e tecnologias do LNCC está distribuído em departamentos, hoje denominados Coordenações, que têm um alto grau de colaboração entre si, dado o caráter de multidisciplinaridade presente nas pesquisas realizadas. No ano de 2000 o LNCC recebeu 25 pesquisadores visitantes e organizou 20 reuniões científicas. O LNCC, tem andamento e financiados pelo MCT - Ministério da Ciência e Tecnologia: 15 Programas Institucionais, 2 Projetos do PRONEX - Programa de Apoio a Núcleos de Excelência, 24 projetos integrados e individuais de pesquisa financiados pelo CNPq - Conselho Nacional de Desenvolvimento Científico e Tecnológico, 06 projetos em colaboração com outras instituições, 02 projetos de cooperação bilateral e 03 projetos aprovados no programa Cientista do Nosso Estado."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência da computação ",
+                "x": "Pesquisa e desenvolvimento ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia ",
+                "x": "Pesquisa e desenvolvimento ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência ",
+                "x": "Pesquisa e desenvolvimento ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia ",
+                "x": "Pesquisa e desenvolvimento ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

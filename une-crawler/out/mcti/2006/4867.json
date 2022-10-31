@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004867"
+        },
+        {
+            "code": "005",
+            "value": "20190808132257.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "628.5 ",
+                "b": "P858 ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Pós - tratamento de efluentes de reatores anaeróbios ",
+                "c": "Carlos Augusto Lemos Chernicharo, coordenador ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Belo Horizonte ",
+                "b": "Programa de Pesquisa em Saneamento Básico ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "544 ",
+                "c": "24 cm"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Águas residuais ",
+                "x": "Purificação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tratamento biológico ",
+                "x": "Esgoto sanitário"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia sanitária"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Chernicharo, Carlos Augusto Lemos ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Programa de Pesquisa em Saneamento Básico (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

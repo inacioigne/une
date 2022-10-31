@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004994"
+        },
+        {
+            "code": "005",
+            "value": "20190802142802.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "620.92:662.76(81)(063) ",
+                "b": "C749 ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Congresso Brasileiro de Gás ",
+                "c": "Rio de Janeiro, RJ ",
+                "d": "1981 ",
+                "n": "1"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Gás ",
+                "b": "importante vetor no modelo energético brasileiro ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Associação Brasileira de Gás ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "388 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gás natural"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biogás"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia termoelétrica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

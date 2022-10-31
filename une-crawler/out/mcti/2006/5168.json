@@ -1,0 +1,88 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005168"
+        },
+        {
+            "code": "005",
+            "value": "20190813121051.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9090117725"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "341.67:623.459 ",
+                "b": "C517 ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Chemical disarmament ",
+                "b": "basic facts ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "The Hague, Holanda ",
+                "b": "Organization for the Prohibition of Chemical Weapons ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "30 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Armas químicas ",
+                "x": "Desarmamento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desarmamento universal controlado"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

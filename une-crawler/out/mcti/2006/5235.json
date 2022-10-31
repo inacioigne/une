@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005235"
+        },
+        {
+            "code": "005",
+            "value": "20190809112735.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "005.591.6:004.89 ",
+                "b": "M478 ",
+                "c": "[200-]"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Cinquini, Ayrton Menitto"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "MBA - administração estratégica de sistemas de informação - AESI VI ",
+                "b": "gestão de métodos de desenvolvimento de sistemas de informação ",
+                "h": "Impresso ",
+                "c": "Ayrton Menitto Cinquini"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Fundação Getulio Vargas ",
+                "c": "[200-]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "v. 1 -- cópia de transparências / v. 2 -- leitura prévia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de informação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gestão da informação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração estratégica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

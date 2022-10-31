@@ -1,0 +1,115 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004725"
+        },
+        {
+            "code": "005",
+            "value": "20190730105806.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "628 ",
+                "b": "P849 ",
+                "d": "FINEP ",
+                "c": "[2006]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "PROSAB 4 ",
+                "b": "Programa de pesquisa em saneamento básico : água, esgoto, lodo, consumo de água, lixo ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Financiadora de Estudos e Projetos ",
+                "c": "[2006]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 porta-fólio ",
+                "b": "il., color"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Prosab ",
+                "v": "4"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Portfólio com resumo dos projetos do Edital 04 do PROSAB."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "01 - Água: tratamento de águas superficiais visando a remoção de microalgas, cianobactérias e microcontaminantes orgânicos potencialmente prejudiciais à saúde -- 02 - Esgoto: reúso das águas de esgoto sanitário, inclusive desenvolvimento de tecnologias de tratamento para esse fim -- 03 - Lixo: resíduos sólidos - tratamento, recuperação e disposição integradas, com ênfase na proteção dos corpos d'água -- 04 Lodo: alternativas de uso de lodos de estações de tratamento de água e estações de tratamento de esgoto -- 05 Consumo de água: tecnologia de segregação e tratamento de esgotos domésticos na origem, visando à redução do consumo de água e da infra-estrutura de coleta, especialmente nas periferias urbanas."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Saneamento básico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política de saneamento básico"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Programa de Pesquisa em Saneamento Básico (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Financiadora de Estudos e Projetos (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005011"
+        },
+        {
+            "code": "005",
+            "value": "20190807100157.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "551.58(100)(063) ",
+                "b": "I61in ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "International Workshop on Research Uses of ISCCP Datasets ",
+                "c": "New York, Estados Unidos ",
+                "d": "1996"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "International Workshop on Research Uses of ISCCP Datasets ",
+                "b": "NASA Goddard Institute for Space Studies, New York, NY, USA, 15-18 April 1996 ",
+                "h": "Impresso ",
+                "c": "Goddard Institute for Space Studies, Organização Mundial de Meteorologia, International Satellite Cloud Climatology Project"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Genebra (Suiça) ",
+                "b": "World Meteorological Organization ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "iv, 9, 4, 48, 6 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "WMO/TD ",
+                "v": "n. 790"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "\"December 1996.\" At head of cover title: International Council of Scientific Unions, Intergovernmental Oceanographic Commission, and World Meteorological Organization appear under banner, World Climate Research Programme. Includes bibliographical references. \"Global datasets from the International Satellite Cloud Climatology Project (ISCCP) ... 7 years [plus of data] (more than 11 years for the radiance data) and more than 200 papers have been published using these datasets. Since it has been more than seven years since the last special ISCCP symposium, ... to assess progress on cloud-climate problems .... organized into three topic areas, validation or improved interpretation of ISCCP data, determination of cloud properties or diagnosis of other climate processes, and improving climate model representations of cloud processes.\"--Summary."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mudanças climáticas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de informação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circulação atmosférica"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Goddard Institute for Space Studies ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Organização Mundial de Meteorologia ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "International Satellite Cloud Climatology Project ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

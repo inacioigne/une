@@ -1,0 +1,91 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004761"
+        },
+        {
+            "code": "005",
+            "value": "20190801153513.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "336.531.2:5/6(7/4) ",
+                "b": "E79 ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "El estado de la ciencia ",
+                "b": "principales indicadores de ciencia y tecnología iberoamericanos / interamericanos : [2002] ",
+                "h": "Impresso ",
+                "c": "Programa Iberoamericano de Ciência e Tecnologia para o Desenvolvimento"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Buenos Aires ",
+                "b": "Rede Iberoamericana de Indicadores de Ciencia y Tecnología ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Argentina"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "360 ",
+                "b": "il., tabs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência ",
+                "z": "Portugal ",
+                "x": "Indicadores"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Programa Iberoamericano de Ciência e Tecnologia para o Desenvolvimento ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

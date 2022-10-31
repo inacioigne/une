@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005029"
+        },
+        {
+            "code": "005",
+            "value": "20190807192855.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "858692846"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "630*83(81) ",
+                "b": "A173 ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Acertando o alvo ",
+                "b": "consumo de madeira no mercado interno brasileiro e promoção da certificação florestal ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Instituto do Homem e Meio Ambiente da Amazônia ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "41 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Madeira ",
+                "x": "Comércio ",
+                "z": "Amazônia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Floresta Amazônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Produto florestal"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo ",
+                "u": "http://www.terrabrasilis.org.br/ecotecadigital/pdf/acertando-o-alvo-consumo-de-madeira-no-mercado-interno-brasileiro-e-promocao-da-certificacao-florestal.pdf ",
+                "z": "Acesso em: 2006"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo ",
+                "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\5029-Acertando_o_alvo_consumo_de_madeira_no_mercado_interno_brasileiro_e_promoção_da_certificacao_floresta.pdf ",
+                "z": "Acesso em: 2006"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

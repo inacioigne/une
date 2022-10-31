@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004826"
+        },
+        {
+            "code": "005",
+            "value": "20190801115032.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.31 ",
+                "b": "E38 ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Electricity technology roadmap ",
+                "b": "1999 summary and synthesis ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Palo Alto, California ",
+                "b": "Electric Power Research Institute ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xviii, 110 p. ",
+                "b": "il., tabs."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Powering progress. CI-112977-VI"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia de combustível fóssil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia nuclear"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia elétrica ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

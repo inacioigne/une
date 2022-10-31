@@ -1,0 +1,92 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005106"
+        },
+        {
+            "code": "005",
+            "value": "20190806115159.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "658.5(81)(063) ",
+                "b": "E56d ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Encontro Nacional de Engenharia de Produção ",
+                "c": "Belo Horizonte, MG ",
+                "d": "1990 ",
+                "n": "10"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "X Encontro Nacional de Engenharia de Produção ",
+                "b": "anais ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Belo Horizonte ",
+                "b": "Universidade Federal de Minas Gerais ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia de produção ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia econômica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

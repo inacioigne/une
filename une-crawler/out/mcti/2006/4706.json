@@ -1,0 +1,89 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004706"
+        },
+        {
+            "code": "005",
+            "value": "20190813121835.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502.131.1(251.3) ",
+                "b": "C417 ",
+                "c": "[2006?]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Cerrado que te quero vivo ! ",
+                "b": "produtos e meios de vida sustentáveis apoiados pelo Programa de Pequenos Projetos Ecossociais (PPP-Ecos) ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto Sociedade, População e Natureza ",
+                "c": "[2006?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "40 f. ",
+                "b": "il., color"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Esta publicação é resultado do Projeto \"Cerrado em pé: catálogo de produtos de uso sustentável da biodiversidade do cerrado\" desenvolvido pelo Instituto Centro de Vida (ICV), com apoio do Fundo de Pequenos Projetos Ecossociais (PPP-Ecos) e do Instituto Sociedade, População e Natureza (ISPN)."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento sustentável ",
+                "x": "Cerrado"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biodiversidade ",
+                "x": "Cerrado"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

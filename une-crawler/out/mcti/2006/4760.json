@@ -1,0 +1,120 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004760"
+        },
+        {
+            "code": "005",
+            "value": "20190808125013.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5/6(7/8=13)(063) ",
+                "b": "R444l ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Reunião da Red-POP ",
+                "c": "Rio de Janeiro, RJ ",
+                "d": "1999 ",
+                "n": "6"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Livro de resumos [da] VI reunião da Red_POP ",
+                "b": "14 a 17/06/1999, Rio de Janeiro ",
+                "h": "Impresso ",
+                "c": "Museu de Astronomia e Ciências Afins, UNESCO"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Museu de Astronomia e Ciências Afins ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "201"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Rede de Popularização da Ciência e da Tecnologia na América Latina e Caribe."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Jornalismo científico ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Divulgação científica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Instituição de pesquisa ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Museu de Astronomia e Ciências Afins ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "UNESCO ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

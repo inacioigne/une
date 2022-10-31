@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005033"
+        },
+        {
+            "code": "005",
+            "value": "20190805095214.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "630*41 ",
+                "b": "E89 ",
+                "c": "[2000?]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The European Community and the protection of tropical forests ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Bruxelas ",
+                "b": "Comunidades Europeias, Comissão ",
+                "c": "[2000?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "6 f. ",
+                "b": "il., color"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Florestas ",
+                "x": "Proteção"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Florestas tropicais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política florestal"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Programa Piloto para a Proteção das Florestas Tropicais do Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

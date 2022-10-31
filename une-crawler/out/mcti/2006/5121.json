@@ -1,0 +1,87 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005121"
+        },
+        {
+            "code": "005",
+            "value": "20190801164701.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "7.05(063) ",
+                "b": "E82 ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Estudos em design ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Associação de Ensino de Design do Brasil ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. (paginação irregular) ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Periódico tratado como livro: Estudos em Design, v. 2, n. 2, nov. 1994. ISSN: 0104-4249"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Anais do P&D design 94."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenho industrial ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

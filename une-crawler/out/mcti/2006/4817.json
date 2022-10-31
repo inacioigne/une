@@ -1,0 +1,83 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004817"
+        },
+        {
+            "code": "005",
+            "value": "20190731104930.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "334.72-048.65(815.1) ",
+                "b": "D536 ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Diagnóstico das incubadoras e das empresas incubadoras de Minas Gerais ",
+                "h": "Impresso ",
+                "c": "Banco Interamericano de Desenvolvimento, Ministério do Meio Ambiente"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Belo Horizonte ",
+                "b": "Serviço Brasileiro de Apoio às Micro e Pequenas Empresas ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "95 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Incubadoras de empresas ",
+                "z": "Minas Gerais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Empresas ",
+                "z": "Minas Gerais"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

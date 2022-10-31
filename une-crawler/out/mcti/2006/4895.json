@@ -1,0 +1,93 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004895"
+        },
+        {
+            "code": "005",
+            "value": "20190806101831.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8521608268"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.772 ",
+                "b": "T274v ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Telles, Pedro Carlos da Silva"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Vasos de pressão ",
+                "c": "Pedro Carlos da Silva Telles ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Livros Técnicos e Científicos ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xiii, 300 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pressão e vácuo (controle)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Instalações hidráulicas"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

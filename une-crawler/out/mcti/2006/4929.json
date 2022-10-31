@@ -1,0 +1,156 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004929"
+        },
+        {
+            "code": "005",
+            "value": "20190813143530.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "517.22 ",
+                "b": "C144 ",
+                "c": "2001 ",
+                "d": "LNCC"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Cálculo da derivada topológica via análise de sensibilidade à mudança de forma aplicada a otimização topológica no Problema de Poisson ",
+                "c": "Chistian Moyne ... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Petrópolis ",
+                "b": "Laboratório Nacional de Computação Científica ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "30 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Relatórios de pesquisa e desenvolvimento ",
+                "v": "n. 40/2001 ",
+                "x": "0101-6113"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Resumo -- 1. Introdução -- 2. Problema Elíptico de Valor no Contorno -- 3. Definição da Derivada Topológica -- 4. Análise de Sensibilidade à Mudança de Forma -- 5. Cálculo da Derivada Topológica via Análise de Sensibilidade à Mudança de Forma -- 6. Derivada Topológica no Problema de Poisson -- 6.1 Formulação do Problema -- 6.2 Cálculo da Derivada Topológica -- 6.3 Cálculo do Limite com E -> 0 -- 6.4 Resumo dos Resultados -- 7. Aplicação em Otimização Topológica -- 7.1 Algoritmo de Otimização Topológica -- 7.2 Resultados Numéricos -- 8. Conclusões -- Referências"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "A Devida Topológica, que é uma função que fornece a sensibilidade de um problema definido em um certo domínio quanto um pequeno furo é criado em uma dada posição deste, tem se mostrado como uma poderosa ferramenta na obtenção da topologia ótima para uma vasta classe de problemas da Física e da Engenharia. A grande limitação desta metodologia é que, ao criar um furo, não se pode mais estabelecer um homeomorfismo entre os espaços envolvidos, necessitando-se, portanto, utilizar algum ferramental matemático específico para o cálculo das derivadas. Assim sendo, neste trabalho é apresentada uma forma alternativa para a obtenção da Derivada Topológica, mediante conceito de Análise de Sensibilidade à Mudança de Forma (ASMF). Com esta nova metodologia é possível calcular a Derivada Topológica utilizando todo o procedimento matemático já desenvolvido no contexto da ASMF, conduzindo a uma formulação simples e construtiva. Finalmente, a Derivada Topológica, calculada através deste novo procedimento, é aplicada na obtenção da topologia ótima em problemas de condução de calor em regime permanente, de modo a otimizar uma dada medida de fluxo de calor, satisfazendo a equação de estado do problema."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Matemática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cálculo numérico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Problema de Poisson (Matemática)"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Novotny, Antonio André ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Feijóo, Raul Antônino ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Padra, Cláudio ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Taroco, Edgardo Omar ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Moyne, Christian ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Laboratório Nacional de Computação Científica (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

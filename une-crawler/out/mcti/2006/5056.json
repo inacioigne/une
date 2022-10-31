@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005056"
+        },
+        {
+            "code": "005",
+            "value": "20190812170218.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "378.4:658(063) ",
+                "b": "S471a ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Seminário Universidade Empresa ",
+                "c": "Rio de Janeiro ",
+                "d": "1989"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais/Proceedings do Seminário Universidade Empresa ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Universidade Federal do Rio de Janeiro ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "540 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Universidade"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Empresas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa universitária"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

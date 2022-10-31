@@ -1,0 +1,87 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005290"
+        },
+        {
+            "code": "005",
+            "value": "20190808133435.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "006.91 ",
+                "b": "M174 ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Macrocenários mundiais, nacionais e do Mercosul, com focalizações em metrologia, normalização e qualidade ",
+                "b": "horizonte 2020 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Macroplan ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "261 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Metrologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Normalização industrial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Qualidade da produção"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

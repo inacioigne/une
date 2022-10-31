@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005283"
+        },
+        {
+            "code": "005",
+            "value": "20190801164239.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(7/8=13) ",
+                "b": "C824s ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Correa, Carlos María"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Situacion de la informatica en America Latina puntos de partida para una accion regional ",
+                "c": "preparado por Carlos María Correa ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Organização das Nações Unidas para o Desenvolvimento Industrial ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "85"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "IPCT.111 (SPEC.)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "z": "América Latina"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Organização das Nações Unidas para o Desenvolvimento Industrial ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

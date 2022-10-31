@@ -1,0 +1,93 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005294"
+        },
+        {
+            "code": "005",
+            "value": "20190805094335.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "62-027.15 ",
+                "b": "G562 ",
+                "c": "2004"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Global innovation outlook ",
+                "b": "2004 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[New York] ",
+                "b": "IBM ",
+                "c": "2004"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "71 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inovação científica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inovação tecnológica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cooperação internacional"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política e governo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

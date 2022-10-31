@@ -1,0 +1,93 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005020"
+        },
+        {
+            "code": "005",
+            "value": "20190809182338.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502.131.1(100)(063) ",
+                "b": "C748a ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Conferência Internacional sobre Desenvolvimento Sustentável ",
+                "c": "Recife, PE ",
+                "d": "1995"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais da Conferência Internacional sobre Desenvolvimento Sustentável ",
+                "b": "Aridas 95, Recife, 29 de outubro de 1. de novembro de 1995 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Paralelo 15 ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "276 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento sustentável ",
+                "z": "Região nordeste ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento rural ",
+                "z": "Região nordeste ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

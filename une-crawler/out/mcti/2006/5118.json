@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005118"
+        },
+        {
+            "code": "005",
+            "value": "20190807191514.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "537.533.35(063) ",
+                "b": "I61a ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Interamerican Conference on Electron Microscopy ",
+                "c": "Caxambu, MG ",
+                "d": "1995 ",
+                "n": "3"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Abstracts of the 3rd Interamerican Conference on Electron Microscopy ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Caxambu, MG ",
+                "b": "Sociedade Brasileira de Microscopia Eletrônica ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxiii, 156 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Acta Microscópica ",
+                "v": "v. 4, supl. B"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microscopia eletrônica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Meeting of the Brazilian Society for Electron Microscopy ",
+                "c": "Caxambu, MG ",
+                "d": "1995 ",
+                "n": "15"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

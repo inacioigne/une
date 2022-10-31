@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "am   nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005046"
+        },
+        {
+            "code": "005",
+            "value": "20190802085114.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "por                                por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "614:33(81) ",
+                "b": "V617e ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Vianna, Solon Magalhães"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Evolução e perspectivas da pesquisa em economia da saúde no Brasil ",
+                "c": "Solon Magalhães Vianna ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "105 ",
+                "b": "il., tabs., grafs."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Realiza inventário de estudos e pesquisas em economia da saúde produzidos entre 1986 e 1995 e define o perfil dos pesquisadores nacionais incluindo, entre outros aspectos, formação acadêmica básica e de pós-graduação, localização e vínculo institucional. Os estudos identificados cobrem as áreas de financiamento, oferta e demanda, custos, avaliação econômica, eqüidade, regulação e setor privado."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Economia da saúde"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Saúde ",
+                "x": "Pesquisa ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisadores"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

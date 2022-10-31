@@ -1,0 +1,98 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005022"
+        },
+        {
+            "code": "005",
+            "value": "20190802102445.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.315.59:339.54 ",
+                "b": "S941 ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Subsídios para a formulação de uma política industrial, tecnológica e de comércio exterior para o setor de semicondutores ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[São Paulo] ",
+                "b": "Sociedade Brasileira de Microeletrônica ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "54 ",
+                "b": "il., tab."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Semicondutores"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política industrial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política tecnológica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comércio exterior"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

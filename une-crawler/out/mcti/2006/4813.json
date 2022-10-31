@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004813"
+        },
+        {
+            "code": "005",
+            "value": "20190807150126.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "52:061.1(81)(047) ",
+                "b": "L123t ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Laboratório Nacional de Astrofísica ",
+                "b": "technical & scientific report ",
+                "h": "Impresso ",
+                "c": "Ministério da Ciência e Tecnologia"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Itajubá, MG ",
+                "b": "Laboratório Nacional de Astrofísica ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "54 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Laboratório Nacional de Astrofísica (Brasil) ",
+                "x": "Relatórios"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Astrofísica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Astronomia"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Brasil. Ministério da Ciência e Tecnologia ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004851"
+        },
+        {
+            "code": "005",
+            "value": "20190812102922.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "331.5 ",
+                "b": "C748m ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Confederação Nacional da Indústria ",
+                "c": "Brasil"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Modernização, emprego e qualificação profissional ",
+                "h": "Impresso ",
+                "c": "Confederação Nacional da Indústria"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Serviço Nacional de Aprendizagem Industrial ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "130"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gestão de pessoas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Qualificação profissional"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia industrial"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Serviço Nacional de Aprendizagem Industrial ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

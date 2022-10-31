@@ -1,5 +1,6 @@
-#CHROMEDRIVER = 'chromedriver_win32\chromedriver.exe'
-CHROMEDRIVER = r'C:\Users\inaci\Desktop\Une\une\une-crawler\chromedriver_win32\chromedriver.exe'
+CHROMEDRIVER = r'C:\Users\Usuário\Desktop\une\une-crawler\chromedriver_win32\chromedriver.exe'
+#CHROMEDRIVER = r'C:\Users\inaci\Desktop\Une\une\une-crawler\chromedriver_win32\chromedriver.exe'
+
 
 LABELDATA = r'C:\Users\Usuário\Desktop\Une\une-crawler\goeldi\captcha\label.dat'
 MODEL = r'C:\Users\Usuário\Desktop\Une\une-crawler\goeldi\captcha\modelo_treinado.hdf5'

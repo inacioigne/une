@@ -1,0 +1,136 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004927"
+        },
+        {
+            "code": "005",
+            "value": "20190801115235.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "519.6 ",
+                "b": "M938e ",
+                "c": "2001 ",
+                "d": "LNCC"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Moyne, Christian"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Electro-chemo-mechanical couplings in swelling clays derived from a micro/macro homogenization procedure ",
+                "c": "Christian Moyne, Márcio A. Murad ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Petrópolis ",
+                "b": "Laboratório Nacional de Computação Científica ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "37 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Relatórios de pesquisa e desenvolvimento ",
+                "v": "n. 41/2001 ",
+                "x": "0101-6113"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "1. Introduction -- 2. Microscopic model -- 2.1. Electrostatics -- 2.2. Modified stokes problem -- 2.4. Deformation of the solid particles -- 2.5. Boundary conditions -- 3. Alternative microscale formulation -- 3.1. Streaming potential and bulk concentration -- 3.2. Auxiliary concentrations -- 3.3. Bulk fluid pressure -- 4. Homogenization -- 4.1. Order of magnitude of the coefficients -- 4.2. Matched asymptotic expansions -- 5. Variational formulation and finite element approximation -- 5.1. Fully discrete backward Euler-Galerkin formulation -- 6. Clay liner application -- 6.1. Numerical results -- 7. Conclusion"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "A macroscopic model for highly compacted expansive clays composed of a charged solid phase saturated by a binary monovalent aqueous electrolyte solution is derived based on a rigorous scale-up of the microstructural behavior. The homogenization technique is applied to propagate information available in the pore-scale model to the macroscale. Macroscopic electrokinetic phenomena such as electro-osmotic flow driven by streaming potential gradients, electrophoretic motion of mobile charges and osmotically induced swelling are derived by homogenizing the microscopic electro-hydrodynamics coupled with the Nernst-Planck and Poisson-Boltzmann equations governing the flow of the electrolyte solution, ion movement and electric potential distribution. A notable consequence of the upscaling procedure proposed herein are the micromechanical representations for the electrokinetic coefficients and swelling pressure. The two-scale model is discretized by the finite element method and applied to numerically simulate contaminant migration and electrokinetic attenuation through a compacted clay liner underneath a sanitary landfill."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Matemática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação matemática"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Murad, Márcio Arab ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Laboratório Nacional de Computação Científica (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "(Acesso restrito / Elservier) ",
+                "u": "http://www.sciencedirect.com/science/article/pii/S0020768302004614 ",
+                "z": "Acesso em: 07/11/2016"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

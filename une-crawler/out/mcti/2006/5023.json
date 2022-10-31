@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005023"
+        },
+        {
+            "code": "005",
+            "value": "20190731120227.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "630*2(81:213.56) ",
+                "b": "R432 ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Research for the tropical forest ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Bonn ",
+                "b": "Federal Ministry of Education, Science, Research and Technology ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "88 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Florestas tropicais ",
+                "x": "Pesquisa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa florestal"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ecossistemas ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Kürten, Ludwig ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Alemanha. Federal Ministry for Research and Technology ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

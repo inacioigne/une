@@ -1,0 +1,115 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005086"
+        },
+        {
+            "code": "005",
+            "value": "20190807091402.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng  "
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502.13(213.56:811) ",
+                "b": "I61 ",
+                "c": "1995 ",
+                "d": "CNPq"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Interdisciplinary research on the conservation and sustainable use of the Amazonian rain forest and its information requirements ",
+                "b": "report on the workshop held in Brasília, Brazil, November 20-22, 1995 ",
+                "c": "edited by Reinhard Lieberei, Christoph Reisdorff, Antônio Dantas Machado ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Alemanha ",
+                "b": "Forschungszentrum Geesthacht ",
+                "c": "[1996]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Itália"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "iii, 323 p. ",
+                "b": "il., mapas ",
+                "c": "30"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Florestas tropicais ",
+                "x": "Congressos, eventos, encontros",
+                "z": "Amazonas, Rio "
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Florestas ",
+                "x": "Congressos, eventos, encontros",
+                "z": "Amazonas, Rio "
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Lieberei, Reinhard ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Reisdorff, Christoph ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Machado, Antônio Dantas ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

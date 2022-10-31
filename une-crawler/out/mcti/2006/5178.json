@@ -1,0 +1,99 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005178"
+        },
+        {
+            "code": "005",
+            "value": "20190730140421.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "336:5/6 ",
+                "b": "R311 ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Recursos financieros para la investigación fundamental ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "UNESCO ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "82 ",
+                "b": "il., tabs."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Current surveys and research in statistics"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Encuestas e investigaciones estadísticas: trabajos en curso ; División de estadísticas relativas a la ciencia, la tecnología, la cultura y la comunicación oficina de estadística."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa e desenvolvimento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência ",
+                "x": "Finanças"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004893"
+        },
+        {
+            "code": "005",
+            "value": "20190802141154.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8575110012"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "551.7 ",
+                "b": "F273f ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Della Fávera, Jorge C. (Jorge Carlos) ",
+                "d": "1940-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Fundamentos de estratigrafia moderna ",
+                "c": "Jorge Carlos Della Fávera ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Universidade Estadual do Rio de Janeiro ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "264 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Geologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Geologia estratigráfica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sedimentologia"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

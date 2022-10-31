@@ -1,0 +1,92 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005272"
+        },
+        {
+            "code": "005",
+            "value": "20190731101251.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.7(817.4) ",
+                "b": "D532 ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "DFnet 4 ",
+                "b": "rede comunitária de pesquisa do distrito federal ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto de Pesquisa, Desenvolvimento e Educação ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 portfolio"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Projeto DFnet 4, rede óptica comunitária de pesquisa do distrito federal ; diagrama genérico : arquitetura rede BL : topologia híbrida passiva FTTB/H (FTTP)."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de telecomunicação"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Distrito Federal (Brasil)"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004850"
+        },
+        {
+            "code": "005",
+            "value": "20190806105030.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:338.45 ",
+                "b": "I43 ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Informática ",
+                "b": "a principal indústria deste fim de século ",
+                "h": "Impresso ",
+                "c": "Associação Brasileira da Indústria de Computadores e Periféricos"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Associação Brasileira das Indústrias de Computadores e Periféricos ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "11 f. ",
+                "b": "il., grafs, tabs"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Indústria"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política Nacional de Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Empresa de tecnologia avançada"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Competitividade"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Associação Brasileira da Indústria de Computadores e Periféricos ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

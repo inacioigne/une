@@ -1,0 +1,97 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005008"
+        },
+        {
+            "code": "005",
+            "value": "20190808131111.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4:339.564 ",
+                "b": "P945p ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Price, R. T"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Pólo de Software de exportação de Passo Fundo ",
+                "c": "R. T. Price, A. Rockenbach ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l. ",
+                "b": "s.n] ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "30 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Exportação ",
+                "z": "Passo Fundo, RS"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política de exportação ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Rockenbach, A ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

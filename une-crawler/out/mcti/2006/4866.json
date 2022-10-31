@@ -1,0 +1,104 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004866"
+        },
+        {
+            "code": "005",
+            "value": "20190806090441.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "628.3 ",
+                "b": "T776 ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Tratamento de esgotos sanitários por processo anaeróbio e disposição controlada no solo ",
+                "c": "José Roberto Campos, coordenador ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Carlos, SP ",
+                "b": "Associação Brasileira de Engenharia Sanitária e Ambiental ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "435 ",
+                "c": "23 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Esgoto sanitário ",
+                "x": "Tratamento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Águas residuais ",
+                "x": "Purificação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia sanitária"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Campos, Jose Roberto ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Programa de Pesquisa em Saneamento Básico (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004822"
+        },
+        {
+            "code": "005",
+            "value": "20190805093156.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.39(1-773) ",
+                "b": "F721c ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Forge, Simon ",
+                "d": "1946-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The consequences of current telecommunications trends for the competitiveness of developing countries ",
+                "c": "Simon Forge ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "Banco Mundial ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "32 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telecomunicações ",
+                "x": "Países em desenvolvimento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Competitividade ",
+                "x": "Países em desenvolvimento"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Banco Mundial ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004791"
+        },
+        {
+            "code": "005",
+            "value": "20190813182545.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.22(82) ",
+                "b": "B517a ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Bernal-Meza, Raúl ",
+                "d": "1950-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Argentina ",
+                "b": "la crisis del desarrollo y de su inserción internacional ",
+                "c": "Raúl Bernal-Meza ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Fundação Konrad Adenauer, Centro de Estudos ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "67 ",
+                "b": "il., grafs."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Europa América Latina. Análisis y informaciones ",
+                "v": "n. 1"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política econômica ",
+                "z": "Argentina"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política internacional ",
+                "z": "Argentina"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Crise econômica ",
+                "z": "Argentina"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

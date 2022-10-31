@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004843"
+        },
+        {
+            "code": "005",
+            "value": "20190807130838.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "336.531.2:5/6(81)(083.9) ",
+                "b": "B823p ",
+                "c": "1973-1974"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. [Plano Básico de Desenvolvimento Científico e Tecnológico]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "PBDCT ",
+                "b": "Plano Básico de Desenvolvimento Científico e Tecnológico ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Presidência da República ",
+                "c": "1973"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "155"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Planejamento econômico ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento econômico ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento científico ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento tecnológico ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004878"
+        },
+        {
+            "code": "005",
+            "value": "20190808144238.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8571930104"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "532.57(035) ",
+                "b": "M386m ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Martins, Nelson ",
+                "d": "1930-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Manual de medição de vazão ",
+                "b": "através de placas de orifício, bocais e venturis ",
+                "c": "Nelson Martins ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Interciência ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "297 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Fluxo de líquidos (medição)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Medidores de fluxo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "PETROBRAS ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

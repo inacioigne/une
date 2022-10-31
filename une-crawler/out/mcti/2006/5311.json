@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005311"
+        },
+        {
+            "code": "005",
+            "value": "20190814150307.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "016:5/6GAMA ",
+                "b": "M986a ",
+                "c": "1988 ",
+                "d": "MAST"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Museu de Astronomia e Ciências Afins ",
+                "c": "Brasil"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Arquivo Lélio Gama ",
+                "b": "inventário sumário ",
+                "h": "Impresso ",
+                "c": "Museu de Astronomia e Ciências Afins (Brasil)"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Museu de Astronomia e Ciências Afins ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "74"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Arquivo de História da Ciência"
+            }
+        },
+        {
+            "code": "600",
+            "subfield": {
+                "a": "Gama, Lélio ",
+                "d": "1892-1981"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia nuclear ",
+                "x": "Catálogo ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (MAST) ",
+                "u": "http://www.mast.br/images/pdf/inventarios/inventarios_lelio_gama.pdf ",
+                "z": "Acesso em: 14/08/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

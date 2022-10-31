@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004790"
+        },
+        {
+            "code": "005",
+            "value": "20190731120444.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "35.077CNEN/IPEN(062.535) ",
+                "b": "R432 ",
+                "c": "1999-2000"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Research reactor center ",
+                "b": "progress report 1999-2000 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Instituto de Pesquisas Energéticas e Nucleares ",
+                "c": "[2001?]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "127 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Apresenta os principais resultados do Instituto de Pesquisas Energéticas e Nucleares - IPEN em pesquisas nas áreas de saúde, indústria, energia, materiais e meio ambiente, engenharia, tecnologia e ciências nucleares, segurança radiológica, ensino e informação científica e tecnológica, gestão e por fim ações de cidadania."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa nuclear"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia nuclear ",
+                "x": "Pesquisa e desenvolvimento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa científica"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisas Energéticas e Nucleares ",
+                "c": "SP ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

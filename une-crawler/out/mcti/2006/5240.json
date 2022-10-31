@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005240"
+        },
+        {
+            "code": "005",
+            "value": "20190807131254.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.45:004.4 ",
+                "b": "P418 ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Os pensadores do software no Brasil ",
+                "b": "por um setor de software estratégico ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "[s.n.] ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "17 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de software"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Desenvolvimento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inclusão digital"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política e governo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

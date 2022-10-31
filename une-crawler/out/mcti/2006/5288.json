@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005288"
+        },
+        {
+            "code": "005",
+            "value": "20190802100902.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.311.243 ",
+                "b": "M178s ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Madan, A. ",
+                "q": "Arun"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Study on amorphous silicon solar cells ",
+                "c": "prepared by Arun Madan ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Organização das Nações Unidas para o Desenvolvimento Industrial ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "ii, 42 f."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "IPCT.18 (SPEC.)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Células solares"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia solar"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Organização das Nações Unidas para o Desenvolvimento Industrial ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

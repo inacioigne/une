@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005174"
+        },
+        {
+            "code": "005",
+            "value": "20190808152042.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.01(063) ",
+                "b": "S989p ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Symposium on Dynamic Problems of Mechanics ",
+                "c": "Caxambu, MG ",
+                "d": "1995 ",
+                "n": "6"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Proceedings [of] VI Symposium on Dynamic Problems of Mechanics ",
+                "h": "Impresso ",
+                "c": "Universidade Federal de Uberlândia"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Caxambu, MG ",
+                "b": "[s.n.] ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "321 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mecânica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia mecânica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Universidade Federal de Uberlândia ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Associação Brasileira de Ciências Mecânicas ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

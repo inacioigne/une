@@ -1,0 +1,91 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005095"
+        },
+        {
+            "code": "005",
+            "value": "20190802131005.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "556.18(7/8=13)(063) ",
+                "b": "F745f ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Fórum Latino Americano de Águas ",
+                "c": "São Paulo, SP ",
+                "d": "1997"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Fórum Latino Americano de Águas ",
+                "b": "São Paulo, 15-17 de janeiro de 1997, relatório final ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[São Paulo ",
+                "b": "s.n.] ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos hídricos ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Água ",
+                "x": "Administração"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

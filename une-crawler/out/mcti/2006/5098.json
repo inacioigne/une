@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005098"
+        },
+        {
+            "code": "005",
+            "value": "20190807102302.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8585879750"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4'234 ",
+                "b": "I61m ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Morais, Carlos Eduardo de"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Internet Explorer 5 ",
+                "b": "passo a passo ",
+                "c": "Carlos Eduardo de Morais ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "1. ed"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Serviço Nacional de Aprendizagem Comercial ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "141 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Cutter baseado no nome do programa afim de manter junto com as demais obras."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programas de computador ",
+                "x": "Internet Explorer"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Internet"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

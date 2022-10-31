@@ -1,0 +1,104 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005230"
+        },
+        {
+            "code": "005",
+            "value": "20190813115341.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.2 ",
+                "b": "C738 ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Computerized decisions aids for industrial management ",
+                "b": "technical report : design of a computer model"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Organização das Nações Unidas para o Desenvolvimento Industrial ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "108"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Based on the work of the International Institute for Applied Systems Analysis, Dartmouth College and the Factory Establishment and Management Section, UNIDO UNIDO/IO/R.168"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "A key factor governing the success of activities to establish factories is balanced structural development within the sectors of a regional economy. The model, the first element in the UNIDO library of management training tools, is designed to convey those insights. In the report the authors provide a complete description of the theoretical content of the model, indicate how it may be used to train managers responsible for investment strategy, and give all technical details required to implement the model on the microcomputers selected as the standards for the project by UNIDO and IIASA staff."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração de empresas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquitetura de computador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Organização das Nações Unidas para o Desenvolvimento Industrial ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

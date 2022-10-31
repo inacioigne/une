@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004926"
+        },
+        {
+            "code": "005",
+            "value": "20190807135152.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "630*4(81:213.56) ",
+                "b": "P964pp ",
+                "c": "[199-]"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Programa Piloto para a Proteção das Florestas Tropicais do Brasil"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Pilot Program to Conserve the Brazilian Rain Forests ",
+                "h": "Impresso ",
+                "c": "Programa Piloto para a Proteção das Florestas Tropicais do Brasil"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Banco Mundial ",
+                "c": "[199-]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 porta-fólio [12 f.]"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Florestas tropicais ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ecologia florestal ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Proteção ambiental ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Conservação da natureza"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

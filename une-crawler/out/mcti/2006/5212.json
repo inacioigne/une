@@ -1,0 +1,89 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005212"
+        },
+        {
+            "code": "005",
+            "value": "20190813121601.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:025.43 ",
+                "b": "C738 ",
+                "d": "R ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Computer sciences microthesaurus ",
+                "b": "a hierarchical list of indexing terms used by NTIS ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Springfield [Estados Unidos] ",
+                "b": "National Technical Information Service ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "65"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "PB80-207814"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Tesauro"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência da computação ",
+                "x": "Tesauro"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Tesauro"
+            }
+        }
+    ]
+}

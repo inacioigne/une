@@ -1,0 +1,91 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005249"
+        },
+        {
+            "code": "005",
+            "value": "20190805135407.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "725.94 ",
+                "b": "I19 ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Ideas ",
+                "b": "investigations into devices against environmental attack on stones ",
+                "c": "compilation and generalediting: Gudrun M. Herkenrath ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Geesthacht ",
+                "b": "GKSS-Korschungszentrum Geesthacht GMbH ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "237 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "A obra inclui: A German-Brazilian project: carried out under the auspices of the German-Brazilian governmental agreement on cooperation in scientific research and technological development ; Texto em inglês, português e alemão."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Monumento ",
+                "x": "Noção de Conservação ",
+                "z": "Ouro Preto, MG"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Herkenrath, Gudrun M ",
+                "e": "Compilador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

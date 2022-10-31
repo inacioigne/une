@@ -1,0 +1,97 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004876"
+        },
+        {
+            "code": "005",
+            "value": "20190808152244.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "628.4(035) ",
+                "b": "M294 ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Manual prático para a compostagem de biossólidos ",
+                "c": "Fernando Fernandes (coordenador) ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Associação Brasileira de Engenharia Sanitária e Ambiental ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "84 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Resíduo orgânico ",
+                "x": "Reaproveitamento (Sobras, refugos, etc.)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Esgoto sanitário ",
+                "x": "Tratamento"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Fernandes, Fernando ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Programa de Pesquisa em Saneamento Básico (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

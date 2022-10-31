@@ -1,0 +1,80 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004852"
+        },
+        {
+            "code": "005",
+            "value": "20190730104430.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004 ",
+                "b": "P965 ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Propuesta de reestruturacion y de modificación de estatutus ",
+                "b": "Conferencia de Autoridades Latinoamericanas en Informatica ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "b": "[s.n.] ",
+                "c": "1994 ",
+                "a": "[Mexico]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "37 f."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política de informática"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

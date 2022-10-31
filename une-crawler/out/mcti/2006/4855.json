@@ -1,0 +1,119 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004855"
+        },
+        {
+            "code": "005",
+            "value": "20190807133807.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "006.91:005.966.1 ",
+                "b": "P474 ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Pesquisa ",
+                "b": "demanda de recursos humanos em laboratório de calibração e de ensaios ",
+                "c": "Maurício Nogueira Frota, José Tasso Aires de Alencar Filho, Pierre Ohayon ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Qualitymark ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "184 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Programa RH metrologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Calibração ",
+                "x": "Demanda"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos humanos ",
+                "x": "Demanda"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Metrologia ",
+                "x": "Treinamento de pessoal"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Frota, Maurício Nogueira ",
+                "d": "1945- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Alencar Filho, José Tasso Aires de ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Ohayon, Pierre ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

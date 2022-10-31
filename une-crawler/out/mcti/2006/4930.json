@@ -1,0 +1,123 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004930"
+        },
+        {
+            "code": "005",
+            "value": "20190809155130.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "51 ",
+                "b": "M183a ",
+                "c": "2001 ",
+                "d": "LNCC"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Madureira, Alexandre Loureiro"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "An always convergent biharmonic model ",
+                "c": "Alexandre L. Madureira ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Petrópolis ",
+                "b": "Laboratório Nacional de Computação Científica ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "12 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Relatórios de pesquisa e desenvolvimento ",
+                "v": "n. 39/2001 ",
+                "x": "0101-6113"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Introduction -- 1. The Asymptotic expansion -- 2. An improved Biharmonic model -- 3. Convergence in other norms -- References"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "We modify the usual biharmonic model, still frequently used in the engineering community to model linearly elastic plates. In its traditional form, the biharmonic model diverges in general, since it does not incorporate shear effects. Our changes make it convergent for all loads, under a usual assumption on how the loads depend on the thickness. The idea is to add \"higher order\" terms that appear in the asymptotic expansion of the exact solution. The changes can be readily incorporated to engineering codes, without degrading the computational performance."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Matemática"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Laboratório Nacional de Computação Científica (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (LNCC) ",
+                "u": " http://www.lncc.br/~alm/public/biharmonic.pdf ",
+                "z": "Acesso em: 19/07/2017"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

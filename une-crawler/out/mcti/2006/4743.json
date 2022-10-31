@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004743"
+        },
+        {
+            "code": "005",
+            "value": "20190801114457.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "339(81+87) ",
+                "b": "C579d ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Cisneros, Imelda"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "El desarrollo del comercio y las inversiones entre Brasil y Venezuela ",
+                "b": "síntesis ejecutiva ",
+                "c": "[Imelda Cisneros, José Manuel Rodrigues, Abdon Suzzarin] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Fundação Alexandre de Gusmão ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "262 ",
+                "b": "il., color ",
+                "c": "27 cm"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Brasil ",
+                "x": "Comércio ",
+                "z": "Venezuela"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Venezuela ",
+                "x": "Comércio ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Rodrigues, José Manuel ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Suzzarini, Abdon ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Fundação Alexandre de Gusmão ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

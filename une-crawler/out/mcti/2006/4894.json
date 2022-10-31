@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004894"
+        },
+        {
+            "code": "005",
+            "value": "20190809133716.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.896(043.3) ",
+                "b": "C824p ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Corrêa, Antenor Cesar Vanderlei"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Product definition strategies for CAD/CAM ",
+                "c": "by Antenor Cesar Vanderlei Corrêa ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "c": "1990 ",
+                "a": "[S.l. ",
+                "b": "s.n]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "139 f."
+            }
+        },
+        {
+            "code": "502",
+            "subfield": {
+                "a": "Dissertação (mestrado) - University of Warwick, 1990 Supervisor acadêmico: Vinesh Raja"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inteligência artificial ",
+                "x": "Dissertação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Robótica ",
+                "x": "Dissertação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de computador ",
+                "x": "Dissertação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dissertações/Teses/TCC"
+            }
+        }
+    ]
+}

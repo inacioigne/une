@@ -1,0 +1,97 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005123"
+        },
+        {
+            "code": "005",
+            "value": "20190801164319.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9213218818"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338:331 ",
+                "b": "S623 ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Situación y perspectivas ",
+                "b": "estudio económico de América Latina y el Caribe ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Santiago (Chile) ",
+                "b": "Nações Unidas ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "43 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Agricultura ",
+                "x": "Mercado"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento econômico ",
+                "z": "Caribe"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Economia"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Nações Unidas ",
+                "b": "Comissão Econômica para a América Latina e Caribe ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

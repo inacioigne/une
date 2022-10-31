@@ -1,0 +1,93 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004821"
+        },
+        {
+            "code": "005",
+            "value": "20190802130815.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.45:339.137(063) ",
+                "b": "F745 ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Fórum de competitividade da cadeia produtiva da indústria de transformação plástica ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Brasília] ",
+                "b": "Ministério do Desenvolvimento, Indústria e Comércio Exterior, Secretaria do Desenvolvimento da Produção ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. ",
+                "b": "il., grafs., tabs."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Documento 1 : documento básico Fórum de competitividade : diálogo para o desenvolvimento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústrias ",
+                "x": "Competitividade"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento econômico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Economia industrial"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

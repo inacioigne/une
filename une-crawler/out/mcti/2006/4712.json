@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004712"
+        },
+        {
+            "code": "005",
+            "value": "20190807151630.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "681.5:007.5(460) ",
+                "b": "T255 ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Las tecnologias de la informacion en España ",
+                "h": "Impresso ",
+                "c": "Ministerio de Ciencia y Tecnología"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Madri (Espanha) ",
+                "b": "Ministerio de Ciencia y Tecnología ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "187 ",
+                "b": "il., grafs., tabs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia da informação ",
+                "z": "Espanha"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Serviço de informação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telecomunicações"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Espanha. Ministerio de Ciencia y Tecnología ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

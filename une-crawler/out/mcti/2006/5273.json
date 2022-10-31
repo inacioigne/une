@@ -1,0 +1,77 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005273"
+        },
+        {
+            "code": "005",
+            "value": "20190814150830.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.056 ",
+                "b": "A773 ",
+                "c": "2019 ",
+                "d": "[200-?]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Arranjo produtivo de software de segurança ",
+                "b": "desenvolvimento empresarial, mercadológico e tecnológico no Brasil e no exterior ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l. ",
+                "b": "s.n. ",
+                "c": "200-?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Minuta v3"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Segurança de computador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

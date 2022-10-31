@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004897"
+        },
+        {
+            "code": "005",
+            "value": "20190807105141.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8570412207"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "517.956/.957 ",
+                "b": "A284i ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Aguirre, Luis Antonio"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Introdução à identificação de sistemas ",
+                "b": "técnicas lineares e não-lineares aplicadas a sistemas reais ",
+                "c": "Luis Antonio Aguirre ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Belo Horizonte ",
+                "b": "Universidade Federal de Minas Gerais ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "659 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Análise matemática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistemas lineares"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

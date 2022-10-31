@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005116"
+        },
+        {
+            "code": "005",
+            "value": "20190812120825.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0444897917"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "620.1(100)(063) ",
+                "b": "W927n ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "World Conference on Non-Destructive Testing ",
+                "c": "São Paulo, SP ",
+                "d": "1992 ",
+                "n": "13"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Non-destructive testing 92 ",
+                "b": "proceedings of the 13th World Conference on Non-Destructive Testing, São Paulo, Brazil, 18-23 October 1992 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque, Estados Unidos ",
+                "b": "Elsevier ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Teste não-destrutivo ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Radiografia industrial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Teste de ultra-som"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Teste de emissão acústica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

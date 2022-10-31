@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004732"
+        },
+        {
+            "code": "005",
+            "value": "20190813132820.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "622.333 ",
+                "b": "R896c ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Rubio, Jorge"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Carvão mineral ",
+                "b": "caracterização e beneficiamento ",
+                "c": "Jorge Rubio ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Porto Alegre ",
+                "b": "Nova Linha Artes Graficas ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "240 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia ",
+                "x": "Mina"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mineração"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Beneficiamento de minério"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

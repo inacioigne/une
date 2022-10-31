@@ -1,0 +1,82 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005304"
+        },
+        {
+            "code": "005",
+            "value": "20190802142111.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.39(094) ",
+                "b": "B823f ",
+                "c": "[200-]"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Ministério das Comunicações"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "FUST, Fundo de universalização dos serviços de telecomunicações ",
+                "b": "legislação ",
+                "h": "Impresso ",
+                "c": "Ministério das Comunicações"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Brasília] ",
+                "b": "Ministério das Comunicações ",
+                "c": "[200-]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "51"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telecomunicações ",
+                "x": "Legislação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005237"
+        },
+        {
+            "code": "005",
+            "value": "20190807130851.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "930.25:006.1 ",
+                "b": "C755i ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Conselho Nacional de Arquivos (Brasil)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "ISAD(G) ",
+                "b": "norma geral internacional de descrição arquivística ",
+                "h": "Impresso ",
+                "c": "Conselho Nacional de Arquivos"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "2. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Conselho Nacional de Arquivos ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. (paginação irregular) ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Adotada pelo Comitê de normas de descrição, Estocolmo, Suécia, 19-22 de setembro de 1999."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquivologia ",
+                "x": "Normas técnicas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquivo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

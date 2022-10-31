@@ -1,0 +1,124 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005319"
+        },
+        {
+            "code": "005",
+            "value": "20190808105603.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "929GAMA ",
+                "b": "G184g ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Lélio Gama ",
+                "b": "o início do nosso passado : numa exposição comemorativa dos 40 anos do IMPA ",
+                "h": "Impresso ",
+                "c": "Instituto de Matemática Pura e Aplicada, Conselho Nacional de Desenvolvimento Científico e Tecnológico, Museu de Astronomia e Ciências Afins"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Rio de Janeiro] ",
+                "b": "Instituto Nacional de Matemática Pura e Aplicada ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "43 f."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Apresentação -- 40 anos do IMPA -- Lélio Gama: um personagem e seu campo de ação -- Manuscritos: textos manuscritos de Lélio Gama retirado do dossiê LG-D 04/061 do Arquivo Lélio Gama - MAST. -- A matemática -- O autodidatismo -- A vinda para o Observatório Nacional -- A Universidade do Distrito Federal -- Aposentadoria -- Ter 80 anos -- As homenagens -- A Esperança -- O Fim -- Depoimentos -- O Homem -- O amigo -- O mestre -- O matemático -- O astrônomo -- Ente a matemática e a astronomia -- O administrador -- O IMPA -- Frases marcantes -- Os entrevistados -- Biografia -- Coletânea da produção científica de Lélio Gama -- Bibliografia astronomia -- Geofísica : magnetismo terrestre -- Gravimetria -- Diversos"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Abro, com certo cuidado reverencial, uma das pastas de arquivo do Departamento de Documentação e Informação do Museu de Astronomia e Ciências Afins. Nela encontro, dentro de um pacote feito em papel pH neutro e artesanalmente amarrado com uma fita de tecido negro, folhas manuscritas onde se consegue ler com facilidade o título: \"Eclipse solar de Maio 28-29, 1919. (Previsão Geral para o Brasil)\". A caligrafia é cuidadosa e o texto mostra uma preocupação com a inteligibilidade associada ao rigor científico. Nas primeiras páginas do papel quadriculado encontramos considerações sobre o procedimento de cálculo: \"O logar geoghaphico dos pontos para os quaes o Eclipse geral começa ou termina num dado instante t, isto é, a intersecção útil dos cones de sombra e de penumbra com o globo terrestre, é definido pelas equações seguintes, em que as coordenadas correntes...\". Folhas à frente vamos encontrar a memória de cálculo escrita de forma peculiar: as contas formam uma coluna no lado esquerdo com vários resultados das operações. No lado direito, de cabeça para baixo, num movimento circular que serve para economizar papel, os cálculos continuam. Contas e mais contas para determinar o local e o horário do eclipse de Maio 28-29, de 1919. Trata-se de um dos primeiros trabalhos de Lélio Gama e nele já encontramos os elementos que irão definir toda a sua extensa carreira científica. Seu cuidado e sua precisão associados a uma preocupação pedagógica junto à fusão entre a Matemática e a Astronomia. O eclipse de 1919, observado pela equipe do Observatório Nacional em Sobral, no Ceará, passou para a história da física moderna. Com os dados obtidos, Sir Arthur Eddington pôde verificar as previsões feitas pela relatividade geral quatro anos antes: a luz é desviada por um campo gravitacional."
+            }
+        },
+        {
+            "code": "600",
+            "subfield": {
+                "a": "Gama, Lélio ",
+                "d": "1892-1981 ",
+                "x": "Biografia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Matemática ",
+                "x": "Biografia"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Matemática Pura e Aplicada (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Museu de Astronomia e Ciências Afins ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

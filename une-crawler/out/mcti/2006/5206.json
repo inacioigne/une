@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005206"
+        },
+        {
+            "code": "005",
+            "value": "20190805132259.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "928941183X"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "62-027.15 ",
+                "b": "C733t ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Comissão das Comunidades Européias"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Towards a European research area ",
+                "b": "key figures 2001 indicators for benchmarking of national research policies ",
+                "h": "Impresso ",
+                "c": "Comissão das Comunidades Européias"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Luxembourgo ",
+                "b": "Office for Official Documentations of the European Communities ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Luxemburgo"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "73 ",
+                "b": "il., tabs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa ",
+                "x": "Estatísticas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inovação tecnológica ",
+                "x": "Estatísticas"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005009"
+        },
+        {
+            "code": "005",
+            "value": "20190801120448.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.39 ",
+                "b": "T136e ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Takahashi, Tadao ",
+                "q": "Eduardo Tadao"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "ELETRONET ",
+                "b": "infra-estrutura de comunicações e gerência de operações ",
+                "c": "Tadao Takahashi, Wagner H. Ikeda, Daniel Caetano ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Campinas ",
+                "b": "[s.n.] ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "20 f. ",
+                "b": "il., color"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Instituto Sociedade da Informação (Brasil)"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Reúne, compatibiliza e resume informações sobre a infra-estrutura de comunicações da ELETRONET e a sua estrutura de operações, no modelo atual de funcionamento. As informações deverão constituir a base para uma reunião de discussão aprofundada com a própria estrutura técnica da ELETRONET."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de telecomunicação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia elétrica ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de transmissão de dados"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Ikeda, Wagner H ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Caetano, Daniel ",
+                "d": "1975- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

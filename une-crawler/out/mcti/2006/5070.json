@@ -1,0 +1,98 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005070"
+        },
+        {
+            "code": "005",
+            "value": "20190808132556.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5/6(85) ",
+                "b": "P861 ",
+                "c": "1975"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Potencial cientifico tecnologico del Peru ",
+                "c": "por Consejo Nacional de Investigación, Presidencia de la República del Perú ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "Programa Regional de Desarrollo Científico y Tecnológico, Departamento de Asuntos Científicos, Secretaría General de la Organización de los Estados Americanos ",
+                "c": "1975"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "iii, 50 ",
+                "c": "28 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Estudios sobre el desarrollo científico y tecnológico ",
+                "v": "no. 22"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "z": "Peru"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento tecnológico ",
+                "z": "Peru"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento científico ",
+                "z": "Peru"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

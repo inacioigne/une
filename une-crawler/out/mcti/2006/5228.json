@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005228"
+        },
+        {
+            "code": "005",
+            "value": "20190809155909.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "005.591.6(7/8=13) ",
+                "b": "P964 ",
+                "c": "[1990]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Programa regional de automatizacion industrial del sector de bienes de capital de America Latina ",
+                "b": "informe de la Segunda Reunión de Expertos Internacionales, Viena, Austria, 2-4 de abril de 1990 ",
+                "h": "Impresso ",
+                "c": "Organização das Nações Unidas para o Desenvolvimento Industrial"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "United Nations Industrial Development Organization, Industrial Planning Branch, Industrial Institutions and Services Division ",
+                "c": "[1990]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "ii, 93. ",
+                "c": "30"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Working papers in industrial planning = Documentos de trabajo sobre planificación industrial ",
+                "v": "no. 4"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Resumen de los temas discutidos durante la Segunda Reunión de Expertos Internacionales para um Programa Regional de Automatización Industrial del Sector de Bienes de Capital de América Latina, llevada a cabo entre el 2 y 4 de abril de 1990, en la sede de la UNUDI, en Viena, Austria IO.49"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação industrial ",
+                "z": "América Latina"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Organização das Nações Unidas para o Desenvolvimento Industrial ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Workshop on CAD/CAM Systems for Small and Medium Scale Engineering Industries in Selected ESCAP Developing Countries ",
+                "c": "Singapura, República de Singapura ",
+                "d": "1988"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

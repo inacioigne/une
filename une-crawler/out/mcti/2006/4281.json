@@ -1,0 +1,99 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004281"
+        },
+        {
+            "code": "005",
+            "value": "20190729141303.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004 ",
+                "b": "P963 ",
+                "c": "1976"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Programme quadriennal de développement de l'informatique dans la communauté ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Bruxelas ",
+                "b": "Comunidades Europeias, Comissão ",
+                "c": "1976"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "v. 1 - Objectifs et resume du programme : textes juridiques -- v. 2 - Expose des motifs : annexes techniques -- v. 3 - Rapport sur l'evolution du secteur de l'informatique dans la communaute en relation avec la situation mondiale."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política e governo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento tecnológico"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Commission des Communautés Européennes ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

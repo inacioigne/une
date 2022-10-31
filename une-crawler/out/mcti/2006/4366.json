@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004366"
+        },
+        {
+            "code": "005",
+            "value": "20190801142230.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-Br-MCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.31 ",
+                "b": "S632e ",
+                "c": "1974"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Slemon, Gordon R"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Equipamentos magnetelétricos ",
+                "b": "transdutores, transformadores e máquinas ",
+                "c": "Gordon R. Slemon ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Livros Técnicos e Científicos ",
+                "c": "1974"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "240 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "A Biblioteca só possui o v. 1"
+            }
+        },
+        {
+            "code": "534",
+            "subfield": {
+                "a": "Magnetoelectric devices: transducers, transformers, and machines"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia elétrica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia elétrica ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Dispositivo magnético"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

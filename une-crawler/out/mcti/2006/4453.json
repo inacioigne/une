@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004453"
+        },
+        {
+            "code": "005",
+            "value": "20190730141533.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "681.5:007.5 ",
+                "b": "S593r ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Simões, Nelson"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Rede Nacional de Pesquisa \"Promovendo o desenvolvimento de redes e TI para o ensino e a pesquisa\" ",
+                "c": "Nelson Simões ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Rio de Janeiro] ",
+                "b": "Rede Nacional de Pesquisa ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "[11] f"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Internet ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa e desenvolvimento ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política e governo ",
+                "x": "Internet ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia da informação ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Rede Nacional de Pesquisa (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

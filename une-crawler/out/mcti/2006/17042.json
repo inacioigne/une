@@ -1,0 +1,78 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     naa  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000017042"
+        },
+        {
+            "code": "005",
+            "value": "20190828114259.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por  "
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCTIC"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Avaliação de Equipamentos de Processamento de Dados; critérios de avaliação ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Este trabalho propõe certas normas e critérios gerais que devem ser seguidos por uma empresa, quando da seleção de um sistema de processamento de dados. Critérios esses que permitem a definição de fórmulas de avaliação de equipamentos de P.D."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Avaliação de desempenho"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores ",
+                "x": "Avaliação de desempenho"
+            }
+        },
+        {
+            "code": "773",
+            "subfield": {
+                "d": "Rio de Janeiro : Comissão de Coordenação das Atividades de Processamento de Dados, 1973-1979. ",
+                "g": "v. 2, n. 1 (jan./mar. 1974), p. 20-8 ",
+                "h": "v. ",
+                "n": "Publicação interrompida de 1977 a 1979 ",
+                "q": "2:1 ",
+                "t": "Capre : boletim informativo ",
+                "w": "000001951 ",
+                "7": "   s"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Analítica de Periódicos"
+            }
+        }
+    ]
+}

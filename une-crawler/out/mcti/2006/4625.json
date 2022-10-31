@@ -1,0 +1,88 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "am   nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004625"
+        },
+        {
+            "code": "005",
+            "value": "20190801113741.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "por                                por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "342.7(083.94) ",
+                "b": "S456 ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A segurança no Brasil ",
+                "b": "projeto de pesquisa ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Brasília] ",
+                "c": "1998 ",
+                "b": "[ s.n.]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "65"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Segurança nacional ",
+                "z": "Brasil ",
+                "x": "Pesquisa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Segurança coletiva"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política de defesa"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

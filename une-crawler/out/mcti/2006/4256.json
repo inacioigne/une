@@ -1,0 +1,116 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004256"
+        },
+        {
+            "code": "005",
+            "value": "20190805125202.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.3.049.771.14 ",
+                "b": "H769g ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Hon, Robert W"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A Guide to LSI implementation ",
+                "c": "Robert W. Hon and Caro H. Sequin ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "2. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Palo Alto, California ",
+                "b": "Xerox, Palo Alto Research Center ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "v, 158 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Semicondutores"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito integrado"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Séquin, Carlo H ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "A Guide to LSI Implementation ",
+                "u": "http://ai.eecs.umich.edu/people/conway/VLSI/ImplGuide2/ImplGuide2ndEd.html ",
+                "z": "Acesso em: 05/08/2019"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\4652 - Guide to LSI implementation.zip ",
+                "y": "MCTIC ",
+                "z": "Acesso em: 05/08/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

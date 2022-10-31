@@ -1,0 +1,130 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004308"
+        },
+        {
+            "code": "005",
+            "value": "20190809160807.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8588442744"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.2(063) ",
+                "b": "E74a ",
+                "c": "2004"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Escola Regional de Alto Desempenho ",
+                "c": "Pelotas, RS ",
+                "d": "2004 ",
+                "n": "4"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais ",
+                "b": "4ª Escola Regional de Alto Desempennho : ERAD 2004 : 13 a 17 de janeiro de 2004, Pelotas, RS, Brasil ",
+                "c": "edição, Adenauer Corrêa Yamin, Jorge Luis Victória Barbosa ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "ERAD 2004"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Porto Alegre ",
+                "b": "Sociedade Brasileira de Computação ",
+                "c": "2004"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "328 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquitetura de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento paralelo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento distribuído"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Yamin, Adenauer Corrêa ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Barbosa, Jorge Luis Victória ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Sociedade Brasileira de Computação ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

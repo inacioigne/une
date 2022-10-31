@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004438"
+        },
+        {
+            "code": "005",
+            "value": "20190808142336.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "996899510x"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "632.954:633.18 ",
+                "b": "V215p ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Valverde, Bernal E"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Prevention and management of herbicide resistant weeds in rice ",
+                "b": "experiences from Central America with echinochloa colona ",
+                "c": "Bernal E. Valverde, Charles R. Riches, John C. Casely ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Costa Rica ",
+                "b": "Camara dos Insumos Agropecuarios ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "123 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa agropecuária"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Herbicida ",
+                "x": "Pesquisa"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Riches, Charles R ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Caseley, John C ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

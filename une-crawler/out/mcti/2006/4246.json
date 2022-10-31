@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004246"
+        },
+        {
+            "code": "005",
+            "value": "20190807145403.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "2110008792"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.39:025.4.036 ",
+                "b": "G276t ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Gauthronet, Serge"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "La télématique des autres ",
+                "b": "les expériences de vidéotex en Europe ",
+                "c": "Serge Gauthronet ; préface de François Régis Hutin ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "La Documentation Française ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "164"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Informatisation et société ",
+                "v": "13"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Videotexto ",
+                "z": "Europa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Terminal de video"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de informação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telecomunicações"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

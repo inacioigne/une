@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004501"
+        },
+        {
+            "code": "005",
+            "value": "20190805115039.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5/6(100) ",
+                "b": "U56s ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "UNESCO"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The State of science and technology in the world, 1996-1997 ",
+                "h": "Impresso ",
+                "c": "UNESCO"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Montreal ",
+                "b": "UNESCO ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "62 ",
+                "b": "il., tabs., grafs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa e desenvolvimento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento científico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência ",
+                "x": "Estatísticas"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004315"
+        },
+        {
+            "code": "005",
+            "value": "20190812110933.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "655.254.22(035) ",
+                "b": "M294 ",
+                "c": "[2000?]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Mope ",
+                "b": "manual de orientação para produção editorial ",
+                "c": "André Liberato de Almeida ... [et al.] ; colaboradores, Ana Suely S. Dobón ... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Brasília] ",
+                "b": "Câmara Setorial do Livro e Comunicação Gráfica ",
+                "c": "[2000?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "113 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Orientação ao autor -- Orientação à produção editorial -- Projeto do livro -- Execução do projeto -- Pré-impressão -- Sistemas de impressão -- Acabamento -- Logística da distribuição -- Orientação ao leitor"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Editoração ",
+                "x": "Manual"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Produção editorial ",
+                "x": "Manual"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Almeida, André Liberato de ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Dobón, Ana Suely S. ",
+                "e": "Colaborador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

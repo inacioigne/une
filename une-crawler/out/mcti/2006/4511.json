@@ -1,0 +1,90 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004511"
+        },
+        {
+            "code": "005",
+            "value": "20190808125715.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "336.144.2(81) ",
+                "b": "B823l ",
+                "c": "[200-?]"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Ministério do Planejamento, Orçamento e Gestão"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Long term funding in Brazil ",
+                "b": "the infrastructure case ",
+                "h": "Impresso ",
+                "c": "Ministério do Planejamento, Orçamento e Gestão"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Brasília] ",
+                "b": "Ministério do Planejamento, Orçamento e Gestão ",
+                "c": "[200-?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "65"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Infraestrutura (Economia) ",
+                "x": "Financiamento ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Economia ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004392"
+        },
+        {
+            "code": "005",
+            "value": "20190805105417.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502.131.1(6) ",
+                "b": "K14 ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The Kalahari Transect ",
+                "b": "research on global change and sustainable development in southern Africa ",
+                "c": "edited by R.J. Scholes and D.A.B. Parsons ; with contributions from A. Kamuhuza ... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Stockholm, Suécia ",
+                "b": "International Geosphere-Biosphere Programme ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "64 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "IGBP Report = IGBP Rapport = IGBP Informe ",
+                "v": "n. 42"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Deserto ",
+                "x": "Ecologia ",
+                "z": "Sul da África"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Savana ",
+                "x": "Pesquisa ",
+                "z": "Sul da África"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Scholes, R. J ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Parsons, D. A. B ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Programa Internacional da Geosfera-Biosfera ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Conselho Internacional das Uniões Científicas ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

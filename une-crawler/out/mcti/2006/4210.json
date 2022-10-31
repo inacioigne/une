@@ -1,0 +1,86 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004210"
+        },
+        {
+            "code": "005",
+            "value": "20190802092659.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "006.1 ",
+                "b": "E96 ",
+                "c": "[2003?]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Exercício de classificação - alternativas ",
+                "b": "serviços de certificação digital e de carimbo data-hora, United Nations Central Products Classification, CPC Provisiosal ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l. ",
+                "b": "s.n. ",
+                "c": "2003?]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. em várias paginações"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Normalização"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Classificação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

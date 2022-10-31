@@ -1,0 +1,130 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004348"
+        },
+        {
+            "code": "005",
+            "value": "20190801111210.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "1567202713"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5/6:62-027.15 ",
+                "b": "S416 ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Science, technology, and innovation policy ",
+                "b": "opportunities and challenges for the knowledge economy ",
+                "c": "edited by Pedro Conceição ... [et al.]. ; foreword by Diamantino F.G. Durão and Robert Ronstadt ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Westport [Estados Unidos] ",
+                "b": "Quorum Books ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xii, 578 ",
+                "b": "il., mapas"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "International series on technology policy and innovation"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inovação tecnológica ",
+                "x": "Política e governo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política industrial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "x": "Política e governo"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Conceição, Pedro ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Gibson, David V ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Heitor, Manuel V ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Shariq, Syed ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

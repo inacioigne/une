@@ -1,0 +1,87 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     naa  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000017073"
+        },
+        {
+            "code": "005",
+            "value": "20190828143959.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por  "
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCTIC"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Kurcis, Leonardo"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Computador na Administração Pública; I Simpósio Sobre o Computador na Administração Pública ",
+                "b": "Instrumento de avaliação e decisão ",
+                "h": "Impresso ",
+                "c": "Leonardo Kurcis, Gustavo Damásio Monteiro"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração pública ",
+                "x": "Aplicação de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Administração pública"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Monteiro, Gustavo Damásio ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "773",
+            "subfield": {
+                "d": "Rio de Janeiro : Comissão de Coordenação das Atividades de Processamento de Dados, 1973-1979. ",
+                "g": "v. 3, n. 1 (jan./mar. 1975), p. 45-67 ",
+                "h": "v. ",
+                "n": "Publicação interrompida de 1977 a 1979 ",
+                "q": "3:1 ",
+                "t": "Capre : boletim informativo ",
+                "w": "000001951 ",
+                "7": "   s"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Analítica de Periódicos"
+            }
+        }
+    ]
+}

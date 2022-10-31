@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004255"
+        },
+        {
+            "code": "005",
+            "value": "20190807093149.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(063) ",
+                "b": "O12 ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Objetos Distribuídos ' 99 ",
+                "c": "São Paulo, SP ",
+                "d": "1999"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Objetos Distribuídos'99 ",
+                "b": "12 a 15 de Dezembro de 1999, São Paulo, SP, Brasil ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Criando o software do próximo século"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "[s.n.] ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "3 v."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "v. 1. Palestras -- v. 2. Turorial 12 : components with catalysis / George Fairbanks -- v. 3. Turorial 5 : produtividade no desenvolvimento de objetos distribuídos com Java / Osvaldo Pinali Doederlein e Marco Antonio Guapo."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema distribuído"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

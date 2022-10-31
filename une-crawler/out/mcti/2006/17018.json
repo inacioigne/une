@@ -1,0 +1,65 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     naa  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000017018"
+        },
+        {
+            "code": "005",
+            "value": "20190830170201.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por  "
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCTIC ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Noticiário ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Notícia"
+            }
+        },
+        {
+            "code": "773",
+            "subfield": {
+                "d": "Rio de Janeiro : Comissão de Coordenação das Atividades de Processamento de Dados, 1973-1979. ",
+                "g": "v. 1, n. 2 (jun./set. 1973), p. 1-8 ",
+                "h": "v. ",
+                "n": "Publicação interrompida de 1977 a 1979 ",
+                "q": "1:2 ",
+                "t": "Capre : boletim informativo ",
+                "w": "000001951 ",
+                "7": "   s"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Analítica de Periódicos"
+            }
+        }
+    ]
+}

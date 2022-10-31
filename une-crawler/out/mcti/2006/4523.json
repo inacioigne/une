@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "am   nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004523"
+        },
+        {
+            "code": "005",
+            "value": "20190806132039.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "eng                                eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "656.7 ",
+                "b": "I61 ",
+                "c": "c1998"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Integrating global air traffic management ",
+                "b": "guiding civil aviation into the 21st century ",
+                "h": "Impresso ",
+                "c": "International Systems and Communications, International Civil Aviation Organization"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Londres (Inglaterra) ",
+                "b": "International Systems and Communications ",
+                "c": "c1998"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "298 ",
+                "b": "il., color"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tráfego aéreo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Direito aéreo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "International Systems and Communications ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "International Civil Aviation Organization ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004596"
+        },
+        {
+            "code": "005",
+            "value": "20190715180244.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "504.5:551.588.74 ",
+                "b": "A265c ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Agência Internacional de Energia ",
+                "c": "França"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "CO2 emissions from fuel combustion 1971 - 1999 ",
+                "h": "Impresso ",
+                "c": "Agência Internacional de Energia (França)"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Emissions de CO2 dues à la combustion d'énergie"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "2001 ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Organisation for Economic Co-operation and Development ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxxix, 88, 413, 31 p."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "IEA statistics"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Dióxido de carbono ",
+                "x": "Estatísticas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia de combustível fóssil ",
+                "x": "Estatísticas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Efeito estufa (Atmosfera) ",
+                "x": "Estatísticas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Atmosfera"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "OECD iLibrary ",
+                "u": "https://www.oecd-ilibrary.org/energy/co2-emissions-from-fuel-combustion-2001_co2_fuel-2001-en-fr ",
+                "z": "Acesso em: 15/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

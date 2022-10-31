@@ -1,0 +1,99 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004529"
+        },
+        {
+            "code": "005",
+            "value": "20190806112259.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "681.5:007.5(52) ",
+                "b": "M685i ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Müller, J. P. ",
+                "d": "1965- ",
+                "q": "Jörg P."
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Information technology standardization in Japan ",
+                "c": "Jörg Müller, Paul Kuhn ; foreword by Theodor Irmer ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Tokyo ",
+                "b": "Siemens K. K. ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "ii, 117, 24 p. ",
+                "c": "30 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia da informação ",
+                "z": "Japão"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telecomunicações ",
+                "z": "Japão"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Kuhn, Paul ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

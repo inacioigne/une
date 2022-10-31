@@ -1,0 +1,123 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004393"
+        },
+        {
+            "code": "005",
+            "value": "20190805140859.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "551.583 ",
+                "b": "I24 ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "IGBP Northern Eurasia Study ",
+                "b": "prospectus for an integrated global change research project ",
+                "c": "edtied by W.L. Steffen and A.Z. Shvidenko ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Stockholm, Suécia ",
+                "b": "International Geosphere-Biosphere Programme ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "95 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "IGBP Report = IGBP Rapport = IGBP Informe ",
+                "v": "n. 37"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mudanças climáticas ",
+                "x": "Pesquisa ",
+                "z": "Ásia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Meio ambiente ",
+                "x": "Pesquisa ",
+                "z": "Ásia"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Steffen, W. L. ",
+                "d": "1947- ",
+                "q": "William L. ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Shvidenko, A. Z ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Programa Internacional da Geosfera-Biosfera ",
+                "e": "Indefinida"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Conselho Internacional das Uniões Científicas ",
+                "e": "Indefinida"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

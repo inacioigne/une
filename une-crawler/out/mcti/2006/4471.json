@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a"
+        },
+        {
+            "code": "001",
+            "value": "000004471"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.45:004(81) ",
+                "b": "T255v ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Tecnologias de visualização na indústria de jogos digitais ",
+                "b": "potencial econômico e tecnológico para a indústria brasileira de software ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Campinas ",
+                "b": "Sociedade Brasileira para Promoção da Exportação de Software ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "54 ",
+                "b": "il., graf., tab."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de software ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Jogo eletrônico ",
+                "x": "Indústria ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Simulação (Computadores)"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (Softex) Acesso em: 06/12/12 ",
+                "u": "http://www.softex.br/portal/softexweb/uploadDocuments/_observatorio/Games_10nov05.pdf"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

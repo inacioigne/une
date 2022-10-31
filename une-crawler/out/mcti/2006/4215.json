@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004215"
+        },
+        {
+            "code": "005",
+            "value": "20190808140342.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "2110004711"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:3(063) ",
+                "b": "C714a ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Colloque international Informatique et société ",
+                "c": "Paris, França ",
+                "d": "1979"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Actes du Colloque international Informatique et société ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "La Documentation Française ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "5 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Informatisation et société. Série Impact ",
+                "v": "10"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "v. 1. Informatisation et changement économique -- v. 2. Informatique, travail et emploi -- v. 3. Informatique, télématique et vie quotidienne -- v. 4. Informatique, coopération internationale et indépendance -- v. 5. Informatique et démocratie"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Aspectos sociais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comunicação ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

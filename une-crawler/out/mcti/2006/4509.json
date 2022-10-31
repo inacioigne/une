@@ -1,0 +1,97 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004509"
+        },
+        {
+            "code": "005",
+            "value": "20190813101620.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5/6:62-027.15(81)(063) ",
+                "b": "C748c ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Conferência Regional de C&T da Região Norte ",
+                "c": "Belém, PA ",
+                "d": "2001"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Conhecimento e inovação para o futuro ",
+                "b": "relatório final ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Belém ",
+                "b": "Fórum de Secretários de C&T ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "66"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "z": "Região norte ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inovação tecnológica ",
+                "z": "Região norte"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústrias"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

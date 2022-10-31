@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004630"
+        },
+        {
+            "code": "005",
+            "value": "20190730110156.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4:62:025.5 ",
+                "b": "C397 ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "CTAI - Revista de Automação e Tecnologia da Informação ",
+                "h": "Impresso ",
+                "c": "Serviço Nacional de Aprendizagem Industrial. Departamento Regional de Santa Catarina. Centro de Tecnologia em Automação e Informática"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Florianópolis ",
+                "b": "Serviço Nacional de Aprendizagem Industrial, Departamento Regional de Santa Catarina, Centro de Tecnologia em Automação e Informática ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "76 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Periódico tratado como livro. v. 2, n. 1 Janeiro/Junho 2003 - ISSN 1677-6496"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Balanceamento de Cargas em Sistemas de Distribuição de Baixa Tensão -- Modelo do Controle Hierárquico de um Robô para Soldagem em Turbinas de Grande Porte -- Automação de Laboratórios de Metrologia e Ensaios -- Sistema Automatizado para Determinação da Relação de Espiras, Polaridade e Deslocamento Angular em Transformadores -- Interface Homem-Máquina Aplicada ao Esquema de Aterramento Híbrido -- Correção Ativa de Fator de Potência Trifasico Usando Microcontrolador - ADSL: Aspectos de Codificação, Modulação e Correção de Erro -- Modelos e Processos para Desenvolvimento de Sistemas de Software -- Privacidade e Segurança da Informação: Diferenciais Competitivos no Comércio Eletrônico -- Uma Visão Sobre Infra-estrutura de Chaves Públicas -- Uma Proposta de um Terminal Multimídia para Solução Corporativa e Social -- Pré-incubadora Empresarial para a Inovação da Automação e da Tecnologia da Informação -- Otimização - Conceitos Básicos, Ferramentas e Aplicações"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telecomunicações"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia da informação"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Serviço Nacional de Aprendizagem Industrial ",
+                "b": "Centro de Tecnologia em Automação e Informática ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

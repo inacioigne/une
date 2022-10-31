@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004257"
+        },
+        {
+            "code": "005",
+            "value": "20190730111957.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "316.3:001.102 ",
+                "b": "P976 ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Public policies for the development of information societies in Latin America and The Caribbean ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Santiago (Chile) ",
+                "b": "Nações Unidas, Divisão de Desenvolvimento Produtivo e Empresarial ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "70"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sociedade da informação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Políticas públicas ",
+                "z": "Caribe"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informação científica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informação tecnológica"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Nações Unidas ",
+                "b": "Divisão de Desenvolvimento Produtivo e Empresarial ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

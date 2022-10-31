@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004595"
+        },
+        {
+            "code": "005",
+            "value": "20190809154105.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "630*432 ",
+                "b": "P964 ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Programa de prevenção e controle às queimadas e aos incêndios florestais no arco do desflorestamento, PROARCO ",
+                "h": "Impresso ",
+                "c": "Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Abril ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "49 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desmatamento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Conservação da natureza"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Queimada"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Florestas ",
+                "x": "Proteção"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

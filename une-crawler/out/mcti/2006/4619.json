@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004619"
+        },
+        {
+            "code": "005",
+            "value": "20190805124205.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5-047.37(1-773)(036) ",
+                "b": "C734g ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Comissão Suiça para a Parceria Científica com os Países em Desenvolvimento"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Guia para a parceria científica com os países em desenvolvimento ",
+                "b": "11 princípios ",
+                "h": "Impresso ",
+                "c": "Comissão Suiça para a Parceria Científica com os Países em Desenvolvimento"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Berna, Suiça ",
+                "b": "Comissão Suiça para a Parceria Científica com os Países em Desenvolvimento ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "56"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "x": "Cooperação científica e tecnológica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa científica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa cooperativa"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "KFPE ",
+                "u": "http://www.kfpe.ch/download/guidelines_port.pdf ",
+                "z": "Acesso em: 05/08/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

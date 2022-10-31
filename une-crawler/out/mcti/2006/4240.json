@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004240"
+        },
+        {
+            "code": "005",
+            "value": "20190805102813.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0660112779"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.3.049.77(4) ",
+                "b": "D512g ",
+                "c": "c1983"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "De Vos, Dirk"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Governments and microelectronics ",
+                "b": "the European experience ",
+                "c": "Dirk de Vos ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Ottawa ",
+                "b": "Science Council of Canada ",
+                "c": "c1983"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "112"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Background study / Science Council of Canada ",
+                "v": "49"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microeletrônica ",
+                "x": "Estudo de casos",
+                "z": "Europa "
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

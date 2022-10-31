@@ -1,0 +1,149 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004304"
+        },
+        {
+            "code": "005",
+            "value": "20190809173746.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8588425068"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.272(063) ",
+                "b": "W926a ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Workshop de Processamento Paralelo e Distribuído ",
+                "c": "Porto Alegre, RS ",
+                "d": "2005 ",
+                "n": "3"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais ",
+                "b": "do 3º Workshop de Processamento Paralelo e Distribuído (WSPPD 2005), 24 de junho de 2005 ",
+                "h": "Impresso ",
+                "c": "editor Fernando Rosa doNascimento, Maurício Lima Pilla, Philippe Nauvaux"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "WSPPD 2005"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Porto Alegre ",
+                "b": "Grupo de Processamento Paralelo e Distribuído ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "148 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquitetura de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento paralelo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento distribuído"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cluster"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Nascimento, Fernando Rosa do ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Pilla, Maurício Lima ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Nauvaux, Philippe ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Universidade Federal do Rio Grande do Sul. Instituto de Informática ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

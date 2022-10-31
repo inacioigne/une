@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004482"
+        },
+        {
+            "code": "005",
+            "value": "20190801164927.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9280511181"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "347.78:338.45 ",
+                "b": "E82 ",
+                "c": "[200-?]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Estudos sobre la importancia económica de las industrias y actividades protegidas por el derecho de autor y los derechos conexos en los países de MERCOSUR y Chile ",
+                "h": "Impresso ",
+                "c": "Organização Mundial da Propriedade Intelectual, Universidade Estadual de Campinas"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Genebra (Suiça) ",
+                "b": "Organización Mundial de la Propriedad Intelectual ",
+                "c": "[200-?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "309 ",
+                "b": "il., tabs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Propriedade industrial ",
+                "x": "Aspectos economicos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Propriedade intelectual"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Direitos autorais ",
+                "x": "Análise comparativa"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Organização Mundial da Propriedade Intelectual ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Universidade Estadual de Campinas ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

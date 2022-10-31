@@ -1,0 +1,92 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004253"
+        },
+        {
+            "code": "005",
+            "value": "20190730105923.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "681.5:007.5(047) ",
+                "b": "P966 ",
+                "c": "[199-?]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "PROSPECTAR ",
+                "b": "tema 8 : telecomunicações e tecnologia da informação : relatório final ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l. ",
+                "b": "s.n] ",
+                "c": "[199-?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "102"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Apresenta os resultados da pesquisa realizada em âmbito nacional referentes ao Tema 8 do Prospectar, que compreende as grandes áreas de Telecomunicações e Tecnologia da Informação (TI), envolvendo as tecnologias que foram reconhecidamente responsáveis pelas intensas transformações ocorridas na economia e no próprio comportamento da sociedade em tempos recentes."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telecomunicações"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia da informação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa e desenvolvimento"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

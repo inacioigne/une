@@ -1,0 +1,128 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004481"
+        },
+        {
+            "code": "005",
+            "value": "20190809150429.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0309053471"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5/6:336 ",
+                "b": "N277a ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "National Research Council (Estados Unidos). Committee on Criteria for Federal Support of Research and Development"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Allocating federal funds for science and technology ",
+                "h": "Impresso ",
+                "c": "National Research Council (Estados Unidos). Committee on Criteria for Federal Support of Research and Development"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "National Academy Press ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "ix, 95 p."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Financiamento governamental ",
+                "x": "Pesquisa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Instituição de pesquisa ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "National Academy of Sciences (Estados Unidos) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "National Academy of Engineering (Estados Unidos) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Institute of Medicine (Estados Unidos) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "National Research Council (Estados Unidos) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

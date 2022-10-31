@@ -1,0 +1,92 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004251"
+        },
+        {
+            "code": "005",
+            "value": "20190801152540.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4 ",
+                "b": "S623 ",
+                "c": "[1996?]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Sistema de informações comerciais sobre o mercado e a indústria de software (SICOM) ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l. ",
+                "b": "s.n] ",
+                "c": "[1996?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "A indústria americana de shareware / Victor Prochnik, Lúcia Viegas -- O setor de software sob encomenda no Brasil / Victor Prochnik, Maurício Y. Une -- Os centros de comércio (trade centers) / Victor Prochnik, Rodrigo Mariath Zeidan -- Localização de software / Victor Prochnik, Maurício Une -- O mercado de software da Itália / Victor Prochnik, Maurício Une -- O mercado de software da Alemanha / Victor Prochnik, Flávia F. Baptista -- O mercado de software da França / Victor Prochnik, André Andrade, Rodrigo M. Zeidan."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Contem sete artigos provenientes do Sistema de informações comerciais sobre o mercado e a indústria de software (SICOM). O SICOM é um dos subsistemas do Sistema Brasileiro de Informações Sobre Software (SBIS)."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Mercado"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de software"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

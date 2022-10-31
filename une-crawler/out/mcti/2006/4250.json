@@ -1,0 +1,108 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004250"
+        },
+        {
+            "code": "005",
+            "value": "20190805092029.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.45:004.4(043.3)(81) ",
+                "b": "W373b ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Weber, Rodrigo"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The Brazilian software industry ",
+                "b": "policy and programs aiming at competitiveness in the international market ",
+                "c": "by Rodrigo Weber ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l. ",
+                "b": "s.n] ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "97"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Dissertação (mestrado) - The Norman Paterson School of International Affairs, Carleton University, Ottawa, Ontario, Canadá, 1998."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de software ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Competitividade internacional"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mercado internacional"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política e governo ",
+                "x": "Indústria de software ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dissertações/Teses/TCC"
+            }
+        }
+    ]
+}

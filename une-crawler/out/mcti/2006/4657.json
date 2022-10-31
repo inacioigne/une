@@ -1,0 +1,108 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004657"
+        },
+        {
+            "code": "005",
+            "value": "20190807110220.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "061.2(063) ",
+                "b": "P214 ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Papel e a inserção do terceiro setor no processo de construção e desenvolvimento da CT&I ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto de Tecnologia Social ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "99 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Terceiro setor"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento social"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Seminário Nacional sobre o Papel e a Inserção do Terceiro Setor no Processo de Construção e Desenvolvimento da Ciência, Tecnologia e Inovação ",
+                "c": "Brasília, DF ",
+                "d": "2002"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\4657-Seminario_2002_papel_terceiro_setor.pdf ",
+                "y": "Texto completo ",
+                "z": "Acesso em: 07/08/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

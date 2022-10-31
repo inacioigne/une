@@ -1,0 +1,97 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004452"
+        },
+        {
+            "code": "005",
+            "value": "20190730141243.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.738.5 ",
+                "b": "R314re ",
+                "c": "[200-?]"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Rede Nacional de Pesquisa (Brasil)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Rede Nacional de Ensino e Pesquisa, RNP 2 ",
+                "h": "Impresso ",
+                "c": "Rede Nacional de Pesquisa"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Rede Nacional de Pesquisa ",
+                "c": "[200-?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "[7] f ",
+                "b": "il., graf., mapa."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Internet ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa e desenvolvimento ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política e governo ",
+                "x": "Internet ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

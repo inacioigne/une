@@ -1,0 +1,132 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004428"
+        },
+        {
+            "code": "005",
+            "value": "20190808110945.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0300084838"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502.131.1(213.56:811) ",
+                "b": "L641e ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Lessons from Amazonia ",
+                "b": "the ecology and conservation of a fragmented forest ",
+                "c": "edited by Richard O. Bierregaard, Jr. ... [et al.] ; foreword by Edward O. Wilson ; prologue by Eneas Salati ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "New Haven [Estados Unidos] ",
+                "b": "Yale University ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xv, 478 p., [8] p. de lâms. ",
+                "b": "il., mapas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Florestas tropicais ",
+                "x": "Ecologia ",
+                "z": "Amazônia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Florestas ",
+                "x": "Proteção ",
+                "z": "Amazônia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ecologia florestal"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento sustentável"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Bierregaard, Richard O ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Gascon, Claude ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Lovejoy, Thomas E ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Mesquita, Rita C. G ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

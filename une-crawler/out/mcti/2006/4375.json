@@ -1,0 +1,104 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004375"
+        },
+        {
+            "code": "005",
+            "value": "20190808165831.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502.1(213.54) ",
+                "b": "A258 ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "African savannas and the global atmosphere ",
+                "b": "research agenda ",
+                "h": "Impresso ",
+                "c": "Programa Internacional da Geosfera-Biosfera, Conselho Internacional das Uniões Científicas"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Stockholm, Suécia ",
+                "b": "International Geosphere-Biosphere Programme ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "51"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "IGBP Report = IGBP Rapport = IGBP Informe ",
+                "v": "n. 31"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Report of a Joint IGBP/START/IGAC/GCTE/GAIM/DIS Workshop on African Savannas, Land Use and Global Change--Interactions of Climate, Productivity and Emissions, 2-5 June 1993, Victoria Falls, Zimbabwe"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Savana ",
+                "x": "Cooperação internacional ",
+                "z": "África"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Programa Internacional da Geosfera-Biosfera ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Conselho Internacional das Uniões Científicas ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

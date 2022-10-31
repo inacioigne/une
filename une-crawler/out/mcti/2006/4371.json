@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004371"
+        },
+        {
+            "code": "005",
+            "value": "20190814172030.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0821340735"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "602.6:631.52 ",
+                "b": "B615 ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Bioengineering of crops ",
+                "b": "report of the World Bank Panel on Transgenic Crops ",
+                "c": "Henry W. Kendall ... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "Banco Mundial ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "vi, 30 p."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Transgênico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Vegetais ",
+                "x": "Melhoramento genético"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia genética"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Agricultura"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Kendall, Henry Way ",
+                "d": "1926- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004380"
+        },
+        {
+            "code": "005",
+            "value": "20190807093017.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502.3 ",
+                "b": "I61 ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "International global atmospheric chemistry (IGAC) project ",
+                "b": "the operational plan ",
+                "c": "edited by A.A.P. Pszenny and R.G. Prinn ; with contributions by M.O. Andreae ... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Stockholm, Suécia ",
+                "b": "International Geosphere-Biosphere Programme ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "133 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "IGBP Report = IGBP Rapport = IGBP Informe ",
+                "v": "n. 32"
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Programa Internacional da Geosfera-Biosfera"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Atmosfera ",
+                "x": "Química"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Efeito estufa (Atmosfera)"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Pszenny, A.A.P. ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Prinn, R.G. ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Andreae, M.O. ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Programa Internacional da Geosfera-Biosfera ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Conselho Internacional das Uniões Científicas ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

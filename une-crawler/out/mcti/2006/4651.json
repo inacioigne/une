@@ -1,0 +1,134 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004651"
+        },
+        {
+            "code": "005",
+            "value": "20190812110507.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502.17(213.56:811) ",
+                "b": "I59m ",
+                "c": "2001 ",
+                "d": "INPE"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Instituto Nacional de Pesquisas Espaciais (Brasil)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Monitoramento da floresta amazônica brasileira por satélite, 1999 - 2000 ",
+                "h": "Impresso ",
+                "c": "Instituto Nacional de Pesquisas Espaciais"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Monitoring of the brasilian amazonian florest by satellite, 1999 - 2000"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São José dos Campos ",
+                "b": "Instituto Nacional de Pesquisas Espaciais ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "21 f. ",
+                "b": "il., color."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Monitoramento do Desflorestamento Bruto da Amazônia Brasileira -- Monitorando a Floresta Amazônica -- Formações Pioneiras -- Campinarana Florestada -- Cerradão -- Região de Contato -- Floresta Estacional -- Floresta Ombrófila Aberta -- Open Tropical Rain Forest -- Floresta Ombrófila Densa -- Cenas TM-Landsat Críticas -- Áreas Críticas. Monitoring the Brazilian Amazon Gross Deforestation -- Monitoring the Brazilian Amazon Forest -- Early Primary Succession Communities -- Amazon White-Sand Woodland -- Dense Savanna Woodland -- Contact Zone -- Seasonally Deciduous Tropical Forest -- Dense Tropical Rain Forest -- Critical TM-Landsat Scenes -- Critical Areas"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Monitorar o desflorestamento da Amazônia tem sido tarefa do INPE já há vários anos, usando técnicas de interpretação de imagens de satélite. Para se chegar às estimativas da taxa e extensão do desflorestamento bruto são necessárias muitas imagens e muitas horas de trabalho de vários especialistas, técnicos e auditores. O INPE tem muito orgulho de, mais uma vez, apresentar esses números atualizados. Este relatório apresenta a estimativa completa e final para o período 1998/1999 e a estimativa provisória para o período 1999/2000, baseada em técnica de amostragem. Isto é, com base em algumas imagens da área mais crítica, gera-se primeiro uma estimativa do total. O objetivo é ganhar tempo, e com isto dar a oportunidade de se ter um diagnóstico que já possa servir para fins administrativos e gerenciais, sem o enorme trabalho de se ter todos os dados analisados. A análise posterior usando todas as imagens da região tem mostrado que o erro associado à estimativa é bastante pequeno, entre 1 e 3%, o que nos dá confiança de continuar a usar este método. O Projeto de Desflorestamento, ou PRODES, como ficou sendo chamado, pode ser considerado o maior projeto de monitoramento de florestas do mundo, digno do tamanho da floresta amazônica. Mais uma vez, a divulgação desses dados evidencia o continuado compromisso do Governo Federal em tratar essas informações com transparência."
+            }
+        },
+        {
+            "code": "546",
+            "subfield": {
+                "a": "Texto em português e inglês"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Proteção ambiental ",
+                "x": "Floresta Amazônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ecossistemas ",
+                "x": "Floresta Amazônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Monitoramento ambiental ",
+                "x": "Floresta Amazônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desmatamento ",
+                "x": "Floresta Amazônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ecologia florestal"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

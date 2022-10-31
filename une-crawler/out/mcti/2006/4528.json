@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004528"
+        },
+        {
+            "code": "005",
+            "value": "20190813121911.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "574(251.3) ",
+                "b": "C417 ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Cerrado ",
+                "b": "caracterização e recuperação de Matas de Galeria ",
+                "c": "editores: José Felipe Ribeiro, Carlos Eduardo Lazarini da Fonseca, José Carlos Sousa-Silva ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Planaltina ",
+                "b": "Empresa Brasileira de Pesquisa Agropecuária ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "899 ",
+                "b": "il., mapas, grafs., tabs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cerrados ",
+                "x": "Restauração"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Botânica"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Ribeiro, José Felipe ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Fonseca, Carlos Eduardo Lazarini da ",
+                "d": "1958- ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Sousa-Silva, José Carlos ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

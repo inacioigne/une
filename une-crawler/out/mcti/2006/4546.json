@@ -1,0 +1,115 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004546"
+        },
+        {
+            "code": "005",
+            "value": "20190801142906.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "328(042) ",
+                "b": "H722e ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Holanda, Ariosto ",
+                "d": "1938-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A escalada do homem ",
+                "c": "Ariosto Holanda ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Câmara dos Deputados, Coordenação de Publicações ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "73"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Separatas de discursos, pareceres e projetos ",
+                "v": "65 / 2002"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Trabalho do deputado mostrando a evolução do conhecimento humano ao longo dos anos, com informações sobre os principais cientistas, invenções e inventores, dentre outras."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Filósofo ",
+                "x": "Biografia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cientistas ",
+                "x": "Biografia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Descoberta científica ",
+                "x": "Cronologia"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

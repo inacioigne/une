@@ -1,0 +1,108 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004624"
+        },
+        {
+            "code": "005",
+            "value": "20190731093740.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "504.122(213.56:811) ",
+                "b": "D453 ",
+                "c": "[1997] ",
+                "d": "INPE"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Desflorestamento, 1995-1997 ",
+                "b": "Amazônia ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Deforestation, 1995-1997"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto Nacional de Pesquisas Espaciais ",
+                "c": "[1997]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "[20 f.] ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "O monitoramento do desflorestamento bruto - Monitorando a floresta - INPE - Áreas críticas para a estimativa de 1997 - Principais perguntas e respostas sobre o desflorestamento da Amazônia."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "O PRODES é considerado o maior projeto de monitoramento de florestas do mundo utilizando técnicas de sensoriamento remoto por satélite. O INPE há vários anos analisa as imagens do satélite Landsat para acompanhar a evolução do desflorestamento bruto da Amazônia. Este esforço gerou resultados cobrindo o período de 1974 a 1994. O presente estudo, relativo aos anos de 1995, 1996 e 1997, atualiza a série histórica da extensão e taxa de desflorestamento bruto da Amazônia e fornece uma visão mais atualizada que permite explorar as origens do desflorestamento e oferecer indicadores para orientar as diversas políticas públicas na região. Pela primeira vez, o INPE disponibiliza, além das estimativas da extensão e taxa de desflorestamento bruto por Unidade da Federação, a distribuição das alterações por grande tipos de vegetação e por tamanho de áreas desflorestadas."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desmatamento ",
+                "z": "Amazônia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Monitoramento ambiental ",
+                "x": "Reconhecimento aéreo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

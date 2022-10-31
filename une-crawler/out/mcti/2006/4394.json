@@ -1,0 +1,133 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004394"
+        },
+        {
+            "code": "005",
+            "value": "20190805101048.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "551.583 ",
+                "b": "I24 ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The IGBP terrestrial transects ",
+                "b": "science plan ",
+                "c": "edited by G.W. Koch ... [et al.] with contributions from I. Burke ... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Stockholm, Suécia ",
+                "b": "International Geosphere-Biosphere Programme ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "61 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "IGBP Report = IGBP Rapport = IGBP Informe ",
+                "v": "n. 36"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mudanças climáticas ",
+                "x": "Aspectos ambientais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Atmosfera ",
+                "x": "Pesquisa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Interação oceano-atmosfera ",
+                "x": "Cooperação internacional"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gestão ambiental ",
+                "x": "Cooperação internacional"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Koch, G. W ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Burke, Ingrid C ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Programa Internacional da Geosfera-Biosfera ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Conselho Internacional das Uniões Científicas ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004562"
+        },
+        {
+            "code": "005",
+            "value": "20190808102341.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "630*83(811) ",
+                "b": "L496 ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Legalidade predatória ",
+                "b": "o novo quadro da exploração madeireira na amazônia ",
+                "c": "Direção e redação Roberto Smeraldi ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Amigos da Terra, Amazônia Brasileira ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "24 f."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Floresta Amazônica ",
+                "x": "Exploração"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Florestas ",
+                "x": "Exploração"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Madeira ",
+                "z": "Amazônia"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Smeraldi, Roberto ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

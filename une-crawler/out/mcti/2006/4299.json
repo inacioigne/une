@@ -1,0 +1,142 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004299"
+        },
+        {
+            "code": "005",
+            "value": "20190807100351.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.738.5:339 ",
+                "b": "B823i ",
+                "c": "2005 ",
+                "d": "MCT"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Ministério da Ciência e Tecnologia ",
+                "b": "Secretaria de Política de Informática"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Internet comercial ",
+                "b": "aspectos gerais, estatísticas, aspectos legais, contribuições especiais, glossário ",
+                "h": "Impresso ",
+                "c": "Ministério da Ciência e Tecnologia. Secretaria de Política de Informática"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Ministério da Ciência e Tecnologia, Secretaria de Política de Informática ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "203 ",
+                "b": "il., color"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "versão 3"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Breve história da internet -- principais conceitos -- Comércio eletrônico e comércio convencional -- Marketing eletrônico -- Estatísticas -- O tamanho atual da internet -- O comércio eletrônico -- Aspectos legais -- Características legais do comércio eletrônico -- Comércio eletrônico e propriedade intelectual -- Assinatura eletrônica ou digital -- Transações eletrônicas, proteção e o direito de privacidade -- Tributação do comércio eletrônico -- SPAM ou UCE -- TV Digital no Brasil -- Ações do governo brasileiro -- Os correios e o comércio eletrônico -- A evolução do comércio eletrônico no mercado brasileiro"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Atualiza, amplia e incorpora novos conceitos relacionados com os diversos termos utilizados na atualidade com relação a rede mundial Internet; atualiza as estatísticas relacionadas com a Internet e o comércio eletrônico no Brasil e em alguns países, onde os números são significativos; apresenta os aspectos legais relacionados com os temas principais da Internet e estuda os aspectos relativos aos direitos da propriedade intelectual das informações contidas na rede eletrônica de dados. Além destes aspectos, esta edição incorpora algumas contribuições especiais que complementam este trabalho de forma qualitativa. Para finalizar, este estudo traz um glossário de termos utilizados no âmbito da Internet comercial, revisado e atualizado."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comércio eletrônico ",
+                "z": "Brasil ",
+                "x": "Aspectos legais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comercialização ",
+                "x": "Aplicação de computador ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Contrato eletrônico ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Proteção de dados ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Privacidade ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\4299-Internet_comercial_aspectos_gerais.zip ",
+                "y": "MCTIC ",
+                "z": "Acesso em: 07/08/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

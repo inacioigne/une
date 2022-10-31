@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004333"
+        },
+        {
+            "code": "005",
+            "value": "20190807131502.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "62-021.273 ",
+                "b": "I88 ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "IT technology transfer list ",
+                "h": "Impresso ",
+                "c": "Institute of Information Technology Assessment"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Seoul, República da Coréia ",
+                "b": "Institute of Information Technology Assessment ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "72 ",
+                "b": "il., tabs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Transferência de tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Semicondutores"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informação tecnológica"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Institute of Information Technology Assessment (República da Coréia) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

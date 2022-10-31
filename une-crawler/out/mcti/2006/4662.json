@@ -1,0 +1,119 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004662"
+        },
+        {
+            "code": "005",
+            "value": "20190809102100.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "681.5:007.5(81:43)(063) ",
+                "b": "G373p ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "German-Brazilian Workshop on Information Technology ",
+                "c": "Porto Alegre, RS ",
+                "d": "1997 ",
+                "n": "4"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Proceedings of the 4th German-Brazilian Workshop on Information Technology ",
+                "b": "Porto Alegre, September 11th - 12th, 1997 ",
+                "c": "edited by Stefan Jahnichen, Daltro Nunes ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Conselho Nacional de Desenvolvimento Científico e Tecnológico ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia da informação ",
+                "z": "Alemanha"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Transferência de tecnologia"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Nunes, Daltro José ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Jähnichen, Stefan ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Alemanha. Federal Ministry for Research and Technology ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

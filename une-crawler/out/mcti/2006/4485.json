@@ -1,0 +1,120 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004485"
+        },
+        {
+            "code": "005",
+            "value": "20190731083312.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8535209239"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "573:004 ",
+                "b": "G437d ",
+                "c": "=134.3 ",
+                "d": "2001"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Gibas, Cynthia"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Desenvolvendo bioinformática ",
+                "c": "Cynthia Gibas and Per Jambeck; revisão técnica de Antônio Basílio de Miranda; tradução de Cristina de Amorim Machado ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Desenvolvendo bioinformática : ferramentas de software para aplicações em biologia"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Campus ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xvii, 440 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "534",
+            "subfield": {
+                "a": "Título original : Developing bioinformatics computer skills"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biologia ",
+                "x": "Aplicação de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biologia computacional"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Jambeck, Per ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

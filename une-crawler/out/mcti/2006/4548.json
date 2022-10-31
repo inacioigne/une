@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004548"
+        },
+        {
+            "code": "005",
+            "value": "20190809161533.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.432:004(81)(063) ",
+                "b": "C749a ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Congresso Brasileiro de Agroinformática ",
+                "c": "Londrina, PR ",
+                "d": "2006 ",
+                "n": "5"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais ",
+                "b": "Agronegócio, Tecnologia e Inovação : V Congresso Brasileiro de Agroinformática : II Simpósio Brasileiro de Tecnologia da Informação no Agronegócio Cooperativo ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Londrina ",
+                "b": "Sociedade Brasileira de Informática Aplicada à Agropecuária e Agroindustria ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Agroindústria ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Agricultura ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia da informação ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Sociedade Brasileira de Informática Aplicada à Agropecuária e Agroindústria ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Simpósio Brasileiro de Tecnologia da Informação no Agronegócio Cooperativo ",
+                "c": "Londrina, PR ",
+                "d": "2006 ",
+                "n": "2"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

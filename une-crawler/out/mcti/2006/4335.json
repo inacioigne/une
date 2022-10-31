@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004335"
+        },
+        {
+            "code": "005",
+            "value": "20190730114742.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "556.55(7/8) ",
+                "b": "D232 ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Data book of world lake environments ",
+                "b": "a survey of the state of world lakes, 3. the americas ",
+                "c": "Editor Tatuo Kira ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Kusatsu, Japão ",
+                "b": "International Lake Environment Committee ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "868 ",
+                "b": "il., tabs., grafs., fotos, mapas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Lago ",
+                "x": "Ecologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Proteção ambiental"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Meio ambiente"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Kira, Tatsuo ",
+                "d": "1919- ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Programa das Nações Unidas para o Meio Ambiente ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "International Lake Environment Committee ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

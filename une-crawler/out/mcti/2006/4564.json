@@ -1,0 +1,112 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004564"
+        },
+        {
+            "code": "005",
+            "value": "20190812165944.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "005.963(063) ",
+                "b": "C749a ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Congresso de Educação a Distância Mercosul 2003 ",
+                "c": "Florianopólis, SC ",
+                "d": "2003 ",
+                "n": "7"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais VII CREAD - Congresso de Educação a Distância - Mercosul 2003 ",
+                "b": "aprendizagem e trabalho: políticas e tecnologias ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Congreso de Educación a Distancia Mercosur 2003: aprendizaje y trabajo: políticas y tecnologías"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Florianópolis ",
+                "b": "Serviço Nacional de Aprendizagem Industrial, Departamento Regional de Santa Catarina, Centro de Tecnologia em Automação e Informática ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "391 ",
+                "c": "30 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Texto em português e espanhol"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ensino à distância ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aprendizagem ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Trabalho ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

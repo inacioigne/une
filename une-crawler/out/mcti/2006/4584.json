@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004584"
+        },
+        {
+            "code": "005",
+            "value": "20190731124930.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8585545232"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "574:556.55 ",
+                "b": "R433 ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Reservatório de segredo ",
+                "b": "bases ecológicas para o manejo ",
+                "c": "editado por Angelo A. Agostinho e Luiz C. Gomes ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Maringá ",
+                "b": "Universidade Estadual de Maringá ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "387 ",
+                "b": "il., (algumas color.), mapas ",
+                "c": "25 cm"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ecologia dos reservatórios"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Água doce ",
+                "x": "Ecologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Limnologia"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Agostinho, Angelo Antonio ",
+                "d": "1950- ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Gomes, Luiz C. ",
+                "d": "1965- ",
+                "q": "Luiz Carlos ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

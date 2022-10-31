@@ -1,0 +1,66 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     naa  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000017066"
+        },
+        {
+            "code": "005",
+            "value": "20190830130509.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por  "
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCTIC ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "I Encontro Nacional de Professores de Informática - ENAPI ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática, ",
+                "x": "Metodologia"
+            }
+        },
+        {
+            "code": "773",
+            "subfield": {
+                "d": "Rio de Janeiro : Comissão de Coordenação das Atividades de Processamento de Dados, 1973-1979. ",
+                "g": "v. 2, n. 4 (set./dez. 1974), p. 7-15 ",
+                "h": "v. ",
+                "n": "Publicação interrompida de 1977 a 1979 ",
+                "q": "2:4 ",
+                "t": "Capre : boletim informativo ",
+                "w": "000001951 ",
+                "7": "   s"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Analítica de Periódicos"
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004627"
+        },
+        {
+            "code": "005",
+            "value": "20190801091741.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "336.145(063) ",
+                "b": "C748p ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Draft Programme and budget, 2000-2001 ",
+                "h": "Impresso ",
+                "c": "UNESCO"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Paris] ",
+                "b": "UNESCO ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxx, 452 p. ",
+                "b": "il., grafs., tabs."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "UNESCO. General Conference, 30. session, Paris, 1999 - 30 C/5"
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "UNESCO ",
+                "x": "Orçamento"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "UNESCO ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "UNESCO ",
+                "u": "unesdoc.unesco.org/images/0011/001157/115780e.pdf ",
+                "z": "Acesso em: 01/08/2019"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\4627 - Draft Programme and budget, 2000-2001.pdf ",
+                "y": "MCTIC ",
+                "z": "Acesso em: 01/08/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

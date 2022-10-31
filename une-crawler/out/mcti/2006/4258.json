@@ -1,0 +1,104 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004258"
+        },
+        {
+            "code": "005",
+            "value": "20190814173701.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "681.5 ",
+                "b": "A939 ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Automation and the workplace ",
+                "b": "selected labor, education, and training issues : a technical memorandum ",
+                "h": "Impresso ",
+                "c": "Estados Unidos. Congress. Office of Technology Assessment"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "Congress of the U.S., Office of Technology Assessment ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "vii, 105 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "\"March 1983.\", \"OTA-TM-CIT-25\"--P. [4] of cover. S/N 052-003-00900-5, Item 1070-M"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação industrial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mercado de trabalho ",
+                "x": "Automação ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Treinamento de pessoal ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Estados Unidos. Congress. Office of Technology Assessment ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

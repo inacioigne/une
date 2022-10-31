@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004660"
+        },
+        {
+            "code": "005",
+            "value": "20190807104257.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "62-027.15 ",
+                "b": "O82 ",
+                "c": "[199-?]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Oslo manual ",
+                "b": "proposed guidelines for collecting and interpreting technological innovation data ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Measurement of scientific and technological activities"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Organisation for Economic Co-operation and Development ",
+                "c": "[199-?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "92 f."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inovação tecnológica ",
+                "x": "Estatísticas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Economia"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Organização de Cooperação e Desenvolvimento Econômico ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo versão em português ",
+                "u": "http://www.oecd.org/science/inno/2367614.pdf ",
+                "z": "Acesso em: 07/08/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

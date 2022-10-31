@@ -1,0 +1,123 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004321"
+        },
+        {
+            "code": "005",
+            "value": "20190814162356.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "608.3:63 ",
+                "b": "B616 ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Bioseguridad agropecuaria ",
+                "b": "hacia la comercialización de vegetales y vacunas genéticamente modificados ",
+                "h": "Impresso ",
+                "c": "autor corporativo: Secretaría de Agricultura, Ganadería, Pesca y Alimentación de Argentina, Departamento do Meio Ambiente da Grã Bretanha"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Agricultural biosafety : towards commercialisation of genetically modified crop plants and vaccines"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Buenos Aires ",
+                "b": "Secretaría de Agricultura, Ganadería, Pesca y Alimentación ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Argentina"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "179, 163 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Transgênico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Vegetais ",
+                "x": "Biossegurança"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Animais ",
+                "x": "Biossegurança"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Vacinação ",
+                "x": "Biotecnologia"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Argentina. Secretaría de Agricultura, Ganadería, Pesca y Alimentación ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Grã Bretanha. Department of the Environment ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

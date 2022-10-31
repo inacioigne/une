@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004291"
+        },
+        {
+            "code": "005",
+            "value": "20190731125218.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(063) ",
+                "b": "C748r ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Conferencia de Autoridades Iberoamericanas de Informatica ",
+                "c": "Lima, Peru ",
+                "d": "1994 ",
+                "n": "13"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Resoluciones aprobadas en la XII Conferencia de Autoridades Iberoamericanas de Informatica (XIII CAIBI) ",
+                "b": "14 al 16 de noviembre de 1994, Lima-Peru ",
+                "h": "Impresso ",
+                "c": "Conferencia de Autoridades Iberoamericanas de Informatica"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "2. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Lima, Peru ",
+                "b": "Instituto Nacional de Estatística e Informática ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "56"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política de informática ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto Nacional de Estadística e Informática (Peru) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

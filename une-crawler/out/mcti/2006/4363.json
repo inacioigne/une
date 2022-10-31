@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004363"
+        },
+        {
+            "code": "005",
+            "value": "20190809152047.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502.1:316.323(811.3) ",
+                "b": "S168a ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Salles, Waldemar Batista de"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "O Amazonas ",
+                "b": "o meio físico e suas riquezas naturais ",
+                "c": "Waldemar Batista de Salles ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "4. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Manaus ",
+                "b": "Imprensa Oficial do Estado do Amazonas ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "284 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Geografia ",
+                "z": "Amazonas ",
+                "x": "Aspectos ambientais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Demografia ",
+                "z": "Amazonas ",
+                "x": "Aspectos ambientais"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Amazônia ",
+                "x": "Aspectos ambientais"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

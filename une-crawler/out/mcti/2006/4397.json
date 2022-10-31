@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004397"
+        },
+        {
+            "code": "005",
+            "value": "20190802144418.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502.2:001.891 ",
+                "b": "G291 ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "GCTE core research ",
+                "b": "1993 annual report ",
+                "h": "Impresso ",
+                "c": "Programa Internacional da Geosfera-Biosfera"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Camberra ",
+                "b": "International Geosphere-Biosphere Programme ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Austria"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "135 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "IGBP Report = IGBP Rapport = IGBP Informe ",
+                "v": "n. 1"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Geociências ",
+                "x": "Pesquisa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ecossistemas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Meio ambiente"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Programa Internacional da Geosfera-Biosfera ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

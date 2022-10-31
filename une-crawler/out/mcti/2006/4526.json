@@ -1,0 +1,121 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004526"
+        },
+        {
+            "code": "005",
+            "value": "20190809111040.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.3.049.77(100)(063) ",
+                "b": "I61d ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "International Conference on Microelectronics and Packaging ",
+                "c": "Pirenópolis, GO ",
+                "d": "2001 ",
+                "n": "16"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Proceedings, XVI SBMicro, International Conference on Microelectronics and Packaging ",
+                "b": "September 10-14, 2001, Pousada dos Pireneus Resort, Pirenopólis, State of Goiás, Brazil ",
+                "c": "edited by Patrick Verdonck, Carlos Alberto dos Reis Filho and José Camargo da Costa ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Pirenópolis ",
+                "b": "Sociedade Brasileira de Microeletrônica ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "322 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microeletrônica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Semicondutores ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Verdonck, Patrick Bernard ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Reis Filho, Carlos dos ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Costa, José Camargo da ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Sociedade Brasileira de Microeletrônica ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

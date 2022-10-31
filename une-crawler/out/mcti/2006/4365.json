@@ -1,0 +1,118 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000004365"
+        },
+        {
+            "code": "005",
+            "value": "20190801091124.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(083.92) ",
+                "b": "B823r ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Secretaria Especial de Informática"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Roteiro para elaboração de Plano Diretor de Informática ",
+                "c": "Secretaria Especial de Informática ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "[s.n.] ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "54 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "I -- Apresentação -- II -- Instruções gerais, III -- Instruções específicas -- Capítulo 1 - Introdução - 1.1 -- Descrição da organização, 1.2 -- Resumo gerencial -- Capítulo - 2. Situação atual da área de informática - 2.1 -- Histórico e evolução - 2.2. Recursos humanos -- 2.3. Equipamentos-hardware -- 2.4. Aplicações-software -- 2.5. Dispêndios -- Capítulo 3. Avaliação e considerações -- 3.1.Análise do previsto x realizado -- Capítulo 4. Base de planejamento -- 4.1. Políticas e diretrizes -- 4.2. Objetivos e metas -- 4.3. Ações visando melhor adequação do PNI -- Capítulo 5. Situação planejada da área de informática -- 5.1. Novas aplicações da informática na organização -- 5.3. Equipamentos-hardware -- 5.4. Aplicações-software -- 5.5. Dispêndios -- 5.6. Justificativas - Capítulo 6. Controle de processos e automação -- 6.1. Recursos humanos para CP-A -- 6.2. Aplicações em CP-A -- 6.3. Dispêndios em CP-A -- IV. Anexos."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Estrutura proposta pelo Grupo de Trabalho interno da Secretaria Especial de Informática - SEI, com ampla consulta aos órgãos coordenadores da atividade de informática no âmbito dos Ministérios e empresas públicas federaisl. A proposta introuz simplificações e aperfeiçoamentos visando garantir a consistência dos dados, mesmo considerando as particularidades de cada organização e, principalmente, que o documento possa ser efetivamente um instrumento de planejamento e de acompanhamento do setor de informática."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política Nacional de Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Planejamento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Controle de processo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

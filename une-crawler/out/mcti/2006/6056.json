@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006056"
+        },
+        {
+            "code": "005",
+            "value": "20190812164410.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "681.2(063) ",
+                "b": "S612a ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Simpósio sobre Instrumentação ",
+                "c": "São Paulo, SP ",
+                "d": "1980 ",
+                "n": "2"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais do Simpósio sobre Instrumentação ",
+                "b": "13 a 15 de maio de 1980 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Academia de Ciências do Estado de São Paulo ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "368 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Instrumentação ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia elétrica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Segurança"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Simpósio de Segurança Intrínseca ",
+                "c": "Salvador, BA ",
+                "d": "1979 ",
+                "n": "1"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

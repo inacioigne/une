@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005536"
+        },
+        {
+            "code": "005",
+            "value": "20190809105856.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "2040156046"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "519.6 ",
+                "b": "B245m ",
+                "c": "=133.1 ",
+                "d": "1984"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Barden, William T ",
+                "d": "1940-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Mathématiques pour micro-informatique ",
+                "h": "Impresso ",
+                "c": "William T. Barden"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Dunod ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "114 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "MicroDunod"
+            }
+        },
+        {
+            "code": "534",
+            "subfield": {
+                "a": "Título original : Microcomputer math"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microprogramação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem de programação (Computadores) ",
+                "x": "Basic (Linguagem de programação de computador)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação matemática"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

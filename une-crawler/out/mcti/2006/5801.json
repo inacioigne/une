@@ -1,0 +1,97 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005801"
+        },
+        {
+            "code": "005",
+            "value": "20190807175000.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "537-962(100)(063) ",
+                "b": "S276m ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "International Microwave Symposium ",
+                "c": "Rio de Janeiro, RJ ",
+                "d": "1987"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "1987 SBMO International Microwave Symposium proceedings ",
+                "b": "July 27-30, 1987, Rio Palace Hotel, Rio de Janeiro Brazil ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Sociedade Brasileira de Microondas ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "IEEE catalog no. 87TH0183-4"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microonda ",
+                "x": "Equipamentos"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Sociedade Brasileira de Microondas ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

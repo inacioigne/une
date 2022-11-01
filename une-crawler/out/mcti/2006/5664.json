@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005664"
+        },
+        {
+            "code": "005",
+            "value": "20190801160548.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.94 ",
+                "b": "T757s ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Tozzi, Clésio Luis"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Sistemas gráficos ",
+                "b": "técnicas de modelagem, desenho, PAC ",
+                "c": "Clésio Luiz Tozzi, Léo Pini Magalhães ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Escola Brasileiro-Argentina de Informática ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "287 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computação gráfica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de imagem"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação matemática"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Magalhães, Léo Pini ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Escola Brasileiro-Argentina de Informática ",
+                "c": "Nova Friburgo, RJ ",
+                "d": "1991 ",
+                "n": "5"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

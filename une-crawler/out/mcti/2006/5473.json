@@ -1,0 +1,88 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005473"
+        },
+        {
+            "code": "005",
+            "value": "20190805125933.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0859382192"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.45:025.5(410) ",
+                "b": "U58 ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The U. K. information industry ",
+                "b": "a financial survey ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Londres (Inglaterra) ",
+                "b": "Jordan & Sons ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "commentary by P. L. Holmes"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Serviço de informação ",
+                "x": "Estatísticas",
+                "z": "Grã-Bretanha "
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

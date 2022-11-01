@@ -1,0 +1,93 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005831"
+        },
+        {
+            "code": "005",
+            "value": "20190813143212.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.438BASIC:693.814 ",
+                "b": "R815c ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Rosenthal, Ernest"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Calculs de construction métallique en BASIC ",
+                "c": "Ernest Rosenthal ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Eyrolles ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "x, 149 p."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Les Dossiers de la Construction. Informatique Appliquée"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem de programação (Computadores) ",
+                "x": "Basic (Linguagem de programação de computador)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Construção metálica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005856"
+        },
+        {
+            "code": "005",
+            "value": "20190730134707.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004 ",
+                "b": "V441q ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Velloso, Fernando de Castro"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Quinze lições de informática ",
+                "c": "Fernando de Castro Velloso ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "2. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Estabelecimento General Gustavo Cordeiro de Faria ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "387"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "1ª. Lição - Fundamento -- 2ª. Lição - A memória do computador -- 3ª. Lição - Unidade central de processamento -- 4ª Lição - Unidades de entrada e saída -- 5ª Lição - Codificação -- 6ª Lição - Organização da informação --7ª Lição - Funcionamento do computador -- 8ª Lição - Noções sumárias de Cobol -- 9ª Lição - Noções sumárias de Fortran -- 10ª Lição - Linguagem Basic -- 11ª Lição - Auditoria e segurança -- 12ª Lição - Microcomputador -- 13ª Lição - Solução de problemas -- 14ª Lição - Teleprocessamento -- 15ª Lição - Modalidades de processamento."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Teleprocessamento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem de programação (Computadores) ",
+                "x": "Basic (Linguagem de programação de computador)"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

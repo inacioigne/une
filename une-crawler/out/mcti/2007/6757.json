@@ -1,0 +1,140 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006757"
+        },
+        {
+            "code": "005",
+            "value": "20190625153800.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(81)(063) ",
+                "b": "C749a ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Sociedade Brasileira de Computação. Congresso ",
+                "c": "Recife, PE ",
+                "d": "1986 ",
+                "n": "6"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais do VI Congresso da Sociedade Brasileira de Computação ",
+                "c": "editado por Geovane Cayres Magalhães ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Recife ",
+                "b": "Sociedade Brasileira de Computação ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "A biblioteca possui somente o volume 1"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "v. 1 - Trabalhos apresentados no XIII Seminário Integrado de Software e Hardware"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência da computação ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Fernandes, Clylton José Galamba ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Sociedade Brasileira de Computação ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Universidade Federal de Pernambuco ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Seminário Integrado de Software e Hardware ",
+                "c": "Rio de Janeiro ",
+                "d": "1988 ",
+                "n": "15"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

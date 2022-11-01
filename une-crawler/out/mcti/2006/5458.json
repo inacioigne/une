@@ -1,0 +1,88 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005458"
+        },
+        {
+            "code": "005",
+            "value": "20190802132029.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "62-027.15(73) ",
+                "b": "T255 ",
+                "c": "[1984]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Technology, innovation, and regional economic development ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "Congress of the U.S., Office of Technology Assessment ",
+                "c": "[1984]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "ix, 167"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inovação tecnológica ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Empresa de tecnologia avançada ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Planejamento regional ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

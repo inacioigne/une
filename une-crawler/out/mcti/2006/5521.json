@@ -1,0 +1,99 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005521"
+        },
+        {
+            "code": "005",
+            "value": "20190809132007.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.223 ",
+                "b": "M625m ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Miclet, Laurent"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Méthodes structurelles pour la reconnaissance des formes ",
+                "c": "par Laurent Miclet ; préface de Jean-Paul Haton ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Eyrolles ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxiv, 184 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Collection technique et scientifique des télécommunications"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Algoritmos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Reconhecimento de caracteres"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

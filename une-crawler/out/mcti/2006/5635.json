@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005635"
+        },
+        {
+            "code": "005",
+            "value": "20190807142949.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.773.3 ",
+                "b": "F814m ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "La messageri électronique ",
+                "b": "guide d'implantation ",
+                "h": "Impresso ",
+                "c": "Centre d'études des systèmes d'information de administrations"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Marseille, França ",
+                "b": "Centre d'études des systèmes d'information de administrations ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "88 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telemática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mensagem eletrônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de informação"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Centre d'études des systèmes d'information de administrations (França) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

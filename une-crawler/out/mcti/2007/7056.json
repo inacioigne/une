@@ -1,0 +1,143 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007056"
+        },
+        {
+            "code": "005",
+            "value": "20190625152531.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(81)(063) ",
+                "b": "C749a ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Sociedade Brasileira de Computação. Congresso ",
+                "c": "Porto Alegre, RS ",
+                "d": "1985 ",
+                "n": "5"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais do V Congresso da Sociedade Brasileira de Computação ",
+                "c": "editores : Ricardo A. L. Reis, Carlos E. Rech, Roberto M. J. Macedo ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Porto Alegre ",
+                "b": "Sociedade Brasileira de Computação ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência da computação ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Reis, Ricardo A. L. ",
+                "q": "Ricardo Augusto da Luz ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Rech, Carlos Ernesto ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Macedo, Roberto M. J ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Sociedade Brasileira de Computação ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Universidade Federal do Rio Grande do Sul ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Conferência Latino-Americana de Informática ",
+                "c": "Porto Alegre, RS ",
+                "d": "1985 ",
+                "n": "11"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005516"
+        },
+        {
+            "code": "005",
+            "value": "20190814173925.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "005.591.6:005.912 ",
+                "b": "E79a ",
+                "c": "[1985]"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Estados Unidos. Congress. Office of Technology Assessment"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Automation of America's offices, 1985-2000 ",
+                "h": "Impresso ",
+                "c": "Estados Unidos. Congress. Office of Technology Assessment"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "Congress of the U.S., Office of Technology Assessment ",
+                "c": "[1985]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "348 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "501",
+            "subfield": {
+                "a": "Acompanhado de um livreto: Automation of America's offices : summary, 38 p."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação de escritório ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração pública ",
+                "x": "Automação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Trabalhadores"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

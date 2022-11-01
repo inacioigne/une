@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006627"
+        },
+        {
+            "code": "005",
+            "value": "20190624141531.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0309055970"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.43(73) ",
+                "b": "N19a ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "National Research Council (Estados Unidos). Committee on the Past and Present Contexts for the Use of Ada in the Department of Defense"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Ada and beyond ",
+                "b": "software policies for the Department of Defense ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "National Academy Press ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xi, 102 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Estados Unidos. Department of Defense ",
+                "x": "Processamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "ADA (Linguagem de programação de computador) ",
+                "x": "Linguagem de programação (Computadores)"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

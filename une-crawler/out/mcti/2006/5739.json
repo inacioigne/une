@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005739"
+        },
+        {
+            "code": "005",
+            "value": "20190802104408.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "081860834x"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.2(063) ",
+                "b": "C736s ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Comp Euro ",
+                "c": "Buxelas, Bélgica ",
+                "d": "1988 ",
+                "n": "2"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "System design ",
+                "b": "concepts, methods, and tools ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "IEEE Computer Society Press ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "ix, 369 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento de sistemas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "IEEE Computer Society ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

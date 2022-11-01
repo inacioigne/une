@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007042"
+        },
+        {
+            "code": "005",
+            "value": "20190625112539.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0115136533"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "681.5:007.5 ",
+                "b": "P964 ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A programme for advanced information technology ",
+                "b": "the report of the Alvey Committee ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Londres (Inglaterra) ",
+                "b": "Her Majesty's Stationery Office ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Inglaterra"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "71 ",
+                "c": "21"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Ao alto do título: Department of Industry"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "z": "Inglaterra"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informação tecnológica ",
+                "z": "Inglaterra"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

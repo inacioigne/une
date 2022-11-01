@@ -1,0 +1,104 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005767"
+        },
+        {
+            "code": "005",
+            "value": "20190809111006.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:007(063) ",
+                "b": "T289p ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "TENCON 87 ",
+                "c": "Seoul, República da Coréia ",
+                "d": "1987"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Proceedings, TENCON 87 ",
+                "b": "1987 IEEE Region 10 Conference : \"computers and communications technology toward 2000\" ",
+                "c": "organized by IEEE Korea Section, IEEE Region 10 and Korea Institute of Electronics Engineers Computers and communications technology toward 2000 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "IEEE Korea Section ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "3 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito integrado ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telecomunicações"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Institute of Electrical and Electronics Engineers ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

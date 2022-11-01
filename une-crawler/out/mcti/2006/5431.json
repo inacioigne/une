@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005431"
+        },
+        {
+            "code": "005",
+            "value": "20190801155850.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8521601190"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.891:025.5 ",
+                "b": "C375s ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Cautela, Alciney Lourenço ",
+                "d": "1938-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Sistemas de informação ",
+                "b": "um enfoque atual ",
+                "c": "Alciney Lourenço Cautela, Enrico Giulio Franco Polloni ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Livros Técnicos e Científicos ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "181 ",
+                "c": "23 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Análise e organização de sistemas administrativos -- Desenvolvimento de sistemas de informação -- Noções básicas de banco de dados -- Técnicas avnaçadas: memória virtual, tabelas de decisões -- Segurança em processamento de dados -- Planejamento e controle de projetos -- Quanto custa uma informação."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de informação gerencial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de recuperação da informação"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Polloni, Enrico Giulio Franco ",
+                "d": "1935- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "am   nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006826"
+        },
+        {
+            "code": "005",
+            "value": "20190703184957.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "mul                                mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(81:82)(063) ",
+                "b": "E56e ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Ethos Encontro de Trabalho ",
+                "c": "Petrópolis, RJ ",
+                "d": "1987 ",
+                "n": "4"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Ethos IV encuentro de trabalho ",
+                "b": "Petrópolis (14-16 de abril de 1987) anais : versão final ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Petrópolis ",
+                "b": "Programa Argentino Brasileiro de Pesquisa e Estudos Avançados em Informática ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "vi, 378 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia de software"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Desenvolvimento"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Argentina. Subsecretaria de Informática y Desarrollo ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "730",
+            "subfield": {
+                "a": "Programa Argentino Brasileiro de Pesquisa e Estudos Avançados em Informática"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

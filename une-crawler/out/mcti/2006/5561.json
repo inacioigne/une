@@ -1,0 +1,121 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005561"
+        },
+        {
+            "code": "005",
+            "value": "20190807134625.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "378:001.891 ",
+                "b": "P474 ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Pesquisa universitária em questão ",
+                "c": "Simon Schwartzman, Claudio de Moura Castro (organizadores) ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Campinas ",
+                "b": "Universidade Estadual de Campinas"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Icone Ed ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "232 ",
+                "c": "21 cm"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ensino superior ",
+                "x": "Pesquisa ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa universitária ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa e desenvolvimento ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Schwartzman, Simon ",
+                "d": "1939- ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Castro, Cláudio de Moura ",
+                "d": "1938- ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

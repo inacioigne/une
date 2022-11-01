@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005387"
+        },
+        {
+            "code": "005",
+            "value": "20190801090526.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0137822693"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.896 ",
+                "b": "S798r ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Staugaard, Andrew C"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Robotics and AI ",
+                "b": "an introduction to applied machine intelligence ",
+                "c": "Andrew C. Staugaard, Jr. ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Englewood Cliffs ",
+                "b": "Prentice-Hall ",
+                "c": "c1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "x, 373 ",
+                "c": "24 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Robótica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inteligência artificial"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

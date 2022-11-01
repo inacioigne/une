@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005970"
+        },
+        {
+            "code": "005",
+            "value": "20190805140556.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "681.2(81)(063) ",
+                "b": "S471t ",
+                "c": "1979"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Seminário de Instrumentação ",
+                "c": "Salvador, BA ",
+                "d": "1979 ",
+                "n": "3"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Trabalhos técnicos do 3º seminário de instrumentação e 1 º simpósio de segurança intrínseca ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Instituto Brasileiro de Petróleo ",
+                "c": "1979"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "523 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Instrumentação ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia elétrica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Segurança"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Simpósio de Segurança Intrínseca ",
+                "c": "Salvador, BA ",
+                "d": "1979 ",
+                "n": "1"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

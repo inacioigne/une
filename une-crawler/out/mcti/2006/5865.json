@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005865"
+        },
+        {
+            "code": "005",
+            "value": "20190807180328.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "681.5(063) ",
+                "b": "E56p ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Encontro Regional de Automação e Instrumentação ",
+                "c": "Vitória, ES ",
+                "d": "1989 ",
+                "n": "1"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "1º Encontro Regional de Automação e Instrumentação ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Vitória ",
+                "b": "Sociedade Brasileira de Automática ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Instrumentação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

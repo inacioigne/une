@@ -1,0 +1,93 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005893"
+        },
+        {
+            "code": "005",
+            "value": "20190809122659.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.3.049.77 ",
+                "b": "P963 ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Processos de microeletrônica ",
+                "c": "editado por V. Baranauskas ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Campinas ",
+                "b": "Sociedade Brasileira de Microeletrônica ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. (paginação irregular)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microeletrônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Litografia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito integrado"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Baranauskas, Vitor ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

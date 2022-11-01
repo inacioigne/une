@@ -1,0 +1,92 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005451"
+        },
+        {
+            "code": "005",
+            "value": "20190807095506.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.3.049.77(063) ",
+                "b": "I61i ",
+                "c": "[1985?]"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "International Symposium on Microelectronics and Labour ",
+                "c": "Tokyo, Japão ",
+                "d": "1985"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "International Symposium on Microelectronics and Labour ",
+                "b": "improving the workers' welfare in the progressing field of microelectronics ",
+                "h": "Impresso ",
+                "c": "National Institute of Employment and Vocational Research"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Tokyo] ",
+                "b": "National Institute of Employment and Vocational Research ",
+                "c": "[1985?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "401 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústrias ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "National Institute of Employment and Vocational Research (Japão) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

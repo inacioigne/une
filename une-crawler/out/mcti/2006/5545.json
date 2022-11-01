@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005545"
+        },
+        {
+            "code": "005",
+            "value": "20190801140028.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "336.27 ",
+                "b": "D571 ",
+                "c": "[199-]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Séries históricas ",
+                "b": "dívida pública ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Associação Nacional das Instituições do Mercado Aberto ",
+                "c": "[199-]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "175 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Dívida pública"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Finanças públicas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política fiscal"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Associação Nacional das Instituições do Mercado Aberto ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

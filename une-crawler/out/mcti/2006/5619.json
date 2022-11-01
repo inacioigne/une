@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005619"
+        },
+        {
+            "code": "005",
+            "value": "20190806093230.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9210120302"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "339.172(058) ",
+                "b": "C738u ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Conferência das Nações Unidas para o Comércio e o Desenvolvimento"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "UNCTAD commodity yearbook, 1992 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "CNUCED annuaire des produits de base"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Nações Unidas ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xx, 410 ",
+                "b": "il., tabs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Produtividade agrícola ",
+                "x": "Estatísticas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos minerais ",
+                "x": "Estatísticas"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

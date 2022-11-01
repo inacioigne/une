@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005405"
+        },
+        {
+            "code": "005",
+            "value": "20190807131249.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0920380123"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.272.44 ",
+                "b": "I87 ",
+                "c": "c1979"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Issues in Canadian/U.S. transborder computer data flows ",
+                "b": "proceedings of a conference held in Montreal at the Four Seasons Hotel and sponsored by the Institute for Research on Public Policy, September 6, 1978 ",
+                "c": "edited by W. E. Cundiff and Mado Reid. ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Montreal ",
+                "b": "Institute for Research on Public Policy ",
+                "c": "c1979"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "v, 89 p. ",
+                "c": "23 cm"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Fluxo de dados transfronteiras ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "Canadá"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Cundiff, W. E ",
+                "d": "1945- ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Reid, Mado ",
+                "d": "1948- ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Institute for Research on Public Policy ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

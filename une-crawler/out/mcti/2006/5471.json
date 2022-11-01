@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005471"
+        },
+        {
+            "code": "005",
+            "value": "20190809155814.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0835932672"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004 ",
+                "b": "B419i ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Behforooz, Ali ",
+                "d": "1942-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "An introduction to computer science ",
+                "b": "a structured problem-solving approach ",
+                "c": "Ali Behforooz, Onkar P. Sharma ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Englewood Cliffs ",
+                "b": "Prentice-Hall ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxiii, 709 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência da computação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Análise estruturada"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Sharma, Onkar P ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

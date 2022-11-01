@@ -1,0 +1,118 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005649"
+        },
+        {
+            "code": "005",
+            "value": "20190814180449.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0396085156"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "334.726:004 ",
+                "b": "D336b ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "DeLamarter, Richard Thomas"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Big Blue ",
+                "b": "IBM's use and abuse of power ",
+                "c": "Richard Thomas DeLamarter ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "1"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Dodd, Mead ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xviii, 393 p. ",
+                "c": "25 cm"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Empresas multinacionais ",
+                "x": "Informática ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores ",
+                "x": "Indústria ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Monopólio estatal ",
+                "x": "Política e governo ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

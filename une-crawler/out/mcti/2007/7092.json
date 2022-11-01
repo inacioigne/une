@@ -1,0 +1,93 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007092"
+        },
+        {
+            "code": "005",
+            "value": "20190626142758.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "005.591.6:005.912(047) ",
+                "b": "A849a ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Associação Brasileira da Indústria de Computadores e Periféricos"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Automação de escritório ",
+                "b": "relatório final de GT ABICOMP ",
+                "h": "Impresso ",
+                "c": "Associação Brasileira da Indústria de Computadores e Periféricos"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Associação Brasileira das Indústrias de Computadores e Periféricos ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "17"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação de escritório"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

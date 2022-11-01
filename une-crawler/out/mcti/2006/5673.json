@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005673"
+        },
+        {
+            "code": "005",
+            "value": "20190814173415.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "005.591.6 ",
+                "b": "A939 ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Automação, competitividade e trabalho a experiência internacional ",
+                "c": "Hubert Schmitz, Ruy de Quadros Carvalho, organizadores ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Hucitec ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "284"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação industrial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústrias ",
+                "x": "Automação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia industrial"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Schmitz, Hubert ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Carvalho, Ruy de Quadros ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

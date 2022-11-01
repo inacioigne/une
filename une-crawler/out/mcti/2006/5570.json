@@ -1,0 +1,128 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005570"
+        },
+        {
+            "code": "005",
+            "value": "20190813182951.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9501398579"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.2 ",
+                "b": "B675a ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Bogni, Carlos J"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Arquitecturas no convencionales ",
+                "c": "Carlos J. Bogni, Gustavo A. Del Pino, Luis A. Marrone ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Buenos Aires ",
+                "b": "Kapelusz ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "157 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Edicion preliminar apresentada na I Escola Brasileiro-Argentina de Informática (I EBAI), Campinas, SP, 1986"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquitetura de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia de computação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento paralelo"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Marrone, Luis A ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Pino, Gustavo A. del ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Escola Brasileiro-Argentina de Informática ",
+                "c": "Campinas, SP ",
+                "d": "1986 ",
+                "n": "1"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

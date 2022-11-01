@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005539"
+        },
+        {
+            "code": "005",
+            "value": "20190813152331.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:005.6 ",
+                "b": "W445c ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Welgacz Junior, José"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Círculos de controle de qualidade ",
+                "b": "uma filosofia para aumentar a qualidade de serviços em processamento de dados ",
+                "c": "José Welgacz Junior ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Curitiba ",
+                "b": "Arco-íris ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "121 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados ",
+                "x": "Administração"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Controle de qualidade"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Produtividade"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Relações humanas"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

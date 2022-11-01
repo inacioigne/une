@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005688"
+        },
+        {
+            "code": "005",
+            "value": "20190808151919.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.42(100)(063) ",
+                "b": "I61p ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "International Computer Software and Applications Conference ",
+                "c": "Chicago, Estados Unidos ",
+                "d": "1986 ",
+                "n": "10"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Proceedings ",
+                "b": "COMPSAC 86 : the IEEE Computer Society's Tenth Annual International Computer Software & Applications Conference, october 9-11, 1985, Americana Congress Hotel, Chicago, Illinois ",
+                "h": "Impresso ",
+                "c": "IEEE COMPSAC 86"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "IEEE COMPSAC 86"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Institute of Electrical and Electronics Engineers ",
+                "c": "c1986"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xix, 504 ",
+                "c": "28 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "IEEE Computer Society ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

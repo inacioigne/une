@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005506"
+        },
+        {
+            "code": "005",
+            "value": "20190808095946.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "2880740924"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.01 ",
+                "b": "S921m ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Strohmeier, Alfred"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Le matériel informatique ",
+                "b": "concepts et principes ",
+                "c": "Alfred Strohmeier ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Lausanne ",
+                "b": "Presses polytechniques romandes ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxii, 750 p."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Collection informatique"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquitetura de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

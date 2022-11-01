@@ -1,0 +1,90 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005762"
+        },
+        {
+            "code": "005",
+            "value": "20190801090800.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "339.727.22 ",
+                "b": "D657 ",
+                "c": "c1983"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Doing business in the United States of America ",
+                "b": "a guide for the foreign investor ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Deloitte Haskins & Sells ",
+                "c": "c1983"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "155"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comércio ",
+                "x": "Legislação ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Investimentos estrangeiros ",
+                "x": "Legislação ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Impostos"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

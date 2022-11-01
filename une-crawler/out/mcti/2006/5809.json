@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005809"
+        },
+        {
+            "code": "005",
+            "value": "20190802140728.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "331.101.5 ",
+                "b": "C331t ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Carvalho, Ruy de Quadros"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Tecnologia e trabalho industrial ",
+                "b": "as implicações sociais da automação microeletrônica na indústria automobilística ",
+                "c": "Ruy de Quadros de Carvalho ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Porto Alegre ",
+                "b": "L&PM ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "237"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação ",
+                "x": "Força de trabalho"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Trabalho"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria automobilística ",
+                "x": "Microeletrônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inovação tecnológica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

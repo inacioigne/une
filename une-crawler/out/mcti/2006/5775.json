@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005775"
+        },
+        {
+            "code": "005",
+            "value": "20190801115813.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.38:004 ",
+                "b": "I21e ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Idoeta, Ivan V. ",
+                "d": "1957- ",
+                "q": "Ivan Valeije"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Elementos de eletrônica digital ",
+                "c": "Ivan V. Idoeta, Francisco G.Capuano ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "14. ed. rev., atual. e ampl."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Érica ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "350"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia elétrica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia eletrônica"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Capuano, Francisco G. ",
+                "d": "1955- ",
+                "q": "Francisco Gabriel ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

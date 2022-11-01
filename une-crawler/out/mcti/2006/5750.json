@@ -1,0 +1,99 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005750"
+        },
+        {
+            "code": "005",
+            "value": "20190808093129.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "2852062658"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004 ",
+                "b": "L819p ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Locquin, Marcel V. ",
+                "d": "1922-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Point sur l'informatique en 1984 ",
+                "b": "rapport d'étude à l'A.I.L.F. ",
+                "c": "Marcel V. Locquin ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Lavoisier ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xiii, 397 ",
+                "c": "24 cm"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Aspectos sociais ",
+                "z": "França"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústrias ",
+                "x": "Informática ",
+                "z": "França"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

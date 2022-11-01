@@ -1,0 +1,90 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005931"
+        },
+        {
+            "code": "005",
+            "value": "20190809190111.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "519.6(81)(063) ",
+                "b": "C719a ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Colóquio de Pesquisa e Pós-Graduação em Matemática Aplicada e Computacional ",
+                "c": "São José do Rio Preto, SP ",
+                "d": "1995 ",
+                "n": "1"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais do I Colóquio de Pesquisa e Pós-Graduação em Matemática Aplicada e Computacional ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São José do Rio Preto ",
+                "b": "Universidade Estadual Paulista ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "175 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Matemática aplicada ",
+                "x": "Ciência da computação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Matemática aplicada a informática"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

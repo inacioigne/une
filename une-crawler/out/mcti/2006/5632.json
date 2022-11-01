@@ -1,0 +1,97 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005632"
+        },
+        {
+            "code": "005",
+            "value": "20190805133603.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.395(063) ",
+                "b": "S471p ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Seminário de Operação e Manutenção da Planta ",
+                "c": "Brasília ",
+                "d": "1993 ",
+                "n": "1"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "I Seminário de operação e manutenção da planta ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Telebras ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "416 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telecomunicações ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telefonia ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia elétrica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

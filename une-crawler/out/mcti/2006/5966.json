@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005966"
+        },
+        {
+            "code": "005",
+            "value": "20190813135920.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8535205632"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "330.834 ",
+                "b": "S399c ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Schwartz, Gilson"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "O capital em jogo ",
+                "b": "fundamentos filosóficos da especulação financeira ",
+                "c": "Gilson Schwartz ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Campus ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "205"
+            }
+        },
+        {
+            "code": "600",
+            "subfield": {
+                "a": "Keynes, John Maynard ",
+                "d": "1883-1946"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Keynesianismo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Teoria econômica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

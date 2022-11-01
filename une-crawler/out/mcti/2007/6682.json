@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006682"
+        },
+        {
+            "code": "005",
+            "value": "20190628161656.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5/6(81) ",
+                "b": "H361c ",
+                "c": "[1984]"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Hatab, Guilherme"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Ciência e tecnologia como fator do desenvolvimento e segurança nacionais ",
+                "c": "Guilherme Hatab ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l. ",
+                "b": "s.n. ",
+                "c": "1984]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "17"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento científico ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento tecnológico ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

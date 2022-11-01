@@ -1,0 +1,115 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005791"
+        },
+        {
+            "code": "005",
+            "value": "20190814173538.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "611.018.83:004 ",
+                "b": "A939 ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Journée LAMI ",
+                "c": "Lausanne, Suiça ",
+                "d": "1988"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Automates cellulaires et neurones artificiels ",
+                "b": "Journée lami, mardi 22 mars 1988, ...Lausanne ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Lausanne ",
+                "b": "Laboratoire de Microinformatique ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "429 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Journée Automates cellulaires et Neurones artificiels"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede neural"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de imagem"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Matemática"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Ecole Polytechnique Fédérale de Lausanne. Laboratoire de Microinformatique ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Ecole polytechnique fédérale de Lausanne. Centre d'Appui Scientifique et Technologique ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

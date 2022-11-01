@@ -1,0 +1,137 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006118"
+        },
+        {
+            "code": "005",
+            "value": "20190802112144.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.1.01(73:81)(047) ",
+                "b": "U58f ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "USA / Brazil Joint Workshop on Thermal Sciences Research ",
+                "c": "Rio de Janeiro, RJ ",
+                "d": "1994"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Final technical report, \"USA / Brazil Joint Workshop on Thermal Sciences\" ",
+                "b": "Rio de Janeiro, Brazil, December 1994 ",
+                "c": "coordinators: James P. Hartnett, Renato M. Cotta ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "[s.n.] ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "z": "Estados Unidos ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa científica ",
+                "z": "Estados Unidos ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa tecnológica ",
+                "z": "Estados Unidos ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Hartnett, J. P. ",
+                "q": "James P. ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Cotta, Renato M. ",
+                "q": "Renato Machado ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "National Science Foundation (Estados Unidos) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

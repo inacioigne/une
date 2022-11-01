@@ -1,0 +1,124 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006019"
+        },
+        {
+            "code": "005",
+            "value": "20190809140923.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.45:621.38(81) ",
+                "b": "M626 ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Microeletrônica e informática ",
+                "b": "uma abordagem sob o enfoque do complexo eletrônico ",
+                "h": "Impresso ",
+                "c": "Conselho Nacional de Desenvolvimento Científico e Tecnológico, Programa das Nações Unidas Para o Desenvolvimento, Banco Nacional de Desenvolvimento Econômico e Social"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Banco Nacional de Desenvolvimento Econômico e Social ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "214"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Estudos BNDES ",
+                "v": "14"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microeletrônica ",
+                "x": "Mercado"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria eletrônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Mercado"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Programa das Nações Unidas Para o Desenvolvimento ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Banco Nacional de Desenvolvimento Econômico e Social ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

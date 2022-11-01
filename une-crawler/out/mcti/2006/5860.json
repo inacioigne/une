@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005860"
+        },
+        {
+            "code": "005",
+            "value": "20190807091520.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "2709109182"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.382.7 ",
+                "b": "L728i ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Lilen, Henri"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Interfaces pour microprocesseurs et micro-ordinateurs ",
+                "b": "pratique, circuits, applications ",
+                "c": "Henri Lilen ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "2. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Éditions Radio ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "350 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microprocessador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito eletrônico"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

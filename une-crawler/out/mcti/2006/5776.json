@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005776"
+        },
+        {
+            "code": "005",
+            "value": "20190807184954.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.651(81)(063) ",
+                "b": "S612q ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Simpósio Brasileiro de Banco de Dados ",
+                "c": "Campinas, SP ",
+                "d": "1989 ",
+                "n": "4"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "4° Simpósio Brasileiro de Banco de Dados ",
+                "b": "5 a 7 de abril de 1989, Campinas - SP ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Campinas ",
+                "b": "Sociedade Brasileira de Computação ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "293 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Banco de dados ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de recuperação da informação ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de gerenciamento de banco de dados ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema especialista ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

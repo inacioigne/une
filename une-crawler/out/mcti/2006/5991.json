@@ -1,0 +1,98 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005991"
+        },
+        {
+            "code": "005",
+            "value": "20190808150455.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5/6:005(063) ",
+                "b": "S612a ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Simpósio Nacional de Pesquisa de Administração em Ciência e Tecnologia ",
+                "c": "Rio de Janeiro, RJ ",
+                "d": "1991 ",
+                "n": "16"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Administração em ciência e tecnologia ",
+                "b": "trabalhos apresentados no simpósio nacional de pesquisa de administração em ciência e tecnologia ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Universidade de São Paulo ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. ",
+                "b": "il., tabs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa científica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

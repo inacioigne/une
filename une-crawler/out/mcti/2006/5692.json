@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005692"
+        },
+        {
+            "code": "005",
+            "value": "20190806114939.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0080404065"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5/6:35 ",
+                "b": "W927 ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Worldwide science and technology advice to the highest levels of governments ",
+                "c": "edited by William T. Golden ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Pergamon Press ",
+                "c": "c1991"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xiii, 430 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e Estado"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia e Estado"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Golden, William T ",
+                "d": "1909- ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

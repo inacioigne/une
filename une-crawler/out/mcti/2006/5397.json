@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005397"
+        },
+        {
+            "code": "005",
+            "value": "20190808092832.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.438BASIC ",
+                "b": "B311s ",
+                "c": "=133.1 ",
+                "d": "c1984"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Stephenson, Alfred Philip"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Le BASIC bien programmé ",
+                "c": "A. P. Stephenson ; [traduit par G. Jastrzeb] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "de l'ABC aux fichiers"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Dunod ",
+                "c": "c1984"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "120 ",
+                "c": "21 cm"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "MicroDunod"
+            }
+        },
+        {
+            "code": "534",
+            "subfield": {
+                "a": "Tradução de: Beginner's guide to Basic programming"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Jastrzeb, Gérard ",
+                "e": "Tradutor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

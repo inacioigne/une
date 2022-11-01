@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005886"
+        },
+        {
+            "code": "005",
+            "value": "20190801145013.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0827031688"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "37:330.59 ",
+                "b": "A282e ",
+                "c": "c1993"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Aguerrondo, Inés"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Escuela, fracaso y pobreza ",
+                "b": "cómo salir del círculo vicioso ",
+                "c": "Inés Aguerrondo ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "Organização dos Estados Americanos ",
+                "c": "c1993"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xiii, 150 p ",
+                "c": "23 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Colección INTERAMER ",
+                "v": "no. 27"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Criança pobre ",
+                "x": "Educação ",
+                "z": "América Latina"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Fracasso escolar ",
+                "z": "América Latina"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

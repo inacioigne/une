@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005547"
+        },
+        {
+            "code": "005",
+            "value": "20190806114209.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "2040154930"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.414.2 ",
+                "b": "L173i ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Lagarde, Jean de"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Initiation à l'analyse des données ",
+                "c": "Jean de Lagarde ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Dunod ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "ix, 157 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gestão de projetos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação matemática"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

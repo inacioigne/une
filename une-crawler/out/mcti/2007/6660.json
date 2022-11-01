@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006660"
+        },
+        {
+            "code": "005",
+            "value": "20190625122240.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.9-5(81)(063) ",
+                "b": "S471a ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Seminário de Comando Numérico no Brasil ",
+                "c": "São Paulo, SP ",
+                "d": "1984 ",
+                "n": "4"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais do 4º Seminário de Comando Numérico no Brasil ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Sociedade Brasileira de Comando Numérico ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação industrial ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Controle automático ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Sociedade Brasileira de Comando Numérico ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006732"
+        },
+        {
+            "code": "005",
+            "value": "20190626175208.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9501404005"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "34:004 ",
+                "b": "C824d"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Derecho informático ",
+                "c": "Carlos M. Correa... [et al.]"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Buenos Aires ",
+                "b": "Depalma ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "341 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Direito"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Direitos autorais ",
+                "x": "Software"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Contrato para computador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Zalduendo, Susana C. de ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Batto, Hilda N ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Nazar Espeche, Félix A ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Correa, Carlos María ",
+                "e": "Indefinida"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

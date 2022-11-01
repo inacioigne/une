@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007044"
+        },
+        {
+            "code": "005",
+            "value": "20190701193910.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.391.6 ",
+                "b": "D184c ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Daniel, Luiz Alberto Ordonez"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Comunicações ópticas ",
+                "c": "Luiz Alberto Ordonez Daniel, Deraldo Marins Cortez ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "ELETROBRAS ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "86 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comunicação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Fibras ópticas"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Cortez, Deraldo Marins ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

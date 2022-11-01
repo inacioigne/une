@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005456"
+        },
+        {
+            "code": "005",
+            "value": "20190805114826.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9264126872"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.315.59 ",
+                "b": "S471 ",
+                "c": "=111 1985"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The Semi-conductor industry ",
+                "b": "trade related issues ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Organisation for Economic Co-operation and Development"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "OECD Publications and Information Centre [distributor] ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "145 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "534",
+            "subfield": {
+                "a": "Título orginal: L'industrie des semi-conducteurs : questions liées aux échanges."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Semicondutores ",
+                "x": "Indústria"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microeletrônica ",
+                "x": "Indústria"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

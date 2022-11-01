@@ -1,0 +1,116 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006813"
+        },
+        {
+            "code": "005",
+            "value": "20190626111428.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0891589007"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.8:61 ",
+                "b": "A791 ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Artificial intelligence in medicine ",
+                "c": "edited by Peter Szolovits ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Boston, Estados Unidos ",
+                "b": "American Association for the Advancement of Science ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xv, 226 p ",
+                "c": "24 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "AAAS selected symposium ",
+                "v": "51"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "\"Based on a symposium which was held at the 1979 AAAS National Annual Meeting in Houston, Texas, January 3-8\""
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inteligência artificial ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de recuperação da informação ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Szolovits, Peter ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

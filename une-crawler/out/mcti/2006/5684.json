@@ -1,0 +1,115 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005684"
+        },
+        {
+            "code": "005",
+            "value": "20190802100507.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0896710742"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.891 ",
+                "b": "W185e ",
+                "c": "c1986"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Walker, Terri C. ",
+                "d": "1964-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Expert systems 1986 ",
+                "b": "an assessment of technology and applications ",
+                "c": "by Terri C. Walker and Richard K. Miller ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Madison [Estados Unidos] ",
+                "b": "SEAI Technical Publications ",
+                "c": "c1986"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "369 ",
+                "c": "28 cm"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema especialista"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telecomunicações"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de informação"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Miller, Richard Kendall ",
+                "d": "1946- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

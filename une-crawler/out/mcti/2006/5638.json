@@ -1,0 +1,91 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005638"
+        },
+        {
+            "code": "005",
+            "value": "20190808131614.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0904705994"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.38(4-15) ",
+                "b": "M158 ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Mackintosh yearbook of West European electronics data ",
+                "b": "1987 : vol. 1: West Europe ",
+                "h": "Impresso ",
+                "c": "Mackintosh Consultants Company"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Glenrothes [Escócia] ",
+                "b": "Mackintosh Publications ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "226 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria eletrônica ",
+                "x": "Anuários ",
+                "z": "Europa"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Mackintosh Consultants Company ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

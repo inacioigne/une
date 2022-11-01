@@ -1,0 +1,127 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005610"
+        },
+        {
+            "code": "005",
+            "value": "20190801090442.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9501398587"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.865.8 ",
+                "b": "F383r ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Ferreira, Edson de Paula"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Robótica industrial ",
+                "b": "aspectos macroscópicos : robos manipuladores : tecnologias, modelagem e controle ",
+                "c": "Edson de Paula Ferreira ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Engenharia de conhecimento e sistemas especialistas"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Buenos Aires ",
+                "b": "Kapelusz ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "184 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Este livro faz parte da coleção de livros-textos escritos para a I Escola Brasileiro-Argentina de Informática (I EBAI), realizada em Campinas, SP, Brasil, 1986."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Edição preliminar."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Robótica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação industrial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia industrial"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Escola Brasileiro-Argentina de Informática ",
+                "c": "Campinas, SP ",
+                "d": "1986 ",
+                "n": "1"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

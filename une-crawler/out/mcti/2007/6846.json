@@ -1,0 +1,97 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006846"
+        },
+        {
+            "code": "005",
+            "value": "20190625125509.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(81)(063) ",
+                "b": "C749a ",
+                "c": "1970"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Congresso Nacional de Processamento de Dados ",
+                "c": "Rio de Janeiro, RJ ",
+                "d": "1970 ",
+                "n": "3"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais do III Congresso Nacional de Processamento de Dados ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Sociedade dos Usuários de Computadores e Equipamentos Subsidiários ",
+                "c": "1970"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "31, 579 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comunicação de dados ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

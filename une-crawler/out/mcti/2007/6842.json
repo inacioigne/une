@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006842"
+        },
+        {
+            "code": "005",
+            "value": "20190625122007.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(063) ",
+                "b": "C749a ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Congresso Regional de Informática ",
+                "c": "Curitiba, PR ",
+                "d": "1982 ",
+                "n": "4"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais do 4º Congresso Regional de Informática ",
+                "b": "Curitiba, 3 a 6 de maio de 1982 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Curitiba ",
+                "b": "Sociedade dos Usuários de Computadores e Equipamentos Subsidiários ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "429 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Capacitação tecnológica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Sociedade dos Usuários de Computadores e Equipamentos Subsidiários (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

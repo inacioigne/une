@@ -1,0 +1,118 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005507"
+        },
+        {
+            "code": "005",
+            "value": "20190813142826.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0387151656"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.896 ",
+                "b": "C738de ",
+                "c": "c1985"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "CAM ",
+                "b": "developments in computer-integrated manufacturing ",
+                "c": "edited by D. Kochan ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Berlim"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Springer-Verlag ",
+                "c": "c1985"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xiii, 289 p."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de fabricação integrada por computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia auxiliada por computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema CAD/CAM"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia industrial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema flexível de fabricação"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Kochan, Detlef ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

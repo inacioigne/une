@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005580"
+        },
+        {
+            "code": "005",
+            "value": "20190807095853.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9210611446"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "339.5:31(058) ",
+                "b": "N277i ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "International trade statistics yearbook ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Annuaire Statistique du commerce international"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Nações Unidas ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "v.1. Trade by country. -- v.2. Trade by commodity, commodity matrix tables"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comércio ",
+                "x": "Periódico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comércio internacional ",
+                "x": "Estatísticas"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006400"
+        },
+        {
+            "code": "005",
+            "value": "20190701181844.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "4939034070"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "351.86(5) ",
+                "b": "E13 ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "East Asian strategic review ",
+                "b": "2000 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Tokyo ",
+                "b": "National Institute for Defense Studies ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xiii, 300 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Estratégia"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Leste da Ásia ",
+                "x": "Relações militares"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "http://www.nids.mod.go.jp/english/publication/east-asian/e2000.html ",
+                "y": "Texto completo (NIDS) ",
+                "z": "Acesso em: 16/09/2014"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

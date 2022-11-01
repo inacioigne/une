@@ -1,0 +1,87 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005700"
+        },
+        {
+            "code": "005",
+            "value": "20190731130801.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.355.085 ",
+                "b": "D611 ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Disk/trend report ",
+                "b": "optical disk drives ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Mountain, California ",
+                "b": "Disk/Trend ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Periódico tratado como livro."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústrias ",
+                "x": "Periódico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mercado"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

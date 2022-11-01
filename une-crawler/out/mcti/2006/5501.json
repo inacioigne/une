@@ -1,0 +1,108 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005501"
+        },
+        {
+            "code": "005",
+            "value": "20190805105155.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "519.6 ",
+                "b": "G637g ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Gondran, Michel"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Graphes et algorithmes ",
+                "c": "Michel Gondran, Michel Minoux ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "2e éd. rev. et augm."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Eyrolles ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxxiii, 588 p ",
+                "c": "25 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Collection de la Direction des études et recherches d'Électricité de France"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Matemática aplicada a informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gráfico ",
+                "x": "Algoritmos"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Minoux, Michel ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

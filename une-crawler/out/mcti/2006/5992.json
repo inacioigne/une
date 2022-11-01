@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005992"
+        },
+        {
+            "code": "005",
+            "value": "20190812184319.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "681.2(075) ",
+                "b": "P289a ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Passos, Geraldo"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Apostila do curso de instrumentação analítica ",
+                "c": "Geraldo Passos, Pedro E. Cohn, Remolo Ciola ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Instituto Brasileiro de Petróleo ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "337"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Instrumentação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Química analítica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ressonância Magnética Nuclear"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Cohn, Pedro Estéfano ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Ciola, Remolo ",
+                "d": "1923- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

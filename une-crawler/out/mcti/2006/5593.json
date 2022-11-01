@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005593"
+        },
+        {
+            "code": "005",
+            "value": "20190813104836.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8521303475"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.438:004.356 ",
+                "b": "M676c ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Mirshawka, Victor ",
+                "d": "1941-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Conexão Grafix-IBM-PC e compatíveis ",
+                "c": "Victor Mirshawka ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Nobel ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "256 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem de programação (Computadores) ",
+                "x": "Basic (Linguagem de programação de computador)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Impressoras (Computadores)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microprogramação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Equipamento periférico"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

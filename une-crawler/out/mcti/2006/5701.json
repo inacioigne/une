@@ -1,0 +1,77 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005701"
+        },
+        {
+            "code": "005",
+            "value": "20190730135052.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   ita"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(450)(047) ",
+                "b": "R221 ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Rapporto assinform sulla situazione dell'informatica in Italia ",
+                "b": "aprile 1989 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Milano ",
+                "b": "Associazione Construttori Macchine, Attrezzature per ufficio e per il trattamento delle informazioni ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "141 ",
+                "b": "il., tabs., grafs., color."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Relatórios ",
+                "z": "Italia"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

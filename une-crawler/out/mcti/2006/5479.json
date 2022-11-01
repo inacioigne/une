@@ -1,0 +1,122 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005479"
+        },
+        {
+            "code": "005",
+            "value": "20190807135857.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "681.5:336.7(063) ",
+                "b": "C749a ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Congreso Latinoamericano de Automatización ",
+                "c": "Bogotá, Colombia ",
+                "d": "1981 ",
+                "n": "8"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "La automatización y la gerencia financiera ",
+                "b": "CLAB 81, VIII Congreso Latinoamericano de Automatización Bancaria ",
+                "c": "CLAB 81, VIII Congreso Latinoamericano de Automatización Bancaria ; [traductores, Patricia Pareja y Rosario Camacho] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Bogotá ",
+                "b": "Asociación Bancaria de Colombia ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "300 ",
+                "c": "24 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Documento especial de la Revista FELABAN ",
+                "v": "42"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Bancos ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Operação bancária ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Empresas ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Asociación Bancaria de Colombia ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Federación Latinoamericana de Bancos ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a"
+        },
+        {
+            "code": "001",
+            "value": "000005895"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0198534434"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "519.61(81)(063) ",
+                "b": "M122a ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Brazilian School on Computer Algebra ",
+                "c": "Rio de Janeiro, RJ ",
+                "d": "1989 ",
+                "n": "1"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Algebraic computing with REDUCE ",
+                "b": "lecture notes from the First Brazilian School on Computer Algebra ",
+                "c": "[edited by] Malcolm A.H. MacCallum and Francis J. Wright"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "b": "Clarendon Press"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Oxford University Press ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xx, 294 p ",
+                "c": "24 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "REDUCE as an Algebraic Calculator -- Controlling REDUCE; Operators and Matrices -- REDUCE as an Algebraic Programming Language -- Algebraic Procedures, Operators and Algorithms -- A Look Inside REDUCE -- Programming in (R) Lisp -- Factorization and Integration in REDUCE -- The User-Contributed REDUCE Packages -- Advanced Topics"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Publisher description: REDUCE is one of the most widely available and simple to use computer algebra systems. It enables users to manipulate complex algebraic expressions and equations symbolically just as mathematicians and scientists do traditionally on paper, and its capabilities include differentiation and exact symbolic integration. This book provides a comprehensive introduction to REDUCE from starting to run it through to using some of the user-contributed REDUCE packages written for specific applications. The authors' aim is to enable all students using REDUCE for the first time to gain a familiarity with the full range of REDUCE commands while at the same time learning something of the internal workings of REDUCE. Throughout, numerous exercises are provided to illustrate themes covered in the text as well as to encourage \"hands on\" working with REDUCE. Both authors are expert users of REDUCE and the text is based on their many years of teaching the system to undergraduate and graduate students. As a result, all those coming to use REDUCE for the first time will find this an invaluable tutor and guide. For more advanced users, it covers a number of aspects not included in the REDUCE manual."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Álgebra ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "MacCallum, M. A. H ",
+                "e": "Indefinida"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Wright, Francis J ",
+                "e": "Indefinida"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

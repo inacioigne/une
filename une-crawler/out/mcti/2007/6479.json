@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a"
+        },
+        {
+            "code": "001",
+            "value": "000006479"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4:061.3 ",
+                "b": "R788c ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Rosa, Newton Braga"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Comdex fall'97 Las Vegas ",
+                "b": "avaliação do Brazilian Software Pavilion ",
+                "c": "Newton Braga Rosa, Carlos Martins Delgado ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Porto Alegre ",
+                "b": "Universidade Federal do Rio Grande do Sul ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "108 ",
+                "b": "il., tabs., grafs."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "doc: Softex/41"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "z": "Brasil ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Congressos, eventos, encontros ",
+                "x": "Organização"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Delgado, Carlos Martins ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

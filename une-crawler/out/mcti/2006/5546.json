@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005546"
+        },
+        {
+            "code": "005",
+            "value": "20190805141020.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.3.049.77(81)(063) ",
+                "b": "C749s ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Congresso da Sociedade Brasileira de Microeletrônica ",
+                "c": "São Paulo, SP ",
+                "d": "1987 ",
+                "n": "2"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "II Congresso da Sociedade Brasileira de Microeletrônica ",
+                "b": "14 a 16 de julho de 1987, Centro de Convenções Rebouças, São Paulo - S. P. ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Sociedade Brasileira de Microeletrônica ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "638"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito integrado"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito eletrônico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia elétrica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia eletrônica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

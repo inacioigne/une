@@ -1,0 +1,81 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a"
+        },
+        {
+            "code": "001",
+            "value": "000006748"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:338.45 ",
+                "b": "I42"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A indústria brasileira de informática ",
+                "b": "uma análise de potencial locacional no nordeste"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Associação Brasileira das Indústrias de Computadores e Periféricos ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "141"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Indústria ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores ",
+                "x": "Indústria ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Associação Brasileira da Indústria de Computadores e Periféricos ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

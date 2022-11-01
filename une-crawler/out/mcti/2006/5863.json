@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005863"
+        },
+        {
+            "code": "005",
+            "value": "20190812095905.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.7 ",
+                "b": "M689 ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Montoro, Fabio de Azevedo ",
+                "d": "1950-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Modem products data book ",
+                "h": "Impresso ",
+                "c": "Fabio de Azevedo Montoro"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Rockwell International ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia elétrica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Modem"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de transmissão de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de telecomunicação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

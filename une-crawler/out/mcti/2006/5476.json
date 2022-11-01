@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005476"
+        },
+        {
+            "code": "005",
+            "value": "20190802100634.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "081860686x"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.891(063) ",
+                "b": "E96e ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Expert Systems in Government Symposium ",
+                "c": "McLean, Virginia, Estados Unidos ",
+                "d": "1985"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Expert Systems in Government Symposium ",
+                "c": "Kamal N. Karna, editor ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "IEEE Computer Society Press ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxiii, 694 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema especialista ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Governo ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Karna, Kamal N ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "IEEE Computer Society ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006926"
+        },
+        {
+            "code": "005",
+            "value": "20190628105437.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.2 ",
+                "b": "C866c ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Courtois, B. ",
+                "q": "Bernard"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "CAD and testing of ICs and systems ",
+                "b": "where are we going? ",
+                "c": "B. Courtois ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Grenoble [França] ",
+                "b": "Technique de l'informatique et de la microélectronique pour l'architecture d'ordinateurs ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "116 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquitetura de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de computador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

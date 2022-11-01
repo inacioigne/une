@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005651"
+        },
+        {
+            "code": "005",
+            "value": "20190814160010.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.8 ",
+                "b": "G396ar ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Gevarter, William B"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Artificial intelligence, expert systems, computer vision, and natural language processing ",
+                "c": "William B. Gevarter ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Park Ridge, Estados Unidos ",
+                "b": "Noyes Publications ",
+                "c": "c1984"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xiv, 226 p ",
+                "c": "25 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Robótica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema especialista"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inteligência artificial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Visão por computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de linguagem natural (Computação)"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

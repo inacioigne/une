@@ -1,0 +1,91 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006168"
+        },
+        {
+            "code": "005",
+            "value": "20190805135519.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "681.2-7(063) ",
+                "b": "S612t ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Simpósio de Manutenção de Instrumentos ",
+                "c": "Porto Alegre, RS ",
+                "d": "1984 ",
+                "n": "2"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Trabalhos técnicos do 2º Simpósio de manutenção de instrumentos ",
+                "h": "Impresso ",
+                "c": "Simpósio de Manutenção de Instrumentos"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Instituto Brasileiro de Petróleo ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "327 ",
+                "b": "il., tabs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Instrumentação ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia elétrica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006673"
+        },
+        {
+            "code": "005",
+            "value": "20190624104733.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0872631141"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.896(100)(063) ",
+                "b": "I61t ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "International Symposium on Industrial Robots ",
+                "c": "Chicago, Estados Unidos ",
+                "d": "1983 ",
+                "n": "13"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "13th International Symposium on Industrial Robots and Robots 7 ",
+                "b": "conference proceedings, April 17-21, 1983, Chicago, Illinois ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Dearborn ",
+                "b": "Robotics International of SME ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "v. 1. Applications worldwide -- v. 2. Future directions"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Robo industrial ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Robótica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia industrial ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

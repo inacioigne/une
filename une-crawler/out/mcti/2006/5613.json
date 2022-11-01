@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005613"
+        },
+        {
+            "code": "005",
+            "value": "20190801140033.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9210611519"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "620.9:311(058) ",
+                "b": "E56 ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Energy statistics yearbook ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Annuaire des statistiques de l'énergie"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Nações Unidas ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xli, 448 p. ",
+                "b": "il., tabs., grafs."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Nações Unidas. Department of Economic and Social Information and Policy Analysis, Statistical Division."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos energéticos ",
+                "x": "Periódico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia ",
+                "x": "Periódico"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

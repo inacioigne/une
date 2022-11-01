@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005513"
+        },
+        {
+            "code": "005",
+            "value": "20190809141730.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0130220051"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.415.2.043 ",
+                "b": "W799a ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Wirth, Niklaus ",
+                "d": "1934-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Algorithms and data structures ",
+                "c": "Niklaus Wirth ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": " Algorithms & data structures"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Englewood Cliffs ",
+                "b": "Prentice-Hall ",
+                "c": "c1986"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "288 ",
+                "c": "25 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Estrutura de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência da computação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Algoritmos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Matemática aplicada a informática"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

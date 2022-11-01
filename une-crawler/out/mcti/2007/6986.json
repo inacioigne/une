@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006986"
+        },
+        {
+            "code": "005",
+            "value": "20190701191835.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.42 ",
+                "b": "F634c ",
+                "c": "[1969]"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Flores, Ivan"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Computer sorting ",
+                "c": "Ivan Flores ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Englewood Cliffs ",
+                "b": "Prentice-Hall ",
+                "c": "[1969]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "x, 237 p ",
+                "c": "24 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ordenação (Computadores)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de lista (Computadores)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

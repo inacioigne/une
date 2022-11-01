@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006256"
+        },
+        {
+            "code": "005",
+            "value": "20190702192921.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8503006855"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "330.35(81) ",
+                "b": "L533c ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Leite, Antônio Dias"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Crescimento econômico ",
+                "b": "experiência histórica do Brasil e estratégia para o século XXI ",
+                "c": "Antonio Dias Leite ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "José Olympio ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "203"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Estabilização econômica ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Brasil ",
+                "x": "Desenvolvimento econômico"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

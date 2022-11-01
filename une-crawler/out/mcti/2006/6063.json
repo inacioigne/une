@@ -1,0 +1,86 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006063"
+        },
+        {
+            "code": "005",
+            "value": "20190806124245.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "538.9(81)(063) ",
+                "b": "E56d ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Encontro Nacional de Física da Matéria Condensada ",
+                "c": "Caxambu, MG ",
+                "d": "1991 ",
+                "n": "14"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "XIV Encontro Nacional de Física da Matéria Condensada ",
+                "b": "programa e resumos : Caxambu, 7 a 11 de maio de 1991 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Sociedade Brasileira de Física ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "415 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física da matéria condensada ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

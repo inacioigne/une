@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005999"
+        },
+        {
+            "code": "005",
+            "value": "20190801115648.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "658.56(7/8=13)(063) ",
+                "b": "S471s ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Seminário Latino-Americano de Controle da Qualidade ",
+                "c": "Rio de Janeiro, RJ ",
+                "d": "1988 ",
+                "n": "7"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Seminário a América Latina e a Qualidade ",
+                "b": "9 a 13 de Maio, 1988 - Rio de Janeiro ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Associação Brasileira de Controle da Qualidade ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "343 ",
+                "b": "il., tabs., grafs."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Boletim Técnico ABCQ, ed. especial, Jan./jun., 1988"
+            }
+        },
+        {
+            "code": "546",
+            "subfield": {
+                "a": "Texto em português e espanhol"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Controle de qualidade ",
+                "z": "América Latina ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gestão da qualidade ",
+                "z": "América Latina ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

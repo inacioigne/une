@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006129"
+        },
+        {
+            "code": "005",
+            "value": "20190731115249.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9509986003"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502/504(036) ",
+                "b": "S623d ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Sistema para el Apoyo a la Investigación y Desarrollo de la Ecología en la República Argentina"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Directorio de ecólogos y científicos ambientales de América Latina, el Caribe y la Península Ibérica ",
+                "h": "Impresso ",
+                "c": "Sistema para el Apoyo a la Investigación y Desarrollo de la Ecología en la República Argentina"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Buenos Aires ",
+                "b": "SPAIDERA ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xi, 129 p."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Meio ambiente ",
+                "z": "Portugal ",
+                "x": "Catálogo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ecologia ",
+                "x": "Pesquisadores"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005720"
+        },
+        {
+            "code": "005",
+            "value": "20190805110010.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0444700447"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.732 ",
+                "b": "L811 ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The Local area networking sourcebook ",
+                "c": "editor, Dana M. Richens ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "4. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Potomac, Estados Unidos ",
+                "b": "Phillips ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xvi, 328 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede local ",
+                "x": "Catálogo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Richens, Dana M ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

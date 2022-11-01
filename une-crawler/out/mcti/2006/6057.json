@@ -1,0 +1,98 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006057"
+        },
+        {
+            "code": "005",
+            "value": "20190805133913.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "631.95(063) ",
+                "b": "S612p ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Simpósio de Agricultura Ecológica ",
+                "c": "Campinas, SP ",
+                "d": "1993 ",
+                "n": "1"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "I Simpósio de Agricultura Ecológica ",
+                "b": "anais ",
+                "h": "Impresso ",
+                "c": "Instituto Agronômico de Campinas"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Campinas ",
+                "b": "Instituto Agronômico de Campinas ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "260"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ecologia agrícola ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Agricultura"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto Agronômico de Campinas ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

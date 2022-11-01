@@ -1,0 +1,93 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005454"
+        },
+        {
+            "code": "005",
+            "value": "20190809142231.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.382.7 ",
+                "b": "R215m ",
+                "c": "[1984]"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Rao, Guthikonda V"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Microprocessors and microcomputer systems ",
+                "c": "Guthikonda V. Rao ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "2nd ed"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "CBS ",
+                "c": "[1984]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xv, 581 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microcomputador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microprocessador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

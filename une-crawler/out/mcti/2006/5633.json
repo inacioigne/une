@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005633"
+        },
+        {
+            "code": "005",
+            "value": "20190813095439.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5/6(063) ",
+                "b": "E56c ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Encuentro Nacional Ciencia, Tecnologia y Desarrollo ",
+                "c": "Buenos Aires, Argentina ",
+                "d": "1983"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Ciencia, Tecnologia y Desarrollo ",
+                "b": "Encuentro Nacional, Buenos Aires, 12 al 16 de octubre de 1983 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Buenos Aires ",
+                "b": "Centro de Participación Política ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "301"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento tecnológico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento científico"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

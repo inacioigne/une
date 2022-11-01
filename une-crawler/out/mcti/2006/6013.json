@@ -1,0 +1,112 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006013"
+        },
+        {
+            "code": "005",
+            "value": "20190805143257.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "631.6.02(81)(063) ",
+                "b": "E56t ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Encontro Nacional de Pesquisa sobre Coservação do Solo ",
+                "c": "Recife, PE ",
+                "d": "1980 ",
+                "n": "3"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "III Encontro nacional de pesquisa sobre conservação do solo, de 28 de julho a 1 de agosto/80 ",
+                "b": "anais ",
+                "h": "Impresso ",
+                "c": "Sociedade Brasileira de Ciência do Solo, Universidade Federal Rural de Pernambuco, Banco do Nordeste do Brasil"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Recife ",
+                "b": "Universidade Federal Rural de Pernambuco ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "473"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Solo ",
+                "x": "Pesquisa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Uso do solo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Sociedade Brasileira de Ciência do Solo ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Universidade Federal Rural de Pernambuco ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Banco do Nordeste do Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

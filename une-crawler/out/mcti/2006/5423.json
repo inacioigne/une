@@ -1,0 +1,128 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005423"
+        },
+        {
+            "code": "005",
+            "value": "20190730151142.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9682604690"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4 ",
+                "b": "D441 ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Desarrollo y administracion de programas de computadora ",
+                "b": "(software) ",
+                "c": "Victor Gerez Greiser ... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "1. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "México ",
+                "b": "Compañia Editorial Continental ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "299"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programas de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Desenvolvimento"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Greiser, Victor Gerez ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Muth, Mauricio Mier ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Nieva Gómez, Rolando ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Rodríguez Ortiz, Guilhermo ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

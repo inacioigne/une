@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006614"
+        },
+        {
+            "code": "005",
+            "value": "20190628182748.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "2876144719"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "63(060.1/.9) ",
+                "b": "C578c ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Centro de Cooperação Internacional em Pesquisa Agronômica para o Desenvolvimento ",
+                "c": "Brasil"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "CIRAD 2001 ",
+                "h": "Impresso ",
+                "c": "Centro de Cooperação Internacional em Pesquisa Agronômica para o Desenvolvimento"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "CIRAD ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "França"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "95 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Agricultura ",
+                "z": "França",
+                "x": "Cooperação internacional "
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

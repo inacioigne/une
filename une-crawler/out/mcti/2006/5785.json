@@ -1,0 +1,117 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005785"
+        },
+        {
+            "code": "005",
+            "value": "20190809141813.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.021 ",
+                "b": "F344a ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Feofiloff, Paulo ",
+                "d": "1946-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Algoritmos para igualdades minimax em grafos ",
+                "c": "Por Paulo Feofiloff, Cláudio Leonardo Lucchesi ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Campinas ",
+                "b": "Universidade Estadual de Campinas ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "155 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Matemática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Algoritmos ",
+                "x": "Grafos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Técnica de programação"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Lucchesi, Claudio Leonardo ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Escola de Computação ",
+                "c": "Campinas, SP ",
+                "d": "1988 ",
+                "n": "6"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

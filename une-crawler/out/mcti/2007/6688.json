@@ -1,0 +1,90 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006688"
+        },
+        {
+            "code": "005",
+            "value": "20190628114235.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.39 ",
+                "b": "M272c ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Mandeville, Roger"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Canadian contribution to telecommunications infrastructure development in Third World countries ",
+                "c": "by Roger Mandeville ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Ottawa ",
+                "b": "Institute for International Development and Co-operation ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "72 ",
+                "b": "tabl. ",
+                "c": "28"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telecomunicações ",
+                "z": "Canadá"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia ",
+                "z": "Canadá"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

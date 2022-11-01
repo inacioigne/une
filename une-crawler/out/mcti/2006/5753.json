@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005753"
+        },
+        {
+            "code": "005",
+            "value": "20190730111600.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(047) ",
+                "b": "T136p ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Takahashi, Tadao ",
+                "q": "Eduardo Tadao"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Proyecto ETHOS ",
+                "b": "informe final de la fase preliminar ",
+                "c": "Tadao Takahashi, Armando Martin Haeberer ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Programa Argentino Brasileiro de Pesquisa e Estudos Avançados em Informática ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "viii, 186 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Relatórios"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Relatórios"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa e desenvolvimento ",
+                "x": "Relatórios"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inteligência artificial ",
+                "x": "Relatórios"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Haeberer, Armando Martín ",
+                "d": "1947- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

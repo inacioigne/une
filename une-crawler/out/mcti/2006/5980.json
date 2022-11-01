@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005980"
+        },
+        {
+            "code": "005",
+            "value": "20190809160415.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "551.79(81)(063) ",
+                "b": "C749a ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Congresso da Associação Brasileira de Estudos do Quaternário ",
+                "c": "Belo Horizonte, MG ",
+                "d": "1992 ",
+                "n": "3"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais ",
+                "b": "3 º Congresso da Associação Brasileira de Estudos do Quaternário ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Associação Brasileira de Estudos do Quaternário ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "449 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Quaternário ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sedimentologia ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mineralogia ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

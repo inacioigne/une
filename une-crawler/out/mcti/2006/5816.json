@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005816"
+        },
+        {
+            "code": "005",
+            "value": "20190806101400.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.39:621.311(81)(063) ",
+                "b": "S471q ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Seminário Nacional de Telecomunicações das Empresas de Energia Elétrica ",
+                "c": "Brasília, DF ",
+                "d": "1990 ",
+                "n": "5"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "V Seminário Nacional de Telecomunicações das Empresas de Energia Elétrica ",
+                "h": "Impresso ",
+                "c": "Seminário Nacional de Telecomunicações das Empresas de Energia Elétrica"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Companhia de Eletricidade de Brasília ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "482 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "ELETROBRAS"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia elétrica ",
+                "z": "Brasil ",
+                "x": "Engenharia elétrica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telecomunicações ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Usinas hidrelétricas ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

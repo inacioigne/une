@@ -1,0 +1,104 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007054"
+        },
+        {
+            "code": "005",
+            "value": "20190701194042.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.312 ",
+                "b": "S492 ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Serviço Nacional de Aprendizagem Industrial"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Conceitos básicos de lógica digital ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Serviço Nacional de Aprendizagem Industrial ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "[424] p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Informática industrial - Circuitos digitais e microcomputadores para controle de processos, Módulo I - CBL"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação lógica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito lógico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Controle de processo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

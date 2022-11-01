@@ -1,0 +1,91 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006169"
+        },
+        {
+            "code": "005",
+            "value": "20190806124554.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "539.1(81)(063) ",
+                "b": "R444d ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Reunião de Trabalho sobre Física Nuclear no Brasil ",
+                "c": "Serra Negra, SP ",
+                "d": "1993 ",
+                "n": "16"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "XVI Reunião de Trabalho sobre Física Nuclear no Brasil, 08 a 12/set/1993 Serra Negra SP ",
+                "b": "programa e resumos ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Sociedade Brasileira de Física ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "140"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física nuclear ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

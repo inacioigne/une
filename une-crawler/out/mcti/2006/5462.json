@@ -1,0 +1,98 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005462"
+        },
+        {
+            "code": "005",
+            "value": "20190801120346.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.42 ",
+                "b": "S355e ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Schmit, Jacques"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Éléments de programmation ",
+                "c": "Jacques Schmit ; préface d'Henry Leroy ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Eyrolles ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "341"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de informação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programas de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

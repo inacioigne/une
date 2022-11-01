@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005592"
+        },
+        {
+            "code": "005",
+            "value": "20190812165650.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(81)(063) ",
+                "b": "C749i ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Congresso Nacional de Informática ",
+                "c": "Rio de Janeiro, RJ ",
+                "d": "1986 ",
+                "n": "19"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais do XIX Congresso Nacional de Informática ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Sociedade dos Usuários de Computadores e Equipamentos Subsidiários ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "v. 1 - Administração de informática, Tele-informática, software, aplicações --- v. 2 - Micro-informática, Micro-eletrênica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Educação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Banco de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inteligência artificial"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

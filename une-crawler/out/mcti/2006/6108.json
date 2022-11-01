@@ -1,0 +1,112 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006108"
+        },
+        {
+            "code": "005",
+            "value": "20190802151702.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "537(100)(063) ",
+                "b": "S989t ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "International Symposium on Eletromagnetic Compatibility ",
+                "c": "São Paulo, SP ",
+                "d": "1994"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The 1994 International Symposium on Eletromagnetic Compatibility ",
+                "h": "Impresso ",
+                "c": "International Symposium on Eletromagnetic Compatibility"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "The Institute of Electrotechnique and Energy ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "287 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Eletromagnetismo ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ondas eletromagnéticas ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Eletrotécnica e Energia (SP) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Institute of Electrical and Electronics Engineers ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

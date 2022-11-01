@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005447"
+        },
+        {
+            "code": "005",
+            "value": "20190807145232.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.7 ",
+                "b": "P979t ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Pujolle, G. ",
+                "d": "1949-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "La télématique ",
+                "b": "réseaux et applications ",
+                "c": "par Guy Pujolle ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "5. éd. rev. et corr."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Eyrolles ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "ix, 157 p. ",
+                "c": "25 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telemática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comunicação de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

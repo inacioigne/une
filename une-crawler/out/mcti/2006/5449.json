@@ -1,0 +1,127 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005449"
+        },
+        {
+            "code": "005",
+            "value": "20190807150419.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "2040108912"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "303.722.4 ",
+                "b": "B479a ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Benzécri, J.-P"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "L'analyse des données ",
+                "b": "leçons sur l'analyse factorielle et la reconnaissance des formes et travaux du laboratoire de statistique de l'Université de Paris VI ",
+                "c": "rédigés et publiés sous la direction du professeur J.-P. Benzécri ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "3. éd."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Dunod ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 v. ",
+                "c": "25 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "A Biblioteca só possui o v. 1"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Édition comportant de nouveaux programmes."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "v. 1. Bellier, L., et al. La taxinomie. -- v. 2. Benzécri, J.-P., et al. L'analyse des correspondances."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Taxonomia numérica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biologia ",
+                "x": "Método estatístico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciências sociais ",
+                "x": "Método estatístico"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

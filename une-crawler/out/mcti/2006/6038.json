@@ -1,0 +1,99 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "am   nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006038"
+        },
+        {
+            "code": "005",
+            "value": "20190801143824.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "por                                por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "624.01/07(816.5)(063) ",
+                "b": "S612s ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Simpósio a Pesquisa em Construção no Sul do Brasil ",
+                "c": "Porto Alegre, RS ",
+                "d": "1991"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Simpósio a pesquisa em construção no sul do Brasil ",
+                "b": "balanço e tendências ",
+                "c": "Editor : Carlos T. Formoso ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Porto Alegre ",
+                "b": "Universidade Federal do Rio Grande do Sul ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "218 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia civil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Construção civil ",
+                "x": "Pesquisa",
+                "z": "Rio Grande do Sul "
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Formoso, Carlos Torres ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

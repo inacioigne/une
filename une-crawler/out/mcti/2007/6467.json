@@ -1,0 +1,123 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006467"
+        },
+        {
+            "code": "005",
+            "value": "20190628100756.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0101-6636"
+            }
+        },
+        {
+            "code": "022",
+            "subfield": {
+                "a": "0101-6636"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "620.91(81) ",
+                "b": "B823b ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Ministério das Minas e Energia"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Brazilian energy balance 1997 ",
+                "b": "1981 to 1996 period ",
+                "h": "Impresso ",
+                "c": "Ministério das Minas e Energia"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Ministério das Minas e Energia ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "143 ",
+                "b": "il., tabs., grafs."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "O Balanço Energético Nacional é o documento oficial do Ministério de Minas e Energia, destinado a registrar estatísticas de energia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia ",
+                "z": "Brasil ",
+                "x": "Consumo (Economia)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos energéticos ",
+                "x": "Estatísticas ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Balanço energético (Geofísica) ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

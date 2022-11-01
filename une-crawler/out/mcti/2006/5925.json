@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a"
+        },
+        {
+            "code": "001",
+            "value": "000005925"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.1.01(81)(063) ",
+                "b": "E56a ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Encontro Nacional de Ciências Térmicas ",
+                "c": "São Paulo, SP ",
+                "d": "1994 ",
+                "n": "5"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Associação Brasileira de Ciências Mecânicas ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "572 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Fenomenos de transporte (engenharia química) ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Calor"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Temperatura"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

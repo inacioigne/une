@@ -1,0 +1,112 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005777"
+        },
+        {
+            "code": "005",
+            "value": "20190806112024.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "681.5:007.5(5-15) ",
+                "b": "S656i ",
+                "c": "c1985"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Smith, Pamela Ann"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Information technology in the Middle East ",
+                "c": "by Pamela Ann Smith ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Londres (Inglaterra) ",
+                "b": "The Economist Intelligence Unit ",
+                "c": "c1985"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "113 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Special report no. 181"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informação tecnológica ",
+                "z": "Oriente Médio"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mercado ",
+                "x": "Tecnologia ",
+                "z": "Oriente Médio"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores ",
+                "x": "Indústria ",
+                "z": "Oriente Médio"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telecomunicações ",
+                "x": "Indústria ",
+                "z": "Oriente Médio"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

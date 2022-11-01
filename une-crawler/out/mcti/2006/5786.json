@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005786"
+        },
+        {
+            "code": "005",
+            "value": "20190731092724.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.423.43 ",
+                "b": "M386d ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Martins, Raul Cesar Baptista"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Desenvolvimento sistemático de programas corretos ",
+                "b": "a abordagem denotacional ",
+                "c": "Raul Cesar Baptista Martins, Arnaldo Vieira Moura ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Campinas ",
+                "b": "Universidade Estadual de Campinas ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xv, 385 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia de software"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Semântica"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Moura, Arnaldo Vieira ",
+                "d": "1950- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Escola de Computação ",
+                "c": "Campinas, SP ",
+                "d": "1988 ",
+                "n": "6"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

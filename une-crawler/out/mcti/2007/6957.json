@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006957"
+        },
+        {
+            "code": "005",
+            "value": "20190701175940.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "339.5(063) ",
+                "b": "C755 ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Comércio exterior ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Confederação Nacional do Comércio ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "362"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Anais do conselho técnico da Confederação Nacional do Comércio"
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "MERCOSUL"
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Acordo de Livre Comércio da América do Norte"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comércio exterior"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comércio internacional"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

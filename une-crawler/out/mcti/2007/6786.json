@@ -1,0 +1,84 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006786"
+        },
+        {
+            "code": "005",
+            "value": "20190701152808.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.9.022(81) ",
+                "b": "T224d ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Tauile, José Ricardo ",
+                "d": "1945-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A difusão de máquinas ferramenta com controle numérico no Brasil ",
+                "c": "José Ricardo Tauile ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Universidade Federal do Rio de Janeiro, Instituto de Economia Industrial ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "26 f."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IEI/UFRJ ",
+                "v": "n. 38"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Máquinas ",
+                "x": "Ferramenta ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007115"
+        },
+        {
+            "code": "005",
+            "value": "20190701191526.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "377:004(043.2) ",
+                "b": "M149c ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Machado, Elian de Castro ",
+                "d": "1955-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Computer education in Brazil ",
+                "b": "policy implementation process as seen by various stakeholders ",
+                "c": "Elian de Castro Machado ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "c": "1985 ",
+                "a": "Indianópolis, Ind. (EUA)"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xi, 384 f ",
+                "c": "28 cm"
+            }
+        },
+        {
+            "code": "502",
+            "subfield": {
+                "a": "Thesis (Ph. D.) -- Indiana University, 1985."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Estudo e ensino ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aplicativo de tecnologia ",
+                "x": "Estudo e ensino ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Formação profissional"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dissertações/Teses/TCC"
+            }
+        }
+    ]
+}

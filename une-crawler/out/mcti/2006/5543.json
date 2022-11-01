@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005543"
+        },
+        {
+            "code": "005",
+            "value": "20190808105257.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "321:004(81) ",
+                "b": "P769 ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Presidência da República"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Política Nacional de Informática ",
+                "c": "organização do Senador Virgílio Távora ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "c": "1985 ",
+                "b": "Senado Federal"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 v."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Política"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política e governo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política de informática ",
+                "x": "Legislação ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Távora, Virgílio ",
+                "d": "1919- ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

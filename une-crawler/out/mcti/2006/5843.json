@@ -1,0 +1,112 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005843"
+        },
+        {
+            "code": "005",
+            "value": "20190807114420.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "047138880x"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.312:519.6 ",
+                "b": "H645i ",
+                "c": "c1968"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Hill, Fredrick J"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Introduction to switching theory and logical design ",
+                "c": "Fredrick J. Hill, Gerald R. Peterson ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Wiley ",
+                "c": "c1968"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "449 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Lógica matemática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia eletrônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito eletrônico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito lógico"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Peterson, Gerald R ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

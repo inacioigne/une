@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005336"
+        },
+        {
+            "code": "005",
+            "value": "20190814183202.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "539.1 ",
+                "b": "A946 ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Avanços tecnológicos na área de geração nucleoelétrica ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "NUCLEBRÁS ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. (paginação irregular) ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física nuclear"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia nuclear"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia nuclear"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria nuclear"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "ELETROBRAS ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Engenharia Nuclear (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

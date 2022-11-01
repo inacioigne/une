@@ -1,0 +1,108 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006434"
+        },
+        {
+            "code": "005",
+            "value": "20190625151945.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "7.05:62(063) ",
+                "b": "S471a ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Seminário Materiais & Design ",
+                "c": "São Carlos, SP ",
+                "d": "1997"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais do Seminário Materiais & Design ",
+                "b": "interface no desenvolvimento do produto ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Carlos, SP ",
+                "b": "Federação e Centro das Indústrias do Estado de São Paulo"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "b": "Universidade Federal de São Carlos ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "260"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenho técnico ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenho industrial ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Materiais"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

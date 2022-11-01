@@ -1,0 +1,116 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006703"
+        },
+        {
+            "code": "005",
+            "value": "20190625114404.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.8 ",
+                "b": "G396o ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Gevarter, William B"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "An overview of computer vision ",
+                "c": "William B. Gevarter ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "National Aeronautics and Space Administration ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "ix, 158 p"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "NBSIR 82-2582"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Robótica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema especialista"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inteligência artificial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Visão por computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de linguagem natural (Computação)"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

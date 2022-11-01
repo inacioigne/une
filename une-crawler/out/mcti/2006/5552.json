@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005552"
+        },
+        {
+            "code": "005",
+            "value": "20190802130938.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0818606134"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(100)(063) ",
+                "b": "C737t ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Computer Group Conference ",
+                "c": "San Francisco, Estados Unidos ",
+                "d": "1985 ",
+                "n": "30"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Technological leverage, a competitive necessity ",
+                "b": "digest of papers ",
+                "c": "Compcon 85, February 25-28, spring, Thirtieth IEEE Computer Society International Conference, Cathedral Hill Hotel, San Francisco, California ; sponsored by the IEEE Computer Society ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": " COMPCON 85"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Los Alamitos ",
+                "b": "IEEE Computer Society Press ",
+                "c": "c1985"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xv, 434 ",
+                "c": "28 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "IEEE Computer Society ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

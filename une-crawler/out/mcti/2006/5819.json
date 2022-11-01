@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005819"
+        },
+        {
+            "code": "005",
+            "value": "20180720120835.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "321.394(1-773)(063) ",
+                "b": "I61t ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "International Teletraffic Congress. Regional Seminar ",
+                "c": "Brasília ",
+                "d": "1993"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Teletraffic challenges for developing countries ",
+                "c": "ITC-International Teletraffic Congress ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Telebras ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 v."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telecomunicações ",
+                "x": "Países em desenvolvimento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de telecomunicação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

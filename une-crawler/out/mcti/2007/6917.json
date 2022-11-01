@@ -1,0 +1,155 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006917"
+        },
+        {
+            "code": "005",
+            "value": "20190625101030.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "14154765"
+            }
+        },
+        {
+            "code": "022",
+            "subfield": {
+                "a": "14154765"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.1:634.0.4(811) ",
+                "b": "R375e ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Reis, Eustáquio José"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "An econometric model of Amazon deforestation ",
+                "c": "Eustáquio J. Reis, Rolando M. Guzmán ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "27 ",
+                "b": "il., tabs., mapas"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IPEA ",
+                "v": "265"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Trata de um modelo econométrico do desmatamento da Amazônia brasileira e das emissões dedióxido de carbono - CO2, daí advindas. O modelo é formado por três grupos de equações: o primeiroenfoca as áreas desmatadas - diferenciadas pelos tipos de vegetação - determinadas pelas principaisatividades econômicas; o segundo grupo enfoca a relação entre o tipo de vegetação e o conteúdo dabiomassa que determina as emissões de CO2 causadas pelo desmatamento; e o terceiro trata dadistribuição espacial da população e as atividades econômicas básicas, que possibilitam uma simulaçãodos futuros padrões geográficos de desmatamento."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desmatamento ",
+                "z": "Amazônia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Floresta Amazônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Modelos econométricos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Emissão de gases ",
+                "x": "Dióxido de carbono"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Guzmán, Rolando M ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (IPEA) ",
+                "u": "http://www.ipea.gov.br/portal/images/stories/PDFs/TDs/td_0265.pdf ",
+                "z": "Acesso em: 16/02/2017"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

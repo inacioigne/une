@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006976"
+        },
+        {
+            "code": "005",
+            "value": "20190625152024.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.056.5:34 ",
+                "b": "B222p ",
+                "c": "[1981]"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Baptista, Luiz Olavo ",
+                "d": "1938-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A proteção internacional dos programas de computador ",
+                "c": "Luiz Olavo Baptista ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l. ",
+                "b": "s.n. ",
+                "c": "1981]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "41 f"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Conferência proferida no Seminário sobre aspectos jurídicos do \"software\" em 06 de outubro de 1981, pelo advogado Luiz Olavo Baptista, Doutor em Direito pela Universidade de Paris."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Segurança"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programas de computador ",
+                "x": "Segurança"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Proteção de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Segurança de computador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005433"
+        },
+        {
+            "code": "005",
+            "value": "20190730092207.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.38 ",
+                "b": "L273p ",
+                "c": "1977"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Langdon Junior, Glen George"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Projeto de computadores digitais ",
+                "c": "Glen George Langdon Junior, Edson Fregni ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "2. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Edgard Blucher ",
+                "c": "1977"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "357 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Inclui apêndice sobre microcomputadores"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquitetura de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computador digital"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Fregni, Edson ",
+                "d": "1947- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

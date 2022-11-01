@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006113"
+        },
+        {
+            "code": "005",
+            "value": "20190806122335.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.3.049.77(81)(063) ",
+                "b": "C748e ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Conference of the Brazilian Microelectronics Society ",
+                "c": "Águas de Lindóia, SP ",
+                "d": "1996 ",
+                "n": "11"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "XI Conference of the Brazilian Microelectronics Society ",
+                "b": "proceedings ",
+                "c": "Edited by Nelson L. A. Braga, Patrick Verdonck, Wilhelmus A. M. Van Noije ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Tec Art ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "74, 434"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microeletrônica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito integrado ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Braga, Nelson L. A ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Verdonck, Patrick Bernard ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Van Noije, Wilhelmus Adrianus Maria ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

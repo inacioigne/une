@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005675"
+        },
+        {
+            "code": "005",
+            "value": "20190805095012.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:339.564 ",
+                "b": "C734g ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Committee to Study International Developments in Computer Science and Technology"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Global trends in computer technology and their impact on export control ",
+                "h": "Impresso ",
+                "c": "Committee to Study International Developments in Computer Science and Technology"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "National Academy Press ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xvii, 288 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Commission on Physical Sciences, Mathematics, and Resources, National Research Council"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Transferência de tecnologia ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Exportação ",
+                "x": "Controle ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

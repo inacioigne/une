@@ -1,0 +1,104 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005788"
+        },
+        {
+            "code": "005",
+            "value": "20190814184842.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.651 ",
+                "b": "M528b ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Melo, Rubens N. ",
+                "q": "Rubens Nascimento"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Bancos de dados não convencionais ",
+                "b": "a tecnologia do BD e suas novas áreas de aplicações ",
+                "c": "Rubens Nascimento Melo ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Campinas ",
+                "b": "Universidade Estadual de Campinas ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Banco de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Banco de dados orientado a objetos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de gerenciamento de banco de dados"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Escola de Computação ",
+                "c": "Campinas, SP ",
+                "d": "1988 ",
+                "n": "6"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "am   nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005941"
+        },
+        {
+            "code": "005",
+            "value": "20190801162135.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "por                                por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "001.891(81) ",
+                "b": "E82 ",
+                "c": "2000 ",
+                "d": "CNPq"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Estratificação dos grupos de pesquisa ",
+                "b": "CNPq : Diretório dos Grupos de Pesquisa no Brasil - versão 4.0 - 2000 ",
+                "h": "Impresso ",
+                "c": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Brasília] ",
+                "b": "Conselho Nacional de Desenvolvimento Científico e Tecnológico ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "23 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Apresentação -- Introdução -- Metodologia -- Principais resultados -- Relação entre qualificação e produtividade dos grupos de pesquisa -- Anexo: Procedimentos utilizados para o cálculo dos escores de qualificação (Q) e da Produtividade (P) dos grupos de pesquisa vinculados à IES"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "A construção de ferramentas analíticas da atividade científico-tecnológica está na raiz da concepção do Diretório dos Grupos de pesquisa. Nesse contexto, desde 1995 vem sendo desenvolvido um algoritmo capaz de estratificar os grupos em bases quali-quantitativas. A versão beta do algoritmo foi desenvolvida a partir da base de dados da versão 2.0 (Lourenço, R. S. ET allii - Indicadores de Qualidade e produtividade dos grupos de pesquisa no Brasil. Educação Brasileira, 18 (35):107-128, 1995) e a primeira versão foi publicada em suporte papel a partir dos dados da versão 3.0 (1998). Na versão 4.0, o algoritmo foi aperfeiçoado e seus resultados foram incorporados dinamicamente à página do Diretório na Internet, como um módulo específico. Numa taxanomia de instrumentos de estratificação que pusessem em um extremo os processos integralmente cientométrico-produtivistas e em outras apreciações integralmente qualitativas, com baixo poder de comparabilidade e formalização, o algoritmo está situado numa posição intermediária. São três os aspectos que fundamentam: (1) a dimensão complexa e qualitativa dos insumos básicos que orientam o processo discriminatório (julgamento de bolsas de pesquisa pelo CNPq e avaliação dos programas de pós-graduação pela CAPES); (2) a parametrização realizada segundo os traços específicos de cada uma das grandes áreas da árvore do conhecimento do CNPq; (3) a utilização de ferramental estatístico simples e de fácil compreensão, mas suficiente para estabelecer uma formalização que permita a comparação entre os grupos."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa científica ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa e desenvolvimento ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Estratificação social ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

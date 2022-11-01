@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006093"
+        },
+        {
+            "code": "005",
+            "value": "20190731115344.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5/6(7/8=13) ",
+                "b": "D598 ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Directório Red-Pop 1995 ",
+                "h": "Impresso ",
+                "c": "UNESCO"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Directorio, centros y programas de popularización de la ciencia y la tecnología en América Latina y el Caribe"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Santafé de Bogotá ",
+                "b": "Red de Popularización de la Ciencia y la Tecnología en América Latina y el Caribe ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "32 f."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento científico ",
+                "x": "Catálogo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento tecnológico ",
+                "x": "Catálogo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "UNESCO ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

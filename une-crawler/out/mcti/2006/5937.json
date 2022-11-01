@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005937"
+        },
+        {
+            "code": "005",
+            "value": "20190807102518.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9562888967"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "604.6 ",
+                "b": "O68ge ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Organismos geneticamente modificados ",
+                "b": "producción, comercialización, bioseguridad y percepción pública ",
+                "c": "editores Lionel Gil H., Carlos Irarrázabal M. ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "1. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Santiago (Chile) ",
+                "b": "[s.n.] ",
+                "c": "c2000"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biotecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Melhoramento genético"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biossegurança"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Gil, Lionel ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Irarrázabal M., Carlos ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

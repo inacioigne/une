@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005585"
+        },
+        {
+            "code": "005",
+            "value": "20190801141645.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9221082504"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502.131 ",
+                "b": "E61 ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Environment, employment and development ",
+                "c": "edited by A.S. Bhalla ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Genebra (Suiça) ",
+                "b": "Repartição Internacional do Trabalho ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "177"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política ambiental"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Proteção ambiental"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento econômico ",
+                "x": "Aspectos ambientais"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Bhalla, A. S ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

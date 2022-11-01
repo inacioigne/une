@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005770"
+        },
+        {
+            "code": "005",
+            "value": "20190807110313.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8485646347"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "32:004(063) ",
+                "b": "R444p ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Reunión de Expertos sobre \"Políticas de Informática\" ",
+                "c": "Murcia, Espanha ",
+                "d": "1988"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Papeles de Murcia ",
+                "b": "Reunión de expertos sobre \"políticas de informática\" celebrada en Murcia (España) del 27 al 30 de noviembre de 1988 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Madri (Espanha) ",
+                "b": "Centro Regional para la Enseñanza de la Informática ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "200"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política de informática ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia da informação"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Centro Regional para la Enseñanza de la Informática ",
+                "c": "Madri ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

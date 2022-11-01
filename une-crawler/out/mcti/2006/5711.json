@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005711"
+        },
+        {
+            "code": "005",
+            "value": "20190805140822.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.1 ",
+                "b": "T763 ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Trade and development report ",
+                "b": "1989 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Nações Unidas ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xv, 241 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Report by the secretariat of the United Nations Conference on Trade and Development."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento econômico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comércio"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Conferência das Nações Unidas para o Comércio e o Desenvolvimento ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

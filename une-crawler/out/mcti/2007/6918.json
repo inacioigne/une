@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006918"
+        },
+        {
+            "code": "005",
+            "value": "20190703191118.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "658.56(043.3) ",
+                "b": "T954c ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Turnes, Osiris"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Custos da qualidade ",
+                "b": "planejamento econômico dos gráficos de controle por atributos e modelos correlatos ",
+                "c": "Osiris Turnes ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "c": "1997 ",
+                "a": "Santa Catarina"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xvi, 183 f. ",
+                "b": "il., grafs., tabs."
+            }
+        },
+        {
+            "code": "502",
+            "subfield": {
+                "a": "Tese (Doutorado) - Universidade Federal de Santa Catarina, Florianópolis, 1997"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Revisão e análise dos modelos de planejamento econômico dos gráficos de controle por atributos e modelos correlatos existentes. Agrupamento dos modelos em conjuntos de enfoques semelhantes, com base, especialmente, na formulação da função custo/perda, seus pressupostos básicos e número de parâmetros de custo/risco envolvidos. Indicação do modelo que melhor se adapta às necessidades, características e capacidades de um sistema produtivo. Instruções adicionais, para a tomada de decisão, com base em análise de sensibilidade dos modelos. Estudo comparativo entre o modelo de Taguchi e outros que lhe são compatíveis"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Qualidade dos produtos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Taguchi, Métodos (Controle de qualidade)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gestão da qualidade"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dissertações/Teses/TCC"
+            }
+        }
+    ]
+}

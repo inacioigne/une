@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005640"
+        },
+        {
+            "code": "005",
+            "value": "20190814154052.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.8 ",
+                "b": "A534a ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Anastaze, Guy"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Artificial intelligence ",
+                "b": "a strategic choice for corporations ",
+                "c": "by Guy Anastaze ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Genebra (Suiça) ",
+                "b": "International Management Institute ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "116 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inteligência artificial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema especialista"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "International Management Institute (Suiça) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

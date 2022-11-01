@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006007"
+        },
+        {
+            "code": "005",
+            "value": "20190805132757.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5/6:614(81)(063) ",
+                "b": "F745a ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Forum Nacional de Ciência e Tecnologia em Saúde ",
+                "c": "Caxambu, MG ",
+                "d": "1992 ",
+                "n": "1"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "I Fórum Nacional de Ciência e Tecnologia em Saúde ",
+                "b": "Anais : Caxambu, MG - 20 a 24 de Novembro de 1992 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Caxambu, MG ",
+                "b": "Sociedade Brasileira de Engenharia Biomédica ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "668 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia biomédica ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia médica ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática médica ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Saúde ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005427"
+        },
+        {
+            "code": "005",
+            "value": "20190809102152.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "044487626X"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.896(100)(063) ",
+                "b": "I61p ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "International Conference on Robot Vision and Sensory Controls ",
+                "c": "Londres (Inglaterra) ",
+                "d": "1984 ",
+                "n": "4"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Proceedings of the 4th International Conference on Robot Vision and Sensory Controls, 9-11 October 1984, London, U.K. ",
+                "c": "edited by A. Pugh ; organised by IFS (Conferences), Ltd, UK ; sponsored by the Fraunhofer Institut für Produktionstechnik und Automatisierung (IPA), W. Germany ... [et al.]. ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Kempston, Bedford, Inglaterra ",
+                "b": "IFS Publications"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Elsevier Science Publishers ",
+                "c": "c1984"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "viii, 500 ",
+                "c": "31 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Robótica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação industrial ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Pugh, A. ",
+                "q": "Alan ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Fraunhofer-Institut für Produktionstechnik und Automatisierung ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

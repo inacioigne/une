@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005503"
+        },
+        {
+            "code": "005",
+            "value": "20190813115823.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0131630806"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.58 ",
+                "b": "M158c ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "McKissick, Michael Landon"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Computer-aided drafting and design ",
+                "c": "Michael Landon McKissick ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Englewood Cliffs ",
+                "b": "Prentice-Hall ",
+                "c": "c1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xv, 248 ",
+                "c": "25 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Projeto auxiliado por computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computação gráfica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

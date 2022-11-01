@@ -1,0 +1,91 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006124"
+        },
+        {
+            "code": "005",
+            "value": "20190805095245.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "378.4(815.68):001.891 ",
+                "b": "E56 ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The excellency in graduate programs ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Campinas ",
+                "b": "Universidade Estadual de Campinas ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "331 ",
+                "b": "il., tabs., grafs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ensino superior ",
+                "x": "Avaliação ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Universidade ",
+                "x": "Avaliação ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Universidade Estadual de Campinas ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

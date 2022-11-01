@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006735"
+        },
+        {
+            "code": "005",
+            "value": "20170418154135.0"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "553.3/.9(100)(063) ",
+                "b": "W926a ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Workshop Internacional Sobre Recuperação de Recursos Naturais Degradados pela Mineração ",
+                "c": "Poços de Caldas, MG ",
+                "d": "1993"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais Workshop Internacional Sobre Recuperação de Recursos Naturais Degradados pela Mineração ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Proceedings International Workshop of Environmental Recovery of Mining Impacts"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "288 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos naturais ",
+                "x": "Administração"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos minerais ",
+                "x": "Aspectos ambientais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Bacias hidrográficas ",
+                "x": "Poluição"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Garimpo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

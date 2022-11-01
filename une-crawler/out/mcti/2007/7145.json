@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007145"
+        },
+        {
+            "code": "005",
+            "value": "20190704192039.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "53(81) ",
+                "b": "S678f ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Sociedade Brasileira de Física"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A física no Brasil na próxima década ",
+                "h": "Impresso ",
+                "c": "Sociedade Brasileira de Física"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Sociedade Brasileira de Física ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "183 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "v.2 fisica nuclear, fisica de particulas e campos, projetos interdisciplinares"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física nuclear"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física de partículas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física ",
+                "x": "História ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

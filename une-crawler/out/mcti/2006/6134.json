@@ -1,0 +1,88 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006134"
+        },
+        {
+            "code": "005",
+            "value": "20190802095842.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "355/359 ",
+                "b": "S898 ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Strategic Assessment 1999 ",
+                "b": "priorities for a turbulent world ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "U.S. Government Printing Office ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xx, 314"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "AD-a422 956"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Segurança nacional ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Estados Unidos ",
+                "x": "Defesa"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

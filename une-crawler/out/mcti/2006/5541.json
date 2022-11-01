@@ -1,0 +1,115 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005541"
+        },
+        {
+            "code": "005",
+            "value": "20190812184038.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8521606818"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.356.2 ",
+                "b": "D249a ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "David, Andrès"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Aplicações de Desktop Publishing com Laser Desk ",
+                "c": "Andres David, Hamilton Ziegler, David Javier ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Livros Técnicos e Científicos ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxi, 125 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Equipamento periférico ",
+                "x": "Impressora"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Editor de texto ",
+                "x": "Aplicação de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Editoração eletrônica"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Ziegler, Hamilton de Magalhães ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Javier, David ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

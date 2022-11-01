@@ -1,0 +1,108 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006919"
+        },
+        {
+            "code": "005",
+            "value": "20190628144256.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4.05(81) ",
+                "b": "R788c ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Rosa, Newton Braga"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Cebit'96 Hannover ",
+                "b": "avaliação da participação brasileira ",
+                "c": "Newton Braga Rosa"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Porto Alegre ",
+                "b": "Universidade Federal do Rio Grande do Sul ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "86 ",
+                "b": "il., tabs."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Contem dados da comdex fall'93 e 95 e cebit'95"
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Sociedade Brasileira para Promoção da Exportação de Software ",
+                "x": "Avaliação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

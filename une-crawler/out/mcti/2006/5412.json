@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005412"
+        },
+        {
+            "code": "005",
+            "value": "20190731115330.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "339.137(047) ",
+                "b": "R425 ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Report on international competitiveness, 1985 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "EMF's"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Genebra (Suiça) ",
+                "b": "EMF Foundation ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "218 ",
+                "b": "il., tabs., grafs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Competitividade internacional ",
+                "x": "Indicadores"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comércio internacional ",
+                "x": "Indicadores"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "EMF Foundation ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

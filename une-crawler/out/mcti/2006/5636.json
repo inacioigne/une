@@ -1,0 +1,108 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005636"
+        },
+        {
+            "code": "005",
+            "value": "20190805142134.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.865.8(043.2) ",
+                "b": "D475t ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Dessimoz, Jean-Daniel"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Traitement des countours en reconnaissaissance de formes visuelles ",
+                "b": "application en robotique ",
+                "c": "par Jean-Daniel Dessimoz ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "c": "1980 ",
+                "a": "[S.l. ",
+                "b": "s.n]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "141 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Thèse ",
+                "v": "n. 387"
+            }
+        },
+        {
+            "code": "502",
+            "subfield": {
+                "a": "Tese (Doutorado) - École Polytechnique Fédérale de Lausanne, Département d'Électricité, 1980"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Robótica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústrias"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação industrial"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dissertações/Teses/TCC"
+            }
+        }
+    ]
+}

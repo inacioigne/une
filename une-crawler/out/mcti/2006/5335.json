@@ -1,0 +1,92 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005335"
+        },
+        {
+            "code": "005",
+            "value": "20190806095812.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "551.588.74 ",
+                "b": "H279u ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Hargrave, Tim"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "An upstream/dowstream hybrid approach to greenhouse gas emissions trading ",
+                "c": "Tim Hargrave ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "Center for Clean Air Policy ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "18 f."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "The Airlie Carbon Trading Papers"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Efeito estufa (Atmosfera)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Emissão de gases"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005800"
+        },
+        {
+            "code": "005",
+            "value": "20190801094119.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9221061221"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "331.101.5(1-773) ",
+                "b": "O68s ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Organização Internacional do Trabalho (OIT)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Safety, health and working conditions in the transfer of technology to developing countries ",
+                "h": "Impresso ",
+                "c": "Organização Internacional do Trabalho"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Genebra (Suiça) ",
+                "b": "Repartição Internacional do Trabalho ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xi, 81"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "An ILO code of practice"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Higiene do trabalho ",
+                "x": "Países em desenvolvimento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Transferência de tecnologia ",
+                "x": "Países em desenvolvimento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Segurança do trabalho ",
+                "x": "Países em desenvolvimento"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

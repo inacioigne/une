@@ -1,0 +1,97 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005996"
+        },
+        {
+            "code": "005",
+            "value": "20190802111537.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "681.5:007.5(73) ",
+                "b": "E79f ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Estados Unidos. Congress. Office of Technology Assessment"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Federal government information technology ",
+                "b": "management, security, and congressional oversight ",
+                "h": "Impresso ",
+                "c": "Estados Unidos. Congress. Office of Technology Assessment"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "Congress of the U.S., Office of Technology Assessment ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "viii, 190 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Governo ",
+                "x": "Informação ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Legislação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informação tecnológica ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007001"
+        },
+        {
+            "code": "005",
+            "value": "20190625114122.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "327(7/8=13) ",
+                "b": "S245a ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Sarney, José ",
+                "d": "1930-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "América Latina ",
+                "b": "perplexidades e futuro ",
+                "c": "José Sarney ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "[s.n.] ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "64"
+            }
+        },
+        {
+            "code": "546",
+            "subfield": {
+                "a": "Texto em português e espanhol"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência política ",
+                "z": "América Latina"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política externa ",
+                "z": "América Latina"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

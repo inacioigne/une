@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "am   nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006828"
+        },
+        {
+            "code": "005",
+            "value": "20190625163540.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "spa                                spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(82:81)(063) ",
+                "b": "E74a ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Escola Brasileiro-Argentina de Informática ",
+                "c": "Buenos Aires, Argentina ",
+                "d": "1987 ",
+                "n": "2"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anales de la Segunda Escuela Brasileño-Argentina de Informática y del Segundo Encuentro del Grupo Binacional de Investigación ",
+                "b": "Tandil, Argentina - febrero, 8 al 22 de 1987 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Buenos Aires ",
+                "b": "Softlider ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "71"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Argentina. Subsecretaria de Informática y Desarrollo ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Brasil. Secretaria Especial de Informática ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "730",
+            "subfield": {
+                "a": "Programa Argentino Brasileiro de Pesquisa e Estudos Avançados em Informática"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005746"
+        },
+        {
+            "code": "005",
+            "value": "20190805135951.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0818608331"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.7:007(063) ",
+                "b": "I61i ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "IEEE INFOCOM ",
+                "c": "New Orleans, Estados Unidos ",
+                "d": "1988 ",
+                "n": "7"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "IEEE INFOCOM '88 ",
+                "b": "the Conference on Computer Communications : proceedings : seventh annual joint conference of the IEEE Computer and Communications Societies : networks, evolution or revolution? ",
+                "h": "Impresso ",
+                "c": "IEEE Communications Society, IEEE Computer Society, Institute of Electrical and Electronics Engineers"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Institute of Electrical and Electronics Engineers ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xvi, 1139 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de transmissão de dados ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "IEEE Communications Society ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "IEEE Computer Society ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Institute of Electrical and Electronics Engineers ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006192"
+        },
+        {
+            "code": "005",
+            "value": "20190806125425.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "666.3(81)(063) ",
+                "b": "C749t ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Congresso Brasileiro de Cerâmica ",
+                "c": "Caxambu, MG ",
+                "d": "1992 ",
+                "n": "36"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "XXXVI Congresso Brasileiro de Cerâmica : Caxambu, de 7 a 10 de Junho de 1992 ",
+                "b": "anais ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Associação Brasileira de Cerâmica ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 v."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de cerâmica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cerâmica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

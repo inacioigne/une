@@ -1,0 +1,108 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005854"
+        },
+        {
+            "code": "005",
+            "value": "20190806110407.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   ger"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "3926446021"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(81) ",
+                "b": "M612i ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Meyer-Stamer, Jörg ",
+                "d": "1958-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Informatik in brasilien ",
+                "b": "politische hintergründe, ökonomische rationalität und perspektiven im lateinamerikanischen kontext ",
+                "c": "Jörg Meyer-Stamer ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Hamburg, Alemanha ",
+                "b": "Institut für Iberoamerika-kunde ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxxi, 115 p."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Arbeitsunterlagen und Diskussionsbeiträge. Documentos de Trabajo ",
+                "v": "24"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política de informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Economia"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

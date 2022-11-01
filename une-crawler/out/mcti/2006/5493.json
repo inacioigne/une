@@ -1,0 +1,116 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005493"
+        },
+        {
+            "code": "005",
+            "value": "20190802085629.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.382.7(063) ",
+                "b": "J86e ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Journées d'électronique et de microtechnique ",
+                "c": "Lausanne, Suiça ",
+                "d": "1984"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Evolution des périphériques de microprocesseurs ",
+                "b": "comptes rendus des Journées d'électronique et de microtechnique 1984, Lausanne, 9-11 oct. 1984 ",
+                "h": "Impresso ",
+                "c": "Ecole polytechnique fe'de'rale de Lausanne"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Advances in microprocessor peripherals : proceedings"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Lausanne, Suiça ",
+                "b": "Presses polytechniques romandes ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xiv, 304 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Journées organisées par l'Ecole polytechnique fédérale de Lausanne avec l'appui de: Association suisse des électriciens... et al. Texto em inglês e frances."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microprocessador ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquitetura de computador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Ecole polytechnique fe'de'rale de Lausanne ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Journe'es de microtechnique"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

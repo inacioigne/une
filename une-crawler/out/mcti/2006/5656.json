@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005656"
+        },
+        {
+            "code": "005",
+            "value": "20190805125705.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0672226979"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.7(035) ",
+                "b": "S782h ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Stallings, William ",
+                "d": "1945-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Handbook of computer-communications standards ",
+                "c": "William Stallings ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "2. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "H. W. Sams ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "3 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "v. 1. The open systems interconnection (OSI) model and OSI-related standards -- v. 2. Local area network standards -- v. 3. The TCP/IP protocol suite / William Stallings ... [et al.]."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de transmissão de dados ",
+                "x": "Manual"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede local"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

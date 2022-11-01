@@ -1,0 +1,88 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006930"
+        },
+        {
+            "code": "005",
+            "value": "20190627160326.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "025.5 ",
+                "b": "M444i"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Mattos, João Metello de"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A informação como insumo no processo produtivo ",
+                "c": "João Metello Mattos ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Escola de Administração Fazendária ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "19 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informação ",
+                "x": "Aspectos economicos"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

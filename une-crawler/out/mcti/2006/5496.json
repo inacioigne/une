@@ -1,0 +1,99 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005496"
+        },
+        {
+            "code": "005",
+            "value": "20190813115248.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "005.591.6:658.62 ",
+                "b": "E79c ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Estados Unidos. Congress. Office of Technology Assessment"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Computerized manufacturing automation ",
+                "b": "employment, education, and the workplace ",
+                "h": "Impresso ",
+                "c": "Congress. Office of Technology Assessment"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "Congress of the U.S., Office of Technology Assessment ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "ix, 471 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Trabalho ",
+                "x": "Automação industrial ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação ",
+                "x": "Aspectos economicos ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Treinamento de pessoal ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

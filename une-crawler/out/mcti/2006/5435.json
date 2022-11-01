@@ -1,0 +1,97 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005435"
+        },
+        {
+            "code": "005",
+            "value": "20190813135803.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "336.581:5/6(5) ",
+                "b": "S572c ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Sierra, Christophe"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Caractérisation S&T des nouveaus pays industriels d'Asie ",
+                "b": "Chine, Inde, Corée du Sud, Hong Kong, Singapour, Taiwan ",
+                "c": "Christophe Sierra ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Observatoire des Sciences et des Techniques ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "175 ",
+                "b": "il., tabs."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Les Cahiers de l'OST ",
+                "v": "n. 6"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "x": "Indicadores ",
+                "z": "Singapura"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Produção científica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

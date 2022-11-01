@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005452"
+        },
+        {
+            "code": "005",
+            "value": "20190807112852.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.7 ",
+                "b": "M965i ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Munier, Jean-Marie ",
+                "d": "1946-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Introduction à la téléinformatique ",
+                "c": "par Jean-Marie Munier ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "2. éd. rev. et corr."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Eyrolles ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "182"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Pratique de l'informatique"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telemática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comunicação de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Protocolo de comunicação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telecomunicações"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

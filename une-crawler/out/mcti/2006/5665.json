@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005665"
+        },
+        {
+            "code": "005",
+            "value": "20190730111508.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.057.4 ",
+                "b": "N778p ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Nogueira, José Marcos Silva"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Protocolos e serviços de comunicação ",
+                "b": "princípios, especificação e teste ",
+                "c": "José Marcos Silva Nogueira ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Escola Brasileiro-Argentina de Informática ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "144 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Versão preliminar publicada para a V Escola Brasileiro-Argentina de Informática, Rio de Janeiro - Janeiro de 1991"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Protocolo de comunicação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Escola Brasileiro-Argentina de Informática ",
+                "c": "Nova Friburgo, RJ ",
+                "d": "1991 ",
+                "n": "5"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005784"
+        },
+        {
+            "code": "005",
+            "value": "20190807104701.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.272'75 ",
+                "b": "A524i ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Amorim, Claudio Luis de"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Uma introdução à computação paralela e distribuída ",
+                "c": "Claudio Luis de Amorim, Valmir Carneiro Barbosa, Edil Severiano Tavares Fernandes ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Campinas ",
+                "b": "Universidade Estadual de Campinas ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "257 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquitetura de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento paralelo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento distribuído"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Barbosa, Valmir Carneiro ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Fernandes, Edil Severiano Tavares ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Escola de Computação ",
+                "c": "Campinas, SP ",
+                "d": "1988 ",
+                "n": "6"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

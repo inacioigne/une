@@ -1,0 +1,125 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006199"
+        },
+        {
+            "code": "005",
+            "value": "20190802092530.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8503007010"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "331.5(81) ",
+                "b": "S691 ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Soluções para a questão do emprego ",
+                "c": "João Paulo dos Reis Velloso, Roberto Cavalcanti de Albuquerque (Coordenadores) ; Francisco Dornelles ... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "José Olympio ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "150 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Seminario Especial sobre \"Soluções para a questao do emprego\", realizado pelo Forum Nacional, no dia 18 de setembro de 2000."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mercado de trabalho ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desemprego ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Brasil ",
+                "x": "Política econômica"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Velloso, João Paulo dos Reis ",
+                "d": "1931-2019 ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Albuquerque, Roberto Cavalcanti de, ",
+                "d": "1939- ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Dornelles, Francisco Neves ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

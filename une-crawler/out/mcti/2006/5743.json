@@ -1,0 +1,92 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005743"
+        },
+        {
+            "code": "005",
+            "value": "20190813104552.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.3(063) ",
+                "b": "I59c ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "IEEE Southeastcon ",
+                "c": "Tampa, Estados Unidos ",
+                "d": "1987"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Conference proceedings ",
+                "b": "IEEE Southeastcon '87, Holiday Inn, Tampa International Airport, Tampa, Florida, April 5-8, 1987 ",
+                "h": "Impresso ",
+                "c": "IEEE Southeastcon"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Institute of Electrical and Electronics Engineers ",
+                "c": "c1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia elétrica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia eletrônica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

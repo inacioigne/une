@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005918"
+        },
+        {
+            "code": "005",
+            "value": "20190806130000.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "577.3(062) ",
+                "b": "U58i ",
+                "c": "1992-1999"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Universidade Federal do Rio de Janeiro. Instituto de Biofísica Carlos Chagas Filho"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "O Instituto de Biofísica Carlos Chagas Filho, 1992-1999 ",
+                "h": "Impresso ",
+                "c": "Universidade Federal do Rio de Janeiro. Instituto de Biofísica Carlos Chagas Filho"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Universidade Federal do Rio de Janeiro ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "182 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Universidade Federal do Rio de Janeiro. Instituto de Biofísica Carlos Chagas Filho"
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Universidade Federal do Rio de Janeiro ",
+                "x": "(Memórias)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ensino superior ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

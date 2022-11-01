@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005735"
+        },
+        {
+            "code": "005",
+            "value": "20190801153241.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:34(450) ",
+                "b": "S623 ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Sistema nacional de informatica juridica ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Roma ",
+                "b": "Oficina Intergubernamental para la Informatica ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "69"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Oficina Intergubernamental para la Informatica (Itália)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática Jurídica ",
+                "z": "Italia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Banco de dados ",
+                "x": "Informática Jurídica ",
+                "z": "Italia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tesauro ",
+                "x": "Informática Jurídica ",
+                "z": "Italia"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005338"
+        },
+        {
+            "code": "005",
+            "value": "20190807100750.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.39:004.7 ",
+                "b": "B931o ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Buhr, R. J. A"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Open system interconnection ",
+                "b": "application issues associated with the ISO and CCITT layered models ",
+                "h": "Impresso ",
+                "c": "R. J. A Buhr, Samy A Mahmoud, Kalman Csaba Toth"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Ottawa ",
+                "b": "Microprocessor Systems Development Laboratory ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "141 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Prepared for the Dept. of Communications under contract OSU79-00173 \"Open system architecture\". Microprocessor Systems Development Laboratory Department of Systems Engineenring and Computing Science Carleton University, MSDL Tech NOte 79-1 (DOC), march 31, 1980."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Terminal inteligente"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Transferência de informação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de telecomunicação"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Mahmoud, Samy A ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Toth, Kalman Csaba ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

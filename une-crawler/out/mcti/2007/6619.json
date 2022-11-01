@@ -1,0 +1,138 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "am   nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006619"
+        },
+        {
+            "code": "005",
+            "value": "20190628164352.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "por                                por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8522502064"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "377.014.53:5/6(81) ",
+                "b": "C569 ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Ciência e tecnologia no Brasil ",
+                "b": "a capacitação brasileira para a pesquisa científica e tecnológica ",
+                "c": "Simon Schwartzman (coord.) ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Fundação Getulio Vargas ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "409 ",
+                "b": "il., tab."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e Estado ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia e Estado ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Capacitação tecnológica"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Schwartzman, Simon ",
+                "d": "1939- ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Fundação Getúlio Vargas ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (SCHWARTZMAN) ",
+                "u": "www.schwartzman.org.br/simon/scipol/novapol.pdf ",
+                "z": "Acesso em: 08/12/2015"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005987"
+        },
+        {
+            "code": "005",
+            "value": "20190812095025.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.45.01(063) ",
+                "b": "S471m ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Seminário Interdisciplinar Modelos de Organização Industrial, Política Industrial e Trabalho ",
+                "c": "São Paulo, SP ",
+                "d": "1991"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Modelos de Organização Industrial, Política Industrial e Trabalho ",
+                "b": "Anais do Seminário Interdisciplinar realizado no Auditório das Colméias da Universidade de São Paulo, abril 1991 ",
+                "h": "Impresso ",
+                "c": "Associação Brasileira de Estudos do Trabalho"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Universidade de São Paulo ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "323"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Organização industrial ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política industrial ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Trabalho ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Associação Brasileira de Estudos do Trabalho ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

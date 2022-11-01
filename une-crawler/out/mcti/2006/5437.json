@@ -1,0 +1,93 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005437"
+        },
+        {
+            "code": "005",
+            "value": "20190806100809.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "2866323378"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "528.8 ",
+                "b": "U89 ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Utilisation pedagogique des images satellites ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Ministére de L'Éducation Nationale de la Jeunesse et des Sports ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "191 ",
+                "b": "il., + 5 tranparências, 20 slades"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Acompanhado de 5 tranparências e 20 slades em bolso."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Satélite artificial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sensoriamento remoto ",
+                "x": "Meios auxiliares de ensino"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

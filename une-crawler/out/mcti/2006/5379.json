@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005379"
+        },
+        {
+            "code": "005",
+            "value": "20190812165801.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "378.018.8:004(063) ",
+                "b": "S471a ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Seminário de Computação na Universidade ",
+                "c": "Canela, RS ",
+                "d": "1995 ",
+                "n": "25"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais do XXV Seminário de computação na universidade ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Porto Alegre ",
+                "b": "Instituto de Informática, Universidade Federal do Rio grande do Sul ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "44 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência da computação ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Universidade"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Congresso da Sociedade Brasileira de Computação ",
+                "c": "Canela, RS ",
+                "d": "1995 ",
+                "n": "15"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

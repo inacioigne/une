@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006855"
+        },
+        {
+            "code": "005",
+            "value": "20190624104614.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(81)(063) ",
+                "b": "C749d ",
+                "c": "1978"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Congresso Nacional de Processamento de Dados ",
+                "c": "Rio de Janeiro, RJ ",
+                "d": "1978 ",
+                "n": "11"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "11º Congresso nacional de processamento de dados, 1978 ",
+                "b": "trabalhos apresentados pelo Serpro ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Rio de Janeiro] ",
+                "b": "[s.n.] ",
+                "c": "1978"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "53 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comunicação de dados ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Serviço Federal de Processamento de Dados (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

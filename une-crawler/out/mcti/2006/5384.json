@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005384"
+        },
+        {
+            "code": "005",
+            "value": "20190805100641.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "331.101.5 ",
+                "b": "L586f ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Leontief, Wassily W. ",
+                "d": "1906-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The future impact of automation on workers ",
+                "c": "Wassily Leontief, Faye Duchin ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Oxford University Press ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xiii,170 ",
+                "c": "25 cm"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Força de trabalho ",
+                "x": "Modelos matemáticos ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Emprego ",
+                "x": "Modelos matemáticos ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Duchin, Faye ",
+                "d": "1944- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006015"
+        },
+        {
+            "code": "005",
+            "value": "20190801143934.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502.2(99)(063) ",
+                "b": "S612s ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Simpósio Nacional do Programa Antártico ",
+                "c": "São Paulo, SP ",
+                "d": "1984"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Simpósio Nacional do Programa Antártico ",
+                "b": "resumos ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Universidade de São Paulo ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "130"
+            }
+        },
+        {
+            "code": "630",
+            "subfield": {
+                "a": "Programa Antártico Brasileiro"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa científica ",
+                "z": "Antártica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Universidade de São Paulo. Instituto Oceanográfico ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

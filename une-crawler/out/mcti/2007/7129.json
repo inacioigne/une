@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007129"
+        },
+        {
+            "code": "005",
+            "value": "20190625114904.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.891 ",
+                "b": "G396oes ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Gevarter, William B"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "An overview of expert systems ",
+                "c": "William B. Gevarter ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Springfield [Estados Unidos] ",
+                "b": "National Aeronautics and Space Administration ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "v, 66 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "NBSIR 82-2505 PB83-217562"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inteligência artificial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem natural"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema especialista"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

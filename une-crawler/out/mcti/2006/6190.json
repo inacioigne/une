@@ -1,0 +1,99 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006190"
+        },
+        {
+            "code": "005",
+            "value": "20190812110243.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "517.5 ",
+                "b": "L783c ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Liu, I-Shih ",
+                "d": "1943-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Constitutive theories of mechanics ",
+                "c": "I-Shih Liu ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Universidade Federal do Rio de Janeiro, Instituto de Matemática ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "80"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Minicurso realizado no 44º Seminário Brasileiro de Análise, FFCL-USP - Ribeirão Preto, Novembro 1996."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mecânica do contínuo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Matemática física"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Modelos matemáticos"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

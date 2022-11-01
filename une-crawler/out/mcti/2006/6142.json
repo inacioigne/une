@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006142"
+        },
+        {
+            "code": "005",
+            "value": "20190814171703.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "53:37(063) ",
+                "b": "E56a ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Encontro de Pesquisa em Ensino de Física ",
+                "c": "Porto Alegre, RS ",
+                "d": "1990 ",
+                "n": "3"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Atas do III Encontro de Pesquisa em Ensino de Física ",
+                "b": "Porto Alegre, 6 e 7 de julho de 1990 ",
+                "c": "M. A. Moreira, R. Axt organizadores ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Porto Alegre ",
+                "b": "Universidade Federal do Rio Grande do Sul ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "211"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Moreira, Marco A. ",
+                "d": "1942- ",
+                "q": "Marco Antonio ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Axt, Rolando ",
+                "d": "1942- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

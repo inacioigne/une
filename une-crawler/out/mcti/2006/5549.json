@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005549"
+        },
+        {
+            "code": "005",
+            "value": "20190807151052.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.651 ",
+                "b": "M672a ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Miranda, Serge"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "L'art des bases de données ",
+                "c": "par S.M. Miranda, J.M. Busta ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Eyrolles ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "1. Introduction aux bases de données. 2. Les bases de données rationnelles."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Banco de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Banco de dados relacionais"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Busta, José-Maria ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

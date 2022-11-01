@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005763"
+        },
+        {
+            "code": "005",
+            "value": "20190807134042.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "926412408X"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "331.5 ",
+                "b": "M157j ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "McKersie, Robert B"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Job losses in major industries ",
+                "b": "manpower strategy manpower strategy ",
+                "c": "by Robert B. McKersie and Werner Sengenberger ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Organisation for Economic Co-operation and Development ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "125"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desemprego"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política de emprego"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Força de trabalho ",
+                "x": "Política"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Sengenberger, Werner ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

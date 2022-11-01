@@ -1,0 +1,91 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005426"
+        },
+        {
+            "code": "005",
+            "value": "20190808152149.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "62-021.273(7/8=13)(035) ",
+                "b": "M194 ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Manual para la transferencia de tecnología entre empresas latinoamericanas ",
+                "h": "Impresso ",
+                "c": "Institute for Latin American Integration"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Buenos Aires ",
+                "b": "Banco Interamericano de Desenvolvimento, Instituto para a Integração da América Latina e do Caribe ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "214 ",
+                "c": "22 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Cooperación empresarial. Manuales"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Transferência de tecnologia ",
+                "x": "Legislação ",
+                "z": "América Latina"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Institute for Latin American Integration ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005834"
+        },
+        {
+            "code": "005",
+            "value": "20190809141635.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "2040157239"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.272 ",
+                "b": "R274a ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Raynald, Michel"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Algorithmique du parallélisme ",
+                "b": "le problème de l'exclusion mutuelle ",
+                "c": "par Michel Raynal; préface de Gérard Roucairol ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Association française pour la cybernétique économique et technique ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xii, 160 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Monographie Afcet-informatique"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Monographie Afcet-informatique"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento paralelo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Algoritmos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Processamento distribuído"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

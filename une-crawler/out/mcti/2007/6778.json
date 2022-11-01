@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a"
+        },
+        {
+            "code": "001",
+            "value": "000006778"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8485646371"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:34(7/4=134.2)(063) ",
+                "b": "C749a ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Congreso Iberoamericano de Informática y Derecho ",
+                "c": "Guatemala ",
+                "d": "1989 ",
+                "n": "2"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Actas II Congreso Iberoamericano de Informática y Derecho ",
+                "b": "Ciudad de Guatemala, Guatemala, 6 a 10 de marzo 1989"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Madri (Espanha) ",
+                "b": "Centro Regional para la Enseñanza de la Informática ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "iv, 580 p."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática Jurídica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Armazenamento de dados ",
+                "x": "Legislação ",
+                "z": "América Latina"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Direito ",
+                "x": "Processamento de dados ",
+                "z": "América Latina"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

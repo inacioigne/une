@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006765"
+        },
+        {
+            "code": "005",
+            "value": "20190625150953.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.41'45(043.2) ",
+                "b": "B843a ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Bressan, Graça ",
+                "d": "1949-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Ambiente de programação distribuída ",
+                "b": "definição, análise e síntese ",
+                "c": "Graça Bressan; orientador Wilson Vicente Ruggiero ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "c": "1985 ",
+                "a": "São Paulo"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "321 f."
+            }
+        },
+        {
+            "code": "502",
+            "subfield": {
+                "a": "Tese (doutorado) - Universidade de São Paulo, Escola Politécbica, São Paulo, SP, 1985. Orientador: Wilson Vicente Ruggiero."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema distribuído"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento distribuído"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Banco de dados distribuído"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Ruggiero, Wilson Vicente ",
+                "e": "Orientador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dissertações/Teses/TCC"
+            }
+        }
+    ]
+}

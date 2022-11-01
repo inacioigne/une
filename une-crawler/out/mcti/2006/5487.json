@@ -1,0 +1,104 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005487"
+        },
+        {
+            "code": "005",
+            "value": "20190814185708.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.651 ",
+                "b": "G217b ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Gardarin, G. ",
+                "q": "Georges"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Bases de données relationnelles ",
+                "b": "analyse et comparaison des systèmes ",
+                "c": "G. Gardarin et P. Valduriez ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Eyrolles ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "326 ",
+                "c": "24 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Architecture des systèmes d'informations"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Banco de dados ",
+                "x": "Gestão"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de gerenciamento de banco de dados"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Valduriez, Patrick ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

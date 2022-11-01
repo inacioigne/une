@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005368"
+        },
+        {
+            "code": "005",
+            "value": "20190801113058.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.056.55 ",
+                "b": "S446 ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Secure communications and asymetric cryptosystems ",
+                "c": "edited by Gustavus J Simmons ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Boston, Estados Unidos ",
+                "b": "American Association for the Advancement of Science ",
+                "c": "c1982"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "x, 338"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "AAAS selected symposium ",
+                "v": "69"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Criptografia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Escrita em código"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Escrita secreta"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Simmons, Gustavus J ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005802"
+        },
+        {
+            "code": "005",
+            "value": "20190808163536.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8585027053"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "005.591.6:004 ",
+                "b": "O48a ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Oliveira Junior, Joao de ",
+                "d": "1954-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Administração x informática ",
+                "b": "compativeis? : consultoria para empresarios, gerentes e analistas de sistemas ",
+                "c": "João de Oliveira Junior ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Campinas ",
+                "b": "Cartgraf Ed. ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "176 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração ",
+                "x": "Processamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação de escritório"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

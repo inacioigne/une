@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005340"
+        },
+        {
+            "code": "005",
+            "value": "20190812140856.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.39 ",
+                "b": "C755 ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Consolidação de aplicações e tecnologias em multimídia de alto desempenho no Brasil ",
+                "b": "telemedicina, e teleengenharia objetivando o aumento da qualidade de vida e a competitividade industrial em Âmbito nacional ",
+                "c": "Universidade de São Paulo. Laborátório de Sistemas Integráveis (coordenador); Instituto da Criança do Hospital das Clínicas da Universidade de São Paulo (coordenador) ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Universidade de São Paulo ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "34 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telecomunicações ",
+                "x": "Engenharia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de telecomunicação"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Universidade de São Paulo. Laboratório de Sistemas Integráveis ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto da Criança do Hospital das Clínicas da Universidade de São Paulo ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

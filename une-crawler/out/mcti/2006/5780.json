@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005780"
+        },
+        {
+            "code": "005",
+            "value": "20190801120302.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.432:62 ",
+                "b": "C672e ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Coelho, Hélder Manuel Ferreira"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Elementos para uma engenharia da linguagem ",
+                "c": "Helder Manuel Ferreira Coelho ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Lisboa ",
+                "b": "Ministério da Habitação e Obras Públicas ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "vii, 366 p."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Tese apresentada a concurso para especialista do Laboratório Nacional de Engenharia Civil. Ministério da Habitação e Obras Públicas, Laboratório Nacional de Engenharia Civil, Centro de Informática. 1980."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem de programação (Computadores)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Teoria da informação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia da linguagem"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Laboratório Nacional de Engenharia Civil (Portugal) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

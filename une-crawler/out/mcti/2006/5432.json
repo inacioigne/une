@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005432"
+        },
+        {
+            "code": "005",
+            "value": "20190807140513.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9688204730"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5/6(7/8=13) ",
+                "b": "C569 ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "La ciencia y la tecnología para el futuro da América Latina ",
+                "b": "puntos sobresalientes de coloquio ",
+                "c": "Juan José Saldaña, Editor ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "México ",
+                "b": "Consejo Consultivo de Ciencias ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "58 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "z": "América Latina"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cooperação internacional"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Saldaña, Juan José ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Mexico. Presidencia da Republica. Consejo Consultivo de Ciencias ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Coloquio \"La Ciencia y la Tecnología para el Futuro da América Latina\" ",
+                "c": "Acapulco, México ",
+                "d": "1990"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

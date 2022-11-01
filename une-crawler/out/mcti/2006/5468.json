@@ -1,0 +1,108 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005468"
+        },
+        {
+            "code": "005",
+            "value": "20190807111949.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8521604041"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.382.7 ",
+                "b": "F814i ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "França, Paulo Bianchi"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Introdução aos (micro) computadores ",
+                "b": "micros, computadores, informática e processamento de dados ",
+                "c": "Paulo Bianchi França ; com a colaboração de: Andrea Garcia França e Ricardo Garcia França ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Livros Técnicos e Científicos ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "122 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microcomputador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "França, Andrea Garcia ",
+                "e": "Colaborador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "França, Ricardo Garcia ",
+                "e": "Colaborador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

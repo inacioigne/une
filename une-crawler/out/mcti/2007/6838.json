@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006838"
+        },
+        {
+            "code": "005",
+            "value": "20190703163119.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4:34 ",
+                "b": "S587e ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Silveira, Newton ",
+                "d": "1939-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Enquadramento jurídico do software ",
+                "c": "Newton Silveira ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "[s.n.] ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "50 f"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Aspectos juridicos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Proteção de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Propriedade intelectual"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

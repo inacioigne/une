@@ -1,0 +1,84 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005734"
+        },
+        {
+            "code": "005",
+            "value": "20190807181914.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:94(815.6) ",
+                "b": "V789 ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "20 anos SUCESU São Paulo ",
+                "b": "memória da informática ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Sociedade dos Usuários de Computadores e Equipamentos Subsidiários ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "96 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Sociedade dos Usuários de Computadores e Equipamentos Subsidiários (Brasil) ",
+                "x": "História"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "História ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

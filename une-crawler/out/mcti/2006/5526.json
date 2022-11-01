@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005526"
+        },
+        {
+            "code": "005",
+            "value": "20190814183656.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:338.45(540)(043.2) ",
+                "b": "G848b ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Grieco, Joseph Morris"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Between dependency and autonomy ",
+                "b": "India's experience with the international computer industry ",
+                "c": "Joseph Morris Grieco ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova York ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "404"
+            }
+        },
+        {
+            "code": "502",
+            "subfield": {
+                "a": "Tese (Doutorado) - Faculty of the Graduate School, Cornell University, 1982"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de computador ",
+                "z": "Índia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Empresas multinacionais ",
+                "z": "Índia"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dissertações/Teses/TCC"
+            }
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006096"
+        },
+        {
+            "code": "005",
+            "value": "20190809190322.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502.131.1:5/6(811/817)(063) ",
+                "b": "E56a ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Encontro Científico e de Desenvolvimento Tecnológico da Amazônia e Centro-Oeste ",
+                "c": "Cuiabá, MT ",
+                "d": "1990 ",
+                "n": "1"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais do I ECDTA ",
+                "b": "I Encontro Científico e de Desenvolvimento Tecnológico da Amazônia e Centro-Oeste, Cuiabá, 19 a 22 de novembro de 1990 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Tema central: Desenvolvimento com preservação da natureza"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Cuiabá ",
+                "b": "Universidade Federal de Mato Grosso ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "vii, 97 p"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento científico ",
+                "z": "Região Centro-Oeste"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento tecnológico ",
+                "z": "Região Centro-Oeste"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa científica ",
+                "z": "Região Centro-Oeste"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa tecnológica ",
+                "z": "Região Centro-Oeste"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

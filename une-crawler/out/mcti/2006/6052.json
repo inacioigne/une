@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006052"
+        },
+        {
+            "code": "005",
+            "value": "20190801084432.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "378:001.891(063) ",
+                "b": "E56r ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Encontro de Jovens Pesquisadores da UCS ",
+                "c": "Caxias do Sul (RS) ",
+                "d": "1993 ",
+                "n": "1"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Resumos dos trabalhos ",
+                "h": "Impresso ",
+                "c": "Encontro de Jovens Pesquisadores da UCS"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Caxias do Sul (RS) ",
+                "b": "Universidade de Caxias do Sul ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "83"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisadores"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa científica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Metodologia científica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ensino superior ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Universidade de Caxias do Sul ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

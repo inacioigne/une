@@ -1,0 +1,128 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005658"
+        },
+        {
+            "code": "005",
+            "value": "20190807130343.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "53 ",
+                "b": "T675i ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Toppan, Francesco"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Irreps and off-shell invariant actions of the n-extended supersymmetric quantum mechanics ",
+                "c": "Francesco Toppan ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro Brasileiro de Pesquisas Físicas ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "16 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Notas de Física / CBPF ",
+                "v": "003/06"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "CBPF-NF-003/06"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "The complete classification of the irreducible representations of the N-extended one-dimensional supersymmetry algebra linearly realized on a finite number of fields is presented. Off-shell invariant actions of one-dimensional supersymmetric sigma models are constructed. The role of both Clifford algebras and the Cayley-Dickson's doublings of algebras in association with the N-extended supersymmetries is discussed. We prove in specific examples that the octonionic structure constants enter the N = 8 invariant actions as coupling constants. We further explain how to relate one-dimensional supersymmetric quantum mechanical systems to the dimensional reduction of higher-dimensional supersymmetric theories."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Modelos matemáticos"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Centro Brasileiro de Pesquisas Físicas ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "http://cbpfindex.cbpf.br/publication_pdfs/nf00306.2006_10_23_16_45_25.pdf ",
+                "y": "CBPF ",
+                "z": "Acesso em: 13/12/2016"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005653"
+        },
+        {
+            "code": "005",
+            "value": "20190814153844.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.732'735 ",
+                "b": "T191r ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Tarouco, Liane Margarida Rockenbach"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Redes de computadores locais e de longa distância ",
+                "c": "Liane Margarida Rockenback Tarouco, ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Makron Books ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "352 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede local"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de longa distância"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comunicação de dados"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

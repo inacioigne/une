@@ -1,0 +1,90 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005803"
+        },
+        {
+            "code": "005",
+            "value": "20190809161707.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "32:62(81)(063) ",
+                "b": "C749a ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Congresso Brasileiro de Política Tecnológica ",
+                "c": "Rio de Janeiro, RJ ",
+                "d": "1987"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais ",
+                "b": "de 27 à 29 de abril de 1987 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Clube de engenharia ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "301"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política tecnológica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento tecnológico ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

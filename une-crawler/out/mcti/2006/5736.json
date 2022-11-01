@@ -1,0 +1,118 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005736"
+        },
+        {
+            "code": "005",
+            "value": "20190801115827.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:613(81)(063) ",
+                "b": "S471s ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Seminário de Informática em Saúde ",
+                "c": "Porto Alegre, RS ",
+                "d": "1987"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Seminário de Informática em Saúde ",
+                "b": "SIS 87, 19 a 23 de outubro de 1987, Porto Alegre, Rio Grande do Sul, Brasil, Anais ",
+                "h": "Impresso ",
+                "c": "Beatriz de Faria Leão, Mariza Kluck Stumpf"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Porto Alegre ",
+                "b": "Sociedade Brasileira de Informática em Saúde ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "224 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática médica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Saúde"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Leão, Beatriz de Faria ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Stumpf, Mariza Kluck ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Gus, Jairo ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

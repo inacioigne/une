@@ -1,0 +1,119 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005997"
+        },
+        {
+            "code": "005",
+            "value": "20190807174736.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0882830511"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(73)(063) ",
+                "b": "N277m ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "National Computer Conference ",
+                "c": "Chicago, Estados Unidos ",
+                "d": "1987"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "1987 National Computer Conference ",
+                "b": "June 15-18, 1987, Chicago, Illinois ",
+                "c": "Margaret K. Butler, program chair ; John M. Brown, conference chair ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Reston [Estados Unidos] ",
+                "b": "American Federation of Information Processing Societies ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xii, 827 p. ",
+                "b": "il., graf."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "AFIPS conference proceedings ",
+                "v": "v. 56"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Butler, Margaret K ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "American Federation of Information Processing Societies ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

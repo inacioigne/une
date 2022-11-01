@@ -1,0 +1,87 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006090"
+        },
+        {
+            "code": "005",
+            "value": "20190809183458.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "090",
+            "subfield": {
+                "a": "005:378(81)(063) ",
+                "b": "R444a ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Reunião Anual da ANPAD ",
+                "c": "Belo Horizonte, MG ",
+                "d": "1985 ",
+                "n": "9"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais da IX Reunião Anual da ANPAD - Associação Nacional de Programas de Pós-Graduação em Administração ",
+                "b": "Belo Horizonte, 16 a 19 de setembro de 1985 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Florianópolis ",
+                "b": "Universidade Federal de Santa Catarina ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "438"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa universitária ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

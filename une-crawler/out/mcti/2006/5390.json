@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005390"
+        },
+        {
+            "code": "005",
+            "value": "20190805141335.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9264113789"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004-052 ",
+                "b": "T766 ",
+                "c": "1975"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Training policies for computer manpower and users ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Organisation for Economic Co-operation and Development ",
+                "c": "1975"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "170 ",
+                "c": "24 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "OECD informatics studies ",
+                "v": "9"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Contem conclusões adotadas e relatórios submetidos no \"Seminar on Training Policies for Computer Manpower and Users, Paris, 21-23 May, 1973.\""
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Recursos humanos"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Organização de Cooperação e Desenvolvimento Econômico ",
+                "e": "Indefinida"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Seminar on Training Policies for Computer Manpower and Users ",
+                "c": "Paris, França ",
+                "d": "1973"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

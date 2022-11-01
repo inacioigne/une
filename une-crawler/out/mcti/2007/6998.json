@@ -1,0 +1,127 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006998"
+        },
+        {
+            "code": "005",
+            "value": "20190703154242.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "022",
+            "subfield": {
+                "a": "0101-935x"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "521.98 ",
+                "b": "E27 ",
+                "c": "1998 ",
+                "d": "ON"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Efemérides astronômicas 1998 ",
+                "h": "Impresso ",
+                "c": "Observatório Nacional"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Observatório Nacional ",
+                "c": "[1998]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. (paginação irregular)"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Ano CXIV"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Prefácio -- Indice geral -- Prefácio -- Posição Geográfica e Constantes do Observatório nacional -- Seção A- Calendários e fenômenos -- Explicações da Seção A -- Calendário -- Feriados Nacionais -- Semana, Fração do ano Trópicos, Data Juliana e sideral -- Entrada do Sol nas Constelações do Zodíaco -- Fases da Lua -- Fenômenos -- Eclipes -- Seção B - Nascer, passagem meridiana e ocaso: Belém, Recife, Brasília, Rio de Janeiro, São Paulo e Porto Alegre -- Explicações da Seção B -- Sol -- Lua -- Mercúrio -- Vênus -- Marte -- Jupiter -- Saturno -- Urano - Netuno -- Seção C - Efemérides para observação de posição -- Explicações da Seção C -- Sol -- Lua -- Mercúrio -- Vênus -- Marte -- Jupiter -- Saturno -- Urano - Netuno -- Seção D - Efemérides para observações físicas -- Explicações da Seção D -- Sol -- Lua -- Mercúrio -- Vênus -- Marte -- Jupiter -- Saturno -- Urano - Netuno -- Seção E - Posições médias de estrelas -- Explicações da Seção E -- Posições Médicas de Estrelas não polares -- Posições Médias de Estrelas Polares -- Seção F - Tempo sideral, obliquidade eclíptica e nutação -- Explicações da Seção -- Tempo sideral obliquidade da eclíptica e nutação -- Seção G - Tábuas para redução de observações astronômicas -- Explicações da Seção G -- Refração -- Paralexe do Sol em altura para o dia 1 de cada mês -- Paralexe em altura dos planetas -- Conversão do Tempo Médio em Tempo Sideral -- Conversão do Tempo Sideral em Tempo Médio -- Seção H - Serviço da hora."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Fornecer dados necessários aos cálculos de astronomia que surgem nas atividades teóricas e de campo de astrônomos, geodesistas, topógrafos, cartógrafos e outros profissionais de áreas correlatas. Nela são encontradas as mais importantes informações astronômicas sobre as posições de estrelas e de astros do sistema solar, orientação da Terra e configurações de planetas e satélites. Encontram-se ainda todas as resoluções relacionadas ao sistema de horas legais e sua difusão. Além dos instantes do nascer, passagem meridiana e ocaso do Sol, Lua e planetas que são aqui tabelados para seis cidades brasileiras, poderão ser fornecidos valores correspondentes para qualquer outra localidade, bastando para tanto, que o interessado nos envie as coordenadas do lugar."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Astronomia ",
+                "x": "Anuários"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Efemérides ",
+                "x": "Anuários"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Observatório Nacional (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "780",
+            "subfield": {
+                "t": "Anuário do Observatório Nacional do Rio de Janeiro"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

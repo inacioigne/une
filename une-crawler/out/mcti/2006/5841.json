@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005841"
+        },
+        {
+            "code": "005",
+            "value": "20190807141717.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8470885634"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:35(460) ",
+                "b": "I43 ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "La informática en la Administración del Estado ",
+                "b": "(Informe Reina-90) ",
+                "h": "Impresso ",
+                "c": "Ministerio para las Administraciones Públicas"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Madri (Espanha) ",
+                "b": "Ministerio para las Administraciones Públicas ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "217 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Informes y Documentos Serie Administración del Estado (Espanha)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração pública ",
+                "z": "Espanha ",
+                "x": "Administração de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Projeto ",
+                "z": "Espanha"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Espanha. Ministerio para las Administraciones Públicas ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

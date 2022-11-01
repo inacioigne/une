@@ -1,0 +1,88 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005708"
+        },
+        {
+            "code": "005",
+            "value": "20190730135025.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "32:001.891(430) ",
+                "b": "A367r ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Alemanha. Federal Ministry for Research and Technology"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Rapport federal sur la recherche, 1988 ",
+                "b": "version abrégée ",
+                "h": "Impresso ",
+                "c": "Federal Ministry for Research and Technology"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Bonn ",
+                "b": "Federal Ministry for Research and Technology ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "281"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa científica ",
+                "z": "Alemanha"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política e governo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

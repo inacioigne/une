@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006944"
+        },
+        {
+            "code": "005",
+            "value": "20190702190635.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "631(81:44) ",
+                "b": "F756c ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "França. Ambassade (Brasil)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Cooperação Brasil-França ",
+                "b": "agricultura ",
+                "h": "Impresso ",
+                "c": "França. Ambassade"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Cooperation France-Bresil : agriculture"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Centro Franco Brasileiro de Documentação Técnica e Científica ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "546",
+            "subfield": {
+                "a": "Texto em português e francês"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cooperação científica e tecnológica ",
+                "x": "Agricultura ",
+                "z": "França"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia agrícola"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa agrícola"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

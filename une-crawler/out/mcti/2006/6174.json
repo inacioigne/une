@@ -1,0 +1,87 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006174"
+        },
+        {
+            "code": "005",
+            "value": "20190808143740.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "543.42 ",
+                "b": "B928m ",
+                "c": "c1990"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Bueno, Willie Alves"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Manual de espectroscopia vibracional ",
+                "c": "Willie Alves Bueno ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "McGraw-Hill ",
+                "c": "c1990"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "584 ",
+                "b": "il., grafs., tabs"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Análise espectral"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Espectroscopia vibracional"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

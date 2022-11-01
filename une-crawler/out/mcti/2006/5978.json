@@ -1,0 +1,123 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005978"
+        },
+        {
+            "code": "005",
+            "value": "20190808143053.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "666.1(81)(063) ",
+                "b": "S612p ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Simpósio Nacional de Vidros ",
+                "c": "Águas de Lindóia, SP ",
+                "d": "1995 ",
+                "n": "1"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Primeiro Simpósio Nacional de Vidros ",
+                "b": "Águas de Lindóia, 3 a 5 de março de 1995 ",
+                "c": "organização, Academia de Ciências do Estado de São Paulo, Academia Brasileira de Ciências ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Academia de Ciências do Estado de São Paulo ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "245 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Texto em inglês e português"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria do vidro ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia do vidro ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Fabricação do vidro ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Academia de Ciências do Estado de São Paulo ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Academia Brasileira de Ciências ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

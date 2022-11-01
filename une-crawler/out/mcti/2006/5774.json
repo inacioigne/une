@@ -1,0 +1,87 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005774"
+        },
+        {
+            "code": "005",
+            "value": "20190801151929.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "62-52(043.3) ",
+                "b": "K88s ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Kovaleski, João Luiz"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Sistema automatizado de aquisição de dados para maquina universal de ensaios mecânicos ",
+                "c": "João Luiz Kovaleski ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "c": "1988 ",
+                "a": "[S.l. ",
+                "b": "s.n]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "120 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Controle automático"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dissertações/Teses/TCC"
+            }
+        }
+    ]
+}

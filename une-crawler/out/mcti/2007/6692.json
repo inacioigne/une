@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006692"
+        },
+        {
+            "code": "005",
+            "value": "20190703185824.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.3.049.771.14(063) ",
+                "b": "C987 ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Custom and Semi-Custom VLSI : Survival Strategies for the New Era ",
+                "c": "Califórnia, Estados Unidos ",
+                "d": "1983"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Custom and Semi-Custom VLSI ",
+                "b": "Survival Strategies for the New Era ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "San Jose, California ",
+                "b": "McGraw-Hill ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "295"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "A seminar for semiconductor manufacturers and users, official transcript of the proceedings"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Semicondutores ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia eletrônica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

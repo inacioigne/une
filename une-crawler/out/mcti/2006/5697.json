@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005697"
+        },
+        {
+            "code": "005",
+            "value": "20190808113921.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "376.3/.4:004.382 ",
+                "b": "L965 ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Liberando a mente ",
+                "b": "computadores na educação especial ",
+                "c": "organizado por José Armando Valente ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Campinas ",
+                "b": "Universidade Estadual de Campinas ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "314 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática na educação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem LOGO ",
+                "x": "Linguagem de programação (Computadores)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Educação especial"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Valente, José Armando ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

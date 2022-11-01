@@ -1,0 +1,112 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005731"
+        },
+        {
+            "code": "005",
+            "value": "20190801090306.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0137820941"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.865.8 ",
+                "b": "R666 ",
+                "c": "=111 1983"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Robot technology ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Londres (Inglaterra) ",
+                "b": "Kogan Page"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Englewood Cliffs ",
+                "b": "Prentice-Hall ",
+                "c": "c1983-"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "v. ",
+                "c": "24 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "A Biblioteca só possui o v. 3A, v. 5, v.7."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "v. 1. Modelling and control / Philippe Coiffet -- v. 2. Interaction with the environment / Philippe Coiffet -- v. 3A-B. Teleoperation and robotics / Jean Vertut and Philippe Coiffet -- v. 4. Robot components and systems / François L'Hote ... et al. -- v. 5. Logic and programming / Michel Parent and Claude Laurgeau -- v. 7. Performance and computer-aided design / Alain Liégeois -- v. 8. Indexes and bibliography."
+            }
+        },
+        {
+            "code": "534",
+            "subfield": {
+                "a": "Tradução de: Les Robots."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Robótica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação industrial"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

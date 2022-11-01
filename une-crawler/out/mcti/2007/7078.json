@@ -1,0 +1,115 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007078"
+        },
+        {
+            "code": "005",
+            "value": "20190627144922.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.651(81) ",
+                "b": "B862b ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Brízida, Joubert de Oliveira"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Banco de dados ",
+                "b": "primeiros passos ",
+                "h": "Impresso ",
+                "c": "Joubert de Oliveira Brízida"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Florianópolis ",
+                "b": "[s.n.] ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "35 f."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Palestra proferida no I Congresso da Sociedade Brasileira de Computação, realizado na Universidade Federal de Santa Catarina, Florianópolis em 27 de julho de 1981."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Apresenta o quadro em que se insere o tema, caracterizando os serviços de consulta a base de dados e sua situação no cenário internacional Esboça a situação brasileira relativa a bases de dados, ressaltando as lacunas e imprecisões já visualizadas. Expõe os objetivos, doutrinas e estratégias que começam a ser delinear na SEI a respeito desta área, a ser enriquecidas pela participação da comunidade, em especial por aqueles que se dedicam à pesquisa e à tecnologia."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Banco de dados ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política Nacional de Informática ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa tecnológica ",
+                "x": "Banco de dados ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006084"
+        },
+        {
+            "code": "005",
+            "value": "20190807092130.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.318(100)(063) ",
+                "b": "I61i ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "International Conference on Magnetism ",
+                "c": "Recife, PE ",
+                "d": "2000"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "International Conference on Magnetism 2000 ",
+                "b": "[program] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Recife ",
+                "b": "Universidade Federal de Pernambuco ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "206"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Magnetismo ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Dispositivo eletrônico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Dispositivo magnético"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Symposium on Strongly Correlated Electron Systems ",
+                "c": "Recife, PE ",
+                "d": "2000"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

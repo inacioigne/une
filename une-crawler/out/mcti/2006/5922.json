@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005922"
+        },
+        {
+            "code": "005",
+            "value": "20190802103122.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8571291586"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "339.564 ",
+                "b": "O48e ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Oliveira, Carlos Tavares de ",
+                "d": "1924-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Exportação ",
+                "b": "a solução global ",
+                "c": "Carlos Tavares de Oliveira ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "1. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Aduaneiras ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "200 ",
+                "c": "22"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comércio internacional"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Brasil ",
+                "x": "Comércio exterior"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

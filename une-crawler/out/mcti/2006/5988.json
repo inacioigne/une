@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005988"
+        },
+        {
+            "code": "005",
+            "value": "20190812164815.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(81)(063) ",
+                "b": "C749a ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Sociedade Brasileira de Computação. Congresso ",
+                "c": "Salvador, BA ",
+                "d": "1987 ",
+                "n": "7"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anais do VII Congresso da Sociedade Brasileira de Computação ",
+                "c": "editado por Geovane Cayres Magalhães ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Salvador ",
+                "b": "Universidade Federal da Bahia ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "ix, 613 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Inclui trabalhos apresentados no XV Seminario Integrado de Software e Hardware, VII Concurso de Trabalhos de Iniciação Cientifica, I Concurso de Teses e Dissertações."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência da computação ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Magalhães, Geovane Cayres ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Seminário Integrado de Software e Hardware ",
+                "c": "Rio de Janeiro ",
+                "d": "1988 ",
+                "n": "15"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

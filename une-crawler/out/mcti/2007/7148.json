@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007148"
+        },
+        {
+            "code": "005",
+            "value": "20190625174523.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9211165288"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "681.5:338.45 ",
+                "b": "N144a ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Nações Unidas ",
+                "b": "Comissão Econômica para Europa"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Annual review of engineering industries and automation ",
+                "b": "1990 ",
+                "h": "Impresso ",
+                "c": "Nações Unidas, Comissão Econômica para Europa"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Nações Unidas ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia ",
+                "x": "Periódico ",
+                "z": "Europa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação ",
+                "x": "Periódico ",
+                "z": "Europa"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

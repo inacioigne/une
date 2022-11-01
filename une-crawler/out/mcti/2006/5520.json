@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005520"
+        },
+        {
+            "code": "005",
+            "value": "20190802092213.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "011630829x"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4:338.45(410) ",
+                "b": "A244s ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Grã Bretanha. Advisory Council for Applied Research and Development"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Software, a vital key to UK competitiveness ",
+                "h": "Impresso ",
+                "c": "Advisory Council for Applied Research and Development"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Londres (Inglaterra) ",
+                "b": "Her Majesty's Stationery Office ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "viii, 87 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "An ACARD report"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de software ",
+                "z": "Grã-Bretanha"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de computador ",
+                "z": "Grã-Bretanha"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Competitividade internacional"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

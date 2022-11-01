@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007103"
+        },
+        {
+            "code": "005",
+            "value": "20190627162550.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "339.5:330.34(81) ",
+                "b": "B277d ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Barros Netto, Sebastião do Rego"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Desenvolvimento nacional e comércio internacional ",
+                "c": "Sebastião do Rego Barros Netto ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Fundação Alexandre de Gusmão, Instituto de Pesquisa de Relações Internacionais ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "18"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Cadernos do IPRI ",
+                "v": "n. 5"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comércio internacional"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comércio exterior ",
+                "x": "Economia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tarifas alfandegárias ",
+                "x": "Política"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

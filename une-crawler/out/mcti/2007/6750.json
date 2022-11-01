@@ -1,0 +1,104 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006750"
+        },
+        {
+            "code": "005",
+            "value": "20190703153059.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0642098476"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "37.016:62(94) ",
+                "b": "A938e ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Australian Education Council ",
+                "b": "Task Force on Education and Technology"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Education and technology ",
+                "c": "report of the Australian Education Council Task Force on Education and Technology ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Melbourne, Austrália ",
+                "b": "Australian Education Council ",
+                "c": "c1985"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "79 p. ",
+                "c": "25"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Educação ",
+                "x": "Processamento de dados ",
+                "z": "Austrália"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inovação educacional ",
+                "z": "Austrália"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Educação e Estado ",
+                "z": "Austrália"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

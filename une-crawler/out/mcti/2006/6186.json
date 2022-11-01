@@ -1,0 +1,83 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006186"
+        },
+        {
+            "code": "005",
+            "value": "20190806124657.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "330.43(81)(063) ",
+                "b": "E56d ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Encontro Brasileiro de Econometria ",
+                "c": "Águas de Lindóia, SP ",
+                "d": "1996 ",
+                "n": "18"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "XVIII Encontro Brasileiro de Econometria, Águas de Lindóia, 11 a 13 de dezembro de 1996 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Sociedade Brasileira de Econometria ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 v."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Econometria ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

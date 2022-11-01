@@ -1,0 +1,125 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005964"
+        },
+        {
+            "code": "005",
+            "value": "20190802111152.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8573001003"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "591.9(817.2) ",
+                "b": "F264 ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Fauna silvestre da região do rio Manso, MT ",
+                "c": "Cleber J. R. Alho, coordenador ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "267 ",
+                "b": "il., grafs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ecologia animal ",
+                "z": "Mato Grosso"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Conservação da natureza ",
+                "z": "Mato Grosso"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biodiversidade ",
+                "z": "Mato Grosso"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Fauna selvagem ",
+                "z": "Mato Grosso"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Alho, Cleber J. R. ",
+                "q": "Cleber José Rodrigues ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Brasil. Ministério do Meio Ambiente ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

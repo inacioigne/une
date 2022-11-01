@@ -1,0 +1,122 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006992"
+        },
+        {
+            "code": "005",
+            "value": "20190701192128.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.45:004.58 ",
+                "b": "Y65c ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Yoshikawa, Hiroyuki ",
+                "d": "1933-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Computer-aided manufacturing ",
+                "b": "an international comparison ",
+                "c": "Hiroyuki Yoshikawa, Keith Rathmill, József Hatvany ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "National Academy Press ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xii, 71 p"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Projeto auxiliado por computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema CAD/CAM"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração da produção ",
+                "x": "Processamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia auxiliada por computador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Rathmill, Keith ",
+                "d": "1947- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Hatvany, J ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005442"
+        },
+        {
+            "code": "005",
+            "value": "20190808134204.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.312 ",
+                "b": "B777p ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Bernard, Jean-Michel ",
+                "d": "1943-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Pratique des circuits logiques ",
+                "c": "par Jean-Michel Bernard, Jean Hugon ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Eyrolles ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "454"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Collection technique et scientifique des télécommunications"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito lógico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Álgebra booleana"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Álgebra booleana"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Proteção de dados"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Hugon, Jean ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

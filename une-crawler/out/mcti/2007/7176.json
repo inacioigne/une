@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007176"
+        },
+        {
+            "code": "005",
+            "value": "20190701182724.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "620.9:537.214(815.1)(091) ",
+                "b": "C737 ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Companhia Mineira de Eletricidade ",
+                "c": "Coordenação Carlos Alberto Hargreaves Botti ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Belo Horizonte ",
+                "b": "Companhia Energética de Minas Gerais ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "177 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Projeto Memória da Cemig"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia elétrica ",
+                "z": "Minas Gerais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Empresa de energia elétrica ",
+                "z": "Minas Gerais ",
+                "x": "História"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Botti, Carlos Alberto Hargreaves ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

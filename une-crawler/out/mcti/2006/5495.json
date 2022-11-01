@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005495"
+        },
+        {
+            "code": "005",
+            "value": "20190805142237.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "288074086X"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.451.7.031.43(063) ",
+                "b": "J86t ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Journées d'électronique ",
+                "c": "Lausanne, Suiça ",
+                "d": "1985"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Traitement en temps réel ",
+                "b": "application en automatique et en traitement des signaux : comptes rendus des Journées d'électronique 1985, Lausanne, 15-17 octobre 1985 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Real time processing : application in control and signal processing : proceedings of Journées d'électronique 1985"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Lausanne ",
+                "b": "Presses polytechniques romandes ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xvi, 362 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Texto em inglês e francês."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia eletrônica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento e detecção de sinais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tempo real"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

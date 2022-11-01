@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005718"
+        },
+        {
+            "code": "005",
+            "value": "20190806092648.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0465032125"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "331.101.5 ",
+                "b": "Z93i ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Zuboff, Shoshana ",
+                "d": "1951-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "In the age of the smart machine ",
+                "b": "the future of work and power ",
+                "c": "Shoshana Zuboff ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Basic Books ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xix, 468 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação ",
+                "x": "Aspectos sociais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Trabalho"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Interação homem-máquina"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

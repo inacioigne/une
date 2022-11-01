@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005484"
+        },
+        {
+            "code": "005",
+            "value": "20190812175258.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "2040150099"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.43 ",
+                "b": "B311l ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Analyse et programmation en Basic ",
+                "c": " J.P. Lamoitier ... [et al.]. ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Bordas ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "149 ",
+                "c": "21 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem de programação (Computadores) ",
+                "x": "Basic (Linguagem de programação de computador)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aplicativo de tecnologia"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Lamoitier, Jean-Pierre ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

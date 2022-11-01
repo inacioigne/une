@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005715"
+        },
+        {
+            "code": "005",
+            "value": "20190731094036.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0132014351"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.41 ",
+                "b": "D457 ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Designing and programming modern computers and systems ",
+                "c": "Svetlana P. Kartashev, ed., Steven I. Kartashev, ed ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Englewood Cliffs ",
+                "b": "Prentice-Hall ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "3 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "v. 2 - Supercomputing systems : reconfigurable architectures / v. 3 - Parallel architectures networks, and applications"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia de computação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquitetura de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquitetura de rede de computador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Kartashev, Steven I ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Kartashev, Svetlana ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

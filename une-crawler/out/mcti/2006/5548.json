@@ -1,0 +1,132 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005548"
+        },
+        {
+            "code": "005",
+            "value": "20190802151842.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0818608013"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.75(100)(063) ",
+                "b": "I61t ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "International Conference on Distributed Computing Systems ",
+                "c": "Berlim, Alemanha ",
+                "d": "1987 ",
+                "n": "7"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The 7th International Conference on Distributed Computing Systems ",
+                "b": "Berlim, West Germany, September 21-25, 1987 ",
+                "c": "edited by: R. Popescu-Zeetin, G. Le Lann, K.H. (Kane) Kim ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "IEEE Computer Society Press ",
+                "c": "c1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxiii, 564"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema distribuído"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento distribuído"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de informação"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Popescu-Zeletin, R ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Le Lann, G. ",
+                "d": "1943- ",
+                "q": "Gérard ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Kim, K. H. ",
+                "q": "Kane H. ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

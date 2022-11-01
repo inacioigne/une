@@ -1,0 +1,88 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006360"
+        },
+        {
+            "code": "005",
+            "value": "20190626185521.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "090",
+            "subfield": {
+                "a": "60(83) ",
+                "b": "D441"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Desarrollo de la biotecnologia en Chile ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l. ",
+                "b": "s.n. ",
+                "c": "200-?]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "[52] p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "CambioTEc ; Proyeto MInisterio de Ciencia y Tecnología Brasil / OEA"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biotecnologia ",
+                "z": "Chile ",
+                "x": "Indústria"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política tecnológica ",
+                "z": "Chile"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

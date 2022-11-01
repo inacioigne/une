@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005695"
+        },
+        {
+            "code": "005",
+            "value": "20190808144601.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "658.88 ",
+                "b": "S586a ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Silva, José Pereira da ",
+                "d": "1945-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Administração de crédito e previsão de insolvência ",
+                "c": "José Pereira da Silva ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Atlas ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "139 ",
+                "c": "21 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Conceito de crédito -- Créditos e finanças -- Política de crédito -- Decisão de crédito -- Os C'S do crédito -- Modelos para classificação de empresas com vista a concessão de crédito"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração de crédito"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política de crédito"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

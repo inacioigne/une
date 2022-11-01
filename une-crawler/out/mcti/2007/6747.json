@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006747"
+        },
+        {
+            "code": "005",
+            "value": "20190702184648.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "37.018.8:004(81:44)(063) ",
+                "b": "E56e ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Encontro Brasil-França de Informática na Educação ",
+                "c": "Rio de Janeiro, RJ ",
+                "d": "1993"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Encontro Brasil-França de Informática na Educação ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Universidade Federal do Rio de Janeiro, Coordenação dos Programas de Pós-graduação de Engenharia ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "243"
+            }
+        },
+        {
+            "code": "546",
+            "subfield": {
+                "a": "Textos em português, inglês e francês"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática na educação ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Educação ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "França. Consulado Geral (Rio de Janeiro, RJ) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Universidade Federal do Rio de Janeiro ",
+                "b": "Coordenação dos Programas de Pós-Graduação de Engenharia ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

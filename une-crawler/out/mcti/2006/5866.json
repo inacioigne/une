@@ -1,0 +1,92 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005866"
+        },
+        {
+            "code": "005",
+            "value": "20190805130907.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "550.4(7/8)(063) ",
+                "b": "L357t ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Latin American Congress on Organic Geochemistry ",
+                "c": "Manaus, AM ",
+                "d": "1992 ",
+                "n": "3"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Third Latin American congress on organic geochemistry ",
+                "b": "abstracts ",
+                "h": "Impresso ",
+                "c": "Latin American Congress on Organic Geochemistry"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Latin American Association of Organic Geochemistry ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "130"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Geoquímica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Latin American Association of Organic Geochemistry ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

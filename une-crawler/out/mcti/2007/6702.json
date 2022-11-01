@@ -1,0 +1,75 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006702"
+        },
+        {
+            "code": "005",
+            "value": "20190703181118.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.39(062.13) ",
+                "b": "E79 ",
+                "c": "[19--?]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Estatuto da Sociedade Brasileira de Telecomunicações ",
+                "h": "Impresso ",
+                "c": "Sociedade Brasileira de Telecomunicações"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Sociedade Brasileira de Telecomunicações ",
+                "c": "[19--?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "12 f."
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Sociedade Brasileira de Telecomunicações ",
+                "x": "Legislação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

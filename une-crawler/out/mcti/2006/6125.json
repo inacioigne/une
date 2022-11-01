@@ -1,0 +1,91 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006125"
+        },
+        {
+            "code": "005",
+            "value": "20190806101434.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "911.2(063) ",
+                "b": "S612q ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Simpósio de Geografia Física Aplicada ",
+                "c": "São Paulo, SP ",
+                "d": "1993 ",
+                "n": "5"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "V Simpósio de Geografia Física Aplicada ",
+                "b": "São Paulo, 07 a 11 de dezembro de 1993 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Universidade de São Paulo, Faculdade de Filosofia, Letras e Ciências Humanas, Departamento de Geografia ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "518"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Geografia física ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Meio ambiente ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

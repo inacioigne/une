@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005607"
+        },
+        {
+            "code": "005",
+            "value": "20190730140158.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9501398625"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.934 ",
+                "b": "R672r ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Rocha, Luis"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Reconocimiento de la voz ",
+                "c": "Luis Rocha ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Procesamiento de voz"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Buenos Aires ",
+                "b": "Kapelusz ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "85 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Este livro faz parte da coleção de livros-textos escritos para a I Escola Brasileiro-Argentina de Informática (I EBAI), realizada em Campinas, SP, Brasil, 1986."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Edicion preliminar"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Reconhecimento de voz"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Escola Brasileiro-Argentina de Informática ",
+                "c": "Campinas, SP ",
+                "d": "1986 ",
+                "n": "1"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

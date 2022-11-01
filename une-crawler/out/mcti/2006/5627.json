@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005627"
+        },
+        {
+            "code": "005",
+            "value": "20190806110933.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "926413025x"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "377.014.53:5/6 ",
+                "b": "C397i ",
+                "c": "=111 ",
+                "d": "1987"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Centre for Educational Research and Innovation"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Information technologies and basic learning ",
+                "b": "reading writing, science, and mathematics ",
+                "h": "Impresso ",
+                "c": "Centre for Educational Research and Innovation"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Organisation for Economic Co-operation and Development ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "269"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Educação ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Educação básica ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Leitura ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Matemática ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

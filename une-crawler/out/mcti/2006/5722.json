@@ -1,0 +1,99 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000005722"
+        },
+        {
+            "code": "005",
+            "value": "20190730094048.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.3.049.77(043.2) ",
+                "b": "T963p ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Torres, Luis Carlos Molina"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Projeto e desenvolvimento de uma tecnologia cmos com porta de silicio policristalino e geometria fechada ",
+                "c": "Luis Carlos Molina Torres ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "c": "1987 ",
+                "a": "[S.l. ",
+                "b": "s.n]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. (paginação irregular) ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "502",
+            "subfield": {
+                "a": "Tese (Doutorado) - Escola Politécnica da Universidade de São Paulo, São Paulo, 1987"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microeletrônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito integrado"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Transistor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dissertações/Teses/TCC"
+            }
+        }
+    ]
+}

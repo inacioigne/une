@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007521"
+        },
+        {
+            "code": "005",
+            "value": "20190703181446.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por ",
+                "d": "BR-BrMCTIC"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.415.53(043.3) ",
+                "b": "S758m ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Spinola, Mauro de Mesquita"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Máquina de arquitetura distribuída ",
+                "b": "considerações sobre testes de \"software\" ",
+                "c": "Mauro de Mesquita Spinola ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São José dos Campos, SP ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "170 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "502",
+            "subfield": {
+                "a": "Dissertação (mestrado em computação aplicada) - Instituto Nacional de Pesquisas Espaciais, São José dos Campos, SP , 1986"
+            }
+        },
+        {
+            "code": "511",
+            "subfield": {
+                "a": "Orientada pelo Prof. Dr. João José Neto."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programas de computador ",
+                "x": "Teste"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquitetura de software"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dissertações/Teses/TCC"
+            }
+        }
+    ]
+}

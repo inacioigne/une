@@ -1,0 +1,87 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007470"
+        },
+        {
+            "code": "005",
+            "value": "20190701195835.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "37:5/6 ",
+                "b": "M152e ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Maciel, Marco ",
+                "d": "1940-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Educação, ciência e tecnologia ",
+                "c": "Marco Maciel ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Senado Federal ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "12 f."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Educação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

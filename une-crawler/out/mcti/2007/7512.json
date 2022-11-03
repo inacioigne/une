@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007512"
+        },
+        {
+            "code": "005",
+            "value": "20190624140455.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "339.5.012.42(81) ",
+                "b": "A147 ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Abertura comercial e estratégia tecnológica ",
+                "b": "a visão de líderes industriais brasileiros ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Confederação Nacional da Indústria ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "31 ",
+                "b": "il., tabs., grafs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comércio exterior ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política de exportação ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Exportação ",
+                "x": "Estatísticas"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

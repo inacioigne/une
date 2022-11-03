@@ -1,0 +1,117 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006722"
+        },
+        {
+            "code": "005",
+            "value": "20190710150204.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0662118472"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.58 ",
+                "b": "P766 ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "McKissick, Michael Landon"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Policy issues in computer-aided learning ",
+                "h": "Impresso ",
+                "c": "Michael Landon"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Ottawa, Ontário, Canadá ",
+                "b": "Science Council of Canada ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Canadá"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "51 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Proceedings of a workshop sponsored by Science Council of Canada Committee on Computers and Communication"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Projeto auxiliado por computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computação gráfica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Hardware"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

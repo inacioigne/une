@@ -1,0 +1,90 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007305"
+        },
+        {
+            "code": "005",
+            "value": "20170222110526.0"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:347.451.031 ",
+                "b": "G943"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Guia de orientação ao consumidor de informática ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Ministério da Justiça, Secretaria do Direito Econômico ",
+                "c": "[200-]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "22 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Consumidores ",
+                "x": "Guia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Consumo (Economia)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Defesa do consumidor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Brasil. Ministério da Justiça ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

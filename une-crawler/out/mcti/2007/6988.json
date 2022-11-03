@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006988"
+        },
+        {
+            "code": "005",
+            "value": "20190704095359.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "62-021.273:004(82) ",
+                "b": "A691t ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Argentina. Subsecretaria de Informática y Desarrollo"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Transferencia de tecnologia en informatica ",
+                "h": "Impresso ",
+                "c": "Subsecretaria de Informática y Desarrollo"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Buenos Aires ",
+                "b": "Secretaria de Ciencia e Tecnica ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Argentina"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "12"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Documento SID nº 1"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Transferência de tecnologia ",
+                "x": "Informática ",
+                "z": "Argentina"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006716"
+        },
+        {
+            "code": "005",
+            "value": "20190628154411.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCTIC"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.41 ",
+                "b": "T961s ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Turski, Wladyslaw"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Software engineering ",
+                "b": "a survey ",
+                "c": "Wladyslaw M. Turski ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Organização das Nações Unidas para o Desenvolvimento Industrial ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "18 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia de software"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Desenvolvimento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de software"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

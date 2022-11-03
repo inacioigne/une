@@ -1,0 +1,80 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a"
+        },
+        {
+            "code": "001",
+            "value": "000007309"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "347.77:004.38 ",
+                "b": "A532"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Análise de mercado ",
+                "b": "mercado de PCs clones 2004 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "IDC Brasil ",
+                "c": "2004"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "104 f. ",
+                "b": "il., tab., graf."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Propriedade industrial ",
+                "x": "Estatísticas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mercado"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de computador ",
+                "x": "Pirataria"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

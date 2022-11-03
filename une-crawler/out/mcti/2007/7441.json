@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007441"
+        },
+        {
+            "code": "005",
+            "value": "20190625112820.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.45:654 ",
+                "b": "M838p ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Moreira, Maurício Mesquita"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Progresso técnico e estrutura de mercado ",
+                "b": "a indústria internacional de telecomunicações ",
+                "c": "Maurício Mesquita Moreira ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Universidade Federal do Rio de Janeiro, Instituto de Economia Industrial ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "78"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IEI/UFRJ ",
+                "v": "n. 119"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Industrialização"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telecomunicações ",
+                "x": "Desenvolvimento tecnológico"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007391"
+        },
+        {
+            "code": "005",
+            "value": "20190625160202.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "929:5/6(81) ",
+                "b": "F981q ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Fundação Oswaldo Cruz"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Quem é quem em ciência e tecnologia na FIOCRUZ ",
+                "h": "Impresso ",
+                "c": "Fundação Oswaldo Cruz"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Fundação Oswaldo Cruz ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "104"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisadores ",
+                "x": "Fundação Oswaldo Cruz"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cientistas ",
+                "x": "Fundação Oswaldo Cruz"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "x": "Pesquisadores"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Brasil. Ministério da Saúde ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

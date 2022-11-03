@@ -1,0 +1,115 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006288"
+        },
+        {
+            "code": "005",
+            "value": "20190708120826.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "62-027.15 ",
+                "b": "O68o ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Organização de Cooperação e Desenvolvimento Econômico"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "OECD proposed guidelines for collecting and interpreting technological innovation data ",
+                "b": "Oslo manual ",
+                "h": "Impresso ",
+                "c": "Organização de Cooperação e Desenvolvimento Econômico"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "The measurement of scientific and technological activities"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Organisation for Economic Co-operation and Development ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "França"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "70"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "OCDE/GD (92)26"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inovação tecnológica ",
+                "x": "Estatísticas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Economia"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto integral (OEDC) ",
+                "u": "https://www.oecd-ilibrary.org/docserver/9789264192263-en.pdf?expires=1562599223&id=id&accname=ocid54025470&checksum=8EAFA4B46633DB2D429C6A30950AA43E ",
+                "z": "Acesso em: 08/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

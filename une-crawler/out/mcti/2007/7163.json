@@ -1,0 +1,104 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007163"
+        },
+        {
+            "code": "005",
+            "value": "20190704115342.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "339.923 ",
+                "b": "M556 ",
+                "c": "[1992]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Mercosul ",
+                "b": "legislação e textos básicos ",
+                "c": "Paulo Roberto de Almeida, coordenador ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Brasília] ",
+                "b": "Senado Federal ",
+                "c": "[1992]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "166"
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "MERCOSUL ",
+                "x": "Legislação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Integração regional ",
+                "x": "MERCOSUL"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Integração econômica ",
+                "x": "MERCOSUL"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Almeida, Paulo Roberto de ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

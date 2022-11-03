@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006307"
+        },
+        {
+            "code": "005",
+            "value": "20190627150929.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502.2(213.56:811)(063) ",
+                "b": "C749r ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Congresso de Estudantes e Bolsistas do Experimento LBA ",
+                "c": "Belém, PA ",
+                "d": "2002 ",
+                "n": "1"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Resumos apresentados no 1º Congresso de Estudantes e Bolsistas do Experimento LBA ",
+                "b": "18 a 20 de março de 2002, Campus da Universidade Federal do Pará, Belém - PA - Brasil ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Experimento de grande escala da biosfera-atmosfera na Amazônia (LBA)"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l. ",
+                "b": "s.n] ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "46"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Experimento de Grande Escala da Biosfera-Atmosfera na Amazônia (LBA)."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Meteorologia ",
+                "z": "Amazônia ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Satélite meteorológico ",
+                "z": "Amazônia"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

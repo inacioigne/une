@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007212"
+        },
+        {
+            "code": "005",
+            "value": "20190703183719.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.35:338.5 ",
+                "b": "V658ed ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Vieira, Renata"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Estrutura de custo do disco winchester ",
+                "b": "um novo enfoque ",
+                "c": "Renata Vieira ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Secretaria Especial de Informática ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "11 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Introdução -- Função custo -- Estrutura de mercado -- Conclusão"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Quanto custa produzir um disco winchester no Brasil? De acordo com 4 fabricantes - Qualitron, Prológica, Microlab e Multidigit o custo de produzi-lo seria de aproximadamente US$ 540,00 em outubro de 1988. Mas será que para fabricar 500 discos se gasta US$ 270 mil? Ou será que se pode gastar menos? E para fabricar 1 milhão de discos? Essas perguntas permanecem sem respostas, apesar de todos os 4 fabricantes alegarem problemas de baixa escala de produção. De acordo com essas empresas, o custo de produção do disco poderia ser menor se fossem retirados os impostos indiretos (basicamente IPI, II) incidentes sobre os insumos. Mas, um menor custo de produção significa apenas um aumento na margem de lucro, com efeito ambíguo sobre o nível de preço praticado. Em outras palavras será que as empresas estão dispostas a reduzir preços ao nível de um mercado competitivo? Essa dúvida permanece, apesar das empresas preconizarem um substancial redução de preços. Diante dessas perguntas, surge a necessidade de redirecionar o estudo de custo. Esse redirecionamento implica, simultaneamente, em: 1. definir a função custo. 2. conhece o mercado dos fornecedores de insumos e dos fabricantes de discos."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política Nacional de Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Disco rígido ",
+                "x": "Custo de produção"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Capacitação tecnológica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Artigo/Separata"
+            }
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006979"
+        },
+        {
+            "code": "005",
+            "value": "20190702150930.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.865.8 ",
+                "b": "R666in ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The robotics industry ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "U.S. Dept. of Commerce, International Trade Administration ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "54"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "High technology industries: profiles and outlooks"
+            }
+        },
+        {
+            "code": "501",
+            "subfield": {
+                "a": "A study of the competitive prospects of the U.S. robotics industry / prepared by Robert Eckelmann"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Robótica ",
+                "x": "Indústria"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Empresa de tecnologia avançada"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007106"
+        },
+        {
+            "code": "005",
+            "value": "20190626135131.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:005.96(81) ",
+                "b": "T568r ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Tigre, Paulo Bastos"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Recursos humanos na indústria brasileira de equipamentos de processamento de dados ",
+                "c": "[Paulo Bastos Tigres ; Clelia Virginia Santos, coordenadora] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Universidade Federal do Rio de Janeiro, Instituto de Economia Industrial ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "95 ",
+                "c": "30"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Relatório final da pesquisa \"O uso de recursos humanos na indústria de processamento de dados no Brasil\", Convênio IEI/IPEA-CNRH, Dez./1983."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos humanos ",
+                "x": "Indústria de computador ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Hardware ",
+                "x": "Recursos humanos"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Piragibe, Clélia ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

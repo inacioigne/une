@@ -1,0 +1,97 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006886"
+        },
+        {
+            "code": "005",
+            "value": "20190628122602.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(81)(063) ",
+                "b": "C749s ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Congresso Nacional de Informática ",
+                "c": "São Paulo, SP ",
+                "d": "1981 ",
+                "n": "14"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Seminário serviços de informação apoiados em computadores ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Secretaria Especial de Informática ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "189 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Serviço de informação ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

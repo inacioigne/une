@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006476"
+        },
+        {
+            "code": "005",
+            "value": "20190703193021.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4:005.6 ",
+                "b": "P748m ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Pessôa, Marcelo"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "MC2, visão geral e aspectos de implementação do modelo CMM/SEI ",
+                "c": "Marcelo Pessoa ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Curitiba ",
+                "b": "[s.n.] ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "23 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Qualidade"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gestão da qualidade"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Conferência Internacional de Tecnologia de Software : Qualidade de Software ",
+                "c": "Curitiba, PR ",
+                "d": "1998 ",
+                "n": "9"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

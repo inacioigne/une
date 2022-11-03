@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007249"
+        },
+        {
+            "code": "005",
+            "value": "20190625124718.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(81)(083.92) ",
+                "b": "P965 ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Proposta do MME sobre o I plano nacional de informática ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Brasília] ",
+                "b": "Ministério das Minas e Energia ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. (paginação irregular) ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Plano Nacional de Informática e Automação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política de informática ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Brasil. Ministério das Minas e Energia ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

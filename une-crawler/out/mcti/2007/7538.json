@@ -1,0 +1,87 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007538"
+        },
+        {
+            "code": "005",
+            "value": "20190705164750.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502.3:551.577.13 ",
+                "b": "F931 ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "From obstacle to opportunity ",
+                "b": "how acid rain emissions trading is delivering cleaner air ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Environmental Defense ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "42 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Emissão de gases"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Proteção ambiental"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inovação tecnológica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

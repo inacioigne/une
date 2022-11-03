@@ -1,0 +1,93 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006850"
+        },
+        {
+            "code": "005",
+            "value": "20190702155507.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4:339.138 ",
+                "b": "C732 ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "La comercializacion del \"software\" ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Buenos Aires ",
+                "b": "Secretaria de Ciencia y Tecnica, Secretaria de Informatica y Desarrollo ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Argentina"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "32 f."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Documento SID ",
+                "v": "n. 2"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comercialização"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

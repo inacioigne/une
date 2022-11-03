@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007449"
+        },
+        {
+            "code": "005",
+            "value": "20190702183251.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "378.4-047.37:004(81) ",
+                "b": "P963c ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Prochnik, Victor ",
+                "d": "1953-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A contribuição da universidade para o desenvolvimento da informática no Brasil ",
+                "c": "Victor Prochnik ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Universidade Federal do Rio de Janeiro, Instituto de Economia Industrial ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "37"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IEI/UFRJ ",
+                "v": "n. 123"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa universitária ",
+                "x": "Informática ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Universidade ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

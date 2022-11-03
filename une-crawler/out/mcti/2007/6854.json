@@ -1,0 +1,99 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006854"
+        },
+        {
+            "code": "005",
+            "value": "20190704132735.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.41 ",
+                "b": "D713v ",
+                "c": "[19--?]"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Dornelles Junior, João"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Viabilidade de sistemas ",
+                "b": "um método de estudo ",
+                "c": "João Dornelles Junior ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l. ",
+                "b": "s.n. ",
+                "c": "19--?]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "71 f"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia de software"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquitetura de software"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

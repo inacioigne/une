@@ -1,0 +1,92 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007414"
+        },
+        {
+            "code": "005",
+            "value": "20190703192515.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "094377909x"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.891 ",
+                "b": "E96 ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Expert systems ",
+                "b": "applications in use today ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Arlington [Estados Unidos] ",
+                "b": "Cutter Information ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "68"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "A compendium of works by Paul Harmon, editor of the Expert Systems Strategies newsletter ; Peter O'Farrell and Julie Pingry, authors of Expert Systems in Manufacturing"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema especialista"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de informação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

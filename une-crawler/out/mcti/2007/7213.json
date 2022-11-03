@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007213"
+        },
+        {
+            "code": "005",
+            "value": "20190709150404.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "339.92(7/8=13) ",
+                "b": "M798p ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Montoro, André Franco"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Perspectivas de integração da América Latina ",
+                "c": "André Franco Montoro ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Instituto Latino Americano ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "31"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Integração econômica ",
+                "z": "América Latina"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Integração social ",
+                "z": "América Latina"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

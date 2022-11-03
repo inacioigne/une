@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007041"
+        },
+        {
+            "code": "005",
+            "value": "20190625111513.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "519.852 ",
+                "b": "C744p ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Luna, Henrique Pacca Loureiro"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Programação linear ",
+                "b": "uma abordagem com interpretação econômica ",
+                "c": "Henrique Pacca Loureiro Luna ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l. ",
+                "b": "s.n] ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "248 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Trabalho apresentado no 1. Concurso Nacional de Monografias em Informática, promovido pela Secretaria Especial de Informática (SEI) e pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq). teve como objetivo principal estimular a produção brasileira de literatura técnica no setor, tanto no que se refere a textos didáticos e de pesquisa como a aplicações de informática nos mais diversos aspectos da vida nacional."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "1. Introdução e idéia geral -- 2. Um exemplo de interpretação econômica do método simplex -- 3. Interpretação econômica da dualidade em programação linear -- 3.1. Um exemplo de Par Primal-Dual Simétrico -- 3.2. Formulação geral do Par Primal-Dual -- 3.3. Condições de otimalidade -- 4. Interpretação econômica do método simplex -- 4.1. Colocação do problema -- 4.2. Fundamentos algébricos do método Simplex -- 4.3. Operações matriciais e interpretação econômica -- 5. Análise de sensibilidade -- 5.1. Mudanças no vetor de vínculos b -- 5.2. Mudanças no vetor de custo c -- 5.3. Mudanças na matriz tecnologia a -- 6. Um exemplo completo -- 7. Conclusões -- Referências."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação linear"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação matemática"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

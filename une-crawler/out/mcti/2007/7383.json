@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007383"
+        },
+        {
+            "code": "005",
+            "value": "20190624105147.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.3.049.77(063) ",
+                "b": "I22m ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "IEEE International Symposium on Circuits and Systems ",
+                "c": "Philadelphia, Estados Unidos ",
+                "d": "1987 ",
+                "n": "20"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "1987 IEEE International Symposium on Circuits and Systems ",
+                "b": "Dunfey City Line Hotel, Philadelphia, PA, May 4-7, 1987 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Institute of Electrical and Electronics Engineers ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "3 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito eletrônico ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia eletrônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia elétrica"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Institute of Electrical and Electronics Engineers ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

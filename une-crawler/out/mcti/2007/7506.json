@@ -1,0 +1,137 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007506"
+        },
+        {
+            "code": "005",
+            "value": "20190702150726.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "53 ",
+                "b": "K96q ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Kullock, R"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The quantum zeno paradox revisited ",
+                "b": "the time evolution for a two- level system interacting with a reservoir ",
+                "c": "R. Kullock e Nami Fux Svaiter ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro Brasileiro de Pesquisas Físicas ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "25 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Notas de Física / CBPF ",
+                "x": "0029-3865 ",
+                "v": "27/06"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "We revisited the quantum Zeno paradox, which claims that a generic quantum system prepared in a state which is not an eigenstate of the Hamiltonian operator and is continuously observed never decays. Since any perfectly isolated quantum system always interact with a vacuum field, we analyze the possibility of using this fact to solve the above mentioned conceptual problem. Therefore we discuss a two-level system or qubit-Bose field interaction Hamiltonians. We consider the quantum dynamics of this two-level system, prepared in the excited state interacting with a Bose field prepared in the Poincar'e invariant vacuum state. Using a first-order approximation in time-dependent perturbation theory, we evaluate the probability of spontaneous decay of the two-level system driven by the vacuum field. This probability is evaluated for a finite time interval. Using the standard argument to obtain the quantum Zeno paradox, we consider N measurements where N (infinito) and we obtain that the non-decay probability law is a pure exponential, recovering the classical behavior."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física quântica"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Svaiter, Nami Fux ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Centro Brasileiro de Pesquisas Físicas ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (CBPF) ",
+                "u": "cbpfindex.cbpf.br/publication_pdfs/nf02706.2007_01_16_14_05_22.pdf ",
+                "z": "Acesso em: 23/11/2016"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

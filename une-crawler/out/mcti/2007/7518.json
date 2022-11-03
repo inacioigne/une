@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007518"
+        },
+        {
+            "code": "005",
+            "value": "20190703165553.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.432 ",
+                "b": "O45m ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Oleinki, Vânia Aparecida Dinardo"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Manual de referência da linguagem LANAC/II ",
+                "c": "Vânia Aparecida Dinardo Oleinki, Mauricio W. Saad, Sergio Donizetti Fischer ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São José dos Campos ",
+                "b": "Instituto Nacional de Pesquisas Espaciais ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "[84] p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "INPE-3911-ND/029"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem de programação (Computadores)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Saad, Mauricio W ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Fischer, Sergio Donizetti ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

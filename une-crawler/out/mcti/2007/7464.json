@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007464"
+        },
+        {
+            "code": "005",
+            "value": "20190702172805.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.315.59 ",
+                "b": "U58c ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Universidade Federal do Rio Grande do Norte"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Consolidação do grupo de física de semicondutores ",
+                "b": "plano nacional de semicondutores ",
+                "h": "Impresso ",
+                "c": "Universidade Federal do Rio Grande do Norte"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Natal ",
+                "b": "Universidade Federal do Rio Grande do Norte ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. ",
+                "b": "il., tabs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Semicondutores"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústrias"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Produção"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

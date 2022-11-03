@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007576"
+        },
+        {
+            "code": "005",
+            "value": "20190702131811.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "551.583 ",
+                "b": "H131h ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Hadley Centre for Climate Prediction and Research"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The Hadley Centre regional climate modelling system ",
+                "b": "PRECIS : providing regional climates for impacts studies ",
+                "h": "Impresso ",
+                "c": "Hadley Centre for Climate Prediction and Research"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Londres (Inglaterra) ",
+                "b": "Met Office ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Inglaterra"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "17 ",
+                "b": "il., color."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mudanças climáticas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Clima ",
+                "x": "Alteração"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (ASSETS) ",
+                "u": "https://assets.publishing.service.gov.uk/media/57a08d4ee5274a27b2001785/ProjectID2839_COP7precis.pdf ",
+                "z": "Acesso em: 02/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

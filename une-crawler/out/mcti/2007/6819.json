@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006819"
+        },
+        {
+            "code": "005",
+            "value": "20190701115248.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.384:65(71) ",
+                "b": "S898 ",
+                "c": "1973"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Science Council of Canada"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Strategies of development for the canadian computer industry ",
+                "h": "Impresso ",
+                "c": "Science Council of Canada"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Ottawa, Ontário, Canadá ",
+                "b": "Science Council of Canada ",
+                "c": "1973"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Canadá"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "80 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Its Report; n. 21"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de computador ",
+                "z": "Canadá"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política e governo ",
+                "z": "Canadá"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (ARTSITES) ",
+                "u": "http://artsites.uottawa.ca/sca/doc/Report-no.-21-Strategies-of-Development-for-the-Canadian-Computer-Industry.pdf ",
+                "z": "Acesso em: 01/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

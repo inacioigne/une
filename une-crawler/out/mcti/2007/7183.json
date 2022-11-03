@@ -1,0 +1,112 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007183"
+        },
+        {
+            "code": "005",
+            "value": "20190627190750.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "327(81:430) ",
+                "b": "B823 ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Brasil e Alemanha ",
+                "b": "a construção do futuro ",
+                "c": "Luiz Alberto Moniz Bandeira e Samuel Pinheiro Guimarães, Organizadores ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Fundação Alexandre de Gusmão, Instituto de Pesquisa de Relações Internacionais ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "695"
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "MERCOSUL"
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "União Européia"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Brasil ",
+                "x": "Relações culturais ",
+                "z": "Alemanha"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Guimarães, S. Pinheiro ",
+                "q": "Samuel Pinheiro ",
+                "d": "1947- ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Bandeira, Moniz ",
+                "d": "1935- ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

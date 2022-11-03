@@ -1,0 +1,128 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007327"
+        },
+        {
+            "code": "005",
+            "value": "20190628142747.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8588468107"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "378.4 ",
+                "b": "B644c ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Blass, Arno"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Caspar Erich Stemmer ",
+                "b": "administração, ciência e tecnologia ",
+                "c": "Arno Blass ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Paralelo 15 ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "189 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Biblioteca Anísio Teixeira. Série Biografias"
+            }
+        },
+        {
+            "code": "600",
+            "subfield": {
+                "a": "Stemmer, Caspar Erich ",
+                "d": "1930-"
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Universidade Federal de Santa Catarina ",
+                "x": "História"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ensino superior"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ensino profissional"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (Dominio Púlbico) ",
+                "u": "http://www.dominiopublico.gov.br/download/texto/me002756.pdf ",
+                "z": "Acesso em: 10/12/12"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

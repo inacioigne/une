@@ -1,0 +1,150 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007404"
+        },
+        {
+            "code": "005",
+            "value": "20190703194904.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0894130528"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.6:657.6 ",
+                "b": "D232 ",
+                "c": "1977"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Data processing audit practices report ",
+                "c": "Brian Ruder ... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Altamonte Springs ",
+                "b": "Institute of Internal Auditors ",
+                "c": "1977"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Estados Unidos"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xv, 219 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Systems auditability & control study"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Centros de processamento de dados ",
+                "x": "Auditoria"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de computador ",
+                "x": "Gestão"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Auditoria ",
+                "x": "Processamento de dados"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Ruder, Brian ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Eason, Tom S. ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "See, Malin E. ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Russell, Susan Higley ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Stanford Research Institute ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Institute of Internal Auditors ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

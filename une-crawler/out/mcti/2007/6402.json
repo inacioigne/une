@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006402"
+        },
+        {
+            "code": "005",
+            "value": "20190702150221.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0915707187"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "341.67(060.1/.9) ",
+                "b": "S319n ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Scheinman, Lawrence"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The nonproliferation role of the international atomic energy agency ",
+                "b": "a critical assessment ",
+                "c": "Lawrence Scheinman ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "Resources for the Future ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Estados Unidos"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "72"
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Agência Internacional de Energia Atômica ",
+                "c": "Viena (Áustria)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Não-proliferação nuclear"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desarmamento nuclear"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007276"
+        },
+        {
+            "code": "005",
+            "value": "20190702173910.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.3.014(043.3) ",
+                "b": "V657c ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Vieira, Amarildo de Jesus Cavalheiro"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Construção e caracterização de um sensor de altas correntes utilizando fibra óptica ",
+                "c": "Amarildo de J. Cavalheiro Vieira ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "c": "1992 ",
+                "a": "São Carlos, SP"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "129 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "502",
+            "subfield": {
+                "a": "Dissertação (mestrado) - Escola de Engenharia de São Carlos, Universidade de São Paulo, São Carlos, 1992"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Neste trabalho foi desenvolvido um sensor de corrente eletrica utilizando uma fibra optica como elemento sensor, cujo principio de operacao e o efeito faraday ou magneto-optico, como tambem e conhecido. Para isso, foi necessaria a caracterizacao do elemento sensor quanto as suas propriedades polarimetricas e magneto-opticas. Foram determinados o comprimento de onda de corte, atenuacao espectral, birrefringencia linear intrinseca e induzida por curvatura, a combinacao da birrefringencia linear com a circular, a constante de verdet e o seu comportamento com a temperatura. Com essas informacoes foi possivel se projetar o sensor, o qual foi entao caracterizado quando a sua precisao, resposta em frequencia e faixa dinamica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Fibras ópticas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia elétrica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia eletrônica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dissertações/Teses/TCC"
+            }
+        }
+    ]
+}

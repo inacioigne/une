@@ -1,0 +1,143 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007252"
+        },
+        {
+            "code": "005",
+            "value": "20190709113030.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:311 ",
+                "b": "B823s ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Secretaria Especial de Informática"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Parque de equipamentos de informatica ",
+                "c": "Secretaria Especial de Informática ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Secretaria Especial de Informática ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "72 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Séries estatísticas ",
+                "v": "v. 1, n. 1"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "1. Uso geral -- Introdução -- I. Crescimento da Base Instalada -- II. Valor do Parque -- III. Participação da Indústria Nacional -- IV. Distribuição do parque -- Distribuição dos Sistemas por Classe de Empresa -- Distribuição da Classe 1 por Sub-Classe e Empresa -- Distribuição Geográfica da Base Instalada por Classe e Empresa -- Distribuição dos Sistemas por Empresa, Classe, Modelo e Localização Geográfica -- 2. Automação Bancária -- Introdução -- I. Valor Parque -- II. Distribuição de Equipamentos por Tipo/Modelo e Localização Geográfica -- Distribuição dos Equipamentos por Empresas, Tipo/Modelo e Localização Geográfica -- 3. Automação Comercial -- Introdução - I. Valor Parque -- II. Distribuição de Equipamentos por Tipo/Modelo e Localização Geográfica -- Distribuição dos Equipamentos por Empresas, Tipo/Modelo e Localização Geográfica -- Empresas que Participaram da Pesquisa -- Índice Remissivo de Tabelas, Quadros e Gráficos."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Divulga os levantamentos relativos ao Parque de Equipamentos de Informática. Para que os usuários dessas informações possam acompanhar a evolução da base instalada de equipamentos de informática em uso no País, procedeu-se ao levantamento dos dados correspondentes aos anos de 1984, 1985, 1986 e 1987. Os dados que compõem este trabalho foram coletados junto às empresas fornecedoras e fabricantes de equipamentos. Participaram do levantamento 58 empresas nacionais e 15 empresas não nacionais, nos diversos segmentos considerados. Dos resultados obtidos, vale destacar a crescente participação da indústria nacional no segmento de processamento de dados de uso geral. Em 1984, a participação nacional em valor era cerca de 28%. Em 1987, havia passado a 40% do valor do parque instalado, nesse segmento. Um resultado que sintetiza a trajetória marcante da indústria nacional de informática nesse período."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Parque nacional ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação bancária ",
+                "x": "Parque nacional ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação comercial ",
+                "x": "Parque nacional ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "774",
+            "subfield": {
+                "t": "1. Uso geral"
+            }
+        },
+        {
+            "code": "774",
+            "subfield": {
+                "t": "I. Crescimento da Base Instalada"
+            }
+        },
+        {
+            "code": "774",
+            "subfield": {
+                "t": "II. Valor do Par"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

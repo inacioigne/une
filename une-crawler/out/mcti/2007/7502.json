@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007502"
+        },
+        {
+            "code": "005",
+            "value": "20190703154725.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8585710047"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "628.5:675.6 ",
+                "b": "C583m ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Claas, Isabel Cristina"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Manual básico de resíduos industriais de curtume ",
+                "c": "Isabel Cristina Claas, Roberto Augusto Moraes Maia ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Porto Alegre ",
+                "b": "Serviço Nacional de Aprendizagem Industrial, Departamento Regional do Rio Grande do Sul ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "664 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Couros ",
+                "x": "Indústria"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Resíduo industrial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tratamento de residuo"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Maia, Roberto Augusto Moraes ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

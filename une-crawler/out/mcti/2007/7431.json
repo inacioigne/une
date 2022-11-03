@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007431"
+        },
+        {
+            "code": "005",
+            "value": "20190621163000.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.45:621.38(1-775) ",
+                "b": "P667p ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Piragibe, Clélia"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Políticas para a indústria eletrônica nos novos países industrializados ",
+                "b": "(NICs) : lições para o Brasil? ",
+                "c": "Clélia Piragibe"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "[s.n.] ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "85 ",
+                "b": "il., tabs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política industrial ",
+                "x": "Países desenvolvidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria eletrônica ",
+                "x": "Países desenvolvidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Industrialização"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

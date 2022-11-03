@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007537"
+        },
+        {
+            "code": "005",
+            "value": "20190703164033.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502(817.2-22) ",
+                "b": "M433e ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Mato Grosso. Fundação Estadual do Meio Ambiente"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Environmental control system on rural properties in Mato Grosso ",
+                "h": "Impresso ",
+                "c": "Fundação Estadual do Meio Ambiente"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Cuiabá ",
+                "b": "State Foundation of the Environment ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "46 f."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Meio ambiente ",
+                "z": "Mato Grosso"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gestão ambiental ",
+                "z": "Mato Grosso ",
+                "x": "Zona rural"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Monitoramento ambiental"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desmatamento"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

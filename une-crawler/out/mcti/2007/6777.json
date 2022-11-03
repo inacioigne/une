@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006777"
+        },
+        {
+            "code": "005",
+            "value": "20190701142319.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.01 ",
+                "b": "S963 ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Survey of government policies in informatics ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Organização das Nações Unidas para o Desenvolvimento Industrial ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "v, 81 p"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "UNIDO/IS.526"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Preparado por: Regional and Country Studies Branch, Division for Industrial Studies."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Política e governo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política tecnológica ",
+                "x": "Países em desenvolvimento"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Organização das Nações Unidas para o Desenvolvimento Industrial ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

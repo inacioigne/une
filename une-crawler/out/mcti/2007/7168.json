@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007168"
+        },
+        {
+            "code": "005",
+            "value": "20190703140504.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.3.049.77 ",
+                "b": "W636l ",
+                "c": "1968"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Wickes, William E"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Logic design with integrated circuits ",
+                "c": "William E. Wickes ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Wiley ",
+                "c": "1968"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Estados Unidos"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "249 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito integrado"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação lógica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito lógico"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

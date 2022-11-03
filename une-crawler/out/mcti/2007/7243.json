@@ -1,0 +1,133 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007243"
+        },
+        {
+            "code": "005",
+            "value": "20190625123343.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8521606788"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.3.049.77 ",
+                "b": "S355p ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Schmitz, Eber Assis"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Projeto de circuitos integrados ",
+                "c": "Eber Assis Schmitz, José Antonio dos Santos Borges ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Livros Técnicos e Científicos ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxii, 240 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Ciência da computação"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Apêndices (p. 217-230): A. Detalhes formato simul. spice - B. Linguagem descr. redes (NDL)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microeletrônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito integrado"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia eletrônica"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Borges, José Antonio dos Santos ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Escola Brasileiro-Argentina de Informática ",
+                "c": "Nova Friburgo, RJ ",
+                "d": "1991 ",
+                "n": "5"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

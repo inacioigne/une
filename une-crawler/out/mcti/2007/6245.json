@@ -1,0 +1,129 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006245"
+        },
+        {
+            "code": "005",
+            "value": "20190709142949.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "005.95/.96:35.085 ",
+                "b": "E56p ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Escola Nacional de Administração Pública (Brasil)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Perfil dos dirigentes de recursos humanos da administração pública federal ",
+                "h": "Impresso ",
+                "c": "Escola Nacional de Administração Pública"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Escola Nacional de Administração Pública ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "27 ",
+                "b": "il., gráf., tab."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / ENAP ",
+                "v": "38"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gestão de pessoas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração pública"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos humanos"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (ENAP) ",
+                "u": "http://www.enap.gov.br/index.php?option=com_docman&task=doc_download&gid=1642"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "http://www.enap.gov.br/index.php?option=com_docman&task=doc_download&gid=1642 ",
+                "y": "Texto completo (ENAP)"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (ENAP) ",
+                "u": "http://repositorio.enap.gov.br/bitstream/1/686/1/Perfil%20dos%20Gestores%20de%20Recursos%20Humanos%20na%20Administra%C3%A7%C3%A3o%20P%C3%BAblica%20Federal.pdf ",
+                "z": "Acesso em: 09/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

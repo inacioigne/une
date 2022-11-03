@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007359"
+        },
+        {
+            "code": "005",
+            "value": "20190628112016.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:311(81) ",
+                "b": "C198i"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Campos, Rui J. A. ",
+                "q": "Rui José de Arruda"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Informática no Brasil ",
+                "b": "fatos e números [1996] ",
+                "c": "Rui Campos ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "1"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Fenasoft ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "68 ",
+                "b": "il., tab., gráf."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Estatísticas ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de computador ",
+                "x": "Estatísticas ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de software ",
+                "x": "Estatísticas ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

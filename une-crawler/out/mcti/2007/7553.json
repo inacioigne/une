@@ -1,0 +1,130 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007553"
+        },
+        {
+            "code": "005",
+            "value": "20190702115835.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "631.4:551.588.74 ",
+                "b": "I62 ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Inventario nacional de fuentes y sumideros de gases de efecto invernadero 1990 ",
+                "b": "resumen ejecutivo ",
+                "h": "Impresso ",
+                "c": "autor corporativo: Ministério do Meio ambiente da Colômbia, Instituto de hidrologia, Meteorologia y Estudios Ambientales"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Santafé de Bogotá ",
+                "b": "Instituto de hidrologia, Meteorologia y Estudios Ambientales ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Colômbia"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. ",
+                "b": "il., tab., m."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Efeito estufa (Atmosfera)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Uso do solo ",
+                "x": "Pesquisa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Agricultura"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Temperatura"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Colômbia"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Colombia. Ministerio del Medio Ambiente ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de hidrologia, Meteorologia y Estudios Ambientales ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto integral (Ideam) ",
+                "u": "http://documentacion.ideam.gov.co/openbiblio/bvirtual/009528/gasesre.pdf ",
+                "z": "Acesso em: 02/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

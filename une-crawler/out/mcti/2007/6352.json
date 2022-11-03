@@ -1,0 +1,112 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006352"
+        },
+        {
+            "code": "005",
+            "value": "20190708140819.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "3980890910"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "37.018.43(100)(063) ",
+                "b": "C748o ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Conferencia Internacional de la Educación y de la Formación Basa en las Tecnologías ",
+                "c": "Barcelona, Espanha ",
+                "d": "2003 ",
+                "n": "3"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Online educa Barcelona ",
+                "b": "terceira conferencia internacional de la educación y de la formación basa en las tecnologías : libro de actas de la conferencia ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Barcelona ",
+                "b": "ICWE GmbH ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Espanha"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "232 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ensino à distância ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Formação profissional ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática na educação ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

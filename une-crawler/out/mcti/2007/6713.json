@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006713"
+        },
+        {
+            "code": "005",
+            "value": "20190702142325.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.311(063) ",
+                "b": "S471q ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Seminário de Infra-estrutura e Energia do Sistema Telebrás ",
+                "c": "Brasília, DF ",
+                "d": "1991 ",
+                "n": "4"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "IV Seminário de Infra-estrutura e Energia do Sistema Telebrás ",
+                "b": "Brasília (DF), 8 a 11 de outubro de 1991: anais ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Telebras ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "513 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de comunicação ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

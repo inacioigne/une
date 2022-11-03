@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007452"
+        },
+        {
+            "code": "005",
+            "value": "20190625160307.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "929:61:004 ",
+                "b": "Q3 ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Quem é quem em informática em saúde no Brasil ? ",
+                "c": "Coordenação e edição Candido Pinto de Melo ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Sociedade Brasileira de Informática em Saúde ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "[45]"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática médica ",
+                "x": "Instituição de pesquisa ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Saúde ",
+                "x": "Instituição de pesquisa"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Melo, Candido Pinto de ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007087"
+        },
+        {
+            "code": "005",
+            "value": "20190702182046.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.375.826 ",
+                "b": "T267l ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Telebras"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Laser, semicondutor ",
+                "h": "Impresso ",
+                "c": "Telebrás"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Campinas] ",
+                "b": "Telebras ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "7 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Na capa: Grupamento de Dispositivos Opto eletrônicos - GDO ; Centro de Pesquisa e Desenvolvimento - CPqD, Depto. de Componentes e Materiais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Laser"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

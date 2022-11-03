@@ -1,0 +1,112 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007120"
+        },
+        {
+            "code": "005",
+            "value": "20190627164520.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.896:327 ",
+                "b": "R666 ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Robotics and foreign affairs ",
+                "b": "a symposium ",
+                "c": "Organizador: David T. Morrison ; Editor: Diane B. Bendahmane ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "Center for the Study of Foreign Affairs, Foreign Service Institute, U.S. Dept. of State ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Estados Unidos"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "x, 93 p. ",
+                "c": "24"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Estados Unidos ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Morrison, David T ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Bendahmane, Diane B ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Center for the Study of Foreign Affairs (Estados Unidos) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

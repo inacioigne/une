@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007519"
+        },
+        {
+            "code": "005",
+            "value": "20190703194657.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.415.53(043.3) ",
+                "b": "C252f ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Capretz, Luiz Fernando ",
+                "d": "1959-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Ferramentas de instrumentação para testes de programas ",
+                "c": "Luiz Fernando Capretz ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l. ",
+                "b": "s.n] ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "121"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "INPE-3983-TDL/235"
+            }
+        },
+        {
+            "code": "502",
+            "subfield": {
+                "a": "Dissertação (mestrado em computação aplicada) - Instituto Nacional de Pesquisas Espaciais, São José dos Campos, 1986"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programas de computador ",
+                "x": "Teste"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Instrumentação de sistemas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia de programação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dissertações/Teses/TCC"
+            }
+        }
+    ]
+}

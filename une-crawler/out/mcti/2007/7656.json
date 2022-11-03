@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007656"
+        },
+        {
+            "code": "005",
+            "value": "20190624154550.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "620.9 ",
+                "b": "I56 ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "An initial view on methodologies for emissions baselines ",
+                "b": "electricity generation case study : IEA information paper ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Agência Internacional de Energia Atômica ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "53 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia ",
+                "x": "Produção"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia elétrica ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Meio ambiente"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Agência Internacional de Energia ",
+                "c": "França ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

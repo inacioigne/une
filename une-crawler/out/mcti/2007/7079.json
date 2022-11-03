@@ -1,0 +1,104 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007079"
+        },
+        {
+            "code": "005",
+            "value": "20190702145711.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.272.44(063) ",
+                "b": "M274 ",
+                "c": "[1984]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The management of transborder data flows ",
+                "b": "U.S.- Canada and beyond : proceedings of a conference held at Columbia University, New York City, April 2, 1984 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Columbia University Press ",
+                "c": "[1984]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Estados Unidos"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "204 ",
+                "c": "28"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Co-sponsored by Canadian Studies Program, Columbia University, and Canadian Institute of International Affairs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Fluxo de dados transfronteiras ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "Canadá"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Columbia University ",
+                "b": "Canadian Studies Program ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Canadian Institute of International Affairs ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

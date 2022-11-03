@@ -1,0 +1,108 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006648"
+        },
+        {
+            "code": "005",
+            "value": "20190702115922.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.75(100)(063) ",
+                "b": "I61t ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "International Conference on Distributed Computing Systems ",
+                "c": "Paris, França ",
+                "d": "1981 ",
+                "n": "2"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The 2nd International Conference on Distributed Computing Systems ",
+                "b": "Paris, France - April 8-10, 1981 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "IEEE Computer Society Press ",
+                "c": "1981"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Estados Unidos"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xi, 524 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema distribuído"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento distribuído"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de informação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

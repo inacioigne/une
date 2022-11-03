@@ -1,0 +1,79 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007547"
+        },
+        {
+            "code": "005",
+            "value": "20190708194438.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "551.583:32 ",
+                "b": "G946"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Guide du processus des changements climatiques ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Bonn ",
+                "b": "United Nations Framework Convention on Climate Change ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "30 f."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mudanças climáticas ",
+                "x": "Aspectos políticos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Protocolo de Quioto"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

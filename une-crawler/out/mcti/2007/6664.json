@@ -1,0 +1,97 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006664"
+        },
+        {
+            "code": "005",
+            "value": "20190624152430.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.896(100)(063) ",
+                "b": "I22p ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "IEEE International Conference on Systems, Man and Cybernetics ",
+                "c": "Halifax, Canadá ",
+                "d": "1984"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Proceedings of the 1984 IEEE International Conference on Systems, Man and Cybernetics ",
+                "b": "October 10, 11, & 12, 1984, Chateau Halifax, Halifax, Nova Scotia, Canada ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Institute of Electrical and Electronics Engineers ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Estados Unidos"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "464 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia de sistemas ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cibernética ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

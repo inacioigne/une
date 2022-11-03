@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006659"
+        },
+        {
+            "code": "005",
+            "value": "20190628122634.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "005.591.6(816)(063) ",
+                "b": "S471s ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Seminário sobre Automatização Industrial para a Região Sul ",
+                "c": "Porto Alegre, RS ",
+                "d": "1986"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Seminário sobre automatização industrial para a região sul ",
+                "b": "anais ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Porto Alegre ",
+                "b": "Sociedade Brasileira de Comando Numérico ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia ",
+                "z": "Região Sul"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Controle automático ",
+                "z": "Região Sul"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação industrial ",
+                "z": "Região Sul"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Sociedade Brasileira de Comando Numérico ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

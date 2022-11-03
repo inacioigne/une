@@ -1,0 +1,118 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007494"
+        },
+        {
+            "code": "005",
+            "value": "20190702112149.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "510.27 ",
+                "b": "C331t ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Carvalho, Roberto Lins de"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Teoria dos sistemas semânticos ",
+                "c": "Roberto Lins de Carvalho ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Laboratório Nacional de Computação Científica ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "79"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Relatórios de pesquisa e desenvolvimento ",
+                "v": "012/89 ",
+                "x": "0101-6113"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "1. Teoria dos Sistemas Semânticos -- 2. Planos de significados -- 3. Funções básicas -- 4. Consequência Semântica -- 5. Propriedade de fechamento -- 6. Propriedade algébricas -- 7. Negação -- 8. Negação por descriminação -- 9. Teoria completas -- 10. Sistemas Semânticos Positivos -- 11. Classificação dos sistemas semânticos -- 12. Comportamento de ConS e ComM -- 13. Conclusões -- 14. Referências."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "É desenvolvido o estudo de Sistemas Semânticos de um ponto de vista abstrato, isso significa que não existe nenhuma de pendência a considerações sintáticas ou resultados da Teoria dos Modelos. Os resultados obtidos parecem indicar os fundamentos da Inteligência Artificial devam ser revistos, tanto nos aspectos abstratos, como matematemáticos."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Semântica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Matemática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Lógica matemática"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

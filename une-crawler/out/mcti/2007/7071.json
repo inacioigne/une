@@ -1,0 +1,132 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007071"
+        },
+        {
+            "code": "005",
+            "value": "20190702093745.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.42 ",
+                "b": "M381 ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Martin, James ",
+                "d": "1933-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Técnicas estruturadas e case ",
+                "c": "James Martin e Carma Mcclure ; tradução, Lúcia Faria Silva ; revisão técnica, Ronald Stevis Cassiolato ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "McGraw-Hill ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "854 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "534",
+            "subfield": {
+                "a": "Structured techniques : the basis for case"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Análise estruturada"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação estruturada"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Metodologia Jackson"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia da informação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia auxiliada por computador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "McClure, Carma L ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Silva, Lúcia Faria ",
+                "e": "Tradutor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

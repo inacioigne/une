@@ -1,0 +1,127 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007002"
+        },
+        {
+            "code": "005",
+            "value": "20190702093842.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8570192290"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "62(063) ",
+                "b": "S612t ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Simpósio Nacional de Tecnologia e Trópico ",
+                "c": "São Paulo, SP ",
+                "d": "1989 ",
+                "n": "1"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Tecnologia & trópico ",
+                "b": "anais do I simpósio nacional ",
+                "c": "Organização de Maria de Fátima Vieira Peixoto, Maria do Carmo Tavares e Miranda"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Recife ",
+                "b": "Fundação Joaquim Nabuco, Editora Massangana ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "261 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Série cursos e conferências ",
+                "v": "46"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia ",
+                "z": "Região tropical ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento tecnológico ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Peixoto, Maria de Fátima Vieira ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Miranda, Maria do Carmo Tavares ",
+                "d": "1926- ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

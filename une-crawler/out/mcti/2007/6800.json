@@ -1,0 +1,88 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006800"
+        },
+        {
+            "code": "005",
+            "value": "20190627162026.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.896 ",
+                "b": "T224d"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Tauile, José Ricardo ",
+                "d": "1945-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "O desenvolvimento internacional da robótica ",
+                "b": "dados e reflexões ",
+                "c": "José Ricardo Tauile ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Universidade Federal do Rio de Janeiro, Instituto de Economia Industrial ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "50 f."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IEI/UFRJ ",
+                "v": "n. 78"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Robótica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

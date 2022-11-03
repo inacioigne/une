@@ -1,0 +1,130 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006670"
+        },
+        {
+            "code": "005",
+            "value": "20190628142634.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "37.018.8:004(063) ",
+                "b": "S612s ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Simposio internacional sobre informática y educación ",
+                "c": "San Miguel de Tucumán, Argentina ",
+                "d": "1984"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Simposio internacional sobre informática y educación, 30 de abril al 4 de mayo de 1984 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "San Miguel de Tucumán ",
+                "b": "[s.n.] ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Argentina"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "3 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Educação ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática na educação"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto Italo Latino Americano ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Cooperacion Iberoamericana ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Universidad Politecnica de Madrid ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Universidad del Norte Santo Tomas de Aquino ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

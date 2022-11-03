@@ -1,0 +1,131 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006790"
+        },
+        {
+            "code": "005",
+            "value": "20190704160908.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8534603324"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.67EXCEL ",
+                "b": "J17m ",
+                "c": "=134.3"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Jacobson, Reed ",
+                "d": "1954-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Microsoft Excel 5 visual basic ",
+                "b": "passo a passo ",
+                "c": "tradução Lídia Yumi Sato ; revisão técnica Mário Magyar Franco ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Makron Books ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxxiv, 481 p. ",
+                "b": "il. ",
+                "e": "1 disquete 3 1/2"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Cutter basedo no nome do programa a fim de reunir com as demais obras na estante ; A biblioteca não possui o disquete que acompanha a obra"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programas de computador ",
+                "x": "Excel, Microsoft"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aplicativo de tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem de programação (Computadores) ",
+                "x": "Visual Basic (Linguagem de programação de computador)"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Franco, Mário Magyar ",
+                "e": "Revisor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Sato, Lídia Yumi ",
+                "e": "Tradutor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

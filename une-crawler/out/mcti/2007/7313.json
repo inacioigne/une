@@ -1,0 +1,123 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007313"
+        },
+        {
+            "code": "005",
+            "value": "20190701164436.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "954494446x"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "347.78:377(100)(063) ",
+                "b": "I61i ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "International Conference on Intellectual Property Education for Business ",
+                "c": "Sofia, Bulgaria ",
+                "d": "2000"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "International Conference on Intellectual Property Education for Business ",
+                "h": "Impresso ",
+                "c": "autor corporativo: University of National and World Economy, organização Mundial da Propriedade Intelectual"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Sofia, Bulgaria ",
+                "b": "University of National and World Economy ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Bulgária"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "160 ",
+                "b": "il., color."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Propriedade intelectual ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ensino profissional"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ensino superior"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "University of National and World Economy ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Organização Mundial da Propriedade Intelectual ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

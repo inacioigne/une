@@ -1,0 +1,137 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006968"
+        },
+        {
+            "code": "005",
+            "value": "20190702162942.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.315.592(82) ",
+                "b": "S683i ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Soifer, Ricardo J."
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "La industria de semiconductores y los circuitos custom y semicustom ",
+                "b": "tendencias tecnologias y economicas y perspectivas para Argentina ",
+                "c": "elaborado por Ana Lucia Gonçalves da Silva sob a coordenação de Luciano G. Coutinho ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Buenos Aires ",
+                "b": "Secretaria de Ciencia e Tecnica ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Argentina"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "154"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Documento SID nº 14; Proyecto SECYT - ADEST - IDRC"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Semicondutores ",
+                "x": "Indústria ",
+                "z": "Argentina"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microeletrônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito integrado"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Equipamento eletrônico ",
+                "x": "Indústria ",
+                "z": "Argentina"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Silva, Ana Lucia Gonçalves da ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Coutinho, Luciano Galvão ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Argentina. Subsecretaria de Informática y Desarrollo ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

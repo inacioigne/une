@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "am   nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007258"
+        },
+        {
+            "code": "005",
+            "value": "20190701152830.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "por                                por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5-047.37:33.45(81) ",
+                "b": "G963i ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Guimarães, Fabio Celso de Macedo Soares"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A interação entre pesquisa & desenvolvimento e produção industrial no Brasil ",
+                "c": "Fabio Celso de Macedo Soares Guimarães ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l. ",
+                "b": "s.n.] ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "70"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Este trabalho foi elaborado como parte do projeto \"Estudos analíticos do setor de ciência e tecnologia no Brasil\", para o Ministério da Ciência e Tecnologia, com o apoio do Programa das Nações Unidas para o Desenvolvimento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa e desenvolvimento ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústrias ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006574"
+        },
+        {
+            "code": "005",
+            "value": "20190702182353.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.8:665.6(063) ",
+                "b": "L357l ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Latin American Conference on Artificial Intelligence in Petroleum Exploration and Production ",
+                "c": "Rio de Janeiro, RJ ",
+                "d": "1991"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Latin American conference on artificial intelligence in petroleum exploration and production ",
+                "b": "LAIC-PEP'91 : november 18-21, 1991, Rio de Janeiro - RJ - Brazil ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Instituto Brasileiro de Petróleo ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "279 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Technical Papers"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inteligência artificial ",
+                "x": "Mineração"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Petróleo ",
+                "x": "Exploração"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aplicativo de tecnologia"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

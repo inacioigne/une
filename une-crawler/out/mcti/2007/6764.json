@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006764"
+        },
+        {
+            "code": "005",
+            "value": "20190624143623.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "681.5:651 ",
+                "b": "P928p ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "President's Private Sector Survey on Cost Control (Estados Unidos)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "President's Private Sector Survey on Cost Control ",
+                "b": "report on automated data processing : office automation ",
+                "h": "Impresso ",
+                "c": "President's Private Sector Survey on Cost Control (Estados Unidos)"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "U.S. Government Printing Office ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "213 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Approved by the Subcommittee for the full executive committee, spring-fall 1983"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Repartição pública ",
+                "x": "Administração ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Despesa pública ",
+                "x": "Política e governo ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação comercial"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007233"
+        },
+        {
+            "code": "005",
+            "value": "20190709151707.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8585147148"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.311:[061-047.37](091) ",
+                "b": "H673 ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "História do centro de pesquisas de energia elétrica, CEPEL ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro da Memória da Eletricidade no Brasil ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "244 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Centro de Pesquisas de Energia Elétrica ",
+                "c": "Brasil ",
+                "x": "História"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia elétrica ",
+                "z": "Brasil",
+                "x": "História "
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Instituição de pesquisa ",
+                "x": "História ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "ELETROBRAS ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

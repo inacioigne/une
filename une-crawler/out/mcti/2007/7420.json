@@ -1,0 +1,116 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007420"
+        },
+        {
+            "code": "005",
+            "value": "20190701192247.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0903969343"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.41 ",
+                "b": "H598c ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Hewett, Julian"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Computer-aided software engineering ",
+                "b": "commercial strategies ",
+                "c": "by Julian Hewett and Tony Durham ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Londres (Inglaterra) ",
+                "b": "Ovum ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Inglaterra"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "x, 338 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Aspectos economicos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia de software ",
+                "x": "Aspectos economicos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de software"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Durham, Tony ",
+                "d": "1948- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

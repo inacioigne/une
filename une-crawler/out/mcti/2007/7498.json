@@ -1,0 +1,108 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007498"
+        },
+        {
+            "code": "005",
+            "value": "20190628142434.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4'423 ",
+                "b": "P149s ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Paiva, Eliana Barros E. O"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Shell interpretador de comandos do plurix ",
+                "b": "(versão 1.0) ",
+                "c": "Eliana Barros E. O. Paiva ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Universidade Federal do Rio de Janeiro ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "23 f."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Relatórios técnicos / UFRJ/NCE ",
+                "v": "02/88"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Interpretadores (Computadores)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Unix ",
+                "x": "Sistemas operacionais (Computadores)"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Universidade Federal do Rio de Janeiro. Núcleo de Computação Eletrônica ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

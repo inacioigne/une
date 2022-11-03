@@ -1,0 +1,120 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006927"
+        },
+        {
+            "code": "005",
+            "value": "20190627171055.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "336.531.2:5/6(73) ",
+                "b": "S416 ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Science & engineering indicators ",
+                "b": "1991 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "10. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "National Science Board ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Estados Unidos"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xiv, 487 p. ",
+                "b": "il., tabs., grafs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência ",
+                "x": "Estatísticas ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia ",
+                "x": "Estatísticas ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa e desenvolvimento ",
+                "x": "Indicadores ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "National Science Board (Estados Unidos) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "National Science Foundation (Estados Unidos) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

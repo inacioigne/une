@@ -1,0 +1,98 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006304"
+        },
+        {
+            "code": "005",
+            "value": "20190702125726.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "551.583 ",
+                "b": "I64i ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "IPCC Workshop on Changes in Extreme Weather and Climate Events ",
+                "c": "Pequim, China ",
+                "d": "2002"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "IPCC Workshop on Changes in Extreme Weather and Climate Events, Beijing, China, 11-13 June, 2002 ",
+                "b": "workshop report ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Intergovernmental Panel on Climate Change ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "107"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mudanças climáticas ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Climatologia ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Painel Intergovernamental em Mudança do Clima ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

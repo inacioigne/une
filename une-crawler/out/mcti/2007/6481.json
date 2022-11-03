@@ -1,0 +1,139 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006481"
+        },
+        {
+            "code": "005",
+            "value": "20190628150113.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "928280805x"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "001.891(047) ",
+                "b": "I88"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Information technologies and sciences ",
+                "b": "IT Research & Development, international cooperation; summaries of projects, working groups networks and accompanying measures ",
+                "c": "Editor, Anneta Sinachopoulos ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Luxembourgo ",
+                "b": "Comunidades Europeias, Comissão ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Luxemburgo"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "531"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Information technologies and sciences"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Esprit project summaries"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cooperação internacional ",
+                "x": "Pesquisa e desenvolvimento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa científica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa tecnológica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Projeto de pesquisa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia da informação"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Sinachopoulos, A. ",
+                "q": "Aneta ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (ESPRIT) ",
+                "u": "ftp://ftp.cordis.europa.eu/pub/esprit/docs/projinco.pdf"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

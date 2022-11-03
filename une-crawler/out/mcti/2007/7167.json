@@ -1,0 +1,90 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007167"
+        },
+        {
+            "code": "005",
+            "value": "20160718092144.0"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "31:339.5(7/8=13) ",
+                "b": "I39"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Indicadores económicos ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Santiago (Chile) ",
+                "b": "Nações Unidas ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Chile"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "105"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Condições econômicas ",
+                "z": "América Latina"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comércio ",
+                "z": "América Latina"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Nações Unidas ",
+                "b": "Comissão Econômica para a América Latina e Caribe ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

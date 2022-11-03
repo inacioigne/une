@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007128"
+        },
+        {
+            "code": "005",
+            "value": "20190628153240.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.01 ",
+                "b": "A691i"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Argentina ",
+                "b": "Subsecretaria de Informatica y Desarrollo"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Informe Comision Nacional de Informatica ",
+                "h": "Impresso ",
+                "c": "Subsecretaria de Informatica y Desarrollo"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Buenos Aires ",
+                "b": "Ministerio de Educacion y Justicia, Secretaria de Ciencia y Tecnica, Subsecretaria de Informatica y Desarrollo ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Argentina"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "58"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política de informática ",
+                "z": "Argentina"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política Nacional de Informática ",
+                "z": "Argentina"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

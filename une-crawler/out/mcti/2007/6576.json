@@ -1,0 +1,135 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a"
+        },
+        {
+            "code": "001",
+            "value": "000006576"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "081865502X"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.75(100)(063) ",
+                "b": "I61i ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "International Conference on Systems Integration ",
+                "c": "São Paulo, SP ",
+                "d": "1994 ",
+                "n": "3"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "ICSI '94 ",
+                "b": "proceedings of the Third International Conference on Systems Integration, August 15-19, 1994, São Paulo, SP, Brazil ",
+                "c": "edited by Peter A. Ng ... [et al.] ; sponsored by Instituto Internacional de Integração de Sistemas--IIISis in cooperation with Institute for Integrated Systems Research, Department of Computer and Information Science, New Jersey Institute of Technology"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Los Alamitos ",
+                "b": "IEEE Computer Society Press ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Análise de sistemas ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Ng, Peter A. B ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Gattaz Sobrinho, Fuad ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Ramamoorthy, C. V. ",
+                "d": "1926- ",
+                "q": "Chittoor V. ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Yeh, Raymond Tzuu-Yau ",
+                "d": "1937- ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Seifert, Laurence C ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto Internacional de Integração de Sistemas ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006989"
+        },
+        {
+            "code": "005",
+            "value": "20190709173240.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "081551008X"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.45:004.382 ",
+                "b": "I19 ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Identifying research areas in the computer industry to 1995 ",
+                "c": "edited by Robert F. Cotellessa ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Park Ridge, Estados Unidos ",
+                "b": "Noyes Publications ",
+                "c": "c1984"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xiii, 154 p ",
+                "c": "29 cm ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Trabalhos apresentados no \"Information Technology Workshop, January, 1983 at Leesburg, Va.\" e apoiado pelo National Science Foundation and the Department of Defense."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados ",
+                "x": "Congressos, eventos, encontros ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Cotellessa, Robert F ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "National Science Foundation (Estados Unidos) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Estados Unidos. Department of Defense ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Information Technology Workshop ",
+                "c": "Leesburg, Estados Unidos ",
+                "d": "1983"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

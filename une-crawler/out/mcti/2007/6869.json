@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006869"
+        },
+        {
+            "code": "005",
+            "value": "20190708181640.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "005.591.6 ",
+                "b": "N757g ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Nochteff, Hugo"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Government policies for the data processing industries in Argentina, Brazil and Mexico ",
+                "c": "prepared by Hugo Nochteff ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Organização das Nações Unidas para o Desenvolvimento Industrial ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "45 f."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Regional Meeting for the Initiation of a Regional Netwaork for Microelectronics in the ECLAC Region (REMLAC), Caracas, Venezuela, 3-7 June 1985. IDWG.440/7"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados ",
+                "x": "Política e governo ",
+                "z": "México"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de computador ",
+                "x": "Política e governo ",
+                "z": "México"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

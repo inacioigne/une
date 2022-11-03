@@ -1,0 +1,149 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006234"
+        },
+        {
+            "code": "005",
+            "value": "20190709151014.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "022",
+            "subfield": {
+                "a": "0104-8910"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "336.748.12 ",
+                "b": "B238h ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Barbosa, Fernando de Holanda"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Hiperinflação ",
+                "b": "um arcabouço teórico ",
+                "c": "Fernando de Holanda Barbosa, Elvia Mureb Sallum ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Fundação Getulio Vargas ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "27"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Ensaios econômicos / EPGE ",
+                "v": "n. 409"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Periódico tratado como livro, ISSN 0104-8910"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inflação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Economia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Matemática aplicada a economia"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Sallum, Elvia Mureb ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Fundação Getúlio Vargas ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Fundação Getúlio Vargas. Escola de Pós-Graduação em Economia ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo(Scielo) ",
+                "u": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-71402002000400001 ",
+                "z": "Acesso em: 09/07/2019"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "https://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/12125/000301650.pdf ",
+                "y": "Texto completo (FGV) ",
+                "z": "Acesso em: 09/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

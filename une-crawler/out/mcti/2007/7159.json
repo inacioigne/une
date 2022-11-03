@@ -1,0 +1,112 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007159"
+        },
+        {
+            "code": "005",
+            "value": "20190709182624.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.3:338.45(81) ",
+                "b": "B823ib ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Secretaria Especial de Informática"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Indústria brasileira de hardware ",
+                "b": "desempenho dos segmentos e das empresas no exercício de 1981 ",
+                "c": "Secretaria Especial de Informática ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Secretaria Especial de Informática ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "60 f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "I. Introdução -- II. Análise dos segmentos -- 1. Grandes sistemas -- 2. Minicomputadores -- 3. Microcomputadores -- 4. Periféricos mecânicos -- Modems -- 6. Insumos -- 7. Outros -- III. Análise do setor -- IV. Gráficos -- V. Quadros."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Este é o terceiro relatório elaborado pela Subsecretaria de Estudos e Planejamento, e, como os anteriores, objetivou analisar o desempenho das principais empresas (trinta e uma), que atuam no segmento de \"hardware\" do setor de informática. Os dados contidos no relatório foram extraídos dos demonstrativos contábeis enviados pelas empresas à Secretaria Especial de Informática. Com estes demonstrativos quase sempre trazem apenas os resultados dos dois últimos exercícios, os valores referentes a período anteriores foram colhidos nas fichas cadastrais elaboradas pela SERASA - Centralização de Serviços dos Bancos S/A. No estudo da rentabilidade procurou-se considerar somente o lucro resultante das atividades operacionais, excluindo-se quando possível, as receitas originais de aplicações financeiras no mercado aberto, uma vez que esta atividade não faz parte do objeto social das empresas os percentuais foram calculados tomando como base a Receita Líquida de Vendas e Serviços. A correção monetária do balanço, também, não foi levada em conta na análise, por se tratar de um jogo contábil, cujo resultado depende, exclusivamente, da estrutura patrimonial da empresa (relação entra Patrimônio Líquido e Ativo Permanente) para ser positivo ou negativo."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de computador ",
+                "z": "Brasil ",
+                "x": "1981"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Empresas ",
+                "x": "1981",
+                "z": "Brasil "
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Análise de desempenho ",
+                "x": "1981",
+                "z": "Brasil "
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

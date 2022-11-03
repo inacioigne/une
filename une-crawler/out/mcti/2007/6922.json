@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006922"
+        },
+        {
+            "code": "005",
+            "value": "20190702133140.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "336.226 ",
+                "b": "P861i ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Poterba, James M"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Is the gasoline tax regressive? ",
+                "c": "James M. Poterba ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Cambridge ",
+                "b": "Massachusetts Institute of Technology, Center for Energy Policy Research ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Reino Unido"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "28"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "MIT-CEPR 90-021WP"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gasolina ",
+                "x": "Impostos ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (NBER) ",
+                "u": "https://www.nber.org/papers/w3578.pdf ",
+                "z": "Acesso em: 02/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

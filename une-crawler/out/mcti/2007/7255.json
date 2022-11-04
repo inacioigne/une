@@ -1,0 +1,143 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007255"
+        },
+        {
+            "code": "005",
+            "value": "20190709113343.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:311 ",
+                "b": "B823se ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Secretaria Especial de Informática"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Parque de equipamentos de informatica ",
+                "c": "Secretaria Especial de Informática ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Secretaria Especial de Informática ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "50 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Séries estatísticas ",
+                "v": "1, n. 2"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Teleinformática -- I. Introdução -- Crescimento da base instalada -- III. Valor do parque -- IV. Participação da indústria nacional -- V. Distribuição do parque instalado -- VI. Equipamentos terminais -- VII. Equipamento de comunicação de dados -- VIII. Equipamentos de comutação digital -- Automação Industrial -- I. Introdução -- Crescimento da base instalada -- III. Valor do parque -- IV. Participação da indústria nacional -- V. Distribuição do parque instalado -- VI. Equipamentos de automação da manufatura -- VII. Equipamento de controle de processos -- Empresas que Participaram da Pesquisa -- Índice Remissivo de Tabelas, Quadros e Gráficos."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Este número das Séries Estatísticas a Secretaria Especial de Informática completa os levantamentos sobre o Parque de Equipamentos de Informática, relativos aos anos de 1984, 1985, 1986 e 1987. Os dados que compõem este trabalho foram coletados junto às empresas fornecedoras e fabricantes de equipamentos, no segmento de teleinformática participaram 36 empresas, da quais 30 são nacionais. No segmento de automação industrial participaram 42 empresas, sendo 39 delas nacionais. Dos resultados obtidos vale destacar a ainda pequena participação nacional no segmento de centrais públicas telefônicas tipo CPA. Mesmo assim, a participação vem sendo crescente, detendo as centrais trópico, em 1987, cerca de 8% da quantidade de portas instaladas. No segmento de automação industrial mostram-se expressivas as taxas de crescimento dos controladores programáveis e dos comandos numéricos computadorizados, que juntos representam 57% do valor do parque nesse segmento."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Parque nacional ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telemática ",
+                "x": "Parque nacional ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação industrial ",
+                "x": "Parque nacional ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "774",
+            "subfield": {
+                "t": "1. Uso geral"
+            }
+        },
+        {
+            "code": "774",
+            "subfield": {
+                "t": "I. Crescimento da Base Instalada"
+            }
+        },
+        {
+            "code": "774",
+            "subfield": {
+                "t": "II. Valor do Par"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

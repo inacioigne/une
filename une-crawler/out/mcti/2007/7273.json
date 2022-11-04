@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007273"
+        },
+        {
+            "code": "005",
+            "value": "20190708124150.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.311.21 ",
+                "b": "O31 ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A oferta de energia elétrica ",
+                "b": "tecnologias, custos e disponibilidade : subprojeto, potencial hidrelétrico brasileiro ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "ELETROBRAS ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "43 ",
+                "b": "il., tab."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Plano 2015 ",
+                "v": "Projeto 4"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Usinas hidrelétricas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aproveitamento hidroelétrico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia elétrica ",
+                "z": "Brasil ",
+                "x": "Produção"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "ELETROBRAS ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

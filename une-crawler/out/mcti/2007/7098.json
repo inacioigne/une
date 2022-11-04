@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007098"
+        },
+        {
+            "code": "005",
+            "value": "20190705132204.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.38 ",
+                "b": "N277 ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "National electronics policy ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "1"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Delhi ",
+                "b": "Lok Sabha Secretariat ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "India"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "51 ",
+                "c": "25"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria eletrônica ",
+                "x": "Política e governo ",
+                "z": "Índia"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Índia. Parliament. Lok Sabha. Secretariat. ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

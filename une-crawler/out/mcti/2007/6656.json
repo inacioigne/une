@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006656"
+        },
+        {
+            "code": "005",
+            "value": "20190628123235.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "34:004(063) ",
+                "b": "S471s ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Seminário sobre Politica y Derecho Informaticos ",
+                "c": "Montevideo, Uruguai ",
+                "d": "1989"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Seminário sobre politica y derecho informaticos ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Contaduria General de la Nacion ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "204 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Conferencia de autoridades latinoamericanas de informatica ; Centro regional de enseñanza de informatica de España"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática Jurídica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Direito"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007268"
+        },
+        {
+            "code": "005",
+            "value": "20220623165224.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0104-7434"
+            }
+        },
+        {
+            "code": "022",
+            "subfield": {
+                "a": "0104-7434"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:311 ",
+                "b": "B823p ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Ministério da Ciência e Tecnologia ",
+                "b": "Secretaria de Política de Informática e Automação"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Panorama do setor de informática ",
+                "b": "1991, 1992, 1993, 1994, 1995 ",
+                "h": "Impresso ",
+                "c": "Secretaria de Política de Informática e Automação do Ministério da Ciência e Tecnologia"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Ministério da Ciência e Tecnologia ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "64 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Introdução -- Caracterização das Empresas -- Realização da amostra segundo segmentos -- Realização da amostra segundo porte das empresas -- Origem do capital das empresas pesquisadas -- Porte das empresa pesquisadas -- Início de atividades no setor de informática -- Localização geográfica da matriz das empresa -- Desempenho do Setor de Informática -- Definição de Conteúdo -- Indústria e Serviços de Informática -- Indústria de hardware e software -- Indústria de hardware (processamento de dados, teleinformática, automação industrial, microeletrônica e instrumentação digital) -- Indústria de software -- Serviços Técnicos de Informática -- Distribuição percentual da comercialização líquida em informática -- Distribuição percentual das importações em informática (privados e públicos - federais, estaduais e municipais) -- Resultados Desagregados por Categoria de Produtos -- Comercialização líquida em informática -- Importação em informática -- Exportação em informática -- Recursos Humanos -- Total de empregos diretos -- Empregos diretos de nível superior -- Empresas participantes."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Embora não tenha havido descontinuidade na realização das pesquisas anuais, desde 1994 quando foram publicados resultados para o biênio 1991/92, não foram elaboradas publicações com dados mais atualizados. A divulgação vem ocorrendo através da homepage da SEPIN. Com o presente projeto de construção e publicação das séries históricas de dados agregados, fornecidos pelas empresas o qüinqüênio 1991/95, a SEPIN pretende recuperar uma lacuna atendendo a solicitação diversas oriundas do público usuário de estatísticas do setor de informática brasileiro. No momento, tendo em vista a inadimplência de algumas empresas relevantes para garantia da representatividade da amostra projetada para o ano-base de 1996, ainda não foi possível dar por concluída a etapa de trabalho de campo para atualização da pesquisa Panorama, cujos resultados serão divulgados tão logo seja possível. Em termos de continuidade, com o advento da Internet, tornou-se imperativa a utilização desse mecanismo como facilitador na troca de informações entre o governo e as empresas. Considerando-se o atual grau de disseminação da Internet, a experiência acumulada com a aplicação de formulários eletrônico na pesquisas Panorama para os anos-base de 1993, 94, 95 4 96 e a expectativa já manifestada por algumas empresas, prepara-se a SEPIN para uma implementação integral da fase de coleta de dados via Internet. Na pesquisa atualmente em campo, além do envio de disquete, já foram implementados mecanismos de modo que o aplicativo estivesse disponibilizado pela Internet, via acesso a um servidor FTP para leitura e gravação por parte das empresas."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Pesquisa ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Empresas ",
+                "x": "Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de computador"
+            }
+        },
+        {
+            "code": "774",
+            "subfield": {
+                "t": "1. Uso geral"
+            }
+        },
+        {
+            "code": "774",
+            "subfield": {
+                "t": "I. Crescimento da Base Instalada"
+            }
+        },
+        {
+            "code": "774",
+            "subfield": {
+                "t": "II. Valor do Par"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

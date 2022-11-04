@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a"
+        },
+        {
+            "code": "001",
+            "value": "000007269"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.738.5 ",
+                "b": "M186d ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Maestrelli, Marita"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Dificuldades em simular internet ",
+                "c": "Marita Maestrelli ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro Brasileiro de Pesquisas Físicas ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "17"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Notas Técnicas / CBPF ",
+                "v": "003/07 ",
+                "x": "0101-9201"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "CBPF-NT-003/07"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Este estudo originou do curso de Redes de Computadores, ministrado pelo prof. Ronaldo Moreira Salles do IME em 2006. O tema foi entregue a mim para ser desenvolvido e apresentado em um seminário realizado durante o curso. Durante alguns meses estudei alguns artigos a respeito e me basiei no dos cientistas seniors do ICSI-LBNL1, Sally Floyd e Vern Paxson[3]. A simulação é um meio de obter e/ou prever resultados mais rápidos sem a necessidade de altos custos e grandes deslocamentos, além de manipular dados heterogêneos e muito variáveis. A Internet é uma união de redes que interliga milhões de computadores pelo mundo permitindo, assim, o acesso a informações de todo tipo e transferência de dados, e isso envolve um alto grau de complexidade."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Internet"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Rede de longa distância"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Simulação (Computadores)"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "http://cbpfindex.cbpf.br/publication_pdfs/nt00307.2008_01_04_14_25_50.pdf ",
+                "y": "Texto completo(CBPF) Acesso em: 03/10/13"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

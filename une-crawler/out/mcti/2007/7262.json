@@ -1,0 +1,127 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007262"
+        },
+        {
+            "code": "005",
+            "value": "20190708170529.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:311 ",
+                "b": "B823s ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Secretaria Especial de Informática"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Panorama do setor de informática ",
+                "c": "Secretaria Especial de Informática ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Secretaria Especial de Informática ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "72 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Séries estatísticas ",
+                "v": "v. 2, n. 1"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Estrutura do trabalho -- Panorama geral -- I. Introdução -- II. Faturamento bruto -- III. Importações -- V. Recursos humanos -- Processamento de dados -- I. Dados gerais -- II. Dados de produto -- III. Evolução -- Teleinformática -- I. Dados gerais -- II. Dados de produto -- III. Evolução -- Automação industrial -- I. Dados gerais -- II. Dados de produto -- III. Evolução -- Microeletrônica -- I. Dados gerais -- II. Dados de produto -- III. Evolução -- Programas de computador -- I. Dados gerais -- II. Dados de produto -- III. Evolução -- Instrumentação digital -- I. Dados gerais -- II. Dados de produto -- III. Evolução -- Serviços técnicos de informática -- Anexos dos segmentos industriais -- Empresas que participaram da pesquisa -- Índice remissivo de quadros, tabelas e gráficos."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Nesta terceira publicação das Séries Estatísticas a Secretaria Especial de Informática apresenta uma perspectiva abrangente do Setor de Informática, com ênfase na comercialização, para os anos de 1986, 1987 e 1988. Além dos segmentos já tradicionais de processamento de dados, teleinformática, automação industrial, instrumentação digital e serviços técnicos de informática. Fazem parte agora o Panorama do Setor de Informática os segmentos de microeletrônica e de programas de computador. Adicionalmente, o segmento de serviços técnicos de informática, que na edição anterior do Panorama havia sido objeto de uma primeira avaliação, encontra-se agora analisado com o mesmo rigor metodológico empregado nos demais segmentos. Outra novidade deste Panorama diz respeito às empresas brasileira de capital não nacional, que merecem uma análise mais aprofundada, para permitir estudos comparativos com empresas de capital nacional e para a construção de séries históricas com maior latitude. Os números que estão apresentados no corpo do trabalho são expressivos: as 454 empresas consideradas revelaram uma comercialização da ordem de 5,8 bilhões e segmento de serviços técnicos de informática, pelo restante 1,4 bilhão de dólares. No segmento industrial as empresas brasileiras de capital nacional passaram a responder por 2/3 do faturamento total."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Comércio"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microeletrônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programas de computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Setor de serviços ",
+                "x": "Informática"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

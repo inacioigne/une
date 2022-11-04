@@ -1,0 +1,131 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006538"
+        },
+        {
+            "code": "005",
+            "value": "20190709164723.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8521100043"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "597(811) ",
+                "b": "P578 ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Physiology and biochemistry of the fishes of the Amazon ",
+                "c": "edited by Adalberto Luís Val, Vera Maria F. de Almeida-Val, David John Randall ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Manaus ",
+                "b": "Instituto Nacional de Pesquisas da Amazônia ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xvii, 402 p."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Peixe ",
+                "z": "Amazonas, Rio ",
+                "x": "Filogenia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Bioquímica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Fisiologia"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Val, Adalberto Luís ",
+                "d": "1956- ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Almeida-Val, Vera Maria F. de ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Randall, David J. ",
+                "d": "1938- ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto Nacional de Pesquisas da Amazônia (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

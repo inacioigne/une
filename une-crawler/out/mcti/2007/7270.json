@@ -1,0 +1,125 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007270"
+        },
+        {
+            "code": "005",
+            "value": "20190702110333.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "512.643:004.4 ",
+                "b": "M672i ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Miranda, Alan Tavares"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Introdução ao MATLAB ",
+                "c": "Alan Tavares Miranda, Márcio Portes de Albuquerque e Marcelo Portes de Albuquerque ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro Brasileiro de Pesquisas Físicas ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "18 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Notas Técnicas / CBPF ",
+                "v": "002/07 ",
+                "x": "0101-9201"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "CBPF-NT-002/07"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Matrizes (matemática) ",
+                "x": "Software de aplicação"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Albuquerque, Márcio Portes de ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Albuquerque, Marcelo Portes de ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (CBPF) ",
+                "u": "http://cbpfindex.cbpf.br/publication_pdfs/nt00207.2008_01_04_14_22_44.pdf ",
+                "z": "Acesso em: 21/11/2016"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

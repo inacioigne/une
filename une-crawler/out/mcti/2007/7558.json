@@ -1,0 +1,87 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007558"
+        },
+        {
+            "code": "005",
+            "value": "20190628103541.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "551.588.74:32 ",
+                "b": "I61b ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "International Greenhouse Partnerships (Austrália)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Business plan, 1999-2000 ",
+                "h": "Impresso ",
+                "c": "International Greenhouse Partnerships"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Camberra ",
+                "b": "International Greenhouse Partnerships Office ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "24"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Efeito estufa (Atmosfera) ",
+                "x": "Aspectos economicos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Protocolo de Quioto"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

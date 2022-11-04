@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007436"
+        },
+        {
+            "code": "005",
+            "value": "20190705160245.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.912(81)(063) ",
+                "b": "S587f ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Silveira, Pedro Manoel"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Formatando textos com TEX ",
+                "c": "Pedro Manoel da Silveira ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Universidade Federal do Rio de Janeiro ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "71 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Editor de texto"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aplicativo de tecnologia"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Sociedade Brasileira de Computação. Congresso ",
+                "c": "Rio de Janeiro, RJ ",
+                "d": "1988 ",
+                "n": "8"
+            }
+        },
+        {
+            "code": "711",
+            "subfield": {
+                "a": "Jornada de Atualização em Informática ",
+                "c": "Rio de Janeiro, RJ ",
+                "d": "1988 ",
+                "n": "7"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

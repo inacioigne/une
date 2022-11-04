@@ -1,0 +1,130 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007504"
+        },
+        {
+            "code": "005",
+            "value": "20161123115110.0"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "53 ",
+                "b": "K97r"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Kuznetsova, Zhanna"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Refining the classification of the irreps of the 1D N-extended supersymmetry ",
+                "c": "Zhanna Kuznetsova e Francesco Toppan ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro Brasileiro de Pesquisas Físicas ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "11"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Notas de Física / CBPF ",
+                "x": "0029-3865 ",
+                "v": "20/06"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "In hep-th/0511274 the classification of the fields content of the linear finite irreducible representations of the algebra of the 1D N-Extended Supersymmetric Quantum Mechanics was given. In hep-th/0611060 it was pointed out that certain irreps with the same fields content can be regarded as inequivalent. This result can be understood in terms of the \"connectivity\" properties of the graphs associated to the irreps. We present here a classification of the connectivity of the irreps, refining the hep-th/0511274 classification based on fields content. As a byproduct, we find a counterexample to the hep-th/0611060 claim that the connectivity is uniquely specified by the sources and targets of an irrep graph. We produce one pair of N = 5 irreps and three pairs of N = 6 irreps with the same number of sources and targets which, nevertheless, differ in connectivity."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física quântica"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Toppan, Francesco ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Centro Brasileiro de Pesquisas Físicas ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (CBPF) ",
+                "u": "http://cbpfindex.cbpf.br/publication_pdfs/nf02006.2007_02_12_16_32_39.pdf ",
+                "z": "Acesso em: 23/11/2016"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

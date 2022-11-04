@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007114"
+        },
+        {
+            "code": "005",
+            "value": "20190704133725.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0116307242"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "681.5:007.5 ",
+                "b": "I43m ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Method for evaluating the impact of new office technology systems ",
+                "b": "a structured approach for the consistent and effective evaluation and reporting of the impact of new office systems ",
+                "c": "autor corporativo: HM Treasury (Central Computer and Telecommunications Agency) ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Londres (Inglaterra) ",
+                "b": "Her Majesty's Stationery Office ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Inglaterra"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "25, [19] p ",
+                "c": "30 cm"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Information technology in the civil service ",
+                "v": "no. 6"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Prática de escritório ",
+                "x": "Avaliação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Prática administrativa"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Grã Bretanha. Central Computer and Telecommunications Agency ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007499"
+        },
+        {
+            "code": "005",
+            "value": "20190701140134.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.315.59:339.54 ",
+                "b": "S941 ",
+                "c": "[200-]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Subsidies for the creation of an industrial, technological and foreign trade policy for semiconductors ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Ministério da Ciência e Tecnologia ",
+                "c": "[200-]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "[46] f. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Semicondutores ",
+                "x": "Subsídio"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

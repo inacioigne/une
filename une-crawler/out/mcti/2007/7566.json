@@ -1,0 +1,123 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007566"
+        },
+        {
+            "code": "005",
+            "value": "20190625123849.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "711.4(815.3) ",
+                "b": "P964 ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Projeto GEO cidades ",
+                "b": "relatório ambiental urbano integrado : informe GEO, Rio de Janeiro ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Parceria 21 ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "193 ",
+                "b": "il., grafs., mapas, color."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento sustentável ",
+                "z": "Rio de Janeiro, RJ"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento urbano"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Bem-estar social"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Rio de Janeiro, RJ ",
+                "x": "Aspectos ambientais"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Brasil. Ministério do Meio Ambiente ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Programa das Nações Unidas para o Meio Ambiente ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (UNEP) ",
+                "u": "https://wedocs.unep.org/bitstream/handle/20.500.11822/9118/-Relat%C3%B3rio_Ambiental_Urbano_Integrado_-_GEO_Rio_de_Janeiro-2002GEO_RiodeJaneiro_2002.pdf.pdf?sequence=3&isAllowed=y ",
+                "z": "Acesso em: 25/06/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

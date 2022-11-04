@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007371"
+        },
+        {
+            "code": "005",
+            "value": "20190625112627.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "005.591.6(7/6)(063) ",
+                "b": "O68p ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Programme on industrial automation of the capital goods industry of Latin America, US/RLA/90/004 ",
+                "b": "final report of the official opening meeting, first meeting, Regional Technical Secretariat (SETERE) and first meeting, External Advisory Group (GAEX), Caracas, Venezuela, 15-18 July 1991 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "United Nations Industrial Development Organization, Industrial Planning Branch, Industrial Institutions and Services Division ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "36"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Working papers in industrial planning = Documentos de trabajo sobre planificación industrial ",
+                "v": "n. 6"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Equipamento industrial ",
+                "x": "Automação ",
+                "z": "América Latina"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação industrial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústrias"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

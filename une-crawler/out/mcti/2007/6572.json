@@ -1,0 +1,116 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006572"
+        },
+        {
+            "code": "005",
+            "value": "20190703145701.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0827032846"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "378(8=13) ",
+                "b": "S243s ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Saravia, Enrique"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Los sistemas de educación superior en los paises del MERCOSUR ",
+                "b": "elementos fundamentales y bases para su integración ",
+                "c": "Enrique Saravia ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "Organization of American States ",
+                "c": "1992"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "viii, 70 p. ",
+                "b": "il., tab."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Colección INTERAMER ",
+                "v": "21"
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "MERCOSUL"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ensino superior ",
+                "x": "MERCOSUL"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Universidade ",
+                "x": "MERCOSUL"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

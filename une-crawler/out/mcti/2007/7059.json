@@ -1,0 +1,124 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007059"
+        },
+        {
+            "code": "005",
+            "value": "20190704134622.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.891 ",
+                "b": "C355m ",
+                "c": "[1987?]"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Castro, Murilo Cardoso de"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Uma metodologia para o desenvolvimento de sistemas de informação para o IBGE ",
+                "c": "Murilo Cardoso de Castro ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "[s.n.] ",
+                "c": "[1987?]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. [numeração irregular] ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Participou do 3º Prêmio Nacional de Informática SEI/MODDATA"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "1. Princípios básicos -- 2. Quadro tecnológico de referência -- 3. Como utilizar esses princípios e quadros? -- 4. A busca por qualidade e a metodologia proposta no IBGE -- 5. Conclusão -- Anexo I - Metodologia de desenvolvimento de sistemas -- Norma técnica número 003/87."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "A finalidade deste documento é apresentar as bases e princípios, sobre as quais está se implementando uma metodologia de desenvolvimento de sistemas de informação dentro do IBGE. Ainda se trata de mais uma tentativa de aproximação dessa questão difícil e polêmica, e certamente servirá de base para um debate amplo, visando seu aperfeiçoamento permanente, até poder se transformar em guia e mentor oficial do desenvolvimento da informática no IBGE."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Análise de sistemas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recuperação da informação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de informação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

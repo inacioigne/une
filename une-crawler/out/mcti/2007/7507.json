@@ -1,0 +1,147 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007507"
+        },
+        {
+            "code": "005",
+            "value": "20161213091012.0"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "53 ",
+                "b": "F527 ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "First order semiclassical thermal string in the AdS spacetime ",
+                "c": "H. Belich ... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro Brasileiro de Pesquisas Físicas ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "13 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Notas de Física / CBPF ",
+                "x": "0029-3865 ",
+                "v": "005/07"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "CBPF-NF-005/07"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "We formulate the finite temperature theory for the free thermal excitations of the bosonic string in the anti-de Sitter (AdS) spacetime in the Thermo Field Dynamics (TFD) approach. The spacetime metric is treated exactly while the string and the thermal reservoir are semiclassically quantized at the first order perturbation theory with respect to the dimensionless parameter = a'H-2. In the conformal D = 2+1 black-hole AdS background the quantization is exact. The method can be extended to the arbitrary AdS spacetime only in the first order perturbation. This approximation is taken in the center of mass reference frame and it is justified by the fact that at the first order the string dynamics is determined only by the interaction between the free string oscillation modes and the exact background. The first order thermal string is obtained by thermalization of the T = 0 system carried on by the TFD Bogoliubov operator. We determine the free thermal string states and compute the local entropy and free energy in the center of mass reference frame"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Modelos matemáticos"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Graça, Edison Luiz da ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Santos, Marco Antonio dos ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Vancea, Ion Vasile ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Belich Jr., Humberto ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Centro Brasileiro de Pesquisas Físicas ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (CPBF) ",
+                "u": " http://cbpfindex.cbpf.br/publication_pdfs/NF00507.2010_07_29_17_22_24.pdf ",
+                "z": "Acesso em: 13/12/2016"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

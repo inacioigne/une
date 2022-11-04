@@ -1,0 +1,157 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007509"
+        },
+        {
+            "code": "005",
+            "value": "20190625155212.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "53 ",
+                "b": "Q1 ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Quantum conductance and electrical resistivity ",
+                "c": "P. R. Silva... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro Brasileiro de Pesquisas Físicas ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "7 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Notas de Física / CBPF ",
+                "x": "0029-3865 ",
+                "v": "003/07"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "CBPF-NF-003/07"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "In this work we apply Thompson's method (of the dimensions and scales) to study some features of the Quantum Electro and Chromodynamics. This heuristic method can be considered as a simple and alternative way to the Renormalisation Group (R.G.) approach and when applied to QED-lagrangian is able to obtain in a first approximation both the running coupling constant behavior of $\\alpha (\\mu)$ and the mass $m(\\mu)$. The calculations are evaluated just at $d_c=4$, where $d_c$ is the upper critical dimension of the problem, so that we obtain the logarithmic behavior both for the coupling $\\alpha$ and the excess of mass $\\Delta m$ on the energy scale $\\mu$. Although our results are well-known in the vast literature of field theories, the advantage of Thompson's method, beyond its simplicity is that it is able to extract directly from QED-lagrangian the physical (finite) behavior of $\\alpha(\\mu)$ and $m(\\mu)$, bypassing hard problems of divergences which normally appear in the conventional renormalisation schemes applied to field theories like QED. Quantum Chromodynamics (QCD) is also treated by the present method in order to obtain the quark condensate value. Besides this, the method is also able to evaluate the vacuum pressure at the boundary of the nucleon. This is done by assumming a step function behavior for the running coupling constant of the QCD, which fits nicely to some quantities related to the strong interaction evaluated through the \\it{\\bf{MIT}-bag model \\/}."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Modelos matemáticos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Resistência elétrica"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Nassif, Cláudio ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Sampaio, Marcos ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Nemes, M. C ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Silva, P. R. ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Centro Brasileiro de Pesquisas Físicas ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (CBPF) ",
+                "u": "http://cbpfindex.cbpf.br/publication_pdfs/NF02206.2010_07_29_12_50_55.pdf ",
+                "z": "Acesso em: 13/12/2016"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

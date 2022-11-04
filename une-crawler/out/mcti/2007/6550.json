@@ -1,0 +1,72 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a"
+        },
+        {
+            "code": "001",
+            "value": "000006550"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "910.4(81:99) ",
+                "b": "S384b"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Schuch, Luiz Alexandre"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "O Brasil na Antártica ",
+                "b": "uma metodologia educativa, suplemento de trabalho"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Santa Maria ",
+                "b": "Universidade Federal de Santa Maria ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "76 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Antártica ",
+                "x": "Estudo e ensino"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

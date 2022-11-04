@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007097"
+        },
+        {
+            "code": "005",
+            "value": "20190628152041.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(7/8=13) ",
+                "b": "L431s ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Lazcano Freiria, Fernando"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Situación de la informática en Latinoamérica ",
+                "c": "[Fernando Lazcano Freiria] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Montevideo ",
+                "b": "Associação Latino-Americana de Integração ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Uruguai"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xi, 217 p ",
+                "c": "30"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Política e governo ",
+                "z": "América Latina"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Associação Latino-Americana de Integração ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

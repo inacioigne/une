@@ -1,0 +1,112 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007403"
+        },
+        {
+            "code": "005",
+            "value": "20190702131405.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.382.2(73) ",
+                "b": "F293 ",
+                "c": "[1989]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The federal high performance computing program ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Washington (Distrito de Colúmbia, Estados Unidos)] ",
+                "b": "Executive Office of the President, Office of Science and Technology Policy ",
+                "c": "[1989]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Estados Unidos"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "v, 53, 29 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "A detailed program plan to supplement the five-year strategy recommended in: United States. Office of Science and Technology Policy. A research and development strategy"
+            }
+        },
+        {
+            "code": "630",
+            "subfield": {
+                "a": "Federal High Performance Computing Program (Estados Unidos)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Supercomputador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programa de governo ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Estados Unidos. Office of Science and Technology Policy ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

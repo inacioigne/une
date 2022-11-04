@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007515"
+        },
+        {
+            "code": "005",
+            "value": "20190702154937.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "551.509.1(043.3) ",
+                "b": "P386t ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Pellegrino, Sergio Roberto Matiello"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Traçado de cartas sinóticas e sua análise parcial por computador ",
+                "c": "Sergio Roberto Matiello Pellegrino ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Campinas] ",
+                "b": "Instituto Nacional de Pesquisas Espaciais ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "[127] p. ",
+                "b": "il., grav."
+            }
+        },
+        {
+            "code": "502",
+            "subfield": {
+                "a": "Dissertação (mestrado) - Instituto Nacional de Pesquisas Espaciais, São José dos Campos, SP , 1986"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Apresenta-se um sistema gráfico denominado SINÓGRAFO para o uso especifico em traçado e análise parcial de cartas sinóticas por computa dor. Esta nova ferramenta automática pode substituir o processo manual, com a principal vantagem de fornecer um resultado final com boa clareza visual e grande precisão, o que elimina as dúvidas outrora existentes na interpretação dos símbolos meteorológicos que compõem as cartas sinóticas e permite a obtenção de quantas cópias forem necessárias. Todo o trabalho foi desenvolvido pensando tanto na portabilidade do sistema, (escrito em FORTRAN ANS) como na utilização de todo o potencial da \"plotter\" CALCOMP1051, o que permite que as cartas sejam desenhadas em cores, ressaltando desta forma as informações mais relevantes. De modo a tornar o resultado competitivo com o processo manual, buscou-se que o tempo gasto no traçado fosse o menor possível, isto é, o tempo total gasto em todo o processo (processamento, traçado e anã lise automática) depende do número de estações a serem traçadas; contudo este não ultrapassa a trinta minutos em uma carta que contenha o máximo de estações cadastradas."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aplicativo de tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computação gráfica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Meteorologia sinótica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dissertações/Teses/TCC"
+            }
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007061"
+        },
+        {
+            "code": "005",
+            "value": "20190627114007.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.056.55(063) ",
+                "b": "S471r ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Seminário de Técnicas Criptográficas ",
+                "c": "Brasília, DF ",
+                "d": "1990 ",
+                "n": "1"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Relatório do Seminário de Técnicas Criptográficas ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Secretaria Especial de Informática ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "56"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Apresentação -- I. Constituição do seminário e metodologia de trabalho -- I.1. Constituição do seminário -- I.2. Metodologia de trabalho -- II. Levantamento e diagnóstico da situação atual -- II.1. Aspectos científicos da criptologia -- II.2. Aspectos de mercado de produtos e segurança de dados -- II.3. Aspectos normativos da criptologia nacional -- III. Considerandos e recomendações -- III.1. Aspectos científicos da criptologia -- III.2. Aspectos de mercado de produtos de segurança de dados -- III.3. Aspectos normativos da criptologia nacional -- IV. Lista de participantes -- V. Tutoriais -- V.1. A criptologia: ambiente externo e interno -- V.2 - Segurança de comunicações -- V.3. Segurança de voz -- V.4. Segurança de dados -- V.5. Algoritmos de fatoração e testes de primalidade -- V.6. Complexidade linear -- V.7. Uma identificação criptográfica compacta do tipo \"zero knowleage\"."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "A Lei nº 7.323, de 29 de outubro de 1984, que dispõe sobre a Política Nacional de Informática, no inciso VIII do seu Artigo 2º, prevê o estabelecimento de mecanismos e instrumentos legais e técnicos para a proteção e sigilo dos dados armazenados, processados e veiculados, do interesse da privacidade e da segurança das pessoas físicas jurídicas, privadas e públicas. A Secretaria Especial de Informática - SEI, vem acompanhando e incentivando o desenvolvimento do segmento de Proteção de dados, através de diversas iniciativas. Assim, em 1985 foi constituída uma Comissão Especial, de caráter temporário, integrada por representantes de diversos órgãos Governamentais, Entidades Associativas de Classe, Universidades e Centros de Pesquisa, com o objetivo de realizar estudo específicos relacionado a questões, de caráter técnico inerentes à matéria. Os trabalhos da Comissão Especial de Proteção de dados desenvolveram-se no período de setembro de 1985 a 30 de janeiro de 1986, quando foi apresentado o Relatório, que vem sendo usado pela comunidade interessado como documento de referência, onde foram abordados os diversos subsegmentos em que se pode subdividir a Proteção de Dados, a saber: - Segurança lógica; - Segurança das comunicações; - Segurança física das instalações; - Auditoria de sistemas."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Criptografia ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Segurança ",
+                "x": "Comunicação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Proteção de dados"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

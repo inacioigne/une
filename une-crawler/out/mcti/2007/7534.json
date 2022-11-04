@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007534"
+        },
+        {
+            "code": "005",
+            "value": "20190702122201.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "33 ",
+                "b": "B265c ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Baron, Richard"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The commitment period reserve ",
+                "c": "Richard Baron ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Organisation de coopération et de développement économiques ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "França"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "29"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "OECD and IEA information paper"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Economia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Reserva de mercado"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (OECD) ",
+                "u": "http://www.oecd.org/environment/cc/2468753.pdf ",
+                "z": "Acesso em: 02/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

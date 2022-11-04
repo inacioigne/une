@@ -1,0 +1,135 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007505"
+        },
+        {
+            "code": "005",
+            "value": "20190708140619.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "53 ",
+                "b": "T675o ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Toppan, Francesco"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "On the irreps of the N-extended supersymmetric quantum mechanics and their fusion graphs ",
+                "c": "Francesco Toppan ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro Brasileiro de Pesquisas Físicas ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "8"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Notas de Física / CBPF ",
+                "x": "0029-3865 ",
+                "v": "019/96"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "In this talk we review the classification of the irreducible representations of the algebra of the N-extended one-dimensional supersymmetric quantum mechanics presented in hep-th/0511274. We answer some issues raised in hep-th/0611060, proving the agreement of the results here contained with those in hep-th/0511274. We further show that the fusion algebra of the 1D N-extended supersymmetric vacua introduced in hep-th/0511274 admits a graphical presentation. The N = 2 graphs are here explicitly presented for the first time."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física quântica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Álgebra"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Centro Brasileiro de Pesquisas Físicas ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (CBPF) ",
+                "u": "http://cbpfindex.cbpf.br/publication_pdfs/nf01906.2007_01_16_15_57_12.pdf ",
+                "z": "Acesso em: 07/11/2016"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

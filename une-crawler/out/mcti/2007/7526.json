@@ -1,0 +1,99 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007526"
+        },
+        {
+            "code": "005",
+            "value": "20190701180939.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:34 ",
+                "b": "U58c ",
+                "c": "[198-]"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "União Brasileira de Informática Pública"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Comissão informática e constituinte ",
+                "b": "documento de trabalho I : resumo de painéis-debates ",
+                "h": "Impresso ",
+                "c": "União Brasileira de Informática Pública"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "União Brasileira de Informática Pública ",
+                "c": "[198-]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "73"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Assembléias constituintes"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Direito"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

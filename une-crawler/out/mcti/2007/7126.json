@@ -1,0 +1,92 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007126"
+        },
+        {
+            "code": "005",
+            "value": "20190701150656.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0642080542"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "681.5:007.5 ",
+                "b": "T255ch ",
+                "c": "[1985]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Technological change ",
+                "b": "impact of information technology: 1985 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Camberra ",
+                "b": "National Information Technology Council ",
+                "c": "[1985]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Austrália"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "92"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mudança tecnológica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informação tecnológica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

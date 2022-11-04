@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006861"
+        },
+        {
+            "code": "005",
+            "value": "20190702132228.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.3.049.77(410) ",
+                "b": "M163i ",
+                "c": "1978"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "McLean, Mick"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The impact of microelectronics on the UK ",
+                "b": "a suggested classification and illustrative case studies ",
+                "c": "J. M. McLean, H. J. Rush ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Chichester, West Sussex, Inglaterra ",
+                "b": "University of Sussex , Science Policy Research Unit ",
+                "c": "1978"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Inglaterra"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "SPRU Occasional papers series ",
+                "v": "no. 7"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microeletrônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústrias"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Rush, Howard ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

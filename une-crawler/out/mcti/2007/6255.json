@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006255"
+        },
+        {
+            "code": "005",
+            "value": "20190703160008.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "608.3(035) ",
+                "b": "U58m ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Universidade de São Paulo. Faculdade de Ciências Farmacêuticas"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Manual de biossegurança ",
+                "h": "Impresso ",
+                "c": "Faculdade de Ciências Farmacêuticas da Universidade de São Paulo"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Universidade de São Paulo ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "73"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biossegurança ",
+                "x": "Manual"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biotecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Normas de segurança"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

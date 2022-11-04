@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000006385"
+        },
+        {
+            "code": "005",
+            "value": "20190621165103.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "51:378.046-021.68 ",
+                "b": "P855 ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Pós-graduação no IMPA ",
+                "b": "mestrado e doutorado em matemática pura e aplicada"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Instituto Nacional de Matemática Pura e Aplicada ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "103 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Direção e corpo docente -- Dados gerais -- O IMPA -- Atividades do IMPA -- Ensino -- Admissão e bolsas -- Informações diversas -- Mestrado em matemática -- Doutorado em matemática -- Programas das disciplinas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pós-graduação ",
+                "x": "Instituto de Matemática Pura e Aplicada (Brasil)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Matemática ",
+                "x": "Pós-graduação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

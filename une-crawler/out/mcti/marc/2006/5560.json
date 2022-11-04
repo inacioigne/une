@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005560",
+        "005": "20190730105101.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "338.45:004(81)",
+            "b": "D192c",
+            "c": "[199-]"
+        },
+        "100": {
+            "a": "Dantas, Marcos Loureiro"
+        },
+        "245": {
+            "a": "O crime de Prometeu",
+            "b": "como o Brasil obteve a tecnologia da informatica",
+            "c": "Marcos Loureiro Dantas",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Associação Brasileira das Indústrias de Computadores e Periféricos",
+                "c": "[199-]"
+            }
+        ],
+        "300": [
+            {
+                "a": "112"
+            }
+        ],
+        "650": [
+            {
+                "a": "Política de informática",
+                "z": "Brasil"
+            },
+            {
+                "a": "Informática",
+                "x": "História"
+            },
+            {
+                "a": "Indústria de computador"
+            }
+        ],
+        "710": [
+            {
+                "a": "Associação Brasileira da Indústria de Computadores e Periféricos",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

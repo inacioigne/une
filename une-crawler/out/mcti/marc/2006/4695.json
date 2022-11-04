@@ -1,0 +1,80 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004695",
+        "005": "20220224163717.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "336.143.2(82)",
+            "b": "A691p",
+            "c": "1998-2000"
+        },
+        "110": {
+            "a": "Argentina",
+            "b": "Gabinete Científico Tecnológico"
+        },
+        "245": {
+            "a": "Plan Nacional Plurianual de Ciencia y Tecnología 1998-2000. Doc. no. 2, Programa para la Producción Agroindustrial",
+            "h": "Impresso",
+            "c": "Gabinete Científico Tecnológico da Argentina"
+        },
+        "260": [
+            {
+                "a": "[Buenos Aires]",
+                "b": "República Argentina, Gabinete Científico-Tecnológico",
+                "c": "1997"
+            }
+        ],
+        "300": [
+            {
+                "a": "98",
+                "b": "il., grafs."
+            }
+        ],
+        "490": [
+            {
+                "a": "Plan Nacional Plurianual de Ciencia y Tecnología 1998-2000",
+                "v": "documento nº 2"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programa de governo",
+                "z": "Argentina"
+            },
+            {
+                "a": "Projeto de desenvolvimento",
+                "z": "Argentina"
+            },
+            {
+                "a": "Desenvolvimento científico"
+            },
+            {
+                "a": "Desenvolvimento tecnológico"
+            },
+            {
+                "a": "Desenvolvimento agroindustrial",
+                "z": "Argentina"
+            }
+        ],
+        "710": [
+            {
+                "a": "Argentina. Secretaría de Ciencia y Tecnología",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Argentina. Secretaría de Agricultura, Ganadería, Pesca y Alimentación",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

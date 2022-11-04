@@ -1,0 +1,91 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000992",
+        "005": "20190806172429.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "8573001453"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502/504(81)",
+            "b": "G342",
+            "c": "=111",
+            "d": "2002"
+        },
+        "245": {
+            "a": "GEO Brazil 2002",
+            "b": "environment outlook in Brazil",
+            "c": "Thereza Christina Santos, João Batista Drummond Câmara, organizers",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis",
+                "c": "2002"
+            }
+        ],
+        "300": [
+            {
+                "a": "447",
+                "b": "il., fotos.",
+                "e": "+1 CD-ROM"
+            }
+        ],
+        "650": [
+            {
+                "a": "Meio ambiente",
+                "z": "Brasil"
+            },
+            {
+                "a": "Biodiversidade",
+                "z": "Brasil"
+            },
+            {
+                "a": "Política ambiental",
+                "z": "Brasil"
+            },
+            {
+                "a": "Proteção ambiental",
+                "z": "Brasil"
+            },
+            {
+                "a": "Recursos naturais",
+                "z": "Brasil"
+            },
+            {
+                "a": "Recursos hídricos",
+                "z": "Brasil"
+            },
+            {
+                "a": "Florestas",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Programa das Nações Unidas para o Meio Ambiente",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Brasil. Ministério do Meio Ambiente",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

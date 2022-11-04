@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005338",
+        "005": "20190807100750.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "090": {
+            "a": "621.39:004.7",
+            "b": "B931o",
+            "c": "1980"
+        },
+        "100": {
+            "a": "Buhr, R. J. A"
+        },
+        "245": {
+            "a": "Open system interconnection",
+            "b": "application issues associated with the ISO and CCITT layered models",
+            "h": "Impresso",
+            "c": "R. J. A Buhr, Samy A Mahmoud, Kalman Csaba Toth"
+        },
+        "260": [
+            {
+                "a": "Ottawa",
+                "b": "Microprocessor Systems Development Laboratory",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "141",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Prepared for the Dept. of Communications under contract OSU79-00173 \"Open system architecture\". Microprocessor Systems Development Laboratory Department of Systems Engineenring and Computing Science Carleton University, MSDL Tech NOte 79-1 (DOC), march 31, 1980."
+            }
+        ],
+        "650": [
+            {
+                "a": "Terminal inteligente"
+            },
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Transferência de informação"
+            },
+            {
+                "a": "Rede de telecomunicação"
+            }
+        ],
+        "700": [
+            {
+                "a": "Mahmoud, Samy A",
+                "e": "Coautor"
+            },
+            {
+                "a": "Toth, Kalman Csaba",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

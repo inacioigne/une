@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004704",
+        "005": "20190808150119.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "504(81)",
+            "b": "P962",
+            "c": "[1990?]"
+        },
+        "245": {
+            "a": "Problemas ambientais brasileiros",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[São Paulo]",
+                "b": "Fundação Salim Farah Maluf",
+                "c": "[1990?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "143",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Geografia humana",
+                "z": "Brasil"
+            },
+            {
+                "a": "Degradação ambiental",
+                "x": "Efeito estufa (Atmosfera)"
+            }
+        ],
+        "651": [
+            {
+                "a": "Amazônia",
+                "x": "Conservação da natureza"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

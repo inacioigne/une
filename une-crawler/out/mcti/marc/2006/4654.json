@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004654",
+        "005": "20190801120402.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "376(100)(063)",
+            "b": "S471s",
+            "c": "2001"
+        },
+        "111": {
+            "a": "Seminário Internacional Sociedade Inclusiva",
+            "c": "Belo Horizonte, MG",
+            "d": "1999"
+        },
+        "245": {
+            "a": "Seminário internacional sociedade inclusiva",
+            "b": "anais",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Belo Horizonte",
+                "b": "Pontifícia Universidade Católica de Minas Gerais",
+                "c": "2001"
+            }
+        ],
+        "300": [
+            {
+                "a": "294"
+            }
+        ],
+        "650": [
+            {
+                "a": "Deficientes",
+                "x": "Educação"
+            },
+            {
+                "a": "Educação especial"
+            },
+            {
+                "a": "Inclusão social"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

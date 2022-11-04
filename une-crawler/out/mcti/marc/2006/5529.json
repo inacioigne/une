@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005529",
+        "005": "20190812115445.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "2110011254"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "62-027.15",
+            "b": "N384",
+            "c": "1983"
+        },
+        "245": {
+            "a": "Négocier l'ordinateur?",
+            "b": "la concertation sur les nouvelles technologies dans l'entreprise",
+            "h": "Impresso",
+            "c": "Association pour la Recherche Sur L'emploi des Techniques (França)"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "La Documentation Française",
+                "c": "1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "187"
+            }
+        ],
+        "490": [
+            {
+                "a": "Informatisation et société",
+                "v": "14"
+            }
+        ],
+        "650": [
+            {
+                "a": "Indústrias",
+                "x": "Informática"
+            },
+            {
+                "a": "Computadores",
+                "x": "Direito"
+            },
+            {
+                "a": "Informática",
+                "x": "Aspectos sociais",
+                "z": "França"
+            }
+        ],
+        "710": [
+            {
+                "a": "Association pour la Recherche Sur L'emploi des Techniques",
+                "c": "França",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

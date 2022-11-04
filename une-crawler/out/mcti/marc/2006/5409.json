@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005409",
+        "005": "20190801163635.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "338.45:621.315.59",
+            "b": "B858e",
+            "c": "1989"
+        },
+        "100": {
+            "a": "Brinco, Ricardo",
+            "d": "1947-"
+        },
+        "245": {
+            "a": "Um estudo sobre a indústria internacional de componentes semicondutores digitais",
+            "c": "Ricardo Brinco",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Porto Alegre",
+                "b": "Fundação de Economia e Estatística Siegfried Emanuel Heuser",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "211",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Série 15 anos FEE",
+                "v": "v. 2"
+            }
+        ],
+        "650": [
+            {
+                "a": "Semicondutores",
+                "x": "Indústria"
+            },
+            {
+                "a": "Microeletrônica"
+            },
+            {
+                "a": "Circuito integrado"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002119",
+        "005": "20190813125921.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.356.2(035)",
+            "b": "C397",
+            "c": "=134.3",
+            "d": "1998"
+        },
+        "245": {
+            "a": "Centreware, instruções de operação dos serviços da internet (vs. 3.0)",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[New York]",
+                "b": "Xerox Corporation",
+                "c": "1998"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (paginação irregular)"
+            }
+        ],
+        "650": [
+            {
+                "a": "Equipamento periférico",
+                "x": "Impressora"
+            },
+            {
+                "a": "Manual do usuário"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

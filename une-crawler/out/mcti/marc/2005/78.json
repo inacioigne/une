@@ -1,0 +1,127 @@
+{
+    "controfield": {
+        "000": "01495cam  22003014a 4500",
+        "001": "000000078",
+        "005": "20190812174714.0",
+        "007": "t",
+        "008": "010327s2001    enka     b    001 0 eng"
+    },
+    "datafield": {
+        "010": {
+            "a": "2001025973"
+        },
+        "020": {
+            "a": "0521015022 (pbk.)"
+        },
+        "040": {
+            "a": "DLC",
+            "c": "DLC",
+            "d": "BR-BrMCT"
+        },
+        "042": {
+            "a": "pcc"
+        },
+        "050": {
+            "a": "QC981.8.C5",
+            "b": "C511343 2001"
+        },
+        "082": {
+            "2": "21",
+            "a": "363.738/747"
+        },
+        "090": {
+            "a": "551.583",
+            "b": "C639m",
+            "c": "2001"
+        },
+        "245": {
+            "a": "Climate change 2001",
+            "b": "mitigation : contribution of Working Group III to the third assessment report of the Intergovernmental Panel on Climate Change",
+            "c": "editado por: Bert Metz ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Cambridge University Press",
+                "c": "2001"
+            }
+        ],
+        "270": [
+            {
+                "d": "Estados Unidos"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 752 p.",
+                "b": "il., (algumas color.)",
+                "c": "29",
+                "e": "1 CD-ROM"
+            }
+        ],
+        "500": [
+            {
+                "a": "Acompanha um CD-ROM"
+            }
+        ],
+        "650": [
+            {
+                "a": "Mudanças climáticas",
+                "x": "Política e governo"
+            },
+            {
+                "a": "Efeito estufa (Atmosfera)",
+                "x": "Mitigação"
+            },
+            {
+                "a": "Climatologia"
+            },
+            {
+                "a": "Ecologia"
+            },
+            {
+                "a": "Aquecimento global"
+            }
+        ],
+        "700": [
+            {
+                "a": "Metz, Bert",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Painel Intergovernamental em Mudança do Clima. Working Group III",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\78-Climate_change_2001-mitigacao-Sumario_Tecnico.pdf",
+            "y": "Texto completo (MCTIC)",
+            "z": "Acesso em: 07/12/12"
+        },
+        "906": {
+            "a": "7",
+            "b": "cbc",
+            "c": "orignew",
+            "d": "1",
+            "e": "ocip",
+            "f": "20",
+            "g": "y-gencatlg"
+        },
+        "925": {
+            "a": "acquire",
+            "b": "2 shelf copies",
+            "x": "policy default"
+        },
+        "955": {
+            "a": "jp00 2002-01-15",
+            "f": "jp20 2002-01-16 (2 copies) to SL",
+            "g": "jp14 2002-01-17 (2 copies) to BCCD"
+        },
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

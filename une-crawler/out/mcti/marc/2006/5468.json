@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005468",
+        "005": "20190807111949.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8521604041"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.382.7",
+            "b": "F814i",
+            "c": "1985"
+        },
+        "100": {
+            "a": "França, Paulo Bianchi"
+        },
+        "245": {
+            "a": "Introdução aos (micro) computadores",
+            "b": "micros, computadores, informática e processamento de dados",
+            "c": "Paulo Bianchi França ; com a colaboração de: Andrea Garcia França e Ricardo Garcia França",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Livros Técnicos e Científicos",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "122",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Microcomputador"
+            },
+            {
+                "a": "Software"
+            }
+        ],
+        "700": [
+            {
+                "a": "França, Andrea Garcia",
+                "e": "Colaborador"
+            },
+            {
+                "a": "França, Ricardo Garcia",
+                "e": "Colaborador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

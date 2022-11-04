@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005834",
+        "005": "20190809141635.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "2040157239"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.272",
+            "b": "R274a",
+            "c": "1984"
+        },
+        "100": {
+            "a": "Raynald, Michel"
+        },
+        "245": {
+            "a": "Algorithmique du parallélisme",
+            "b": "le problème de l'exclusion mutuelle",
+            "c": "par Michel Raynal; préface de Gérard Roucairol",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Association française pour la cybernétique économique et technique",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 160 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Monographie Afcet-informatique"
+            },
+            {
+                "a": "Monographie Afcet-informatique"
+            }
+        ],
+        "650": [
+            {
+                "a": "Processamento paralelo"
+            },
+            {
+                "a": "Algoritmos"
+            },
+            {
+                "a": "Informática",
+                "x": "Processamento distribuído"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

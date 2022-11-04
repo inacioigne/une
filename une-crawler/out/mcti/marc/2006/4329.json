@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004329",
+        "005": "20190807110722.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "519.852",
+            "b": "P977i",
+            "c": "1978"
+        },
+        "100": {
+            "a": "Puccini, Abelardo de Lima",
+            "d": "1942-"
+        },
+        "245": {
+            "a": "Introdução à programação linear",
+            "c": "Abelardo de Lima Puccini",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Livros Técnicos e Científicos",
+                "c": "1978"
+            }
+        ],
+        "300": [
+            {
+                "a": "252",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Aplicações de computadores"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação linear"
+            },
+            {
+                "a": "Álgebra linear"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

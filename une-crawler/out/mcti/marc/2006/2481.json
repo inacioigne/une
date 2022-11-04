@@ -1,0 +1,54 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002481",
+        "005": "20190813094044.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6(81)",
+            "b": "C569",
+            "c": "1999",
+            "d": "MCT"
+        },
+        "100": {
+            "a": "Sardenberg, Ronaldo Mota"
+        },
+        "245": {
+            "a": "Ciência, tecnologia e inovação",
+            "b": "discursos selecionados (do) Ministro Ronaldo Mota Sardenberg",
+            "h": "Impresso",
+            "c": "Ronaldo Mota Sardenberg"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Ministério da Ciência e Tecnologia",
+                "c": "1999"
+            }
+        ],
+        "300": [
+            {
+                "a": "63"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Discursos, ensaios, conferências"
+            },
+            {
+                "a": "Inovação tecnológica",
+                "x": "Discursos, ensaios, conferências"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

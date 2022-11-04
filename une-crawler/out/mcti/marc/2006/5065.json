@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005065",
+        "005": "20190813155636.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "62:37(81)(063)",
+            "b": "A849c",
+            "c": "1995"
+        },
+        "111": {
+            "a": "Congresso Brasileiro de Ensino de Engenharia",
+            "c": "Recife, PE",
+            "d": "1995",
+            "n": "23"
+        },
+        "245": {
+            "a": "COBEGE 95",
+            "b": "xxiii congresso brasileiro de ensino de engenharia",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Recife",
+                "b": "Universidade Federal de Pernambuco",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "566"
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "710": [
+            {
+                "a": "Universidade Federal de Pernambuco",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Universidade Católica de Pernambuco",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Associação Brasileira de Ensino de Engenharia",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

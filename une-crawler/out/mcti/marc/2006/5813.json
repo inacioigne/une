@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005813",
+        "005": "20180719140614.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.395(063)",
+            "b": "S471d",
+            "c": "1994"
+        },
+        "111": {
+            "a": "Seminário de Rede Externa do Sistema Telebrás",
+            "c": "Brasília, DF",
+            "d": "1994",
+            "n": "11"
+        },
+        "245": {
+            "a": "XI Seminário de Rede Externa do Sistema Telebrás",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Telebras",
+                "c": "1994"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "482",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Telefonia",
+                "x": "Engenharia elétrica"
+            },
+            {
+                "a": "Rede de telecomunicação"
+            }
+        ],
+        "710": [
+            {
+                "a": "Telebras",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

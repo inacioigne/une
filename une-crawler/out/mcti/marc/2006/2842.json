@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002842",
+        "005": "20190809155917.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0201144719"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.651",
+            "b": "D232i",
+            "c": "1981"
+        },
+        "100": {
+            "a": "Date, C. J",
+            "d": "1941-"
+        },
+        "245": {
+            "a": "An introduction to database systems",
+            "c": "C. J. Date",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "3. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Reading, Massachusetts",
+                "b": "Addison-Wesley",
+                "c": "1981"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxviii, 572 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "The Systems programming series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema de gerenciamento de banco de dados"
+            },
+            {
+                "a": "Banco de dados relacionais"
+            },
+            {
+                "a": "Armazenamento de dados"
+            },
+            {
+                "a": "Estrutura de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

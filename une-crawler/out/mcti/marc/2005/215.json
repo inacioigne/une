@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000215",
+        "005": "20190726131157.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.65:001.89(52)",
+            "b": "R432",
+            "c": "1980"
+        },
+        "245": {
+            "a": "Research on scientific information systems in Japan",
+            "c": "edited by Hiroshi Inose",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Tokyo",
+                "b": "University of Tokyo",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "257 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema de informação",
+                "z": "Japão"
+            },
+            {
+                "a": "Pesquisa científica",
+                "z": "Japão"
+            },
+            {
+                "a": "Sistema de gerenciamento de banco de dados",
+                "x": "Pesquisa científica",
+                "z": "Japão"
+            },
+            {
+                "a": "Rede de computador",
+                "z": "Japão"
+            },
+            {
+                "a": "Informática",
+                "x": "Formação profissional",
+                "z": "Japão"
+            }
+        ],
+        "700": [
+            {
+                "a": "Inose, Hiroshi",
+                "d": "1927-",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

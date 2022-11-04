@@ -1,0 +1,73 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005654",
+        "005": "20190807191422.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0745801099"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.43'4'423",
+            "b": "A164",
+            "c": "1987"
+        },
+        "245": {
+            "a": "Abstract interpretation of declarative languages",
+            "c": "editors, Samson Abramsky and Chris Hankin",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Chichester, West Sussex, Inglaterra",
+                "b": "E. Horwood"
+            },
+            {
+                "a": "Nova Iorque",
+                "b": "Halsted Press",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "284",
+                "c": "25 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Ellis Horwood books in computing science, series in computers and their applications"
+            }
+        ],
+        "650": [
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "Semântica"
+            },
+            {
+                "a": "Compilador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Abramsky, Samson",
+                "d": "1953-",
+                "e": "Editor"
+            },
+            {
+                "a": "Hankin, Chris",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

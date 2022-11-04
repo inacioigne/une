@@ -1,0 +1,52 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002893",
+        "005": "20190809155330.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.6:657.6",
+            "b": "P655a",
+            "c": "1966"
+        },
+        "100": {
+            "a": "Pinkney, A"
+        },
+        "245": {
+            "a": "An audit approach to computers",
+            "c": "A. Pinkney",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Londres (Inglaterra)",
+                "b": "The Institute of Chartered Accountants in England and Wales",
+                "c": "1966"
+            }
+        ],
+        "300": [
+            {
+                "a": "159",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Empresas"
+            },
+            {
+                "a": "Sistema de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

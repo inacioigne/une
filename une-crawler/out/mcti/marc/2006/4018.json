@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004018",
+        "005": "20190802103700.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0080285694"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.382.2",
+            "b": "S959",
+            "c": "1982"
+        },
+        "245": {
+            "a": "Supercomputer systems technology",
+            "c": "Editor: F. Sumner",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Berkshire, [Inglaterra]",
+                "b": "Pergamon Infotech",
+                "c": "1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "455",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "State of the art report",
+                "v": "série 10, n. 6"
+            }
+        ],
+        "650": [
+            {
+                "a": "Supercomputador"
+            },
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Tecnologia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Sumner, F",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

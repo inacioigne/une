@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004246",
+        "005": "20190807145403.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "2110008792"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.39:025.4.036",
+            "b": "G276t",
+            "c": "1982"
+        },
+        "100": {
+            "a": "Gauthronet, Serge"
+        },
+        "245": {
+            "a": "La télématique des autres",
+            "b": "les expériences de vidéotex en Europe",
+            "c": "Serge Gauthronet ; préface de François Régis Hutin",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "La Documentation Française",
+                "c": "1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "164"
+            }
+        ],
+        "490": [
+            {
+                "a": "Informatisation et société",
+                "v": "13"
+            }
+        ],
+        "650": [
+            {
+                "a": "Videotexto",
+                "z": "Europa"
+            },
+            {
+                "a": "Terminal de video"
+            },
+            {
+                "a": "Sistema de informação"
+            },
+            {
+                "a": "Telecomunicações"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005822",
+        "005": "20190729134454.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "519.852",
+            "b": "P977p",
+            "c": "1987"
+        },
+        "100": {
+            "a": "Puccini, Abelardo de Lima",
+            "d": "1942-"
+        },
+        "245": {
+            "a": "Programação linear",
+            "c": "Abelardo de Lima Puccini, Nélio Domingues Pizzolato",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Livros Técnicos e Científicos",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "248",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Aplicações de computadores"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação linear"
+            },
+            {
+                "a": "Álgebra linear"
+            }
+        ],
+        "700": [
+            {
+                "a": "Pizzolato, Nélio Domingues",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

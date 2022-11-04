@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005793",
+        "005": "20190801115622.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "32:621.3",
+            "b": "E38",
+            "c": "1988"
+        },
+        "245": {
+            "a": "Electronic market data book",
+            "b": "1988 edition",
+            "h": "Impresso",
+            "c": "Electronic Industries Association. Marketing Services Dept"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "Electronic Industries Association",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 140 p.",
+                "b": "il., tabs",
+                "c": "28 cm"
+            }
+        ],
+        "500": [
+            {
+                "a": "Supersedes: Electronic industries yearbook, and: Electronic industries review."
+            }
+        ],
+        "650": [
+            {
+                "a": "Indústria eletrônica",
+                "x": "Periódico",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Engenharia eletrônica",
+                "x": "Mercado",
+                "z": "Estados Unidos"
+            }
+        ],
+        "710": [
+            {
+                "a": "Electronic Industries Association. Marketing Services Dept",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

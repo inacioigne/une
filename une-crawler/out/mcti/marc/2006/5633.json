@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005633",
+        "005": "20190813095439.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6(063)",
+            "b": "E56c",
+            "c": "1983"
+        },
+        "111": {
+            "a": "Encuentro Nacional Ciencia, Tecnologia y Desarrollo",
+            "c": "Buenos Aires, Argentina",
+            "d": "1983"
+        },
+        "245": {
+            "a": "Ciencia, Tecnologia y Desarrollo",
+            "b": "Encuentro Nacional, Buenos Aires, 12 al 16 de octubre de 1983",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Buenos Aires",
+                "b": "Centro de Participación Política",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "301"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e tecnologia"
+            },
+            {
+                "a": "Desenvolvimento tecnológico"
+            },
+            {
+                "a": "Desenvolvimento científico"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

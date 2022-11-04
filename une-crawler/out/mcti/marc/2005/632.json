@@ -1,0 +1,91 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000632",
+        "005": "20190805173021.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "338.53",
+            "b": "C331d",
+            "c": "2005",
+            "d": "IPEA"
+        },
+        "100": {
+            "a": "Carvalho, Alexandre",
+            "d": "1971-",
+            "q": "Alexandre Xavier Ywata"
+        },
+        "245": {
+            "a": "Dynamic optimization and learning",
+            "b": "how should a manager set prices when the demand function is unknown?",
+            "c": "Alexandre Xavier Ywata de Carvalho, Martin L. Puterman",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "2005"
+            }
+        ],
+        "300": [
+            {
+                "a": "44 f.",
+                "b": "gráfs."
+            }
+        ],
+        "490": [
+            {
+                "a": "Texto para discussão / IPEA",
+                "v": "n. 1117"
+            }
+        ],
+        "500": [
+            {
+                "a": "Periódico tratado como livro (ISSN: 1415-4765)"
+            }
+        ],
+        "520": {
+            "a": "Estuda o problema de escolher preços seqüencialmente, de forma a maximizar a receita esperada, em um ambiente onde os parâmetros da função de demanda são desconhecidos e o horizonte de vendas é finito. Discute vários métodos de otimização seqüencial, onde utiliza os preços e as vendas resultantes anteriores para determinar o preço no período atual."
+        },
+        "650": [
+            {
+                "a": "Controle de preço"
+            },
+            {
+                "a": "Preço"
+            },
+            {
+                "a": "Compra e venda"
+            },
+            {
+                "a": "Demanda"
+            },
+            {
+                "a": "Modelos econométricos"
+            }
+        ],
+        "700": [
+            {
+                "a": "Puterman, Martin L.",
+                "d": "1945-",
+                "e": "Coautor"
+            }
+        ],
+        "856": {
+            "y": "Texto completo",
+            "u": "http://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=4293",
+            "z": "Acesso em: 05/08/2019"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

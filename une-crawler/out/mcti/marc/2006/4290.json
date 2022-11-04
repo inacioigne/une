@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004290",
+        "005": "20190802091850.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.912(043.2)",
+            "b": "H664s",
+            "c": "1980"
+        },
+        "100": {
+            "a": "Hinrichs, Rolf Harm"
+        },
+        "245": {
+            "a": "Software para processamento de textos",
+            "c": "Rolf Harm Hinrichs",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "c": "1980",
+                "a": "[S.l.",
+                "b": "s.n]"
+            }
+        ],
+        "300": [
+            {
+                "a": "130, 51",
+                "b": "il."
+            }
+        ],
+        "502": [
+            {
+                "a": "Dissertação (Mestrado) - Universidade Federal do Rio Grande do Sul. Curso de Pós-Graduação em Ciência da Computação, Porto Alegre, 1980"
+            }
+        ],
+        "650": [
+            {
+                "a": "Software",
+                "x": "Editor de texto"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            },
+            {
+                "a": "Software",
+                "x": "Desenvolvimento"
+            }
+        ],
+        "990": {
+            "a": "Dissertações/Teses/TCC"
+        }
+    }
+}

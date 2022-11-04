@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "am   nam  22      a 4500",
+        "001": "000006038",
+        "005": "20190801143824.0",
+        "007": "t",
+        "008": "por                                por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "624.01/07(816.5)(063)",
+            "b": "S612s",
+            "c": "1991"
+        },
+        "111": {
+            "a": "Simpósio a Pesquisa em Construção no Sul do Brasil",
+            "c": "Porto Alegre, RS",
+            "d": "1991"
+        },
+        "245": {
+            "a": "Simpósio a pesquisa em construção no sul do Brasil",
+            "b": "balanço e tendências",
+            "c": "Editor : Carlos T. Formoso",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Porto Alegre",
+                "b": "Universidade Federal do Rio Grande do Sul",
+                "c": "1991"
+            }
+        ],
+        "300": [
+            {
+                "a": "218",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia civil"
+            },
+            {
+                "a": "Construção civil",
+                "x": "Pesquisa",
+                "z": "Rio Grande do Sul"
+            }
+        ],
+        "700": [
+            {
+                "a": "Formoso, Carlos Torres",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

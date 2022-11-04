@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000944",
+        "005": "20190729141858.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5:62(73)",
+            "b": "W872",
+            "c": "1996"
+        },
+        "245": {
+            "a": "Women, minorities, and persons with disabilities in science and engineering",
+            "b": "1996",
+            "h": "Impresso",
+            "c": "National Science Foundation (Estados Unidos)"
+        },
+        "260": [
+            {
+                "a": "Arlington [Estados Unidos]",
+                "b": "National Science Foundation",
+                "c": "1996"
+            }
+        ],
+        "300": [
+            {
+                "a": "xx, 284 p."
+            }
+        ],
+        "500": [
+            {
+                "a": "\"NSF 93-311\""
+            }
+        ],
+        "650": [
+            {
+                "a": "Mulheres",
+                "x": "Indicadores"
+            },
+            {
+                "a": "Minoria",
+                "x": "Indicadores"
+            },
+            {
+                "a": "Deficientes",
+                "x": "Indicadores"
+            }
+        ],
+        "710": [
+            {
+                "a": "National Science Foundation (Estados Unidos)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

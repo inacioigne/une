@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005637",
+        "005": "20190807135617.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7",
+            "b": "M534p",
+            "c": "1985"
+        },
+        "100": {
+            "a": "Menascé, Daniel Alberto"
+        },
+        "245": {
+            "a": "Planejamento de capacidade de sistemas de computação",
+            "b": "análise operacional como ferramenta",
+            "c": "Daniel Menascé, Virgílio A. F. Almeida",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Campus",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "83",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Avaliação de desempenho"
+            },
+            {
+                "a": "Centros de processamento de dados"
+            },
+            {
+                "a": "Rede de computador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Almeida, Virgilio A. F.",
+                "q": "Virgilio Augusto Fernandes",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

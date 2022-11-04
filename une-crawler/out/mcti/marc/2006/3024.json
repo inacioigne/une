@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003024",
+        "005": "20190809154250.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "51-37",
+            "b": "S237m",
+            "c": "1977"
+        },
+        "100": {
+            "a": "Santos, José Abel Royo dos",
+            "d": "1938-"
+        },
+        "245": {
+            "a": "Mini-calculadoras eletrônicas",
+            "b": "sua aplicação correta e eficiente nas ciências exatas",
+            "c": "José Abel Royo dos Santos",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Edgard Blucher",
+                "c": "1977"
+            }
+        ],
+        "300": [
+            {
+                "a": "294",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Matemática aplicada"
+            },
+            {
+                "a": "Cálculo numérico"
+            },
+            {
+                "a": "Máquinas de calcular"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

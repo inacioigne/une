@@ -1,0 +1,113 @@
+{
+    "controfield": {
+        "000": "01732nam  2200337 a 4500",
+        "001": "000000356",
+        "005": "20190808135343.0",
+        "007": "t",
+        "008": "921117q19881992bl a     b   f100 0 por"
+    },
+    "datafield": {
+        "010": {
+            "a": "92831717"
+        },
+        "035": {
+            "a": "2991650"
+        },
+        "040": {
+            "a": "DLC",
+            "c": "DLC",
+            "d": "BR-BrMCT"
+        },
+        "050": {
+            "a": "QA76.758",
+            "b": ".S533 1988"
+        },
+        "082": {
+            "2": "20",
+            "a": "005.1"
+        },
+        "090": {
+            "a": "004.41(81)(063)",
+            "b": "S612o",
+            "c": "1994"
+        },
+        "111": {
+            "a": "Simpósio Brasileiro de Engenharia de Software",
+            "c": "Curitiba, PR",
+            "d": "1994",
+            "n": "8"
+        },
+        "245": {
+            "a": "Anais do VIII Simpósio Brasileiro de Engenharia de Software",
+            "b": "Curitiba, 25-28 de outubro de 1994",
+            "h": "Impresso",
+            "c": "autor corporativo: Sociedade Brasileira de Computação"
+        },
+        "260": [
+            {
+                "a": "Curitiba",
+                "b": "Centro Internacional de Tecnologia de Software",
+                "c": "1994"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "534",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Comissão Especial de Engenharia de Software"
+            }
+        ],
+        "505": [
+            {
+                "a": "v.1 Anais - v.2 Palestras Convidadas"
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia de software",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Software",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Especificação de programas e sistemas",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Modelagem de dados",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Software",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "710": [
+            {
+                "a": "Sociedade Brasileira de Computação",
+                "e": "Corporativo"
+            }
+        ],
+        "711": [
+            {
+                "a": "Workshop de Qualidade de Software",
+                "c": "Curitiba, PR",
+                "d": "1994"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

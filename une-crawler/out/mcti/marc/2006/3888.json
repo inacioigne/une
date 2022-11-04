@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003888",
+        "005": "20190806111827.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.912WORD",
+            "b": "B931w",
+            "c": "1980"
+        },
+        "100": {
+            "a": "Buhr, R. J. A"
+        },
+        "245": {
+            "a": "Word teleprocessing interface",
+            "c": "by R. J. A. Buhr, D. A. MacKinnon",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Ottawa [Canadá]",
+                "b": "Carleton University",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "136",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Editor de texto"
+            },
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Arquitetura de computador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Mackinnon, D. A",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

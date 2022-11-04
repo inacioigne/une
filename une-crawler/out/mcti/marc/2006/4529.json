@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004529",
+        "005": "20190806112259.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "681.5:007.5(52)",
+            "b": "M685i",
+            "c": "1988"
+        },
+        "100": {
+            "a": "Müller, J. P.",
+            "d": "1965-",
+            "q": "Jörg P."
+        },
+        "245": {
+            "a": "Information technology standardization in Japan",
+            "c": "Jörg Müller, Paul Kuhn ; foreword by Theodor Irmer",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Tokyo",
+                "b": "Siemens K. K.",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "ii, 117, 24 p.",
+                "c": "30 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Tecnologia da informação",
+                "z": "Japão"
+            },
+            {
+                "a": "Telecomunicações",
+                "z": "Japão"
+            }
+        ],
+        "700": [
+            {
+                "a": "Kuhn, Paul",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001773",
+        "005": "20190805113453.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.315.59",
+            "b": "T355p",
+            "c": "[1975]"
+        },
+        "110": {
+            "a": "Texas Instruments Incorporated. Semiconductor Group"
+        },
+        "245": {
+            "a": "The power semiconductor data book for design engineers",
+            "c": "The engineering staff of Texas Instruments Incorporated, Semiconductor Group",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Dallas",
+                "b": "Texas Instruments",
+                "c": "[c1975]"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (várias paginações)",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Semicondutores"
+            },
+            {
+                "a": "Engenharia eletrônica"
+            },
+            {
+                "a": "Transistor"
+            },
+            {
+                "a": "Circuito integrado"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

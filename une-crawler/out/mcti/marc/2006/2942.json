@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002942",
+        "005": "20190801160400.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.2",
+            "b": "Z94s",
+            "c": "1976"
+        },
+        "100": {
+            "a": "Zuffo, João Antonio",
+            "d": "1939-"
+        },
+        "245": {
+            "a": "Sistemas eletrônicos digitais",
+            "b": "organização interna e projeto",
+            "c": "João Antonio Zuffo",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Universidade de São Paulo",
+                "c": "c1976"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Sistemas operacionais (Computadores)"
+            },
+            {
+                "a": "Computador digital"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

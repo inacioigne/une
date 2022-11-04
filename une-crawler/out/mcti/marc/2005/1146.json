@@ -1,0 +1,73 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001146",
+        "005": "20190806171043.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8521100140"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "634.61(811)",
+            "b": "F945",
+            "c": "2001"
+        },
+        "245": {
+            "a": "Frutos de palmeiras da Amazônia",
+            "c": "Ires Paula de Andrade Miranda ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Manaus",
+                "b": "Instituto Nacional de Pesquisas da Amazônia",
+                "c": "2001"
+            }
+        ],
+        "300": [
+            {
+                "a": "120",
+                "b": "il., color."
+            }
+        ],
+        "650": [
+            {
+                "a": "Palmeira",
+                "x": "Botânica",
+                "z": "Amazônia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Miranda, Ires Paula de Andrade",
+                "e": "Coautor"
+            },
+            {
+                "a": "Rabelo, Afonso",
+                "e": "Coautor"
+            },
+            {
+                "a": "Bueno, Carlos Roberto",
+                "e": "Coautor"
+            },
+            {
+                "a": "Barbosa, Edelcílio Marques",
+                "e": "Coautor"
+            },
+            {
+                "a": "Ribeiro, Maria Naélia Silva",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

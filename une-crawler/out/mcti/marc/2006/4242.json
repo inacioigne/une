@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004242",
+        "005": "20190729140718.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004(81)",
+            "b": "B823pe",
+            "c": "1989"
+        },
+        "110": {
+            "a": "Brasil. Secretaria Especial de Informática"
+        },
+        "245": {
+            "a": "Programas de ensaios de conformidade em informática no Brasil - PECI/BR",
+            "b": "versão 2 - 01/07/89",
+            "c": "Secretaria Especial de Informática",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Secretaria Especial de Informática",
+                "c": "1989"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (sem paginação)",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "1. Objetivo -- 1.1. O que é PECI/BR -- 1.2. Porque o PECI/BR -- 2. Certificação de conformidade -- 2.1. Critérios de certificação -- 2.2 Normalização -- 2.3. Laboratórios / Instituições de ensaio -- 2.3.1. Credenciamento -- 2.3.2. Calibração e rastreabilidade -- 3. Certificação OSI -- 3.1. Conformidade e interoperabilidade OSI -- 4. Conclusão -- Anexos -- A) Siglário -- B) Normas brasileiras para ensaios de conformidade OSI -- C) Normas internacionais para ensaios de conformidade OSI -- D) Normas brasileiras para ensaios de conformidade em informática -- E) Normas internacionais para para ensaios de conformidade em informática -- F) Ensaios de conformidade OSI -- G) Ensaios de conformidade em informática."
+            }
+        ],
+        "520": {
+            "a": "O atendimento a normas técnicas é indispensável para a qualidade e exportação de bens e serviços de informática. O Programa de Ensaios de Conformidade em Informática do Brasil - PECI/BR visa a certificação de conformidade em informática. É, ainda, suporte essencial para a interoperabilidade e interconectividade de equipamentos, programas e sistemas de informática, levando em consideração os usuários e fabricantes brasileiros."
+        },
+        "650": [
+            {
+                "a": "Normalização"
+            },
+            {
+                "a": "Normas técnicas"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

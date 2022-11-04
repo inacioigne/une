@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000006201",
+        "005": "20190808142419.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "351.84(81)(094)",
+            "b": "B823p",
+            "c": "2000"
+        },
+        "110": {
+            "a": "Brasil. Ministério da Previdência Social"
+        },
+        "245": {
+            "a": "Previdência no serviço público",
+            "b": "consolidação da legislação federal",
+            "h": "Impresso",
+            "c": "Ministério da Previdência Social"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Ministério da Previdência e Assistência Social",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "244"
+            }
+        ],
+        "490": [
+            {
+                "a": "Coleção Previdência Social"
+            }
+        ],
+        "650": [
+            {
+                "a": "Previdência social",
+                "x": "Legislação"
+            },
+            {
+                "a": "Serviço social",
+                "x": "Assistência social"
+            },
+            {
+                "a": "Seguridade social",
+                "x": "Servidores públicos"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

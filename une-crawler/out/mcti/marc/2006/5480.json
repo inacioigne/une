@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005480",
+        "005": "20190809141338.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "2040157719"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.421",
+            "b": "B515a",
+            "c": "1983"
+        },
+        "100": {
+            "a": "Berlioux, Pierre"
+        },
+        "245": {
+            "a": "Algorithmique",
+            "b": "construction, preuve et évaluation des programmes",
+            "c": "par Pierre Berlioux, Philippe Bizard",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Dunod",
+                "c": "1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 179 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Dunod informatique"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Algoritmos"
+            }
+        ],
+        "700": [
+            {
+                "a": "Bizard, Philippe",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

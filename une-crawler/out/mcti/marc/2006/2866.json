@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002866",
+        "005": "20190807100927.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0136378439"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451",
+            "b": "B858o",
+            "c": "1973"
+        },
+        "100": {
+            "a": "Brinch Hansen, Per",
+            "d": "1938-"
+        },
+        "245": {
+            "a": "Operating system principles",
+            "c": "Per Brinch Hansen",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "c1973"
+            }
+        ],
+        "300": [
+            {
+                "a": "xviii, 366",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Prentice-Hall series in automatic computation"
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistemas operacionais (Computadores)"
+            },
+            {
+                "a": "Programação de computador",
+                "x": "Gerência"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

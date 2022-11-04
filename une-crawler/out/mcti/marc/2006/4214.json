@@ -1,0 +1,81 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004214",
+        "005": "20190801135816.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "35.077MCT/SEPIN(047.32)",
+            "b": "B823s",
+            "c": "2001"
+        },
+        "110": {
+            "a": "Brasil. Ministério da Ciência e Tecnologia",
+            "b": "Secretaria de Política de Informática"
+        },
+        "245": {
+            "a": "SEPIN, Relatório de gestão 2001",
+            "h": "Impresso",
+            "c": "Ministério da Ciência e Tecnologia. Secretaria de Política de Informática"
+        },
+        "246": [
+            {
+                "a": "Dezembro/2001"
+            }
+        ],
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Ministério da Ciência e Tecnologia, Secretaria de Política de Informática",
+                "c": "2001"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "83",
+                "b": "il., graf. (color)"
+            }
+        ],
+        "505": [
+            {
+                "a": "Política tecnológica de hardware -- Desenvolvimento do setor de software - Programa de microeletrônica -- Programa sociedade da informação -- Tecnologias da informação para a sociedade da informação -- Infra-estrutura de serviços tecnológicos em TIC -- Centros de cidadania digital -- Governo eletrônico: dertificação e segurança -- Internet -- Comitê gestor internet Brasil -- Comércio eletrônico -- Programa Temática Multinacional em Ciência da Computação - PROTEM-CC -- Ações internacionais."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Relatórios",
+                "z": "Brasil"
+            },
+            {
+                "a": "Internet",
+                "x": "Relatórios",
+                "z": "Brasil"
+            },
+            {
+                "a": "Qualidade da produção",
+                "x": "Software",
+                "z": "Brasil"
+            },
+            {
+                "a": "Recursos humanos",
+                "x": "Relatórios"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002709",
+        "005": "20190809154411.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0471813907"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.382.4",
+            "b": "S719m",
+            "c": "[c1972]"
+        },
+        "100": {
+            "a": "Soucek, Branko"
+        },
+        "245": {
+            "a": "Minicomputers in data processing and simulation",
+            "c": "Branko Soucek",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Wiley-Interscience",
+                "c": "[c1972]"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 467 p.",
+                "c": "23 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Computador digital"
+            },
+            {
+                "a": "Simulação (Computadores)"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

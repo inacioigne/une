@@ -1,0 +1,81 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004392",
+        "005": "20190805105417.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502.131.1(6)",
+            "b": "K14",
+            "c": "1997"
+        },
+        "245": {
+            "a": "The Kalahari Transect",
+            "b": "research on global change and sustainable development in southern Africa",
+            "c": "edited by R.J. Scholes and D.A.B. Parsons ; with contributions from A. Kamuhuza ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Stockholm, Suécia",
+                "b": "International Geosphere-Biosphere Programme",
+                "c": "1997"
+            }
+        ],
+        "300": [
+            {
+                "a": "64",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "IGBP Report = IGBP Rapport = IGBP Informe",
+                "v": "n. 42"
+            }
+        ],
+        "650": [
+            {
+                "a": "Deserto",
+                "x": "Ecologia",
+                "z": "Sul da África"
+            }
+        ],
+        "651": [
+            {
+                "a": "Savana",
+                "x": "Pesquisa",
+                "z": "Sul da África"
+            }
+        ],
+        "700": [
+            {
+                "a": "Scholes, R. J",
+                "e": "Editor"
+            },
+            {
+                "a": "Parsons, D. A. B",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Programa Internacional da Geosfera-Biosfera",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Conselho Internacional das Uniões Científicas",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

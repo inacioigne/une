@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005289",
+        "005": "20190809135538.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "006.91",
+            "b": "L123m",
+            "c": "[200-]"
+        },
+        "110": {
+            "a": "Laboratório Nacional de Metrologia (Brasil)"
+        },
+        "245": {
+            "a": "Metrologia científica e industrial",
+            "h": "Impresso",
+            "c": "Laboratório Nacional de Metrologia"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Instituto Nacional de Metrologia, Normalização e Qualidade Industrial",
+                "c": "[200-]"
+            }
+        ],
+        "300": [
+            {
+                "a": "115",
+                "b": "il., tabs., grafs."
+            }
+        ],
+        "650": [
+            {
+                "a": "Metrologia"
+            },
+            {
+                "a": "Calibração"
+            },
+            {
+                "a": "Recursos humanos",
+                "x": "Demanda"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto Nacional de Metrologia, Normalização e Qualidade Industrial (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002861",
+        "005": "20190807135302.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "B239p",
+            "c": "1970"
+        },
+        "100": {
+            "a": "Barbour, Edna Hollar",
+            "d": "1922-"
+        },
+        "245": {
+            "a": "PL/I a self-instructional manual",
+            "c": "Edna H. Barbour",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Macmillan Company",
+                "c": "c1970"
+            }
+        ],
+        "300": [
+            {
+                "a": "301",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador",
+                "x": "Manual"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

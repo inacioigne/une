@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005299",
+        "005": "20190805125245.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "334.012.64:62",
+            "b": "C824g",
+            "c": "1989"
+        },
+        "100": {
+            "a": "Correa, Carlos María"
+        },
+        "245": {
+            "a": "Guidelines for the difusion of informatics in Small and Medium Companies (SMC)",
+            "c": "prepared by Carlos Maria Correa",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[S.l.]",
+                "b": "Organização das Nações Unidas para o Desenvolvimento Industrial",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "59"
+            }
+        ],
+        "500": [
+            {
+                "a": "IPCT.81 (SPEC)"
+            }
+        ],
+        "650": [
+            {
+                "a": "Pequena e média empresa"
+            },
+            {
+                "a": "Tecnologia"
+            }
+        ],
+        "710": [
+            {
+                "a": "Organização das Nações Unidas para o Desenvolvimento Industrial",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

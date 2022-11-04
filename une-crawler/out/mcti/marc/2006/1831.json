@@ -1,0 +1,94 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001831",
+        "005": "20190813142734.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "020": {
+            "a": "9292693154"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "551.583",
+            "b": "C175i",
+            "c": "c2003"
+        },
+        "245": {
+            "a": "Cambio climatico 2001",
+            "b": "informe de síntesis",
+            "c": "Editado por Robert T. Watson y el Equipo de autores principales",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[Madrid]",
+                "b": "[Instituto Nacional de Meteorología]",
+                "c": "c2003"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 207 + CD-ROM",
+                "b": "il., (algumas color.)"
+            }
+        ],
+        "500": [
+            {
+                "a": "Acompanha CD-ROM Contribuición de los Grupos de Trabajo I, II y III al Tecer Informe de Evaluación del Grupo Intergubenamental de Expertos sobre el Cambio Climático"
+            }
+        ],
+        "650": [
+            {
+                "a": "Efeito estufa (Atmosfera)",
+                "x": "Aspectos ambientais"
+            },
+            {
+                "a": "Ar",
+                "x": "Poluição"
+            },
+            {
+                "a": "Aquecimento global"
+            },
+            {
+                "a": "Meio ambiente"
+            },
+            {
+                "a": "Climatologia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Watson, R. T.",
+                "d": "1948-",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Grupo Intergubernamental de Expertos sobre el Cambio Climatico. Grupo de Trabajo 1",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Grupo Intergubernamental de Expertos sobre el Cambio Climatico. Grupo de Trabajo 2",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Organização Mundial de Meteorologia",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Grupo Intergubernamental de Expertos sobre el Cambio Climatico. Grupo de Trabajo 3",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

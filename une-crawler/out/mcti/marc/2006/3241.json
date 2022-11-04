@@ -1,0 +1,80 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003241",
+        "005": "20190801133207.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502.21:622.333(816.5)",
+            "b": "U58e",
+            "c": "1997"
+        },
+        "110": {
+            "a": "Universidade Federal do Rio Grande do Sul"
+        },
+        "245": {
+            "a": "Energia e meio ambiente",
+            "b": "a questão do carvão no Rio Grande do Sul",
+            "h": "Impresso",
+            "c": "Universidade Federal do Rio Grande do Sul"
+        },
+        "260": [
+            {
+                "a": "Porto Alegre",
+                "b": "Universidade Federal do Rio Grande do Sul",
+                "c": "1997"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "5 v.",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Projeto PADCT/CIAMB"
+            }
+        ],
+        "505": [
+            {
+                "a": "v. 1. Integração dos estudos através de uma abordagem (sócio) econômico - ambiental -- v. 2. Meio antrópico -- v. 3. Vegetação e solos -- v. 4. Clima e recursos hídricos -- v. 5. Sedimentologia"
+            }
+        ],
+        "650": [
+            {
+                "a": "Energia"
+            },
+            {
+                "a": "Meio ambiente"
+            },
+            {
+                "a": "Recursos energéticos"
+            },
+            {
+                "a": "Desenvolvimento sustentável"
+            },
+            {
+                "a": "Proteção ambiental"
+            },
+            {
+                "a": "Carvão vegetal",
+                "x": "Aspectos sócio-econômicos"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

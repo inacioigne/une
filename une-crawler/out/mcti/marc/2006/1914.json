@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001914",
+        "005": "20190802113715.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.382",
+            "b": "A545fi",
+            "c": "1988"
+        },
+        "100": {
+            "a": "Anderson, Richard Louis"
+        },
+        "245": {
+            "a": "Física de dispositivos",
+            "b": "laboratório 3",
+            "c": "Richard Louis Anderson",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[Curitiba]",
+                "b": "Escola Brasileiro-Argentina de Informática",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "143",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Microeletrônica"
+            },
+            {
+                "a": "Circuito integrado"
+            },
+            {
+                "a": "Engenharia elétrica"
+            },
+            {
+                "a": "Semicondutores"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Curitiba, PR",
+                "d": "1988",
+                "n": "3"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

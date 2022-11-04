@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002714",
+        "005": "20190809142140.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0835943712"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.38",
+            "b": "S915m",
+            "c": "c1979"
+        },
+        "100": {
+            "a": "Streitmatter, Gene A"
+        },
+        "245": {
+            "a": "Microprocessors",
+            "b": "theory and applications",
+            "c": "Gene A. Streitmatter, Vito Fiore",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Reston [Estados Unidos]",
+                "b": "Reston",
+                "c": "c1979"
+            }
+        ],
+        "300": [
+            {
+                "a": "xx, 456 p.",
+                "c": "25 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Microprocessador"
+            },
+            {
+                "a": "Arquitetura de software"
+            },
+            {
+                "a": "Arquitetura de computador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Fiore, Vito",
+                "d": "1945-",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003505",
+        "005": "20190807130125.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "35.075IPT(091)",
+            "b": "I59ip",
+            "c": "1999"
+        },
+        "110": {
+            "a": "Instituto de Pesquisas Tecnológicas (SP)"
+        },
+        "245": {
+            "a": "IPT 100 anos de tecnologia",
+            "h": "Impresso",
+            "c": "Instituto de Pesquisas Tecnológicas"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Instituto de Pesquisas Tecnológicas",
+                "c": "1999"
+            }
+        ],
+        "300": [
+            {
+                "a": "191",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Tecnologia",
+                "x": "História"
+            },
+            {
+                "a": "Instituição de pesquisa"
+            },
+            {
+                "a": "Engenharia de produção"
+            },
+            {
+                "a": "Engenharia industrial"
+            },
+            {
+                "a": "Ciência e tecnologia"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000906",
+        "005": "20190726141622.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "336.531.2:5/6(73)",
+            "b": "S416",
+            "c": "1977"
+        },
+        "245": {
+            "a": "Science indicators 1976",
+            "b": "report of the National Science Board 1977",
+            "h": "Impresso",
+            "c": "National Science Foundation (Estados Unidos)"
+        },
+        "260": [
+            {
+                "a": "[Washington (Distrito de Colúmbia, Estados Unidos)]",
+                "b": "National Science Foundation",
+                "c": "1977"
+            }
+        ],
+        "270": [
+            {
+                "d": "Estados Unidos"
+            }
+        ],
+        "300": [
+            {
+                "a": "viii, 304 p.",
+                "b": "il., tab., graf."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Indicadores",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento",
+                "x": "Indicadores",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Inovação tecnológica"
+            },
+            {
+                "a": "Informação científica"
+            },
+            {
+                "a": "Informação tecnológica"
+            }
+        ],
+        "710": [
+            {
+                "a": "National Science Foundation (Estados Unidos)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "National Science Board (Estados Unidos)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

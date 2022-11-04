@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002358",
+        "005": "20190813125812.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "0444852085"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7",
+            "b": "C738",
+            "c": "1978"
+        },
+        "245": {
+            "a": "Computer networks and simulation",
+            "c": "edited by S. Schoemaker",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Amsterdam",
+                "b": "North-Holland",
+                "c": "1978"
+            }
+        ],
+        "300": [
+            {
+                "a": "xi, 256",
+                "c": "23 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Simulação (Computadores)"
+            },
+            {
+                "a": "Computador digital"
+            }
+        ],
+        "700": [
+            {
+                "a": "Schoemaker, S",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

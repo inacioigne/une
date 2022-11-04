@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004376",
+        "005": "20190805140523.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502.2:004.62",
+            "b": "I24",
+            "c": "1994"
+        },
+        "245": {
+            "a": "IGBP global modelling and data activities, 1994-1998",
+            "b": "strategy and implementation plans for Global Analysis, Interpretation and Modelling (GAIM) and the IGBP Data and Information System (IGBP-DIS)",
+            "h": "Impresso",
+            "c": "Programa Internacional da Geosfera-Biosfera, Conselho Internacional das Uniões Científicas"
+        },
+        "260": [
+            {
+                "a": "Stockholm, Suécia",
+                "b": "International Geosphere-Biosphere Programme",
+                "c": "1994"
+            }
+        ],
+        "300": [
+            {
+                "a": "87",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "IGBP Report = IGBP Rapport = IGBP Informe",
+                "v": "n. 30"
+            }
+        ],
+        "610": [
+            {
+                "a": "Programa Internacional da Geosfera-Biosfera"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Atmosfera"
+            }
+        ],
+        "710": [
+            {
+                "a": "Programa Internacional da Geosfera-Biosfera",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Conselho Internacional das Uniões Científicas",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

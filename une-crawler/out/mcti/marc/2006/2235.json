@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002235",
+        "005": "20190802102808.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4:5.001.5",
+            "b": "B823subs",
+            "c": "1984"
+        },
+        "110": {
+            "a": "Centro Tecnológico para Informática",
+            "c": "Brasil"
+        },
+        "245": {
+            "a": "Subsídios para Programa Nacional de Automação Pesquisa e Desenvolvimento em Universidades e Centros Tecnológicos e de Pesquisa",
+            "c": "Centro Tecnológico para Informática",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[Campinas]",
+                "b": "Centro Tecnológico para Informática",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "19 f."
+            }
+        ],
+        "505": [
+            {
+                "a": "1. Introdução -- 2. Caracterização --Lista Temática: Temas envolvidos em controle e automação -- 1º Grupo: Metodologias -- 3. Situação atual e tendências -- 4. Princípios e objetivos -- 5. Linhas de ação, programas, metas -- 6. Recursos -- 7. Estratégias"
+            }
+        ],
+        "520": {
+            "a": "Em março de 1984 foi criado um Grupo de Trabalho através do Conselho de Desenvolvimento Científico e Tecnológico, CNPq, do Centro Tecnológico para Informática/Instituto de Automação, CTI/AI e da Sociedade Brasileira de Automática, SBA, tendo em vista um detalmanto da Ação Progrmada em Automação com caráter nacional. Este grupro de trabalho elaboru, numa primeira fase, um levantamento de dados da situação atual e tendência. Novembro de 1984, e a comissão posteiror indicada pela SBA, por sugestão do CNPq, produziu um conjunto de recomdações relativas às lista temática e prioridades para as atividades de P&D na Universidades e Institutos de Pesquisa, Dezembro de 1984. Em paralelo, encontra-se em elaboração o Plano Nacional de Informática, do qual consta os capítulos Automação da Manufatura e Controle de Processos, especificamente dedicados a automação. Levando em consideração esses trabalhos propõem-se, neste documento subsídios inciais para um Programa Nacional de automação."
+        },
+        "650": [
+            {
+                "a": "Automação",
+                "x": "Instituição de pesquisa"
+            },
+            {
+                "a": "Controle de processo"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

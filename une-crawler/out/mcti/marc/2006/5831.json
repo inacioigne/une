@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005831",
+        "005": "20190813143212.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.438BASIC:693.814",
+            "b": "R815c",
+            "c": "1985"
+        },
+        "100": {
+            "a": "Rosenthal, Ernest"
+        },
+        "245": {
+            "a": "Calculs de construction métallique en BASIC",
+            "c": "Ernest Rosenthal",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Eyrolles",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 149 p."
+            }
+        ],
+        "490": [
+            {
+                "a": "Les Dossiers de la Construction. Informatique Appliquée"
+            }
+        ],
+        "650": [
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "Basic (Linguagem de programação de computador)"
+            },
+            {
+                "a": "Construção metálica"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

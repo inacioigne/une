@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005844",
+        "005": "20190802141001.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.92",
+            "b": "F981",
+            "c": "1987"
+        },
+        "245": {
+            "a": "Fundamentos de computação gráfica",
+            "b": "compugrafia",
+            "c": "Romero Tori... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Livros Técnicos e Científicos",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "356",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Computação gráfica"
+            },
+            {
+                "a": "Processamento de imagem"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Tori, Romero",
+                "e": "Coautor"
+            },
+            {
+                "a": "Arakaki, Reginaldo",
+                "e": "Coautor"
+            },
+            {
+                "a": "Massola, Antônio Marcos de Aguirra",
+                "e": "Coautor"
+            },
+            {
+                "a": "Filgueiras, Lucia Vilela Leite",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

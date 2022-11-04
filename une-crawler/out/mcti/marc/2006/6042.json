@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000006042",
+        "005": "20190807173458.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "631:001.8(81)(063)",
+            "b": "C749d",
+            "c": "1990"
+        },
+        "111": {
+            "a": "Congresso Brasileiro de Iniciação Científica em Ciências Agrárias",
+            "c": "Fortaleza, CE",
+            "d": "1990",
+            "n": "10"
+        },
+        "245": {
+            "a": "10º Congresso Brasileiro de Iniciação Científica em Ciências Agrárias",
+            "b": "ciência e tecnologia : poder e dependência : de 28/10 a 02/11 : Campus do PICI, UCF, Fortaleza, Ceará : resumos",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Fortaleza",
+                "b": "Universidade Federal do Ceará",
+                "c": "1990"
+            }
+        ],
+        "300": [
+            {
+                "a": "211"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciências Agrárias",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pesquisa científica",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

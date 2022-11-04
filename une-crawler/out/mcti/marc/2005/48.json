@@ -1,0 +1,132 @@
+{
+    "controfield": {
+        "000": "01644cam  2200337 a 4500",
+        "001": "000000048",
+        "005": "20190807152610.0",
+        "007": "t",
+        "008": "040810s2000    bl a     b   f000 0 por"
+    },
+    "datafield": {
+        "010": {
+            "a": "2004342450"
+        },
+        "035": {
+            "a": "13707022"
+        },
+        "040": {
+            "a": "DLC",
+            "c": "DLC",
+            "d": "BR-BrMCT"
+        },
+        "042": {
+            "a": "lcode"
+        },
+        "050": {
+            "a": "NX260",
+            "b": ".I56 2000"
+        },
+        "090": {
+            "a": "02",
+            "b": "I61",
+            "c": "2000",
+            "d": "IBICTI"
+        },
+        "245": {
+            "a": "Interdiscursos da ciência da informação",
+            "b": "arte, museu e imagem",
+            "c": "organização, Lena Vania Ribeiro Pinheiro e Maria Nélida González de Gómez ; prefácio, Lena Vania Ribeiro Pinheiro ; Diana Farjalla Correia Lima ... [et al.].",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Instituto Brasileiro de Informação em Ciência e Tecnologia, Departamento de Ensino e Pesquisa, Departamento de Disseminação de ICT",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "228",
+                "c": "23",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "\"As pesquisas que constituem esta coletânea foram realizadas na disciplina do curso de Pós-graduação em Ciência da Informação do IBICT, denominada Informação em Arte\"--P. 5"
+            }
+        ],
+        "520": {
+            "a": "Apresenta estudos que representam a reflexão articulada entre informação, arte e cultura e suas transformações sob os impactos das novas tecnologias."
+        },
+        "650": [
+            {
+                "a": "Arte",
+                "x": "Recursos de rede de computador"
+            },
+            {
+                "a": "Museus",
+                "x": "Processamento de dados"
+            },
+            {
+                "a": "Ciência da informação",
+                "x": "Interdisciplinariedade"
+            },
+            {
+                "a": "Imagem",
+                "x": "Recuperação da informação"
+            }
+        ],
+        "700": [
+            {
+                "a": "Pinheiro, Lena Vânia Ribeiro",
+                "e": "Organizador"
+            },
+            {
+                "a": "González de Gómez, Maria Nélida",
+                "e": "Organizador"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto Brasileiro de Informação em Ciência e Tecnologia",
+                "b": " Departamento de Ensino e Pesquisa",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Instituto Brasileiro de Informação em Ciência e Tecnologia",
+                "e": "Corporativo"
+            }
+        ],
+        "906": {
+            "a": "7",
+            "b": "cbc",
+            "c": "origode",
+            "d": "3",
+            "e": "ncip",
+            "f": "20",
+            "g": "y-gencatlg"
+        },
+        "925": {
+            "a": "acquire",
+            "b": "1 shelf copy",
+            "x": "policy default"
+        },
+        "955": {
+            "a": "wr08; 08/10/04; desc",
+            "d": "jh34 2004-10-25 to SL",
+            "e": "jh09 2004-11-26 c. 1 to BCCD"
+        },
+        "985": {
+            "e": "ODE-rj"
+        },
+        "990": {
+            "a": "Monografia"
+        },
+        "991": {
+            "b": "c-GenColl",
+            "o": "am",
+            "p": "00108279977"
+        }
+    }
+}

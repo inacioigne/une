@@ -1,0 +1,54 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003692",
+        "005": "20190813141737.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0662214110"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "551.583(71)",
+            "b": "C212n",
+            "c": "1994"
+        },
+        "245": {
+            "a": "Canada's national report on climate change",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Ottawa [Canadá]",
+                "b": "Government of Canada",
+                "c": "1994"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 144",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Mudanças climáticas",
+                "x": "Política e governo",
+                "z": "Canadá"
+            },
+            {
+                "a": "Efeito estufa (Atmosfera)",
+                "x": "Política e governo",
+                "z": "Canadá"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

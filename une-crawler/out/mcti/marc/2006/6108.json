@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000006108",
+        "005": "20190802151702.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "537(100)(063)",
+            "b": "S989t",
+            "c": "1994"
+        },
+        "111": {
+            "a": "International Symposium on Eletromagnetic Compatibility",
+            "c": "São Paulo, SP",
+            "d": "1994"
+        },
+        "245": {
+            "a": "The 1994 International Symposium on Eletromagnetic Compatibility",
+            "h": "Impresso",
+            "c": "International Symposium on Eletromagnetic Compatibility"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "The Institute of Electrotechnique and Energy",
+                "c": "1994"
+            }
+        ],
+        "300": [
+            {
+                "a": "287",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Eletromagnetismo",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Ondas eletromagnéticas",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Energia",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Eletrotécnica e Energia (SP)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Institute of Electrical and Electronics Engineers",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

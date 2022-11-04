@@ -1,0 +1,77 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001887",
+        "005": "20190801090338.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.896",
+            "b": "F383r",
+            "c": "1991"
+        },
+        "100": {
+            "a": "Ferreira, Edson de Paula"
+        },
+        "245": {
+            "a": "Robótica básica",
+            "c": "Edson de Paula Ferreira",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Escola Brasileiro-Argentina de Informática",
+                "c": "1991"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (paginação irregular)",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Versão preliminar publicada para a V Escola Brasileiro-Argentina de Informática, Rio de Janeiro - Janeiro de 1991"
+            }
+        ],
+        "650": [
+            {
+                "a": "Robótica"
+            },
+            {
+                "a": "Sistemas de controle"
+            },
+            {
+                "a": "Automação",
+                "x": "Robótica"
+            },
+            {
+                "a": "Engenharia mecânica"
+            },
+            {
+                "a": "Tecnologia de controle"
+            },
+            {
+                "a": "Modelos matemáticos"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Nova Friburgo, RJ",
+                "d": "1991",
+                "n": "5"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

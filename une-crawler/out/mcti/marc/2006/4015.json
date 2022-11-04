@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004015",
+        "005": "20190813125635.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0080285678"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.01",
+            "b": "C738",
+            "c": "1982"
+        },
+        "245": {
+            "a": "Computer operations",
+            "c": "Ed. N. Vince",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Berkshire, [Inglaterra]",
+                "b": "Pergamon Infotech",
+                "c": "1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "iv, 314",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "State of the art report",
+                "v": "série 10, n. 4"
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Vince, N",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

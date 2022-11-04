@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000666",
+        "005": "20190726130344.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "2707113875"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "331",
+            "b": "P293i",
+            "c": "1984"
+        },
+        "100": {
+            "a": "Pastré, Olivier"
+        },
+        "245": {
+            "a": "L'informatisation et l'emploi",
+            "c": "Oliver Pastré",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Editions La Découverte",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "127",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Trabalho",
+                "x": "Automação"
+            },
+            {
+                "a": "Automação",
+                "x": "Aspectos sociais",
+                "z": "França"
+            },
+            {
+                "a": "Inovação"
+            },
+            {
+                "a": "Automação industrial"
+            },
+            {
+                "a": "Controle de processo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

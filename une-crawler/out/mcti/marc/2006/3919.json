@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003919",
+        "005": "20190805124602.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0201144549"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.43",
+            "b": "N614s",
+            "c": "1975"
+        },
+        "100": {
+            "a": "Nicholls, John E"
+        },
+        "245": {
+            "a": "The structure and design of programming languages",
+            "c": "John E. Nicholls",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Reading, Massachusetts",
+                "b": "Addison-Wesley",
+                "c": "1975"
+            }
+        ],
+        "300": [
+            {
+                "a": "xx, 572",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "The Systems programming series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Linguagem de programação (Computadores)"
+            },
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Técnica de programação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

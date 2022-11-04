@@ -1,0 +1,53 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002058",
+        "005": "20190809150302.0",
+        "007": "t",
+        "008": "                                   eng  "
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451.83",
+            "b": "M626",
+            "c": "c1993-1995"
+        },
+        "245": {
+            "a": "Microsoft systems management server",
+            "b": "version 1.1 for the Microsoft Windows NT operating system",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Redmont, Washington",
+                "b": "Microsoft Press",
+                "c": "c1993-1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "715"
+            }
+        ],
+        "490": [
+            {
+                "a": "Administrator's Guide"
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede de computador",
+                "x": "Rede de longa distância"
+            },
+            {
+                "a": "Comunicação de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

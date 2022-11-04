@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004986",
+        "005": "20190730135652.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "334.726:004.78",
+            "b": "R311",
+            "c": "1981"
+        },
+        "110": {
+            "a": "Centre on Transnational Corporations (Nações Unidas)"
+        },
+        "245": {
+            "a": "Recommendations for a U.S. strategy regarding transborder data flows issues",
+            "c": "compiled by: Morgan Lam, John Piescik",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "New Haven [Estados Unidos]",
+                "b": "Yale School of Organization and Management",
+                "c": "1981"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (sem paginação)",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Fluxo de dados transfronteiras",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Comunicação de dados",
+                "x": "Empresas multinacionais"
+            },
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Sistema de transmissão de dados"
+            }
+        ],
+        "700": [
+            {
+                "a": "Lam, Morgan",
+                "e": "Compilador"
+            },
+            {
+                "a": "Piescik, John",
+                "e": "Compilador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

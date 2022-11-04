@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003900",
+        "005": "20190802100439.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "L755s",
+            "c": "1979"
+        },
+        "100": {
+            "a": "Linger, Richard C",
+            "d": "1941-"
+        },
+        "245": {
+            "a": "Structured programming",
+            "b": "theory and practice",
+            "c": "Richard C.Linger,Harlan D.Mills,Bernard I.Witt",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Reading, Massachusetts",
+                "b": "Addison-Wesley",
+                "c": "1979"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiv,402",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "The Systems programming series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Técnica de programação"
+            },
+            {
+                "a": "Programação estruturada"
+            }
+        ],
+        "700": [
+            {
+                "a": "Mills, Harlan D",
+                "e": "Coautor"
+            },
+            {
+                "a": "Witt, Bernard I.",
+                "d": "1929-",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

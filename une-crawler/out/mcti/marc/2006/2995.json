@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002995",
+        "005": "20190808135019.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.41",
+            "b": "G977m",
+            "c": "c1978"
+        },
+        "100": {
+            "a": "Gunther, Richard C",
+            "d": "1937-"
+        },
+        "245": {
+            "a": "Management methodology for software product engineering",
+            "c": "Richard C. Gunther",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Wiley",
+                "c": "c1978"
+            }
+        ],
+        "300": [
+            {
+                "a": "xvi, 379 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador",
+                "x": "Gerência"
+            },
+            {
+                "a": "Engenharia de software"
+            },
+            {
+                "a": "Software",
+                "x": "Desenvolvimento"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

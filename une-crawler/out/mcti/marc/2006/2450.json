@@ -1,0 +1,52 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002450",
+        "005": "20180710102413.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.39",
+            "b": "T856",
+            "c": "1997"
+        },
+        "245": {
+            "a": "Trópico RA",
+            "b": "uma plataforma multiapliacação de arquitetura aberta e modular",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Campinas",
+                "b": "Telebras",
+                "c": "1997"
+            }
+        ],
+        "300": [
+            {
+                "a": "174",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Telecomunicações",
+                "x": "Sistema de computador"
+            },
+            {
+                "a": "Telefone"
+            },
+            {
+                "a": "Rede de telecomunicação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

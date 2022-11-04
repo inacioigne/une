@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002904",
+        "005": "20190813130714.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.6:657.6(036)",
+            "b": "C738",
+            "c": "1973"
+        },
+        "245": {
+            "a": "Computer control guidelines",
+            "b": "guidelines on the minimum santards of internal control which should be maintained by organizations using a computer",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "3. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Toronto",
+                "b": "Canadian Institute of Chartered Accountants",
+                "c": "1973"
+            }
+        ],
+        "300": [
+            {
+                "a": "135",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Empresas",
+                "x": "Processamento de dados"
+            },
+            {
+                "a": "Processamento de dados",
+                "x": "Auditoria"
+            },
+            {
+                "a": "Informática"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

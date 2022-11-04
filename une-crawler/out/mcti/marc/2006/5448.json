@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005448",
+        "005": "20190802105454.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "2040121358"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7",
+            "b": "C812s",
+            "c": "1981"
+        },
+        "100": {
+            "a": "Cornafion"
+        },
+        "245": {
+            "a": "Systèmes informatiques répartis",
+            "b": "concepts et techniques",
+            "c": "par Cornafion",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Dunod",
+                "c": "c1981"
+            }
+        ],
+        "300": [
+            {
+                "a": "xvi, 367",
+                "c": "24 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Dunod informatique. Phase spécialité"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Processamento distribuído"
+            },
+            {
+                "a": "Comunicação de dados"
+            },
+            {
+                "a": "Protocolo de comunicação"
+            },
+            {
+                "a": "Sistema de comunicação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

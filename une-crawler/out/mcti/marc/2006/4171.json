@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004171",
+        "005": "20190806104846.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.039CNEN/CDTN",
+            "b": "C397i",
+            "c": "2002",
+            "d": "CNEN"
+        },
+        "110": {
+            "a": "Centro de Desenvolvimento da Tecnologia Nuclear",
+            "c": "Brasil"
+        },
+        "245": {
+            "a": "Informações institucionais",
+            "h": "Impresso",
+            "c": "Centro de Desenvolvimento da Tecnologia Nuclear"
+        },
+        "260": [
+            {
+                "a": "Belo Horizonte",
+                "b": "Centro de Desenvolvimento da Tecnologia Nuclear",
+                "c": "2002"
+            }
+        ],
+        "300": [
+            {
+                "a": "12 f.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Tecnologia nuclear",
+                "x": "Instituição de pesquisa"
+            },
+            {
+                "a": "Desenvolvimento tecnológico"
+            }
+        ],
+        "710": [
+            {
+                "a": "Brasil. Ministério da Ciência e Tecnologia",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Comissão Nacional de Energia Nuclear (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

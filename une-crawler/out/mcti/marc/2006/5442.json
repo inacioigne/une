@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005442",
+        "005": "20190808134204.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.312",
+            "b": "B777p",
+            "c": "1985"
+        },
+        "100": {
+            "a": "Bernard, Jean-Michel",
+            "d": "1943-"
+        },
+        "245": {
+            "a": "Pratique des circuits logiques",
+            "c": "par Jean-Michel Bernard, Jean Hugon",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Eyrolles",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "454"
+            }
+        ],
+        "490": [
+            {
+                "a": "Collection technique et scientifique des télécommunications"
+            }
+        ],
+        "650": [
+            {
+                "a": "Circuito lógico"
+            },
+            {
+                "a": "Álgebra booleana"
+            },
+            {
+                "a": "Álgebra booleana"
+            },
+            {
+                "a": "Proteção de dados"
+            }
+        ],
+        "700": [
+            {
+                "a": "Hugon, Jean",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002931",
+        "005": "20190808135822.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0916580008"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:658",
+            "b": "B321m",
+            "c": "c1976"
+        },
+        "100": {
+            "a": "Bassler, Richard A"
+        },
+        "245": {
+            "a": "Managing data processing",
+            "c": "Richard A. Bassler and Edward O. Joslin",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Alexandria [Estados Unidos]",
+                "b": "College Readings",
+                "c": "c1976"
+            }
+        ],
+        "300": [
+            {
+                "a": "viii, 343 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Computer readings series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Administração"
+            },
+            {
+                "a": "Computadores"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Empresas"
+            }
+        ],
+        "700": [
+            {
+                "a": "Joslin, Edward O",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

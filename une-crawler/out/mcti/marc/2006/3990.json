@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003990",
+        "005": "20190807132312.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.382.7",
+            "b": "N277p",
+            "c": "1981"
+        },
+        "111": {
+            "a": "National Computer Conference Personal Computing Festival",
+            "c": "Chicago, Estados Unidos",
+            "d": "1981"
+        },
+        "245": {
+            "a": "Personal computing digest",
+            "b": "1981 National Computer Conference Personal Computing Festival, May 4-7, McCormick Place, Chicago, Illinois",
+            "c": "Sam Papa, chairman ; James R. Gerdes, editor ; Joseph S. Jerbich, digest chairman.",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Arlington [Estados Unidos]",
+                "b": "American Federation of Information Processing Societies",
+                "c": "1981"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 297",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Microcomputador",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Computador pessoal"
+            },
+            {
+                "a": "Informática na educação"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

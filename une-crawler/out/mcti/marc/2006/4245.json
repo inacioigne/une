@@ -1,0 +1,51 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004245",
+        "005": "20190802142635.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0660101513"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.39(71)",
+            "b": "T267",
+            "c": "1979"
+        },
+        "245": {
+            "a": "Telecommunications and Canada",
+            "b": "consultative Committee on the Implications of Telecommunications for Canadian Sovereignty",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Hull [Canadá]",
+                "b": "Minister of Supply and Services Canada",
+                "c": "1979"
+            }
+        ],
+        "300": [
+            {
+                "a": "98"
+            }
+        ],
+        "650": [
+            {
+                "a": "Telecomunicações",
+                "z": "Canadá"
+            },
+            {
+                "a": "Soberania"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001775",
+        "005": "20190809142434.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "007063758x"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.31",
+            "b": "T355m",
+            "c": "1980"
+        },
+        "110": {
+            "a": "Texas Instruments Incorporated. Semiconductor Group"
+        },
+        "245": {
+            "a": "Microprocessors/ Microcomputers/ System Design",
+            "c": "William D. Simpson ... [et al.]; Texas Instruments Incorporated. Semiconductor Group",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "McGraw-Hill",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (várias paginações)",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Texas Instruments electronics"
+            }
+        ],
+        "650": [
+            {
+                "a": "Microprocessador"
+            },
+            {
+                "a": "Microcomputador, TMS9900 family"
+            },
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Simpson, William D",
+                "e": "Consultor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

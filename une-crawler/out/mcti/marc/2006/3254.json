@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003254",
+        "005": "20190813164510.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.039(81)",
+            "b": "C397c",
+            "c": "2000/2001",
+            "d": "CNEM"
+        },
+        "110": {
+            "a": "Centro de Desenvolvimento da Tecnologia Nuclear",
+            "c": "Brasil"
+        },
+        "245": {
+            "a": "Coletânea 2000/2001",
+            "h": "Impresso",
+            "c": "Centro de Desenvolvimento da Tecnologia Nuclear"
+        },
+        "260": [
+            {
+                "a": "Belo Horizonte",
+                "b": "Centro de Desenvolvimento da Tecnologia Nuclear",
+                "c": "2002"
+            }
+        ],
+        "300": [
+            {
+                "a": "28 f."
+            }
+        ],
+        "650": [
+            {
+                "a": "Energia nuclear",
+                "z": "Brasil"
+            },
+            {
+                "a": "Radiação"
+            },
+            {
+                "a": "Medicina"
+            },
+            {
+                "a": "Engenharia nuclear"
+            }
+        ],
+        "710": [
+            {
+                "a": "Comissão Nacional de Energia Nuclear (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004355",
+        "005": "20190805104959.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502.14(213.56:811)",
+            "b": "G752",
+            "c": "1987"
+        },
+        "245": {
+            "a": "Os Grandes projetos da amazônia",
+            "b": "impactos e perspectivas",
+            "c": "José Marcelino Monteiro da Costa, Coord., Francisco Magalhães Filho, Coord.",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Belém",
+                "b": "Universidade Federal do Pará",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "168"
+            }
+        ],
+        "490": [
+            {
+                "a": "Cadernos NAEA",
+                "v": "9"
+            }
+        ],
+        "650": [
+            {
+                "a": "Projeto de desenvolvimento",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Desenvolvimento rural"
+            },
+            {
+                "a": "Desenvolvimento sustentável"
+            }
+        ],
+        "700": [
+            {
+                "a": "Magalhães Filho, Francisco de B. B. de",
+                "d": "1935-",
+                "q": "Francisco de Borja Baptista de",
+                "e": "Coordenador"
+            },
+            {
+                "a": "Costa, José Marcelino Monteiro da",
+                "d": "1935-",
+                "e": "Coordenador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003976",
+        "005": "20190805130550.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "085038933x"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.896",
+            "b": "W927",
+            "c": "1985"
+        },
+        "245": {
+            "a": "The World yearbook of robotics research and development",
+            "c": "Consultant editor, Igor Aleksander",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "1. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Londres (Inglaterra)",
+                "b": "Kogan Page",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "453"
+            }
+        ],
+        "650": [
+            {
+                "a": "Robótica",
+                "x": "Indústria"
+            }
+        ],
+        "700": [
+            {
+                "a": "Aleksander, Igor",
+                "e": "Consultor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

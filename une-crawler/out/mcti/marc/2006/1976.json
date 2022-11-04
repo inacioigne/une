@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001976",
+        "005": "20190807105932.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.431.4",
+            "b": "S725i",
+            "c": "1979",
+            "d": "CAPRE"
+        },
+        "100": {
+            "a": "Sousa, Flávio Pereira de"
+        },
+        "245": {
+            "a": "Introdução a programação assembler para os sistemas /360 e /370",
+            "c": "Flávio Pereira de Sousa, William Carley Koelsch",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Edgard Blucher",
+                "c": "1979"
+            }
+        ],
+        "300": [
+            {
+                "a": "293",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "Prefácio -- 1. Sistemas numéricos - decimal, binário e hexadecimal -- 2. Introdução à estrutura dos sistemas IBM/360 e /370 -- 3. Introdução à linguagem assembler -- 4. Montagem de um programa assembler -- 5. Comandos de controle ao montador -- 6. Iniciação - Definção de registrador-base -- 7. Definição de constantes e áreas -- 8. Instruções de ponto fixo -- 9. Instruções lógicas -- 10. Instruções decimais - memória a memória -- 11. Instruções especiais -- 12. Aritmética de ponto flutuante -- 13. Entrada e saída usando macroinstruções do OS/360 e /370 -- 14. Macroinstruções e assembler condicional -- 15. Técnicas avançadas de programação assembler -- 16. Um esboço do sistema MVT -- 17. DUMPS da memória no MVT"
+            }
+        ],
+        "550": {
+            "a": "Publicado em convênio com a Fundação Nacional de Material Escolar, Ministério da Educação e Cultura e com a Comissão de Coordenação das Atividades de Processamento eletrónico, Secretaria do Planejamento da Presidência da Republica."
+        },
+        "586": {
+            "a": "O Programa Nacional de Treinamento em Computação (PNTC), foi criado com o objetivo de \"incentivar a formação de profissionais de processamento de dados em todos os níveis para suprir a demanda de mão-de-obra especializada no País, visando, ao mesmo tempo, a definição de uma filosofia geral do ensino especializado, com ênfase para a melhoria da qualidade\". Sua execução é coordenada pela CAPRE. De acordo com esses objetivos o PNTC vem promovendo incitavas que visam a incrementar tanto qualitativa como quantitativamente a formação de recursos humanos em informática no Brasil, de modo a garantir uma utilização eficaz e eficiente da computação pelas instituições públicas e privadas brasileiras de forma coerente com a necessidade do desenvolvimento do País."
+        },
+        "650": [
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "Assembler (Linguagem de programação de computador)"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Koelsch, William Carlyle",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

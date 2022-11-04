@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005791",
+        "005": "20190814173538.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "611.018.83:004",
+            "b": "A939",
+            "c": "1988"
+        },
+        "111": {
+            "a": "Journée LAMI",
+            "c": "Lausanne, Suiça",
+            "d": "1988"
+        },
+        "245": {
+            "a": "Automates cellulaires et neurones artificiels",
+            "b": "Journée lami, mardi 22 mars 1988, ...Lausanne",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Lausanne",
+                "b": "Laboratoire de Microinformatique",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "429",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Journée Automates cellulaires et Neurones artificiels"
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede neural"
+            },
+            {
+                "a": "Processamento de imagem"
+            },
+            {
+                "a": "Matemática"
+            }
+        ],
+        "710": [
+            {
+                "a": "Ecole Polytechnique Fédérale de Lausanne. Laboratoire de Microinformatique",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Ecole polytechnique fédérale de Lausanne. Centre d'Appui Scientifique et Technologique",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

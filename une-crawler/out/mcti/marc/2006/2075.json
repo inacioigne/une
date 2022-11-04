@@ -1,0 +1,74 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002075",
+        "005": "20190809151037.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8534602972"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451.9",
+            "b": "M626pa",
+            "c": "=134.3",
+            "d": "1995"
+        },
+        "245": {
+            "a": "Microsoft Windows NT",
+            "b": "passo a passo",
+            "c": "Catapult, Inc ; tradução Kátia A. Roque ; revisão técnica Ricardo Kutney Evangelinellis",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Makron Books",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "xli, 483",
+                "b": "il., + 1 disquete (3 1/2)"
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistemas operacionais (Computadores)",
+                "x": "Windows NT (Sistema operacional de computador)"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            },
+            {
+                "a": "Rede de computador",
+                "x": "Rede local"
+            }
+        ],
+        "700": [
+            {
+                "a": "Roque, Kátia A",
+                "e": "Tradutor"
+            },
+            {
+                "a": "Evangelinellis, Ricardo Kutney",
+                "e": "Revisor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Catapult, Inc",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

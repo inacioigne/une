@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002822",
+        "005": "20190805105043.0",
+        "007": "t",
+        "008": "eng                                eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "001.891(73)(083.2)",
+            "b": "N277g",
+            "c": "1997"
+        },
+        "110": {
+            "a": "National Science Foundation (Estados Unidos)"
+        },
+        "245": {
+            "a": "Grant proposal guide",
+            "h": "Impresso",
+            "c": "National Science Foundation"
+        },
+        "260": [
+            {
+                "a": "Arlington [Estados Unidos]",
+                "b": "National Science Foundation",
+                "c": "1997"
+            }
+        ],
+        "300": [
+            {
+                "a": "40 f."
+            }
+        ],
+        "500": [
+            {
+                "a": "Issues for 1994 include: Proposal forms kit, NSF 98-2 (Replaces NSF 95-27)."
+            }
+        ],
+        "650": [
+            {
+                "a": "Pesquisa",
+                "x": "Financiamento",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Pesquisa científica",
+                "z": "Estados Unidos",
+                "x": "Manual"
+            },
+            {
+                "a": "Engenharia",
+                "x": "Pesquisa",
+                "z": "Estados Unidos"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

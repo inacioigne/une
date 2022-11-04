@@ -1,0 +1,94 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001373",
+        "005": "20190726134708.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "303.717",
+            "b": "E45m",
+            "c": "1998"
+        },
+        "100": {
+            "a": "Ellery Júnior, Roberto de Góes"
+        },
+        "245": {
+            "a": "Modelos de gerações superpostas com muitas gerações",
+            "b": "algoritmo de solução",
+            "c": "Roberto de Goes Ellery Júnior, Rogério Boueri Miranda",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "1998"
+            }
+        ],
+        "300": [
+            {
+                "a": "24 f.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Texto para discussão / IPEA",
+                "v": "593",
+                "x": "1415-4765"
+            }
+        ],
+        "520": {
+            "a": "Apresenta um algoritmo para a resolução de modelos de gerações superpostas com muitas gerações. Uma particularidade do algoritmo apresentado é que não se limita a encontrar os estados estacionários associados a determinados valores dos parâmetros ou a algumas hipóteses da política econômica. Apresenta um exemplo de aplicação do algoritmo para simular a transição de um sistema previdenciário do tipo repartição para um do tipo capitalização."
+        },
+        "650": [
+            {
+                "a": "Consumo (Economia)",
+                "z": "Brasil"
+            },
+            {
+                "a": "Padrão de vida",
+                "z": "Brasil"
+            },
+            {
+                "a": "Bem-estar social",
+                "z": "Brasil"
+            },
+            {
+                "a": "Seguridade social",
+                "z": "Brasil"
+            },
+            {
+                "a": "Modelos matemáticos"
+            }
+        ],
+        "700": [
+            {
+                "a": "Miranda, Rogério Boueri",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "Texto completo",
+            "u": "http://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=3889",
+            "z": "Acesso em: 26/07/2019"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

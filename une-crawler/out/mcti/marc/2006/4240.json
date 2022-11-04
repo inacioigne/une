@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004240",
+        "005": "20190805102813.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0660112779"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.3.049.77(4)",
+            "b": "D512g",
+            "c": "c1983"
+        },
+        "100": {
+            "a": "De Vos, Dirk"
+        },
+        "245": {
+            "a": "Governments and microelectronics",
+            "b": "the European experience",
+            "c": "Dirk de Vos",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Ottawa",
+                "b": "Science Council of Canada",
+                "c": "c1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "112"
+            }
+        ],
+        "490": [
+            {
+                "a": "Background study / Science Council of Canada",
+                "v": "49"
+            }
+        ],
+        "650": [
+            {
+                "a": "Microeletrônica",
+                "x": "Estudo de casos",
+                "z": "Europa"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

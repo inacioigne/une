@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004315",
+        "005": "20190812110933.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "655.254.22(035)",
+            "b": "M294",
+            "c": "[2000?]"
+        },
+        "245": {
+            "a": "Mope",
+            "b": "manual de orientação para produção editorial",
+            "c": "André Liberato de Almeida ... [et al.] ; colaboradores, Ana Suely S. Dobón ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[Brasília]",
+                "b": "Câmara Setorial do Livro e Comunicação Gráfica",
+                "c": "[2000?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "113",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "Orientação ao autor -- Orientação à produção editorial -- Projeto do livro -- Execução do projeto -- Pré-impressão -- Sistemas de impressão -- Acabamento -- Logística da distribuição -- Orientação ao leitor"
+            }
+        ],
+        "650": [
+            {
+                "a": "Editoração",
+                "x": "Manual"
+            },
+            {
+                "a": "Produção editorial",
+                "x": "Manual"
+            }
+        ],
+        "700": [
+            {
+                "a": "Almeida, André Liberato de",
+                "e": "Coautor"
+            },
+            {
+                "a": "Dobón, Ana Suely S.",
+                "e": "Colaborador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

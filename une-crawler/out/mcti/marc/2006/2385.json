@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002385",
+        "005": "20190731103211.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4(047)",
+            "b": "S471rs",
+            "c": "1988"
+        },
+        "111": {
+            "a": "Seminário de Software",
+            "c": "Brasília, DF",
+            "d": "1988",
+            "n": "1"
+        },
+        "245": {
+            "a": "Relatório do seminário de software",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Secretaria Especial de Informática",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "92",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "I. Introdução -- II. Constituição do seminário, metodologia de trabalho e lista de participantes -- III. Levantamento e diagnóstico da situação atual -- VI. Tendências tecnológicas. - V. Considerandos e Recomendações -- VI. Proposta de objetivos e diretrizes para o II PLANIN -- VII. Anexos -- A) Legislação na área de informática -- B) Produtividade e qualidade de software -- C) Produção e comercialização de software no Brasil -- D) Importância estratégica dos UNIXes brasileiros -- E) PLURIX, UNIX e os SOFIX para tempo-real -- F) UNIX, OS/2 e os SOFIX brasileiros."
+            }
+        ],
+        "650": [
+            {
+                "a": "Software",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

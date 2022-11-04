@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004223",
+        "005": "20190806102943.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0914236415"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.39:025.4.036",
+            "b": "V652",
+            "c": "1980"
+        },
+        "245": {
+            "a": "Videotext",
+            "b": "the coming revolution in home/office information retrieval",
+            "c": "[edited by] Efrem Sigel, with Joseph Roizen, Colin McIntyre, Max Wilkinson",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "White Plains [Estados Unidos]",
+                "b": "Knowledge Industry Publications",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "154",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Videotexto"
+            },
+            {
+                "a": "Sistema de informação"
+            }
+        ],
+        "700": [
+            {
+                "a": "Sigel, Efrem",
+                "e": "Editor"
+            },
+            {
+                "a": "Roizen, Joseph",
+                "e": "Coautor"
+            },
+            {
+                "a": "McIntyre, Colin",
+                "e": "Coautor"
+            },
+            {
+                "a": "Wilkinson, Max",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

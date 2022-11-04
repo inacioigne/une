@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004712",
+        "005": "20190807151630.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "681.5:007.5(460)",
+            "b": "T255",
+            "c": "2000"
+        },
+        "245": {
+            "a": "Las tecnologias de la informacion en España",
+            "h": "Impresso",
+            "c": "Ministerio de Ciencia y Tecnología"
+        },
+        "260": [
+            {
+                "a": "Madri (Espanha)",
+                "b": "Ministerio de Ciencia y Tecnología",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "187",
+                "b": "il., grafs., tabs."
+            }
+        ],
+        "650": [
+            {
+                "a": "Tecnologia da informação",
+                "z": "Espanha"
+            },
+            {
+                "a": "Serviço de informação"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Telecomunicações"
+            }
+        ],
+        "710": [
+            {
+                "a": "Espanha. Ministerio de Ciencia y Tecnología",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

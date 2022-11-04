@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "am   nam  22      a 4500",
+        "001": "000002343",
+        "005": "20190807181541.0",
+        "007": "t",
+        "008": "por                                por"
+    },
+    "datafield": {
+        "020": {
+            "a": "3893360719"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "339(81:430.1)",
+            "b": "A615",
+            "c": "1991"
+        },
+        "245": {
+            "a": "20 anos de cooperação científica e tecnológica entre a República Federativa do Brasil e a Republica Federal da Alemanha",
+            "b": "realizada no âmbito do acordo geral de cooperação nos setores da pesquisa científica e do desenvolvimento assinado em Bonn, em 24 de junho de 1969",
+            "c": "[Redação, H. Höhlein, Linnich Guilherme Dieken]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Bonn",
+                "b": "Forschungszentrum Julich",
+                "c": "1991"
+            }
+        ],
+        "270": [
+            {
+                "d": "Alemanha"
+            }
+        ],
+        "300": [
+            {
+                "a": "368",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Pesquisa",
+                "x": "Cooperação internacional",
+                "z": "Alemanha"
+            },
+            {
+                "a": "Engenharia",
+                "x": "Cooperação internacional",
+                "z": "Alemanha"
+            }
+        ],
+        "700": [
+            {
+                "a": "Höhlein, H",
+                "e": "Autor"
+            },
+            {
+                "a": "Dieken, Linnich Guilherme",
+                "e": "Autor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

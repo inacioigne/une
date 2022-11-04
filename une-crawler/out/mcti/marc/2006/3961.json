@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003961",
+        "005": "20190801163747.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "090": {
+            "a": "681.5",
+            "b": "E82",
+            "c": "1982"
+        },
+        "245": {
+            "a": "Estudo sobre controle de processos siderúrgicos",
+            "h": "Impresso",
+            "c": "Siderugia Brasileira, Empresa Digital Brasileira"
+        },
+        "260": [
+            {
+                "a": "[Brasília]",
+                "b": "Digibrás",
+                "c": "1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "vi, 259 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Controle de processo"
+            },
+            {
+                "a": "Siderurgia"
+            },
+            {
+                "a": "Sistema de computador"
+            },
+            {
+                "a": "Automação industrial"
+            }
+        ],
+        "710": [
+            {
+                "a": "Siderugia Brasileira",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Empresa Digital Brasileira",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

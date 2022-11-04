@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005580",
+        "005": "20190807095853.0",
+        "007": "t",
+        "008": "                                   mul"
+    },
+    "datafield": {
+        "020": {
+            "a": "9210611446"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "339.5:31(058)",
+            "b": "N277i",
+            "c": "1992"
+        },
+        "245": {
+            "a": "International trade statistics yearbook",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "Annuaire Statistique du commerce international"
+            }
+        ],
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Nações Unidas",
+                "c": "1992"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v.",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "v.1. Trade by country. -- v.2. Trade by commodity, commodity matrix tables"
+            }
+        ],
+        "650": [
+            {
+                "a": "Comércio",
+                "x": "Periódico"
+            },
+            {
+                "a": "Comércio internacional",
+                "x": "Estatísticas"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002154",
+        "005": "20190730142252.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.725.5",
+            "b": "G514r",
+            "c": "1986"
+        },
+        "100": {
+            "a": "Giozza, William Ferreira"
+        },
+        "245": {
+            "a": "Redes locais de computadores",
+            "b": "tecnologia e aplicações",
+            "c": "William Ferreira Giozza ... [et. al]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "McGraw-Hill",
+                "c": "1986"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxxii, 399",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede de computador",
+                "x": "Arquitetura de rede"
+            },
+            {
+                "a": "Comunicação de dados"
+            }
+        ],
+        "700": [
+            {
+                "a": "Araújo, José Fábio Marinho de",
+                "e": "Coautor"
+            },
+            {
+                "a": "Moura, José Antão Beltrão",
+                "e": "Coautor"
+            },
+            {
+                "a": "Sauvé, Jacques Philippe",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Empresa Brasileira de Telecomunicações",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

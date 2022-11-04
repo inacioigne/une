@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001918",
+        "005": "20190813134933.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "020": {
+            "a": "9501398560"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.421",
+            "b": "B347c",
+            "c": "1987"
+        },
+        "100": {
+            "a": "Baum, Gabriel A",
+            "d": "1954-"
+        },
+        "245": {
+            "a": "Complejidad de los algoritmos",
+            "c": "Gabriel Baum",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Buenos Aires",
+                "b": "Kapelusz",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "172",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Algoritmos"
+            },
+            {
+                "a": "Matemática"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Estrutura de dados"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Buenos Aires, Argentina",
+                "d": "1987",
+                "n": "2"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002098",
+        "005": "20190806103805.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "853460276"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "b": "V834n",
+            "c": "=134.3 1994",
+            "a": "004.438VisualBASIC"
+        },
+        "100": {
+            "a": "Nelson, Ross"
+        },
+        "245": {
+            "a": "Visual Basic for Windows versão 3.0",
+            "b": "guia autorizado Microsoft",
+            "c": "Ross Nelson ; tradução Lars Gustav Erick Unonius ; revisão técnica Antonio Barros Uchoa",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Makron Books",
+                "c": "1994"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxiii, 390",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "Visual Basic (Linguagem de programação de computador)"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

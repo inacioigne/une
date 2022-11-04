@@ -1,0 +1,81 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001416",
+        "005": "20190731095024.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "330.55(812/814)(091)",
+            "b": "M775d",
+            "c": "1997"
+        },
+        "100": {
+            "a": "Monteiro Neto, Aristídes"
+        },
+        "245": {
+            "a": "Desigualdades setoriais e crescimento do PIB no Nordeste",
+            "b": "uma análise do período 1970/1995",
+            "c": "Aristides Monteiro Neto",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "1997"
+            }
+        ],
+        "300": [
+            {
+                "a": "32 f.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Texto para discussão / IPEA",
+                "v": "484",
+                "x": "1415-4765"
+            }
+        ],
+        "520": {
+            "a": "Analisa o comportamento das desigualdades (medidas pelo índice de Theil) no produto dos estados da região Nordeste do Brasil para o período 1970/95. O enfoque da avaliação das desigualdades egionais foi voltado ao exame das disparidades existentes nos setores do produto total: primário, secundário e terciário, bem como as existentes nos ramos de atividade componentes do produto total. Examina em qual setor as desigualdades são mais pronunciadas e o setor que mais contribuíu para as disparidades no PIB regional."
+        },
+        "650": [
+            {
+                "a": "Desigualdade regional",
+                "z": "Brasil"
+            },
+            {
+                "a": "Produto Interno Bruto",
+                "z": "Brasil"
+            },
+            {
+                "a": "Renda per capita",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "IPEA",
+            "u": "http://www.ipea.gov.br/portal/images/stories/PDFs/TDs/td_0484.pdf",
+            "z": "Acesso em: 31/07/2019"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000957",
+        "005": "20190806192019.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "62:314.15-051(73)",
+            "b": "I33",
+            "c": "1990"
+        },
+        "245": {
+            "a": "Immigrant scientists and engineers",
+            "b": "1990",
+            "c": "Joanne P. Streeter, project officer",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Arlington [Estados Unidos]",
+                "b": "Centro Tecnológico para Informática",
+                "c": "1993"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "v, 58 p.",
+                "b": "tabs."
+            }
+        ],
+        "490": [
+            {
+                "a": "Surveys of science resources series"
+            }
+        ],
+        "500": [
+            {
+                "a": "Detailed statistical tables \"NSF 93-317\""
+            }
+        ],
+        "650": [
+            {
+                "a": "Cientistas",
+                "x": "Estatísticas",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Engenheiros",
+                "x": "Estatísticas",
+                "z": "Estados Unidos"
+            }
+        ],
+        "651": [
+            {
+                "a": "Estados Unidos",
+                "x": "Estatísticas"
+            }
+        ],
+        "700": [
+            {
+                "a": "Streeter, Joanne P",
+                "e": "Organizador"
+            }
+        ],
+        "710": [
+            {
+                "a": "National Science Foundation (Estados Unidos)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

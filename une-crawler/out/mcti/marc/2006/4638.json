@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004638",
+        "005": "20190806112109.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "681.5:007.5(540)",
+            "b": "I43",
+            "c": "2000"
+        },
+        "245": {
+            "a": "Information technology policies of state gevernments & union territories of india",
+            "h": "Impresso",
+            "c": "Ministry of Information Technology"
+        },
+        "260": [
+            {
+                "a": "Nova Delhi",
+                "b": "Ministry of Information Technology",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "159",
+                "b": "il., color."
+            }
+        ],
+        "650": [
+            {
+                "a": "Tecnologia da informação",
+                "z": "Índia"
+            },
+            {
+                "a": "Indústria de software",
+                "z": "Índia"
+            }
+        ],
+        "710": [
+            {
+                "a": "India. Ministry of Information Technology",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

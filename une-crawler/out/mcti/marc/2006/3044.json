@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003044",
+        "005": "20190813130325.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "013165506x"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.65",
+            "b": "M379c",
+            "c": "1975"
+        },
+        "100": {
+            "a": "Martin, James",
+            "d": "1933-"
+        },
+        "245": {
+            "a": "Computer data-base organization",
+            "c": "James Martin",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "1975"
+            }
+        ],
+        "300": [
+            {
+                "a": "xvii, 558",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Prentice-Hall series in automatic computation"
+            }
+        ],
+        "650": [
+            {
+                "a": "Gerenciamento de banco de dados"
+            },
+            {
+                "a": "Banco de dados"
+            },
+            {
+                "a": "Informática"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002112",
+        "005": "20190806111002.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8534601003"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451.9",
+            "b": "W765j",
+            "c": "=134.3 1993"
+        },
+        "100": {
+            "a": "Jamsa, Kris A.",
+            "d": "1960-"
+        },
+        "245": {
+            "a": "Windows para workgroups",
+            "c": "Kris Jamsa ; tradução Elaine Somma Andrade Pezzoli ; revisão técnica José Eduardo Maluf de Carvalho",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Makron Books",
+                "c": "1993"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxii, 337",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Cutter baseado no nome do programa a fim de reunir com as demais obras no acervo."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistemas operacionais (Computadores)",
+                "x": "Windows para workgroups, Microsoft"
+            },
+            {
+                "a": "Rede de computador",
+                "x": "Rede local"
+            },
+            {
+                "a": "Programas de computador",
+                "x": "Linguagem de programação (Computadores)"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

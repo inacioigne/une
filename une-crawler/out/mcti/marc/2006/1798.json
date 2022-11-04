@@ -1,0 +1,51 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001798",
+        "005": "20190807102347.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7",
+            "b": "I61",
+            "c": "c1992"
+        },
+        "245": {
+            "a": "Internetworking terms and acronyms",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Menlo Park, California",
+                "b": "Cisco Systems",
+                "c": "c1992"
+            }
+        ],
+        "300": [
+            {
+                "a": "132"
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede de computador",
+                "x": "Dicionário de abreviaturas"
+            },
+            {
+                "a": "Telecomunicações",
+                "x": "Dicionário de abreviaturas"
+            },
+            {
+                "a": "Internet"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

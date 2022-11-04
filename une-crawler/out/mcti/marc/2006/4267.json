@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004267",
+        "005": "20190805134924.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "681.5:007.5",
+            "b": "I12",
+            "c": "1980"
+        },
+        "245": {
+            "a": "IBM data book, 1980",
+            "b": "a research report prepared for IDC continuous information services clients",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "Information, industry + technology service"
+            }
+        ],
+        "260": [
+            {
+                "a": "Waltham, Massachusetts",
+                "b": "International Data Corporation",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "131",
+                "b": "il., tabs."
+            }
+        ],
+        "650": [
+            {
+                "a": "Serviço de informação"
+            },
+            {
+                "a": "Tecnologia da informação e da comunicação"
+            },
+            {
+                "a": "Indústria de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

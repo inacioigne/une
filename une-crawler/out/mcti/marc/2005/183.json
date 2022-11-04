@@ -1,0 +1,84 @@
+{
+    "controfield": {
+        "000": "01403cam  2200289 a 4500",
+        "001": "000000183",
+        "005": "20190806161250.0",
+        "007": "t",
+        "008": "890823s1989    dcua     b    000 0 eng"
+    },
+    "datafield": {
+        "010": {
+            "a": "89063061"
+        },
+        "020": {
+            "a": "0309040760",
+            "c": "$19.95"
+        },
+        "035": {
+            "a": "2455511"
+        },
+        "040": {
+            "a": "DLC",
+            "c": "DLC",
+            "d": "BR-BrMCT"
+        },
+        "050": {
+            "a": "TP248.6",
+            "b": ".N38 1989"
+        },
+        "082": {
+            "2": "20",
+            "a": "660/.65"
+        },
+        "090": {
+            "a": "602.6",
+            "b": "N277f",
+            "c": "1989"
+        },
+        "110": {
+            "a": "National Research Council (Estados Unidos). Board on Biology. Committee on Scientific Evaluation of the Introduction of Genetically Modified Microorganisms and Plants into the Environment"
+        },
+        "245": {
+            "a": "Field testing genetically modified organisms",
+            "b": "framework for decisions",
+            "c": "Committee on Scientific Evaluation of the Introduction of Genetically Modified Microorganisms and Plants into the Environment, Board on Biology, Commission on Life Sciences, National Research Council.",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "National Academy Press",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiii, 170 p",
+                "c": "23",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia genética"
+            },
+            {
+                "a": "Vegetais",
+                "x": "Melhoramento genético"
+            },
+            {
+                "a": "Microbiologia",
+                "x": "Engenharia genética"
+            },
+            {
+                "a": "Melhoramento genético"
+            },
+            {
+                "a": "Genética vegetal"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

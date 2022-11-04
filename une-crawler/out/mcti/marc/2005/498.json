@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000498",
+        "005": "20190813112648.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8572515887"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.738.5",
+            "b": "D392c",
+            "c": "2000"
+        },
+        "100": {
+            "a": "Denega, Marcos Antonio"
+        },
+        "245": {
+            "a": "Como pesquisar na internet",
+            "b": "vá em frente e aventure-se já!",
+            "c": "Marcos Antonio Denega",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Berkeley",
+                "c": "2000"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "217",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Internet",
+                "x": "Pesquisa"
+            },
+            {
+                "a": "Tecnologia da informação",
+                "z": "Brasil"
+            },
+            {
+                "a": "Banco de dados"
+            },
+            {
+                "a": "Programas de computador"
+            },
+            {
+                "a": "Rede de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

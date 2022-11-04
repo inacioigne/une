@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003889",
+        "005": "20190809155121.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0201144573"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "519.85",
+            "b": "K75m",
+            "c": "1978"
+        },
+        "100": {
+            "a": "Kobayashi, Hisashi"
+        },
+        "245": {
+            "a": "Modeling and analysis",
+            "b": "an introduction to system performance evaluation methodology",
+            "c": "Hisashi Kobayashi",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Reading, Massachusetts",
+                "b": "Addison-Wesley",
+                "c": "1978"
+            }
+        ],
+        "300": [
+            {
+                "a": "xvii, 446 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "The Systems programming series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação matemática"
+            },
+            {
+                "a": "Probabilidade"
+            },
+            {
+                "a": "Métodos de simulação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

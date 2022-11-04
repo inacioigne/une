@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005763",
+        "005": "20190807134042.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "926412408X"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "331.5",
+            "b": "M157j",
+            "c": "1983"
+        },
+        "100": {
+            "a": "McKersie, Robert B"
+        },
+        "245": {
+            "a": "Job losses in major industries",
+            "b": "manpower strategy manpower strategy",
+            "c": "by Robert B. McKersie and Werner Sengenberger",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Organisation for Economic Co-operation and Development",
+                "c": "1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "125"
+            }
+        ],
+        "650": [
+            {
+                "a": "Desemprego"
+            },
+            {
+                "a": "Política de emprego"
+            },
+            {
+                "a": "Força de trabalho",
+                "x": "Política"
+            }
+        ],
+        "700": [
+            {
+                "a": "Sengenberger, Werner",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

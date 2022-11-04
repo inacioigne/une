@@ -1,0 +1,51 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002903",
+        "005": "20190805104816.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.6:658",
+            "b": "I61",
+            "c": "1975"
+        },
+        "245": {
+            "a": "The intelligent guide to computer selection",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "Computer Lessors Association",
+                "c": "c1975"
+            }
+        ],
+        "300": [
+            {
+                "a": "61",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Empresas",
+                "x": "Processamento de dados"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Computadores"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

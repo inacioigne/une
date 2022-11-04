@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004029",
+        "005": "20190813115624.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0471258849"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.35",
+            "b": "F499c",
+            "c": "1975"
+        },
+        "100": {
+            "a": "Finkel, Jules",
+            "d": "1932-"
+        },
+        "245": {
+            "a": "Computer-aided experimentation",
+            "b": "interfacing to minicomputers",
+            "c": "Jules Finkel",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Wiley-Interscience",
+                "c": "1975"
+            }
+        ],
+        "300": [
+            {
+                "a": "xviii, 422",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Equipamento de entrada de dados"
+            },
+            {
+                "a": "Saída de dados"
+            },
+            {
+                "a": "Equipamento periférico"
+            },
+            {
+                "a": "Minicomputador"
+            },
+            {
+                "a": "Processamento de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005272",
+        "005": "20190731101251.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7(817.4)",
+            "b": "D532",
+            "c": "2003"
+        },
+        "245": {
+            "a": "DFnet 4",
+            "b": "rede comunitária de pesquisa do distrito federal",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto de Pesquisa, Desenvolvimento e Educação",
+                "c": "2003"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 portfolio"
+            }
+        ],
+        "500": [
+            {
+                "a": "Projeto DFnet 4, rede óptica comunitária de pesquisa do distrito federal ; diagrama genérico : arquitetura rede BL : topologia híbrida passiva FTTB/H (FTTP)."
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Rede de telecomunicação"
+            }
+        ],
+        "651": [
+            {
+                "a": "Distrito Federal (Brasil)"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

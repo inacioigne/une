@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003008",
+        "005": "20190807092213.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "0471653365"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "62-52",
+            "b": "O45n",
+            "c": "1970"
+        },
+        "100": {
+            "a": "Olesten, Nils O"
+        },
+        "245": {
+            "a": "Numerical control",
+            "c": "Nils O. Olesten",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Wiley-Interscience",
+                "c": "c1970"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiii, 646",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Máquinas"
+            },
+            {
+                "a": "Engenharia"
+            },
+            {
+                "a": "Controle automático"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

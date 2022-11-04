@@ -1,0 +1,92 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001187",
+        "005": "20190726143616.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "332.146.2(81:213.12)",
+            "b": "S471",
+            "c": "2003",
+            "d": "INT"
+        },
+        "245": {
+            "a": "O semi-árido brasileiro e o Instituto Nacional de Tecnologia",
+            "b": "propostas tecnológicas",
+            "h": "Impresso",
+            "c": "Instituto Nacional de Tecnologia (Brasil)"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Instituto Nacional de Tecnologia",
+                "c": "2003"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "36 f.",
+                "b": "il., (algumas color.)"
+            }
+        ],
+        "650": [
+            {
+                "a": "Desenvolvimento tecnológico"
+            },
+            {
+                "a": "Recursos naturais",
+                "z": "Região semi-árida"
+            },
+            {
+                "a": "Lenha"
+            },
+            {
+                "a": "Tecnologia",
+                "x": "Recursos hídricos",
+                "z": "Brasil"
+            },
+            {
+                "a": "Dessalinização",
+                "x": "Água",
+                "z": "Região semi-árida"
+            },
+            {
+                "a": "Recursos energéticos",
+                "z": "Região semi-árida"
+            },
+            {
+                "a": "Energia solar"
+            },
+            {
+                "a": "Energia eólica"
+            },
+            {
+                "a": "Biogás"
+            },
+            {
+                "a": "Biocombustíveis"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto Nacional de Tecnologia (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

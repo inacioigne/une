@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002496",
+        "005": "20190813130801.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0070273634"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.2",
+            "b": "H417c",
+            "c": "1978"
+        },
+        "100": {
+            "a": "Hayes, John P.",
+            "d": "1944-",
+            "q": "John Patrick"
+        },
+        "245": {
+            "a": "Computer architecture and organization",
+            "c": "John P. Hayes",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "McGraw-Hill",
+                "c": "c1978"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 498",
+                "c": "24 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "McGraw-Hill computer science series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Computador digital"
+            },
+            {
+                "a": "Arquitetura de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

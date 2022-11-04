@@ -1,0 +1,73 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000242",
+        "005": "20190729130843.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "001.891:004(063)",
+            "b": "R444q",
+            "c": "1988-1989"
+        },
+        "111": {
+            "a": "Reunião de Trabalho Coletânea de Resultados de Pesquisas",
+            "c": "São Paulo, SP",
+            "d": "1989",
+            "n": "5"
+        },
+        "245": {
+            "a": "V Reunião de Trabalho Coletânea de Resultados de Pesquisas",
+            "b": "projeto estra",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Sid Informática",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v.",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Outrubro /1998 - Abril/1989."
+            }
+        ],
+        "650": [
+            {
+                "a": "Pesquisa científica",
+                "x": "Software",
+                "z": "Brasil"
+            },
+            {
+                "a": "Engenharia de software"
+            },
+            {
+                "a": "Banco de dados"
+            },
+            {
+                "a": "Inteligência artificial"
+            },
+            {
+                "a": "Banco de dados relacionais"
+            },
+            {
+                "a": "Sistema especialista"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

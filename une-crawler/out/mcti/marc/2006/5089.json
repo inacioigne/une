@@ -1,0 +1,74 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005089",
+        "005": "20190805141613.0",
+        "007": "t",
+        "008": "                                   mul"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "622.7(8)(063)",
+            "b": "E56s",
+            "c": "1987"
+        },
+        "111": {
+            "a": "Encontro do Hemisfério Sul sobre Tecnologia Mineral",
+            "c": "Rio de Janeiro",
+            "d": "1987",
+            "n": "2"
+        },
+        "245": {
+            "a": "II Encontro do Hemisferio Sul sobre Tecnologia Mineral",
+            "b": "anais",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "II Meeting of the Southern Hemisphere on Mineral Technology : proceedings"
+            }
+        ],
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "[s.n.]",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "725",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia",
+                "x": "Mina"
+            },
+            {
+                "a": "Tecnologia mineral"
+            },
+            {
+                "a": "Beneficiamento de minério"
+            },
+            {
+                "a": "Hidrometalurgia"
+            }
+        ],
+        "711": [
+            {
+                "a": "Encontro Nacional de Tratamento de Minérios e Hidrometalurgia",
+                "c": "Rio de Janeiro",
+                "d": "1987",
+                "n": "12"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

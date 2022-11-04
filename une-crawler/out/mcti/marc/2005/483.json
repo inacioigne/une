@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000483",
+        "005": "20190729114511.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.031.43(063)",
+            "b": "W926t",
+            "c": "1996"
+        },
+        "111": {
+            "a": "IFAC/IFIP Workshop on Real Time Programming WRTP'96",
+            "c": "Gramado, RS",
+            "d": "1996",
+            "n": "21"
+        },
+        "245": {
+            "a": "Preprint proceedings of 21. IFAC/IFIP workshop on real time programming WRTP'96",
+            "c": "chairs, Carlos E. Pereira, Wolfgang A. Halang",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Gramado",
+                "b": "Universidade Federal do Rio Grande do Sul",
+                "c": "1996"
+            }
+        ],
+        "300": [
+            {
+                "a": "186",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Desenvolvimento de programa"
+            },
+            {
+                "a": "Arquitetura de software"
+            },
+            {
+                "a": "Engenharia de software"
+            }
+        ],
+        "700": [
+            {
+                "a": "Pereira, Carlos Eduardo",
+                "e": "Organizador"
+            },
+            {
+                "a": "Halang, Wolfgang A.",
+                "d": "1951-",
+                "e": "Organizador"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

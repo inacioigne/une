@@ -1,0 +1,83 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004114",
+        "005": "20190805142751.0",
+        "007": "t",
+        "008": "                                   mul"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "334.726:004.78",
+            "b": "S989t",
+            "c": "1979"
+        },
+        "111": {
+            "a": "Symposium on Transborder Data Flows and the Protection of Privacy",
+            "c": "Vienna, Austria",
+            "d": "1977"
+        },
+        "245": {
+            "a": "Transborder data flows and the protection of privacy",
+            "b": "proceedings of a symposium held in Vienna, Austria, 20th-23rd September 1977",
+            "h": "Impresso",
+            "c": "Symposium on Transborder Data Flows and the Protection of Privacy"
+        },
+        "246": [
+            {
+                "a": "Les flux de données transfrontières et la protection des libertés individuelles : compte rendu d'un colloque qui a eu lieu à Vienne, Autriche, du 20 au 23 septembre 1977"
+            }
+        ],
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Organisation for Economic Co-operation and Development",
+                "c": "1979"
+            }
+        ],
+        "300": [
+            {
+                "a": "335"
+            }
+        ],
+        "490": [
+            {
+                "a": "Information, computer, communications policy",
+                "v": "1"
+            }
+        ],
+        "650": [
+            {
+                "a": "Computadores",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Privacidade",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Rede de computador",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Informática",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Fluxo de dados transfronteiras"
+            }
+        ],
+        "710": [
+            {
+                "a": "Organização de Cooperação e Desenvolvimento Econômico",
+                "e": "Indefinida"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

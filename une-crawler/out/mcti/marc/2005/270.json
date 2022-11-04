@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "01094nam  2200205 a 4500",
+        "001": "000000270",
+        "005": "20190729133129.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "027:004.4(063)",
+            "b": "S471s",
+            "c": "1997"
+        },
+        "111": {
+            "a": "Seminário sobre Automação em Bibliotecas e Centros de Documentação",
+            "c": "Águas de Lindóia, SP",
+            "d": "1997",
+            "n": "6"
+        },
+        "245": {
+            "a": "VI Seminário sobre Automação em Bibliotecas e Centros de Documentação",
+            "b": "Programa final: 9 a 11 de setembro de 1997, Hotel Majestic, Águas de Lindóia, SP",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Águas de Lindóia",
+                "b": "[s.n.]",
+                "c": "1997"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v."
+            }
+        ],
+        "500": [
+            {
+                "a": "Capa como principal fonte de informação"
+            }
+        ],
+        "505": [
+            {
+                "a": "v. 1 - Programa final --- v. 2 - Anais"
+            }
+        ],
+        "650": [
+            {
+                "a": "Centro de documentação",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Automação de bibliotecas",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Bibliotecas",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

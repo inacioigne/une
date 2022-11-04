@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002835",
+        "005": "20190730131210.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0850121299"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42:519.61",
+            "b": "P961q",
+            "c": "1976"
+        },
+        "100": {
+            "a": "Pritchard, J. A. T.",
+            "q": "John A. T."
+        },
+        "245": {
+            "a": "Quantitative methods in on-line systems",
+            "c": " J. A. T. Pritchard",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Manchester [Inglaterra]",
+                "b": "Hayden Book",
+                "c": "1976"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 312",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Programação matemática"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

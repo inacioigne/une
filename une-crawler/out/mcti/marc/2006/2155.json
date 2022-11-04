@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002155",
+        "005": "20190807091845.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0782124259"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7.056",
+            "b": "S914n",
+            "c": "1999"
+        },
+        "100": {
+            "a": "Strebe, Matthew"
+        },
+        "245": {
+            "a": "NT 4 network security",
+            "c": "Matthew Strebe, Charles Perkins, Michael G. Moncur",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "San Francisco",
+                "b": "Network Press",
+                "c": "c1999"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxxii, 940",
+                "b": "il.,",
+                "e": "+ 1 CD-ROM"
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede de computador",
+                "x": "Proteção de dados"
+            },
+            {
+                "a": "Sistemas operacionais (Computadores)",
+                "x": "Windows NT (Sistema operacional de computador)"
+            }
+        ],
+        "700": [
+            {
+                "a": "Perkins, Charles Arthur",
+                "e": "Coautor"
+            },
+            {
+                "a": "Moncur, Michael G",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

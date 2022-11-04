@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002910",
+        "005": "20190813133108.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:005",
+            "b": "H688c",
+            "c": "=134.3 1974"
+        },
+        "100": {
+            "a": "Hodge, D. Bartow"
+        },
+        "245": {
+            "a": "O computador, seu aliado na administração",
+            "c": "D. Bartow Hodge, Robert N. Hodgson ; tradução de Suely Mendez Brazão, Vicente de aulo Palarico Adorno",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Abril Cultural",
+                "c": "1974"
+            }
+        ],
+        "300": [
+            {
+                "a": "284",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Biblioteca do executivo",
+                "v": "5"
+            }
+        ],
+        "650": [
+            {
+                "a": "Processamento de dados",
+                "x": "Empresas"
+            },
+            {
+                "a": "Computadores"
+            },
+            {
+                "a": "Administração"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Hodgson, Robert N",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003125",
+        "005": "20190814170022.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8585924101"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "311:573",
+            "b": "B615",
+            "c": "2003",
+            "d": "MAMIRAUÁ"
+        },
+        "245": {
+            "a": "BioEstat 3.0",
+            "b": "aplicações estatísticas nas áreas das ciências biológicas e médicas",
+            "c": "Manuel Ayres ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Belém",
+                "b": "Sociedade Civil Mamirauá",
+                "c": "2003"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "291",
+                "b": "il.",
+                "e": "1 CD-ROM"
+            }
+        ],
+        "500": [
+            {
+                "a": "Desenvolvimento estatístico: Manuel Ayres e Manuel Ayres Jr. -- Desenvolvimento de software: Daniel Lima Ayres e Alex de Assis Santos dos Santos."
+            }
+        ],
+        "505": [
+            {
+                "a": "Capítulo 1 - Introdução - Capítulo 2 - Usando o BioEstat - Capítulo 3 - Amostragem - Capítulo 4 - Análise Multivariada - Capítulo 5 - Análise de Sobrevivência - Capítulo 6 - Análise de Variância - Capítulo 7 - Bootstrap - Tira de Bota - Capítulo 8 - Correlação - Capítulo 9 - Distribuição de Probabilidades - Capítulo 10 - Uma amostra - Capítulo 11 - Duas Amostras Independentes - Capítulo 12 - Duas Amostras relacionadas - Capítulo 13 - Estatística Descritiva - Capítulo 14 - Estimação de parâmetros - Capítulo 15 - Meia-Análise - Capítulo 16 - Normalidade - Capítulo 17 - Qui-Quadrado - Capítulo 18 - Regressão - Capítulo 19 - Tamanho das Amostras - Capítulo 20 - Transformação - Capítulo 21 - Gráficos e Tabela - Capítulo 22 - Fórmulas Estatísticas - Capítulo 23 - Escolha do Teste Estatístico - Sugestões - Glossário - Referências bibliográficas -- Índice"
+            }
+        ],
+        "650": [
+            {
+                "a": "Medicina"
+            },
+            {
+                "a": "Estatística"
+            },
+            {
+                "a": "Biologia"
+            },
+            {
+                "a": "Informática"
+            }
+        ],
+        "700": [
+            {
+                "a": "Ayres, Manuel",
+                "e": "Autor"
+            },
+            {
+                "a": "Ayres Júnior, Manuel",
+                "e": "Coautor"
+            },
+            {
+                "a": "Ayres, Daniel Lima",
+                "e": "Coautor"
+            },
+            {
+                "a": "Santos, Alex de Assis Santos dos",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

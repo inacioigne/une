@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004769",
+        "005": "20190807191653.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5:62",
+            "b": "A168",
+            "c": "1994"
+        },
+        "245": {
+            "a": "Academic Science and Engineering",
+            "b": "R&D expenditures : fiscal year 1994",
+            "c": "M. Marge Machen, Project Officer",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Arlington [Estados Unidos]",
+                "b": "National Science Foundation, Division of Science Resources Studies, Directorate for Social, Behavioral and Economic Sciences",
+                "c": "1996"
+            }
+        ],
+        "300": [
+            {
+                "a": "206",
+                "b": "il., tabs"
+            }
+        ],
+        "500": [
+            {
+                "a": "Detailed statistical tables NSF 96-308"
+            }
+        ],
+        "650": [
+            {
+                "a": "Instituição de pesquisa",
+                "x": "Engenharia",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento",
+                "x": "Orçamento",
+                "z": "Estados Unidos"
+            }
+        ],
+        "700": [
+            {
+                "a": "Machen, M. Margen",
+                "e": "Coordenador"
+            }
+        ],
+        "710": [
+            {
+                "a": "National Science Foundation (Estados Unidos). Directorate for Social, Behavioral, and Economic Sciences",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005784",
+        "005": "20190807104701.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.272'75",
+            "b": "A524i",
+            "c": "1988"
+        },
+        "100": {
+            "a": "Amorim, Claudio Luis de"
+        },
+        "245": {
+            "a": "Uma introdução à computação paralela e distribuída",
+            "c": "Claudio Luis de Amorim, Valmir Carneiro Barbosa, Edil Severiano Tavares Fernandes",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Campinas",
+                "b": "Universidade Estadual de Campinas",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "257",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Processamento paralelo"
+            },
+            {
+                "a": "Processamento distribuído"
+            }
+        ],
+        "700": [
+            {
+                "a": "Barbosa, Valmir Carneiro",
+                "e": "Coautor"
+            },
+            {
+                "a": "Fernandes, Edil Severiano Tavares",
+                "e": "Coautor"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola de Computação",
+                "c": "Campinas, SP",
+                "d": "1988",
+                "n": "6"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000006125",
+        "005": "20190806101434.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "911.2(063)",
+            "b": "S612q",
+            "c": "1993"
+        },
+        "111": {
+            "a": "Simpósio de Geografia Física Aplicada",
+            "c": "São Paulo, SP",
+            "d": "1993",
+            "n": "5"
+        },
+        "245": {
+            "a": "V Simpósio de Geografia Física Aplicada",
+            "b": "São Paulo, 07 a 11 de dezembro de 1993",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Universidade de São Paulo, Faculdade de Filosofia, Letras e Ciências Humanas, Departamento de Geografia",
+                "c": "1993"
+            }
+        ],
+        "300": [
+            {
+                "a": "518"
+            }
+        ],
+        "650": [
+            {
+                "a": "Geografia física",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Meio ambiente",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

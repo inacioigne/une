@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005079",
+        "005": "20190806095056.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "020": {
+            "a": "9803171313"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "336.531.2:5/6(892)",
+            "b": "C755i",
+            "c": "2001"
+        },
+        "110": {
+            "a": "Consejo Nacional de Ciencia y Tecnologia (Paraguai)"
+        },
+        "245": {
+            "a": "Indicadores de ciencia y tecnología en Paraguay",
+            "b": "año 2001",
+            "h": "Impresso",
+            "c": "Consejo Nacional de Ciencia y Tecnologia"
+        },
+        "260": [
+            {
+                "a": "Paraguai",
+                "b": "Consejo Nacional de Ciencia y Tecnología",
+                "c": "2002"
+            }
+        ],
+        "300": [
+            {
+                "a": "79"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Indicadores",
+                "z": "Paraguai"
+            },
+            {
+                "a": "Desenvolvimento científico",
+                "z": "Paraguai"
+            },
+            {
+                "a": "Inovação tecnológica",
+                "z": "Paraguai"
+            },
+            {
+                "a": "Pesquisa científica",
+                "z": "Paraguai"
+            }
+        ],
+        "710": [
+            {
+                "a": "Organização dos Estados Americanos (OEA)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

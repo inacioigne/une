@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002111",
+        "005": "20190812111902.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8534601798"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451.9",
+            "b": "M939p",
+            "c": "=134.3",
+            "d": "1994"
+        },
+        "245": {
+            "a": "MS-DOS 6.2, passo a passo",
+            "c": "Catapult, Inc. ; tradução Marcelo Melo Molinari ; revisão técnica José Otávio Lima Gonçalves",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Makron Books",
+                "c": "1994"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxxvi, 338 p.",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Cutter baseado no nome do programa a fim de reunir com os demais no acervo."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistemas operacionais (Computadores)",
+                "x": "MS-DOS (Sistema operacional de computador)"
+            },
+            {
+                "a": "Programas de computador"
+            }
+        ],
+        "710": [
+            {
+                "a": "Catapult, Inc",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

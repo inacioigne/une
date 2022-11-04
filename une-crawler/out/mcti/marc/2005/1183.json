@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001183",
+        "005": "20190729114036.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "620.95(047)",
+            "b": "L533p",
+            "c": "2004"
+        },
+        "100": {
+            "a": "Leite, Rogério Cezar de Cerqueira"
+        },
+        "245": {
+            "a": "A preliminary report for the IUAP working group on energy",
+            "b": "energy from biomass",
+            "c": "Rogério Cezar Cerqueira Leite",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[S.l.",
+                "b": "s.n]",
+                "c": "2004"
+            }
+        ],
+        "300": [
+            {
+                "a": "97",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Biomassa"
+            },
+            {
+                "a": "Biogás"
+            },
+            {
+                "a": "Biocombustíveis"
+            },
+            {
+                "a": "Álcool como combustível"
+            },
+            {
+                "a": "Metanol"
+            },
+            {
+                "a": "Biodiesel"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

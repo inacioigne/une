@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005484",
+        "005": "20190812175258.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "2040150099"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.43",
+            "b": "B311l",
+            "c": "1982"
+        },
+        "245": {
+            "a": "Analyse et programmation en Basic",
+            "c": " J.P. Lamoitier ... [et al.].",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Bordas",
+                "c": "1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "149",
+                "c": "21 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "Basic (Linguagem de programação de computador)"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Lamoitier, Jean-Pierre",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

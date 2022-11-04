@@ -1,0 +1,76 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004395",
+        "005": "20190805094431.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502.51",
+            "b": "G562",
+            "c": "1997"
+        },
+        "245": {
+            "a": "Global Ocean Ecosystem Dynamics (GLOBEC)",
+            "b": "science plan",
+            "h": "Impresso",
+            "c": "Programa Internacional da Geosfera-Biosfera, Conselho Internacional das Uniões Científicas"
+        },
+        "260": [
+            {
+                "a": "Stockholm, Suécia",
+                "b": "International Geosphere-Biosphere Programme",
+                "c": "1997"
+            }
+        ],
+        "300": [
+            {
+                "a": "82",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "IGBP Report = IGBP Rapport = IGBP Informe",
+                "v": "n. 40"
+            }
+        ],
+        "500": [
+            {
+                "a": "GLOBEC report 9."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ecologia marinha",
+                "x": "Pesquisa"
+            },
+            {
+                "a": "Ecossistema marinho",
+                "x": "Pesquisa"
+            },
+            {
+                "a": "Plancton",
+                "x": "Pesquisa"
+            }
+        ],
+        "710": [
+            {
+                "a": "Programa Internacional da Geosfera-Biosfera",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Conselho Internacional das Uniões Científicas",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

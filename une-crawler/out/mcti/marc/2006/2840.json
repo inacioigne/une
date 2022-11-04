@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002840",
+        "005": "20190802112105.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0810459434"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.031.43",
+            "b": "L493f",
+            "c": "c1969"
+        },
+        "100": {
+            "a": "Lefkovitz, David",
+            "d": "1936-"
+        },
+        "245": {
+            "a": "File structures for on-line systems",
+            "c": "David Lefkovitz",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Spartan Books",
+                "c": "c1969"
+            }
+        ],
+        "300": [
+            {
+                "a": "215",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Processamento de dados",
+                "x": "Tempo real"
+            },
+            {
+                "a": "Armazenamento de dados"
+            },
+            {
+                "a": "Recuperação da informação"
+            },
+            {
+                "a": "Banco de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

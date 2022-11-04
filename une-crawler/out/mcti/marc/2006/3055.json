@@ -1,0 +1,96 @@
+{
+    "controfield": {
+        "000": "02222nas  22004453a 4500",
+        "001": "000003055",
+        "005": "20170120103237.0",
+        "008": "060601c20009999enkqr p       0    0eng"
+    },
+    "datafield": {
+        "010": {
+            "a": "00244550"
+        },
+        "016": {
+            "2": "DNLM",
+            "a": "100912837"
+        },
+        "022": {
+            "a": "1467-5463"
+        },
+        "030": {
+            "a": "BBIMFX"
+        },
+        "035": {
+            "a": "14397180"
+        },
+        "090": {
+            "a": "573:681.32"
+        },
+        "245": {
+            "a": "Briefings in bioinformatics",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "Bioinformatics"
+            }
+        ],
+        "260": [
+            {
+                "a": "Londres (Inglaterra)",
+                "b": "H. Stewart Publications",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "v",
+                "b": "il",
+                "c": "30"
+            }
+        ],
+        "310": {
+            "a": "Quadrimestral"
+        },
+        "362": {
+            "a": "v. 1, n. 1 (Fev. 2000)-"
+        },
+        "506": [
+            {
+                "a": "Documento eletrônico: Portal de periodicos da CAPES,EBSCOhost Academic Search Premier - Disponível desde 2001"
+            }
+        ],
+        "510": {
+            "a": "Chemical abstracts",
+            "x": "0009-2258"
+        },
+        "650": [
+            {
+                "a": "Biologia molecular",
+                "x": "Periódico"
+            },
+            {
+                "a": "Biologia computacional",
+                "x": "Periódico"
+            },
+            {
+                "a": "Genética",
+                "x": "Periódico"
+            },
+            {
+                "a": "Genoma",
+                "x": "Periódico"
+            },
+            {
+                "a": "Informática médica",
+                "x": "Periódico"
+            }
+        ],
+        "856": {
+            "u": "bib.oxfordjournals.org/",
+            "y": "Texto completo - Acesso restrito (CAPES)"
+        },
+        "990": {
+            "a": "Periódicos"
+        }
+    }
+}

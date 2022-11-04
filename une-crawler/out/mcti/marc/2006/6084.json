@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000006084",
+        "005": "20190807092130.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.318(100)(063)",
+            "b": "I61i",
+            "c": "2000"
+        },
+        "111": {
+            "a": "International Conference on Magnetism",
+            "c": "Recife, PE",
+            "d": "2000"
+        },
+        "245": {
+            "a": "International Conference on Magnetism 2000",
+            "b": "[program]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Recife",
+                "b": "Universidade Federal de Pernambuco",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "206"
+            }
+        ],
+        "650": [
+            {
+                "a": "Física"
+            },
+            {
+                "a": "Magnetismo",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Dispositivo eletrônico"
+            },
+            {
+                "a": "Dispositivo magnético"
+            }
+        ],
+        "711": [
+            {
+                "a": "Symposium on Strongly Correlated Electron Systems",
+                "c": "Recife, PE",
+                "d": "2000"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

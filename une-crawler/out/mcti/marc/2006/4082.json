@@ -1,0 +1,78 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004082",
+        "005": "20190807193148.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "089791144X"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.38.032.85(063)",
+            "b": "C748a",
+            "c": "1984"
+        },
+        "111": {
+            "a": "Conference of the Association for Computing Machinery",
+            "c": "San Francisco, Estados Unidos",
+            "d": "1984"
+        },
+        "245": {
+            "a": "ACM '84",
+            "b": "proceedings of the 1984 annual Conference of the Association for Computing Machinery : the fifth generation challenge : 1984 October 8-10, San Francisco, California",
+            "c": "edited by Richard L. Muller and James J. Pottmyer",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Association for Computing Machinery",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "xx, 336 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia de computação",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Informática",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Programação de computador",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Computadores",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Muller, R. L.",
+                "q": "Richard L.",
+                "e": "Editor"
+            },
+            {
+                "a": "Pottmyer, James J",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

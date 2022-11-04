@@ -1,0 +1,89 @@
+{
+    "controfield": {
+        "000": "00787pam  2200253 a 4500",
+        "001": "000000549",
+        "005": "20190729114746.0",
+        "007": "t",
+        "008": "740126s1974    caua     b    001 0 eng"
+    },
+    "datafield": {
+        "010": {
+            "a": "74001204"
+        },
+        "020": {
+            "a": "0471496979"
+        },
+        "035": {
+            "a": "1259948"
+        },
+        "040": {
+            "a": "DLC",
+            "c": "DLC",
+            "d": "BR-BrMCT"
+        },
+        "050": {
+            "a": "Z699",
+            "b": ".K583"
+        },
+        "082": {
+            "a": "029.7"
+        },
+        "090": {
+            "a": "025.4.03",
+            "b": "K76p",
+            "c": "[1974]"
+        },
+        "100": {
+            "a": "Kochen, Manfred"
+        },
+        "245": {
+            "a": "Principles of information retrieval",
+            "c": "Manfred Kochen",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Los Angeles",
+                "b": "Melville Pub. Co.",
+                "c": "[1974]"
+            }
+        ],
+        "300": [
+            {
+                "a": "xix, 203",
+                "c": "23",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Information sciences series"
+            }
+        ],
+        "500": [
+            {
+                "a": "\"A Wiley-Becker & Hayes series book.\""
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema de recuperação da informação"
+            },
+            {
+                "a": "Recuperação da informação"
+            },
+            {
+                "a": "Armazenamento de dados"
+            },
+            {
+                "a": "Sistema de informação"
+            },
+            {
+                "a": "Serviço de informação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

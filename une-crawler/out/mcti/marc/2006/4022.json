@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004022",
+        "005": "20190813125932.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0131651838"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7",
+            "b": "T164c",
+            "c": "1981"
+        },
+        "100": {
+            "a": "Tanenbaum, Andrew S"
+        },
+        "245": {
+            "a": "Computer networks",
+            "c": "Andrew S.Tanenbaum",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "1981"
+            }
+        ],
+        "300": [
+            {
+                "a": "xv, 517",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Prentice-Hall software series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Proteção de dados"
+            },
+            {
+                "a": "Protocolo de comunicação"
+            },
+            {
+                "a": "Arquitetura de rede de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

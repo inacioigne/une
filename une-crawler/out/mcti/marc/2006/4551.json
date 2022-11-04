@@ -1,0 +1,86 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004551",
+        "005": "20190807105444.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "339.54(81)",
+            "b": "P195",
+            "c": "2004"
+        },
+        "245": {
+            "a": "Panorama da prática offset no Brasil",
+            "b": "uma visão da negociação internacional de acordos de compensação comercial, industrial e tecnológica",
+            "c": "editor, Zuhair Warwar",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Suspensa",
+                "c": "2004"
+            }
+        ],
+        "300": [
+            {
+                "a": "428"
+            }
+        ],
+        "650": [
+            {
+                "a": "Comércio exterior",
+                "z": "Brasil"
+            },
+            {
+                "a": "Política comercial",
+                "z": "Brasil"
+            },
+            {
+                "a": "Política industrial",
+                "x": "Comércio exterior",
+                "z": "Brasil"
+            },
+            {
+                "a": "Política tecnológica",
+                "x": "Comércio exterior",
+                "z": "Brasil"
+            },
+            {
+                "a": "Indústrias",
+                "z": "Brasil"
+            },
+            {
+                "a": "Tecnologia",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Warwar, Zuhair",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Brasil. Ministério das Relações Exteriores",
+                "b": "Departamento de Temas Científicos e Tecnológicos",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Centro de Gestão Estratégica do Conhecimento em Ciência e Tecnologia",
+                "c": "Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

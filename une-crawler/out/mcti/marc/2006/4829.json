@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004829",
+        "005": "20190806103825.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.39",
+            "b": "I43",
+            "c": "[1995?]"
+        },
+        "100": {
+            "a": "Forge, Simon",
+            "d": "1946-"
+        },
+        "245": {
+            "a": "infoDev, Information for Development Program",
+            "b": "Telecommunications and Informatics Division, Finance and Private Sector Development Vice Presidency, The World Bank",
+            "h": "Impresso",
+            "c": "Simon Forge"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "Banco Mundial",
+                "c": "[1995?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v.",
+                "b": "il., grafs."
+            }
+        ],
+        "650": [
+            {
+                "a": "Telecomunicações"
+            },
+            {
+                "a": "Competitividade"
+            },
+            {
+                "a": "Informação"
+            }
+        ],
+        "710": [
+            {
+                "a": "Banco Mundial",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

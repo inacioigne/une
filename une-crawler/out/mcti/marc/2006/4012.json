@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004012",
+        "005": "20190802100346.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0080285856"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.422.632",
+            "b": "S927",
+            "c": "1984"
+        },
+        "245": {
+            "a": "Structured methods",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Berkshire, [Inglaterra]",
+                "b": "Pergamon Infotech",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 274",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "State of the art report",
+                "v": "12:1"
+            }
+        ],
+        "650": [
+            {
+                "a": "Análise de sistemas"
+            },
+            {
+                "a": "Programação estruturada"
+            },
+            {
+                "a": "Metodologia"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

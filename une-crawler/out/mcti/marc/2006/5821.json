@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005821",
+        "005": "20190806124622.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004(81)(063)",
+            "b": "C749d",
+            "c": "1985"
+        },
+        "111": {
+            "a": "Congresso Nacional de Informática",
+            "c": "São Paulo, SP",
+            "d": "1985",
+            "n": "18"
+        },
+        "245": {
+            "a": "XVIII Congresso Nacional de Informática",
+            "b": "informática 85",
+            "h": "ilustração"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Sociedade dos Usuários de Computadores e Equipamentos Subsidiários",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Inteligência artificial",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Robótica",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

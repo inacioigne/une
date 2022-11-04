@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005843",
+        "005": "20190807114420.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "047138880x"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.312:519.6",
+            "b": "H645i",
+            "c": "c1968"
+        },
+        "100": {
+            "a": "Hill, Fredrick J"
+        },
+        "245": {
+            "a": "Introduction to switching theory and logical design",
+            "c": "Fredrick J. Hill, Gerald R. Peterson",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Wiley",
+                "c": "c1968"
+            }
+        ],
+        "300": [
+            {
+                "a": "449",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Lógica matemática"
+            },
+            {
+                "a": "Engenharia eletrônica"
+            },
+            {
+                "a": "Circuito eletrônico"
+            },
+            {
+                "a": "Circuito lógico"
+            }
+        ],
+        "700": [
+            {
+                "a": "Peterson, Gerald R",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

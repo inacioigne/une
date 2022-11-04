@@ -1,0 +1,82 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000534",
+        "005": "20190806181315.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.942",
+            "b": "P853g",
+            "c": "2000"
+        },
+        "100": {
+            "a": "Portugal, Renato"
+        },
+        "245": {
+            "a": "Group-theoretic approach for symbolic tensor manipulation",
+            "b": "I. Free Indices",
+            "c": "Renato Portugal, B. F. Svaiter",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Petrópolis",
+                "b": "Laboratório Nacional de Computação Científica",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "10 f.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Relatórios de pesquisa e desenvolvimento",
+                "v": "n. 35/2000"
+            }
+        ],
+        "500": [
+            {
+                "a": "Periódico tratado como livro (ISSN: 0101-6113)"
+            }
+        ],
+        "520": {
+            "a": "We describe how Computational Group Theory provides tools for manipulating indexed objects (tensors, spinors, and so on) in explicit index notation. In particular, we present algorithms that put tensors with free and dummy indices obeying permutation symmetries into the canonical form. The method is based on algorithms for determining canonical double coset representatives of subgroups of the symmetric group. The complexity of the algorithms is polynomial on the number of indices in practical applications and allows one to address the simplification of tensor expressions with hundreds of indices, going beyond what is needed in practical applications."
+        },
+        "650": [
+            {
+                "a": "Teoria dos grupos"
+            },
+            {
+                "a": "Algoritmos"
+            },
+            {
+                "a": "Teoria da computação"
+            },
+            {
+                "a": "Simetria"
+            },
+            {
+                "a": "Álgebra"
+            }
+        ],
+        "700": [
+            {
+                "a": "Svaiter, Benar Fux",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

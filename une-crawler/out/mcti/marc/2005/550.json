@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000550",
+        "005": "20190726103656.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8585637064"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "025.3",
+            "b": "M612i",
+            "c": "1995"
+        },
+        "100": {
+            "a": "Mey, Eliane Serrão Alves"
+        },
+        "245": {
+            "a": "Introducão à catalogação",
+            "c": "Eliane Serrão Alves Mey",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Briquet de Lemos",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "123",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Catalogação descritiva",
+                "x": "Catalogação"
+            },
+            {
+                "a": "Catalogação",
+                "x": "História"
+            },
+            {
+                "a": "Catálogos"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

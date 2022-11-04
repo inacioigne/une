@@ -1,0 +1,53 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002108",
+        "005": "20190807131318.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.382.7",
+            "b": "V331p",
+            "c": "1996"
+        },
+        "100": {
+            "a": "Vasconcelos, Laércio"
+        },
+        "245": {
+            "a": "Pentium expert",
+            "c": "Laércio Vasconcelos",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Laércio Vasconcelos Computação",
+                "c": "1996"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (paginação irregular)",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Computador pessoal",
+                "x": "Configuração"
+            },
+            {
+                "a": "Microprocessador",
+                "x": "Pentium"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005396",
+        "005": "20190807145045.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "2040165037"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.891.056(44)",
+            "b": "L228s",
+            "c": "c1985"
+        },
+        "100": {
+            "a": "Lamère, Jean-Marc"
+        },
+        "245": {
+            "a": "La sécurité informatique",
+            "b": "approche méthodologique",
+            "c": "par Jean-Marc Lamère",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Dunod",
+                "c": "c1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 255, [1] p.",
+                "c": "25 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Dunod informatique"
+            }
+        ],
+        "650": [
+            {
+                "a": "Segurança de computador"
+            },
+            {
+                "a": "Proteção de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

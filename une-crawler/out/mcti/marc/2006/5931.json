@@ -1,0 +1,54 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005931",
+        "005": "20190809190111.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "519.6(81)(063)",
+            "b": "C719a",
+            "c": "1995"
+        },
+        "111": {
+            "a": "Colóquio de Pesquisa e Pós-Graduação em Matemática Aplicada e Computacional",
+            "c": "São José do Rio Preto, SP",
+            "d": "1995",
+            "n": "1"
+        },
+        "245": {
+            "a": "Anais do I Colóquio de Pesquisa e Pós-Graduação em Matemática Aplicada e Computacional",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São José do Rio Preto",
+                "b": "Universidade Estadual Paulista",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "175",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Matemática aplicada",
+                "x": "Ciência da computação"
+            },
+            {
+                "a": "Matemática aplicada a informática"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

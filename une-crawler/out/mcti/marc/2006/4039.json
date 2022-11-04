@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004039",
+        "005": "20190807193253.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "089791127X"
+        },
+        "040": {
+            "a": "BR-BMCT"
+        },
+        "090": {
+            "a": "004.89(063)",
+            "b": "A184c",
+            "c": "1984"
+        },
+        "111": {
+            "a": "ACM Computer Science Conference",
+            "c": "Philadelphia, Estados Unidos",
+            "d": "1984",
+            "n": "12"
+        },
+        "245": {
+            "a": "ACM twelfth annual computer science conference",
+            "b": "february 14-16 : sigcse symposium, february 16-17",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Association for Computing Machinery",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 200 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Computadores",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Inteligência artificial",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Programação de computador",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

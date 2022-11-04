@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002128",
+        "005": "20190808134239.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:061",
+            "b": "B823m",
+            "c": "1981",
+            "d": "SEI"
+        },
+        "110": {
+            "a": "Brasil. Secretaria Especial de Informática"
+        },
+        "245": {
+            "a": "Main brazilian institutions dedicated to higher education and research in informatics",
+            "h": "Impresso",
+            "c": "Secretaria Especial de Informática"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Secretaria Especial de Informática",
+                "c": "1981"
+            }
+        ],
+        "300": [
+            {
+                "a": "45 f.",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "Departamento de Informática da Pontifícia Universidade Católica do Rio de Janeiro (PUC/RJ) -- Núcleo de Computação e Eletrônica da Universiade Federal do Rio de Janeiro (NCE/UFRJ) -- Cooredanação dos Programas de Pós-Graduação de Engenharia da Universidade Federal do Rio de Janeiro (COPPE/UFRJ) -- Universidade Federal do Rio Grande do Sul (UFRGS) -- Instituto de Física da Universidade Federal do Rio Grande do Sul (IF/UFRGS) -- Departamento de Ciência da Computação da Universidade Federal de Minas Gerais (DCC/UFMG) -- Laboratório de Sistemas Digitais da Escola Politécnica da Universiade de São Paulo (LSD/USP) -- Laboratório de Subsistemas Integráveis da Universiade de São Paulo (LSI/USP) -- Laboratório de Subsistemas Integráveis da Universidade de São Paulo (LSC/USP) -- Laboratório de Controle de Processos e Eletrônica Industrial da Escola Politécnica da Universidade de São Paulo (LEI/USP) - Instituto de Pesquisas Espaciais (INPE) -- Instituto Tecnológico de Aeronáutica (ITA) -- Centro de Pesquisas e Desenvolvimento da TELEBRÁS (CPqD/TELEBRÁS) -- Departamento de Ciência da Computação da Universidade Estadual de Campinas (DCC/UNICAMP) -- Laboratório de Eletrônica e Dispositivos da Universidade de Campinas (LED/UNICAMP) -- Laboratório de Pesquisa em Dispositivos da Universidade de Campinas (LPD/UNICAMP) -- Laboratório de Material de Grau Eletrônico da Universidade de Campinas (MGE/UNICAMP) -- Instituto de Pesquisa Tecnológicas do Estado de São Paulo S.A. (IPT) -- Laboratório de Computação Científica do Conselho Nacional de Desenvolvimento Científico e Tecnológico (LCC/CNPq) -- Appendix: Special Secretariat of Informatics - Brazil."
+            }
+        ],
+        "650": [
+            {
+                "a": "Instituição de ensino",
+                "x": "Informática"
+            },
+            {
+                "a": "Informática",
+                "x": "Cadastros",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

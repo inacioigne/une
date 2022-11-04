@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002595",
+        "005": "20190801090049.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8522103313"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "37.018.8:004(091)",
+            "b": "P118c",
+            "c": "2002"
+        },
+        "100": {
+            "a": "Pacitti, Tércio"
+        },
+        "245": {
+            "a": "Do Fortran ... à Internet",
+            "b": "construindo o futuro através da educação",
+            "c": "Tércio Pacitti",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "3.ed. atual."
+            }
+        ],
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Pioneira",
+                "c": "2002"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxxv, 472 p."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "História"
+            },
+            {
+                "a": "Programas de computador"
+            },
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Comunicação de dados"
+            },
+            {
+                "a": "Educação"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

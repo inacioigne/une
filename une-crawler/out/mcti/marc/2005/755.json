@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nas  22      a 4500",
+        "001": "000000755",
+        "005": "20170120161117.0",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "061(05)"
+        },
+        "222": [
+            {
+                "a": "CNPq notícias"
+            }
+        ],
+        "245": {
+            "a": "CNPq notícias",
+            "c": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+                "c": "[199?]-1998"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "b": "v"
+            }
+        ],
+        "310": {
+            "a": "Irregular"
+        },
+        "650": [
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Periódico"
+            },
+            {
+                "a": "Pesquisa científica",
+                "x": "Periódico"
+            }
+        ],
+        "710": [
+            {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "Texto completo (CNPq)",
+            "u": "http://cnpq.br/noticias",
+            "z": "Acesso em: 20/01/2017"
+        },
+        "990": {
+            "a": "Periódicos"
+        }
+    }
+}

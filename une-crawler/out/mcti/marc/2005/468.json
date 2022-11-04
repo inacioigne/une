@@ -1,0 +1,111 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000468",
+        "005": "20190729124517.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "8590028739"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.2(063)",
+            "b": "S989p",
+            "c": "2000"
+        },
+        "111": {
+            "a": "Symposium on Computer Architecture and High Performance Computing",
+            "c": "São Pedro, SP",
+            "d": "2000",
+            "n": "12"
+        },
+        "245": {
+            "a": "Proceedings",
+            "b": "12th Symposium on Computer Architecture and High Performance Computing, october 24-27, 2000, São Pedro, SP - Brazil",
+            "c": "editors Luis Carlos Trevelin, Liria Matsumoto Sato, José Hiroki Saito",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "SBAC-PAD'2000"
+            }
+        ],
+        "260": [
+            {
+                "a": "São Carlos, SP",
+                "b": "Universidade Federal de São Carlos",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "377",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Arquitetura de software",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Sistema de computador",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Aplicativo de tecnologia",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Trevelin, Luis Carlos",
+                "e": "Editor"
+            },
+            {
+                "a": "Sato, Liria Matsumoto",
+                "e": "Editor"
+            },
+            {
+                "a": "Saito, José Hiroki",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Sociedade Brasileira de Computação",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Universidade Federal de São Carlos. Departamento de Computação",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Universidade de São Paulo. Departamento de Engenharia da Computação e Sistemas Digitais",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

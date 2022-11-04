@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000006055",
+        "005": "20190809191426.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "661.11(81)(063)",
+            "b": "A849a",
+            "c": "1987"
+        },
+        "111": {
+            "a": "Seminário Empresa Nacional e Química Fina Desenvolvimento Regional",
+            "c": "Porto Alegre, RS",
+            "d": "1987",
+            "n": "2"
+        },
+        "245": {
+            "a": "Anais do II Seminário Empresa Nacional e Química Fina Desenvolvimento Regional",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Porto Alegre",
+                "b": "Associação Brasileira de Química",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "385",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Química fina",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Indústria química",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

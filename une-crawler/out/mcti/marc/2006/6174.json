@@ -1,0 +1,51 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000006174",
+        "005": "20190808143740.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "543.42",
+            "b": "B928m",
+            "c": "c1990"
+        },
+        "100": {
+            "a": "Bueno, Willie Alves"
+        },
+        "245": {
+            "a": "Manual de espectroscopia vibracional",
+            "c": "Willie Alves Bueno",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "McGraw-Hill",
+                "c": "c1990"
+            }
+        ],
+        "300": [
+            {
+                "a": "584",
+                "b": "il., grafs., tabs"
+            }
+        ],
+        "650": [
+            {
+                "a": "Análise espectral"
+            },
+            {
+                "a": "Espectroscopia vibracional"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

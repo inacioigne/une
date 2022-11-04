@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005478",
+        "005": "20190809103403.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.891(94)(063)",
+            "b": "A938p",
+            "c": "1987"
+        },
+        "111": {
+            "a": "Australian Conference on Applications of Expert Systems",
+            "c": "Sydney, Australia",
+            "d": "1987",
+            "n": "3"
+        },
+        "245": {
+            "a": "Proceedings of the third Australian Conference on Applications of Expert Systems",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Sydney, Australia",
+                "b": "The New South Wales Institute of Technology",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "251",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema especialista",
+                "z": "Austrália",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Sistemas operacionais (Computadores)"
+            },
+            {
+                "a": "Sistema de computador"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004257",
+        "005": "20190730111957.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "316.3:001.102",
+            "b": "P976",
+            "c": "2005"
+        },
+        "245": {
+            "a": "Public policies for the development of information societies in Latin America and The Caribbean",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Santiago (Chile)",
+                "b": "Nações Unidas, Divisão de Desenvolvimento Produtivo e Empresarial",
+                "c": "2005"
+            }
+        ],
+        "300": [
+            {
+                "a": "70"
+            }
+        ],
+        "650": [
+            {
+                "a": "Sociedade da informação"
+            },
+            {
+                "a": "Políticas públicas",
+                "z": "Caribe"
+            },
+            {
+                "a": "Informação científica"
+            },
+            {
+                "a": "Informação tecnológica"
+            }
+        ],
+        "710": [
+            {
+                "a": "Nações Unidas",
+                "b": "Divisão de Desenvolvimento Produtivo e Empresarial",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

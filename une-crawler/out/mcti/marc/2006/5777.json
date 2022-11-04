@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005777",
+        "005": "20190806112024.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "681.5:007.5(5-15)",
+            "b": "S656i",
+            "c": "c1985"
+        },
+        "100": {
+            "a": "Smith, Pamela Ann"
+        },
+        "245": {
+            "a": "Information technology in the Middle East",
+            "c": "by Pamela Ann Smith",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Londres (Inglaterra)",
+                "b": "The Economist Intelligence Unit",
+                "c": "c1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "113",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Special report no. 181"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informação tecnológica",
+                "z": "Oriente Médio"
+            },
+            {
+                "a": "Mercado",
+                "x": "Tecnologia",
+                "z": "Oriente Médio"
+            },
+            {
+                "a": "Computadores",
+                "x": "Indústria",
+                "z": "Oriente Médio"
+            },
+            {
+                "a": "Telecomunicações",
+                "x": "Indústria",
+                "z": "Oriente Médio"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

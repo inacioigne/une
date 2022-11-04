@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002831",
+        "005": "20190808145145.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42(035)",
+            "b": "M294",
+            "c": "1972"
+        },
+        "245": {
+            "a": "Manual de programação",
+            "h": "Impresso",
+            "c": "Serviço Federal de Processamento de Dados"
+        },
+        "250": [
+            {
+                "a": "1. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Serviço Federal de Processamento de Dados",
+                "c": "1972"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (várias paginações)",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Fluxograma"
+            },
+            {
+                "a": "Técnica de programação"
+            }
+        ],
+        "710": [
+            {
+                "a": "Serviço Federal de Processamento de Dados (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

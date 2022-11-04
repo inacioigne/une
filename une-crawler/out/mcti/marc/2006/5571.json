@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005571",
+        "005": "20190731130608.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "020": {
+            "a": "9501398609"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.43",
+            "b": "A284d",
+            "c": "1987"
+        },
+        "100": {
+            "a": "Aguirre, Jorge"
+        },
+        "245": {
+            "a": "Diseño de ambientes centrados en lenguaje",
+            "c": "Jorge Aguirre",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Buenos Aires",
+                "b": "Kapelusz",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "117",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Edicion preliminar apresentada na I Escola Brasileiro-Argentina de Informática (I EBAI), Campinas, SP, 1986."
+            }
+        ],
+        "650": [
+            {
+                "a": "Linguagem de programação (Computadores)"
+            },
+            {
+                "a": "Modelos matemáticos"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Campinas, SP",
+                "d": "1986",
+                "n": "1"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

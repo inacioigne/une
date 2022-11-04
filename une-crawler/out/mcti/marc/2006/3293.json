@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003293",
+        "005": "20190805142502.0",
+        "007": "t",
+        "008": "                                   mul"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "32:35(063)",
+            "b": "F745e",
+            "c": "[2000?]"
+        },
+        "111": {
+            "a": "Forum Global",
+            "c": "Brasília, DF",
+            "d": "2000",
+            "n": "2"
+        },
+        "245": {
+            "a": "II Fórum global, Estado democrático e governança no século XXI",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Ministério do Planejamento, Orçamento e Gestão",
+                "c": "[2000?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "111",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Estado",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Políticas públicas",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Administração pública",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Política tecnológica",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

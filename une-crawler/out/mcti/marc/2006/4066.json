@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004066",
+        "005": "20190809150509.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:821=134.3",
+            "b": "K46a",
+            "c": "1982"
+        },
+        "100": {
+            "a": "Kidder, Tracy"
+        },
+        "245": {
+            "a": "A alma da nova máquina",
+            "c": "Tracy Kidder ; tradução de Auly de Soares",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Melhoramentos"
+            },
+            {
+                "a": "[Rio de Janeiro]",
+                "b": "Digibrás",
+                "c": "1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "260"
+            }
+        ],
+        "534": {
+            "a": "Título original: The soul of a new machine"
+        },
+        "650": [
+            {
+                "a": "Engenharia de computação",
+                "x": "Literatura"
+            },
+            {
+                "a": "Informática",
+                "x": "Literatura"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

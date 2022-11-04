@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000504",
+        "005": "20190812152701.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "007:658",
+            "b": "B415c",
+            "c": "=134.2"
+        },
+        "100": {
+            "a": "Beer, Stafford"
+        },
+        "245": {
+            "a": "Cibernética y administración",
+            "c": "por Stafford Beer",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "México",
+                "b": "Compañia Editorial Continental",
+                "c": "1977"
+            }
+        ],
+        "270": [
+            {
+                "d": "Mexico"
+            }
+        ],
+        "300": [
+            {
+                "a": "254"
+            }
+        ],
+        "500": [
+            {
+                "a": "Título original em inglês: Cybernetics and management"
+            }
+        ],
+        "650": [
+            {
+                "a": "Cibernética",
+                "x": "Administração"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            },
+            {
+                "a": "Inteligência artificial"
+            },
+            {
+                "a": "Teoria da informação",
+                "x": "Cibernética"
+            },
+            {
+                "a": "Teoria da computação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

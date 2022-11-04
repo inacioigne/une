@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004030",
+        "005": "20190730125344.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0080285767"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.65",
+            "b": "D277",
+            "c": "1983"
+        },
+        "245": {
+            "a": "DBMSs",
+            "b": "a technical comparison",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Berkshire, [Inglaterra]",
+                "b": "Pergamon Infotech",
+                "c": "1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "305",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "State of the art report",
+                "v": "11:5"
+            }
+        ],
+        "650": [
+            {
+                "a": "Gerenciamento de banco de dados"
+            },
+            {
+                "a": "Banco de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

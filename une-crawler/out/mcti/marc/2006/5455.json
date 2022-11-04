@@ -1,0 +1,96 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005455",
+        "005": "20190809174515.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.2(81)(063)",
+            "b": "S612o",
+            "c": "1987"
+        },
+        "111": {
+            "a": "Simpósio Brasileiro de Arquitetura de Computadores Processamento Paralelo",
+            "c": "Gramado, RS",
+            "d": "1987",
+            "n": "1"
+        },
+        "245": {
+            "a": "Anais",
+            "b": "I Simpósio Brasileiro de Arquitetura de Computadores Processamento Paralelo, 13 a 15 de maio 1987, Gramado, RS, Brasil",
+            "c": "Editado por Márcia de Barros Correia",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "1º SBACC"
+            }
+        ],
+        "260": [
+            {
+                "a": "Gramado",
+                "b": "Sociedade Brasileira de Computação",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "453",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Compilador",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Rede de computador",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Avaliação de desempenho",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Navaux, Philippe O.A.",
+                "q": "Philippe Olivier Alexandre",
+                "e": "Editor"
+            },
+            {
+                "a": "Correia, Márcia de Barros",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Sociedade Brasileira de Computação",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

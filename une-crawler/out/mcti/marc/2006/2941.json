@@ -1,0 +1,76 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002941",
+        "005": "20190808144149.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "005.591.6",
+            "b": "H333i",
+            "c": "=134.2",
+            "d": "1973"
+        },
+        "100": {
+            "a": "Hartman, W"
+        },
+        "245": {
+            "a": "Manual de los sistemas de información",
+            "b": "análisis, requisitos y su determinación, diseño y desarrollo, implantación y su evaluación",
+            "c": "W. Hartman, H. Matthes, A. Proeme",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Madri (Espanha)",
+                "b": "Paraninfo",
+                "c": "1973"
+            }
+        ],
+        "300": [
+            {
+                "a": "382",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Biblioteca técnica Philips"
+            }
+        ],
+        "534": {
+            "a": "Título original: Information systems handbook"
+        },
+        "650": [
+            {
+                "a": "Empresas",
+                "x": "Automação"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Sistema de informação",
+                "x": "Projeto"
+            }
+        ],
+        "700": [
+            {
+                "a": "Matthes, H",
+                "e": "Coautor"
+            },
+            {
+                "a": "Proeme, A",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

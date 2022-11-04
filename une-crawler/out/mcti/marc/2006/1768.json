@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001768",
+        "005": "20190813140623.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8570300514"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.3.049.77",
+            "b": "Z94c",
+            "c": "1984"
+        },
+        "100": {
+            "a": "Zuffo, João Antonio",
+            "d": "1939-"
+        },
+        "245": {
+            "a": "Compêndio de microeletrônica",
+            "c": "João Antonio Zuffo",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Guanabara Dois",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "3 v.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Microeletrônica"
+            }
+        ],
+        "505": [
+            {
+                "a": "v.1. Processos e tecnologias -- v.2. Subsistemas integrados -- v.3. Principios e tecnologias complementares."
+            }
+        ],
+        "650": [
+            {
+                "a": "Microeletrônica"
+            },
+            {
+                "a": "Engenharia eletrônica"
+            },
+            {
+                "a": "Circuito integrado"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002891",
+        "005": "20190813114341.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0877691535"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.6:657.6",
+            "b": "C738",
+            "c": "1973"
+        },
+        "245": {
+            "a": "Computers",
+            "b": "auditing and control",
+            "c": "ed. Elise G. Jancura and Arnold H. Berger",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Philadelphia",
+                "b": "Auerbach",
+                "c": "1973"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 498"
+            }
+        ],
+        "650": [
+            {
+                "a": "Processamento de dados",
+                "x": "Empresas"
+            },
+            {
+                "a": "Informática",
+                "x": "Auditoria"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Jancura, Elise G.",
+                "d": "1938-",
+                "e": "Editor"
+            },
+            {
+                "a": "Berger, Arnold H",
+                "d": "1931-",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

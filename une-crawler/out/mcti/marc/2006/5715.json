@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005715",
+        "005": "20190731094036.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0132014351"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.41",
+            "b": "D457",
+            "c": "1982"
+        },
+        "245": {
+            "a": "Designing and programming modern computers and systems",
+            "c": "Svetlana P. Kartashev, ed., Steven I. Kartashev, ed",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "3 v.",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "v. 2 - Supercomputing systems : reconfigurable architectures / v. 3 - Parallel architectures networks, and applications"
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia de computação"
+            },
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Arquitetura de rede de computador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Kartashev, Steven I",
+                "e": "Editor"
+            },
+            {
+                "a": "Kartashev, Svetlana",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

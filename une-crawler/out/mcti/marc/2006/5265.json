@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005265",
+        "005": "20190731101151.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "338.45:004.382(1-773)",
+            "b": "C824d",
+            "c": "[1989]"
+        },
+        "100": {
+            "a": "Correa, Carlos María"
+        },
+        "245": {
+            "a": "Developments in the field of informatics in selected developing countries",
+            "c": "prepared by Carlos M. Correa",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Vienna",
+                "b": "Organização das Nações Unidas para o Desenvolvimento Industrial",
+                "c": "[1989]"
+            }
+        ],
+        "300": [
+            {
+                "a": "40 f.",
+                "c": "30",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Technology trends series",
+                "v": "no. 9"
+            }
+        ],
+        "500": [
+            {
+                "a": "IPCT.91"
+            }
+        ],
+        "650": [
+            {
+                "a": "Computadores",
+                "x": "Países em desenvolvimento"
+            },
+            {
+                "a": "Semicondutores",
+                "x": "Países em desenvolvimento"
+            }
+        ],
+        "710": [
+            {
+                "a": "Organização das Nações Unidas para o Desenvolvimento Industrial",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

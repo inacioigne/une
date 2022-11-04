@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005023",
+        "005": "20190731120227.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "630*2(81:213.56)",
+            "b": "R432",
+            "c": "1998"
+        },
+        "245": {
+            "a": "Research for the tropical forest",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Bonn",
+                "b": "Federal Ministry of Education, Science, Research and Technology",
+                "c": "1998"
+            }
+        ],
+        "300": [
+            {
+                "a": "88",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Florestas tropicais",
+                "x": "Pesquisa"
+            },
+            {
+                "a": "Pesquisa florestal"
+            },
+            {
+                "a": "Ecossistemas",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Kürten, Ludwig",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Alemanha. Federal Ministry for Research and Technology",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

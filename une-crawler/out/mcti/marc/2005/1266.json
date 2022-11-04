@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nas  22      a 4500",
+        "001": "000001266",
+        "005": "20170123092225.0",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "061(05)"
+        },
+        "245": {
+            "a": "INPE",
+            "b": "notícias",
+            "c": "Instituto Nacional de Pesquisas Espaciais",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São José dos Campos",
+                "b": "Instituto Nacional de Pesquisas Espaciais",
+                "c": "1997-1998"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "b": "v"
+            }
+        ],
+        "310": {
+            "a": "Bimestral"
+        },
+        "650": [
+            {
+                "a": "Instituição de pesquisa",
+                "x": "Periódico",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pesquisa científica",
+                "x": "Periódico",
+                "z": "Brasil"
+            },
+            {
+                "a": "Tecnologia espacial",
+                "x": "Periódico",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto Nacional de Pesquisas Espaciais (Brasil)",
+                "e": "Indefinida"
+            }
+        ],
+        "990": {
+            "a": "Periódicos"
+        }
+    }
+}

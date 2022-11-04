@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004296",
+        "005": "20190808141607.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.41",
+            "b": "P927",
+            "c": "[19--?]"
+        },
+        "245": {
+            "a": "Preparando para o uso de sistemas distribuídos",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "SCI - Sistemas, computação e informática",
+                "c": "[19--?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Sistemas, computação e informática"
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema distribuído"
+            },
+            {
+                "a": "Sistemas operacionais (Computadores)"
+            },
+            {
+                "a": "Arquitetura de software"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

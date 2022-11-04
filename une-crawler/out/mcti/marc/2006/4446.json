@@ -1,0 +1,80 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004446",
+        "005": "20190801110829.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8588325047"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "069.02:5:37",
+            "b": "E24",
+            "c": "2001"
+        },
+        "245": {
+            "a": "Educação para a ciência",
+            "b": "curso para treinamento em centros e museus de ciências",
+            "c": "Organizadores: Silverio Crestana, Ernst W. Hamburger, Dilma M. Silva, Sérgio Mascarenhas",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Livraria da Física",
+                "c": "2001"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "676",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Museus"
+            },
+            {
+                "a": "Ciência",
+                "x": "Estudo e ensino"
+            },
+            {
+                "a": "Museus de ciências",
+                "x": "Aspectos educacionais"
+            }
+        ],
+        "700": [
+            {
+                "a": "Crestana, Silvério",
+                "e": "Organizador"
+            },
+            {
+                "a": "Hamburger, Ernst W",
+                "e": "Organizador"
+            },
+            {
+                "a": "Melo, Dilma de",
+                "e": "Organizador"
+            },
+            {
+                "a": "Mascarenhas, Sérgio",
+                "e": "Organizador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004442",
+        "005": "20190813154248.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0970788207"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "551.583",
+            "b": "C639",
+            "c": "2000"
+        },
+        "245": {
+            "a": "Climate change and development",
+            "b": "a collaborative project of the UNDP Regional Bureau for Latin America and the Caribbean and the Yale School of Forestry & Environemental Studies",
+            "c": "Luis Gómez-Echeverri, editor",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "New Haven [Estados Unidos]",
+                "b": "Yale University",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "438",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Mudanças climáticas"
+            },
+            {
+                "a": "Efeito estufa (Atmosfera)",
+                "x": "Mitigação"
+            }
+        ],
+        "651": [
+            {
+                "a": "América Latina"
+            }
+        ],
+        "700": [
+            {
+                "a": "Gómez-Echeverri, Luis",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

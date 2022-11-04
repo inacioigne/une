@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001965",
+        "005": "20190813141308.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.5",
+            "b": "S111c",
+            "c": "1980"
+        },
+        "100": {
+            "a": "Saad, Alfredo Carlos Cardoso",
+            "d": "1948-"
+        },
+        "245": {
+            "a": "Como prolongar a vida útil de uma configuração de PD",
+            "b": "reduzindo custos e melhorando a qualidade dos serviços",
+            "c": "Alfredo Carlos Cardoso Saad",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Edgard Blucher",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "76",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "1. Conceitos preliminares -- 2. Benefícios potenciais da análise de desempenho -- 3. Aumentar a capacidade de processamento do sistema -- 4. Reduzir os recursos gastos -- 5. Sistonizar o sistema -- 6. Exemplo prático: como minimizar o tempo de retorno de serviços em BATCH -- Apêndice 1: Considerações acerca da capacidade de processamento de algumas UCPs das séries /360, /370 e compatíveis -- Apêndice 2: Aspectos práticos do algoritmo de E/S de alguns sistemas operacionais IBM -- Apêndice 3: Blocagem de arquivos seqüênciais em disco e fita."
+            }
+        ],
+        "550": {
+            "a": "Publicado em convênio com a Fundação Nacional de Material Escolar, Ministério da Educação e Cultura e com a Comissão de Coordenação das Atividades de Processamento eletrónico, Secretaria do Planejamento da Presidência da Republica."
+        },
+        "586": {
+            "a": "O Programa Nacional de Treinamento em Computação (PNTC), foi criado com o objetivo de \"incentivar a formação de profissionais de processamento de dados em todos os níveis para suprir a demanda de mão-de-obra especializada no País, visando, ao mesmo tempo, a definição de uma filosofia geral do ensino especializado, com ênfase para a melhoria da qualidade\". Sua execução é coordenada pela CAPRE. De acordo com esses objetivos o PNTC vem promovendo incitavas que visam a incrementar tanto qualitativa como quantitativamente a formação de recursos humanos em informática no Brasil, de modo a garantir uma utilização eficaz e eficiente da computação pelas instituições públicas e privadas brasileiras de forma coerente com a necessidade do desenvolvimento do País."
+        },
+        "650": [
+            {
+                "a": "Computadores",
+                "x": "Avaliação"
+            },
+            {
+                "a": "Processamento de dados",
+                "x": "Avaliação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

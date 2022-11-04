@@ -1,0 +1,83 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000621",
+        "005": "20190726100153.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8586170658"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "304",
+            "b": "R124",
+            "c": "2005"
+        },
+        "245": {
+            "a": "Radar social 2005",
+            "h": "Impresso",
+            "c": "Instituto de Pesquisa Econômica Aplicada"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "2005"
+            }
+        ],
+        "300": [
+            {
+                "a": "141",
+                "b": "gráfs., mapas, tabs."
+            }
+        ],
+        "520": {
+            "a": "Apresenta as principais mudanças que vêm ocorrendo no campo social a partir da última década. Explica os fatores que determinaram essas mudanças e suas conseqûências para políticas públicas. Apresenta comparações com outros países para visualizar a posição do Brasil no contexto internacional. Reúne os dados mais recentes produzidas por diversas instituições governamentais, principalmente o IBGE."
+        },
+        "650": [
+            {
+                "a": "Política social"
+            },
+            {
+                "a": "Condições sociais"
+            },
+            {
+                "a": "Condições de trabalho"
+            },
+            {
+                "a": "Pobreza"
+            },
+            {
+                "a": "Educação"
+            },
+            {
+                "a": "Saúde"
+            },
+            {
+                "a": "Estatística",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "IPEA",
+            "u": "http://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=5490",
+            "z": "Acesso em: 12/04/2013"
+        },
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

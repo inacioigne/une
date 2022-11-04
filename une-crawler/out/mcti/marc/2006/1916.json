@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001916",
+        "005": "20190806113317.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "020": {
+            "a": "9501398544"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.41",
+            "b": "B734i",
+            "c": "1987"
+        },
+        "100": {
+            "a": "Boria, Jorge Luis"
+        },
+        "245": {
+            "a": "Ingenieria de software",
+            "c": "Jorge Luis Boria",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Buenos Aires",
+                "b": "Kapelusz",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "291",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia de software"
+            },
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Engenharia de programação"
+            },
+            {
+                "a": "Software",
+                "x": "Desenvolvimento"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Buenos Aires, Argentina",
+                "d": "1987",
+                "n": "2"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

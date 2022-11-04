@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002737",
+        "005": "20190809154329.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0814453171"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.382.4",
+            "b": "K36m",
+            "c": "c1973"
+        },
+        "100": {
+            "a": "Kenney, Donald P"
+        },
+        "245": {
+            "a": "Minicomputers",
+            "b": "low-cost computer power for management",
+            "c": "Donald P. Kenney",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "AMACOM",
+                "c": "c1973"
+            }
+        ],
+        "300": [
+            {
+                "a": "vi, 199 p.",
+                "c": "24 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Minicomputador"
+            },
+            {
+                "a": "Análise de sistemas"
+            },
+            {
+                "a": "Software"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002856",
+        "005": "20190802105713.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0138813000"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.39:004.7",
+            "b": "M379s",
+            "c": "1972"
+        },
+        "100": {
+            "a": "Martin, James",
+            "d": "1933-"
+        },
+        "245": {
+            "a": "Systems analysis for data transmission",
+            "c": "James Martin",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "c1972"
+            }
+        ],
+        "300": [
+            {
+                "a": "xv, 910",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema de computador",
+                "x": "Engenharia"
+            },
+            {
+                "a": "Sistema de transmissão de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

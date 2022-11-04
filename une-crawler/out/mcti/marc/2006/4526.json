@@ -1,0 +1,77 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004526",
+        "005": "20190809111040.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.3.049.77(100)(063)",
+            "b": "I61d",
+            "c": "2001"
+        },
+        "111": {
+            "a": "International Conference on Microelectronics and Packaging",
+            "c": "Pirenópolis, GO",
+            "d": "2001",
+            "n": "16"
+        },
+        "245": {
+            "a": "Proceedings, XVI SBMicro, International Conference on Microelectronics and Packaging",
+            "b": "September 10-14, 2001, Pousada dos Pireneus Resort, Pirenopólis, State of Goiás, Brazil",
+            "c": "edited by Patrick Verdonck, Carlos Alberto dos Reis Filho and José Camargo da Costa",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Pirenópolis",
+                "b": "Sociedade Brasileira de Microeletrônica",
+                "c": "2001"
+            }
+        ],
+        "300": [
+            {
+                "a": "322",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Microeletrônica",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Semicondutores",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Verdonck, Patrick Bernard",
+                "e": "Editor"
+            },
+            {
+                "a": "Reis Filho, Carlos dos",
+                "e": "Editor"
+            },
+            {
+                "a": "Costa, José Camargo da",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Sociedade Brasileira de Microeletrônica",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001907",
+        "005": "20190809135148.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "9501398714"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4",
+            "b": "A368m",
+            "c": "1989"
+        },
+        "100": {
+            "a": "Alencar, Paulo Sergio C. de"
+        },
+        "245": {
+            "a": "Métodos formais para o desenvolvimento de programas",
+            "c": "Paulo S. C. de Alencar, Carlos J. P. de Lucena",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Buenos Aires",
+                "b": "Kapelusz",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "175"
+            }
+        ],
+        "500": [
+            {
+                "a": "Versão preliminar apresentada na IV Escola Brasileiro-Argentina de Informática, Santiago del Estero, 1989."
+            }
+        ],
+        "650": [
+            {
+                "a": "Software"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)"
+            },
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Engenharia de software"
+            }
+        ],
+        "700": [
+            {
+                "a": "Lucena, Carlos J. P.",
+                "q": "Carlos José Pereira",
+                "e": "Coautor"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Santiago del Estero, Argentina",
+                "d": "1989",
+                "n": "4"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

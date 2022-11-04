@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005432",
+        "005": "20190807140513.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "020": {
+            "a": "9688204730"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6(7/8=13)",
+            "b": "C569",
+            "c": "1992"
+        },
+        "245": {
+            "a": "La ciencia y la tecnología para el futuro da América Latina",
+            "b": "puntos sobresalientes de coloquio",
+            "c": "Juan José Saldaña, Editor",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "México",
+                "b": "Consejo Consultivo de Ciencias",
+                "c": "1992"
+            }
+        ],
+        "300": [
+            {
+                "a": "58",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e tecnologia",
+                "z": "América Latina"
+            },
+            {
+                "a": "Cooperação internacional"
+            }
+        ],
+        "700": [
+            {
+                "a": "Saldaña, Juan José",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Mexico. Presidencia da Republica. Consejo Consultivo de Ciencias",
+                "e": "Corporativo"
+            }
+        ],
+        "711": [
+            {
+                "a": "Coloquio \"La Ciencia y la Tecnología para el Futuro da América Latina\"",
+                "c": "Acapulco, México",
+                "d": "1990"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

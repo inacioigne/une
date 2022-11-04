@@ -1,0 +1,100 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005660",
+        "005": "20190806104926.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "53",
+            "b": "W285",
+            "c": "2006"
+        },
+        "245": {
+            "a": "Warping and precession in galactic and estragalactic accretion disks",
+            "c": "Anderson Caproni... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Centro Brasileiro de Pesquisas Físicas",
+                "c": "2006"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "35 f."
+            }
+        ],
+        "490": [
+            {
+                "a": "Notas de Física / CBPF",
+                "v": "021/06"
+            }
+        ],
+        "500": [
+            {
+                "a": "The Bardeen-Petterson general relativistic effect has been suggested as the mechanism responsible for precession in some accretion disk systems. Here we examine separately four mechanisms (tidally-induced, irradiation-induced, magnetically-induced and Bardeen-Petterson-induced) that can lead to warping and precession. We use a sample of eight X-ray binaries and four Active Galactic Nuclei (AGNs) that present signatures of warping and/or precession in their accretion disks to explore the viability of the different mechanisms. For the X-ray binaries SMCX-1 and 4U1907+09 all four mechanisms provide precession periods compatible with those observed, while for CygX-1 and the active galaxies Arp 102B and NGC1068, only two mechanisms are in agreement with the observations. The irradiation-driven instability seems incapable of producing the inferred precession of the active galaxies in our sample, and the tidallyinduced precession can probably be ruled out in the case of Arp 102B. Perhaps the best case for a Bardeen-Petterson precession can be achieved for NGC1068. Our results show that given the many observational uncertainties that still exist, it is extremely difficult to confirm unambiguously that the Bardeen-Petterson effect has been observed in any of the other sources of our sample."
+            }
+        ],
+        "650": [
+            {
+                "a": "Física"
+            },
+            {
+                "a": "Ciência"
+            },
+            {
+                "a": "Tecnologia"
+            },
+            {
+                "a": "Modelos matemáticos"
+            }
+        ],
+        "700": [
+            {
+                "a": "Caproni, Anderson",
+                "e": "Coautor"
+            },
+            {
+                "a": "Livio, Mario",
+                "d": "1945-",
+                "e": "Coautor"
+            },
+            {
+                "a": "Abraham, Zulema",
+                "e": "Coautor"
+            },
+            {
+                "a": "Mosquera Cuesta, Herman J.",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Centro Brasileiro de Pesquisas Físicas",
+                "c": "Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "Texto completo (CBPF)",
+            "u": "http://cbpfindex.cbpf.br/publication_pdfs/nf02106.2006_09_05_11_10_58.pdf",
+            "z": "Acesso em: 07/11/2016"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

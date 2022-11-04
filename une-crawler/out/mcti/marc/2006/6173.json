@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000006173",
+        "005": "20190806123839.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "658.5(81)(063)",
+            "b": "E56d",
+            "c": "1992"
+        },
+        "111": {
+            "a": "Encontro Nacional de Engenharia de Produção",
+            "c": "São Paulo, SP",
+            "d": "1992",
+            "n": "12"
+        },
+        "245": {
+            "a": "XII Encontro Nacional de Engenharia de Produção - XII ENEGEP",
+            "b": "anais",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Universidade Paulista",
+                "c": "1992"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia de produção",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Engenharia econômica",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

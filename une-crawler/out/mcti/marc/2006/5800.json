@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005800",
+        "005": "20190801094119.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "9221061221"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "331.101.5(1-773)",
+            "b": "O68s",
+            "c": "1988"
+        },
+        "110": {
+            "a": "Organização Internacional do Trabalho (OIT)"
+        },
+        "245": {
+            "a": "Safety, health and working conditions in the transfer of technology to developing countries",
+            "h": "Impresso",
+            "c": "Organização Internacional do Trabalho"
+        },
+        "260": [
+            {
+                "a": "Genebra (Suiça)",
+                "b": "Repartição Internacional do Trabalho",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "xi, 81"
+            }
+        ],
+        "490": [
+            {
+                "a": "An ILO code of practice"
+            }
+        ],
+        "650": [
+            {
+                "a": "Higiene do trabalho",
+                "x": "Países em desenvolvimento"
+            },
+            {
+                "a": "Transferência de tecnologia",
+                "x": "Países em desenvolvimento"
+            },
+            {
+                "a": "Segurança do trabalho",
+                "x": "Países em desenvolvimento"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

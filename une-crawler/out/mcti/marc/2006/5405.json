@@ -1,0 +1,73 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005405",
+        "005": "20190807131249.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0920380123"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.272.44",
+            "b": "I87",
+            "c": "c1979"
+        },
+        "245": {
+            "a": "Issues in Canadian/U.S. transborder computer data flows",
+            "b": "proceedings of a conference held in Montreal at the Four Seasons Hotel and sponsored by the Institute for Research on Public Policy, September 6, 1978",
+            "c": "edited by W. E. Cundiff and Mado Reid.",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Montreal",
+                "b": "Institute for Research on Public Policy",
+                "c": "c1979"
+            }
+        ],
+        "300": [
+            {
+                "a": "v, 89 p.",
+                "c": "23 cm"
+            }
+        ],
+        "650": [
+            {
+                "a": "Fluxo de dados transfronteiras",
+                "x": "Congressos, eventos, encontros",
+                "z": "Canadá"
+            },
+            {
+                "a": "Rede de computador",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Cundiff, W. E",
+                "d": "1945-",
+                "e": "Editor"
+            },
+            {
+                "a": "Reid, Mado",
+                "d": "1948-",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Institute for Research on Public Policy",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

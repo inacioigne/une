@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000006047",
+        "005": "20190806103548.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "378:001.8(81)(063)",
+            "b": "E56o",
+            "c": "1989"
+        },
+        "111": {
+            "a": "Encontro Universitário de Iniciação à Pesquisa",
+            "c": "Fortaleza, CE",
+            "d": "1989",
+            "n": "8"
+        },
+        "245": {
+            "a": "VIII Encontro Universitário de Iniciação à Pesquisa",
+            "b": "dias 30 de novembro e 1 de dezembro / 1989",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Fortaleza",
+                "b": "Universidade Federal do Ceará",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "273"
+            }
+        ],
+        "650": [
+            {
+                "a": "Iniciação científica",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pesquisa universitária",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pesquisa científica",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

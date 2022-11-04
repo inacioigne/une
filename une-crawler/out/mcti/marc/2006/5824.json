@@ -1,0 +1,51 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005824",
+        "005": "20190802141307.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "556.55",
+            "b": "E79f",
+            "c": "1988"
+        },
+        "100": {
+            "a": "Esteves, Francisco de Assis"
+        },
+        "245": {
+            "a": "Fundamentos de limnologia",
+            "c": "Francisco de Assis Esteves",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Financiadora de Estudos e Projetos",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "575",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Limnologia"
+            },
+            {
+                "a": "Ecologia aquática"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

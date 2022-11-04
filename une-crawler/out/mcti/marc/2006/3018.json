@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003018",
+        "005": "20190805091636.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0201038021 (v. 2)"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "K74a",
+            "c": "1975"
+        },
+        "100": {
+            "a": "Knuth, Donald Ervin",
+            "d": "1938-"
+        },
+        "245": {
+            "a": "The art of computer programming",
+            "c": "Donald E. Knuth",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Reading, Massachusetts",
+                "b": "Addison-Wesley",
+                "c": "1975"
+            }
+        ],
+        "300": [
+            {
+                "a": "3 v.",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "v. 1 - Fundamental algorithms -- v. 2 - Seminumerical Algorithms -- v. 3 - Sorting and searching"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Computadores",
+                "x": "Algoritmos"
+            },
+            {
+                "a": "Programação matemática"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

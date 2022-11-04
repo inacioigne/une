@@ -1,0 +1,87 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002043",
+        "005": "20190809180305.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.2(063)",
+            "b": "W926a",
+            "c": "2003"
+        },
+        "111": {
+            "a": "Workshop em Sistemas Computacionais de Alto Desempenho",
+            "c": "São Paulo, SP",
+            "d": "2003",
+            "n": "4"
+        },
+        "245": {
+            "a": "Anais",
+            "b": "WSCAD 2003 : IV Workshop em Sistemas Computacionais de Alto Desempenho",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Universidade de São Paulo",
+                "c": "2003"
+            }
+        ],
+        "300": [
+            {
+                "a": "191",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Arquitetura de software",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Sistema de computador",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Aplicativo de tecnologia",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Sociedade Brasileira de Computação",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Universidade de São Paulo. Departamento de Engenharia da Computação e Sistemas Digitais",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Pontifícia Universidade Católica de Minas Gerais",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Universidade Federal de Minas Gerais",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

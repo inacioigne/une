@@ -1,0 +1,83 @@
+{
+    "controfield": {
+        "000": "     nas  22      a 4500",
+        "001": "000000688",
+        "005": "20170120171230.0",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "022": {
+            "a": "1808-8392"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "316.42(05)"
+        },
+        "245": {
+            "a": "Inclusão social",
+            "c": "Instituto Brasileiro de Informação em Ciência e Tecnologia",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto Brasileiro de Informação em Ciência e Tecnologia",
+                "c": "2005"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "b": "v."
+            }
+        ],
+        "310": {
+            "a": "Semestral"
+        },
+        "500": [
+            {
+                "a": "Coleção impressa: (v. 1, n. 1, out./mar. 2005 - presente)"
+            }
+        ],
+        "530": {
+            "a": "Documento eletrônico: Texto completo, período disponível (v. 1, n. 1, out./mar. 2005 - presente) - Livre acesso"
+        },
+        "650": [
+            {
+                "a": "Inclusão social",
+                "x": "Periódico",
+                "z": "Brasil"
+            },
+            {
+                "a": "Tecnologia da informação",
+                "x": "Periódico",
+                "z": "Brasil"
+            },
+            {
+                "a": "Globalização",
+                "x": "Periódico",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto Brasileiro de Informação em Ciência e Tecnologia",
+                "e": "Indefinida"
+            }
+        ],
+        "856": {
+            "u": "http://revista.ibict.br/inclusao/index",
+            "y": "Texto completo - Livre acesso",
+            "z": "Acesso em: 20/01/2017"
+        },
+        "990": {
+            "a": "Periódicos"
+        }
+    }
+}

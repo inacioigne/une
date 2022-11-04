@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005439",
+        "005": "20190806093929.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "321:004",
+            "b": "M528i",
+            "c": "1982"
+        },
+        "100": {
+            "a": "Melo, J. C"
+        },
+        "245": {
+            "a": "A incrível política nacional de informática",
+            "c": "J. C. Melo",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Ministério da Educação e Cultura",
+                "c": "1982"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "196"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "z": "Brasil"
+            },
+            {
+                "a": "Política de informática",
+                "z": "Brasil"
+            },
+            {
+                "a": "Indústria de computador",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000277",
+        "005": "20190726131603.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "655.254.22",
+            "b": "M294",
+            "c": "1993"
+        },
+        "245": {
+            "a": "Manual de normas de editoração do IBICT",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto Brasileiro de Informação em Ciência e Tecnologia",
+                "c": "1993"
+            }
+        ],
+        "300": [
+            {
+                "a": "41 f.",
+                "b": "il., grav."
+            }
+        ],
+        "505": [
+            {
+                "a": "Apresentação -- 1. Publicações não-periódicas -- 1.1 Elementos externos -- 1.2 Miolo ou corpo -- 2. Publicação periódica -- 2.1 Elementos externos -- 2.2 Elementos pré-textuais -- 2.3 Texto -- 2.4 Elementos pós-textuais -- 3. Prospectos (folders) e cartazes -- 3.1 Prospectos (folders) -- 3.2 Cartazes -- Referências bibliográficas -- Anexo."
+            }
+        ],
+        "520": {
+            "a": "O Manual contém as normas adotadas pelo IBICT relativas à editoração de suas publicações e tem por objetivo oferecer aos profissionais responsáveis por publicações do Instituto condições para uniformizar e padronizar as edições, facilitar a identificação, a guarda, a distribuição, o registro e outras funções próprias da atividade documental e, também, reduzir os custos de produção. O Instituto edita publicações periódicas e não-periódicas ( livros, folhetos, prospectos, folders e cartazes). São apresentadas, no trabalho, as normas adotadas para elaboração de capas, páginas iniciais, miolo e referências bibliográficas, as especificações técnicas (formato, papel, tiragem, composição), além de algumas regras para padronização de texto a serem publicados. Os princípios aqui relacionados foram baseados na publicação Editoração de Publicações Oficiais, da Associação dos Bibliotecários do Distrito Federal (ABDF)/Comissão de Publicações Oficiais Brasileiras, e nas Normas ABNT sobre Documentação, da Associação Brasileira de Normas Técnicas (ABNT), e são válidos para todos as publicações elaboradas pelos diversos departamentos do Instituto. Alguns são obrigatórios, outros são definidos com o objetivo de caracterizar as edições do IBICT."
+        },
+        "650": [
+            {
+                "a": "Editoração",
+                "x": "Livro"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto Brasileiro de Informação em Ciência e Tecnologia",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

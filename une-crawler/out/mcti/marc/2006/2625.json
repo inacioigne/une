@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002625",
+        "005": "20190813133212.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.382(035)",
+            "b": "A428c",
+            "c": "=134.3 1972"
+        },
+        "100": {
+            "a": "Allen, Paul"
+        },
+        "245": {
+            "a": "O computador",
+            "b": "manual de instrução programada",
+            "c": "Paul Allen",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Renes",
+                "c": "c1972"
+            }
+        ],
+        "300": [
+            {
+                "a": "111",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Publicação técnica do SERPRO",
+                "v": "v. 03"
+            }
+        ],
+        "534": {
+            "a": "Exploring the computer"
+        },
+        "650": [
+            {
+                "a": "Computadores",
+                "x": "Estudo e ensino"
+            }
+        ],
+        "710": [
+            {
+                "a": "Serviço Federal de Processamento de Dados (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

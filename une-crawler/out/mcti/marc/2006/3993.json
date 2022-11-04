@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003993",
+        "005": "20190807135456.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.38:004(46)",
+            "b": "E77p",
+            "c": "[198-]"
+        },
+        "110": {
+            "a": "Espanha. Ministerio de Industria y Energia"
+        },
+        "245": {
+            "a": "Plan electronico e informatico nacional",
+            "b": "programa económico a medio plazo 1983-86",
+            "h": "Impresso",
+            "c": "Ministerio de Industria y Energia"
+        },
+        "260": [
+            {
+                "a": "Madri (Espanha)",
+                "b": "Ministerio de Industria y Energía",
+                "c": "[198-]"
+            }
+        ],
+        "300": [
+            {
+                "a": "162",
+                "b": "il., tabs."
+            }
+        ],
+        "650": [
+            {
+                "a": "Indústria eletrônica",
+                "x": "Plano econômico",
+                "z": "Espanha"
+            },
+            {
+                "a": "Informática",
+                "x": "Plano econômico",
+                "z": "Espanha"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

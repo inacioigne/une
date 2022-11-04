@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005760",
+        "005": "20190814160651.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.3.049.77",
+            "b": "A652",
+            "c": "1987"
+        },
+        "245": {
+            "a": "ASIC outlook, 1987",
+            "b": "an application specific IC report and directory",
+            "c": "editors: Dean A. Winkelmann, William J. McClean",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Scottsdale [Estados Unidos]",
+                "b": "Integrated Circuit Engineering Corporation",
+                "c": "c1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (em várias paginações)",
+                "c": "30 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Circuito integrado",
+                "x": "Indústria"
+            },
+            {
+                "a": "Levantamento de mercado"
+            }
+        ],
+        "700": [
+            {
+                "a": "Winkelmann, Dean A",
+                "e": "Editor"
+            },
+            {
+                "a": "McClean, William J",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

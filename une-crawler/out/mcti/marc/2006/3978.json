@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003978",
+        "005": "20190801165638.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.2",
+            "b": "R375e",
+            "c": "1980"
+        },
+        "100": {
+            "a": "Reis, Ricardo A. L.",
+            "q": "Ricardo Augusto da Luz"
+        },
+        "245": {
+            "a": "Etude de la architecture interne du microprocesseur Z8000",
+            "b": "partie controle",
+            "c": "Ricardo Reis",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Grenoble [França]",
+                "b": "Universite Scientifique et Medicale et Institut National Polytechnique de Grenoble",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "168",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Mathematiques Appliqueeset Informatique. Laboratoire associè au CNRS",
+                "v": "n. 7"
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

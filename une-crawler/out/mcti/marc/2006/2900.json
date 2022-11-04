@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002900",
+        "005": "20190805130216.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "005.591.6:004.5",
+            "b": "W824u",
+            "c": "1966"
+        },
+        "100": {
+            "a": "Withington, Frederic G"
+        },
+        "245": {
+            "a": "The use of computers in business organizations",
+            "c": "Frederic G. Withington",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Reading, Massachusetts",
+                "b": "Addison-Wesley",
+                "c": "c1966"
+            }
+        ],
+        "300": [
+            {
+                "a": "xi, 270",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Empresas",
+                "x": "Processamento de dados"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Informática",
+                "x": "Empresas"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

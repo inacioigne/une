@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002708",
+        "005": "20190805093900.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0387902996"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "A316d",
+            "c": "1978"
+        },
+        "100": {
+            "a": "Alagiâc, Suad",
+            "d": "1946-"
+        },
+        "245": {
+            "a": "The design of well-structured and correct programs",
+            "c": "Suad Alagiâc, Michael A. Arbib",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Springer-Verlag",
+                "c": "c1978"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 292",
+                "c": "25 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Texts and monographs in computer science"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Pascal (Linguagem de programação de computador)",
+                "x": "Linguagem de programação (Computadores)"
+            }
+        ],
+        "700": [
+            {
+                "a": "Arbib, Michael A",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

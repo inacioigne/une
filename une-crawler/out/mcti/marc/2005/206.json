@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000206",
+        "005": "20190726102725.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.65",
+            "b": "T191r",
+            "c": "1975"
+        },
+        "100": {
+            "a": "Tarouco, Liane Margarida Rockenbach"
+        },
+        "245": {
+            "a": "Recuperação de informações",
+            "c": "Liane Margarida Rockenbach Tarouco",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Porto Alegre",
+                "b": "Universidade Federal do Rio Grande do Sul, Centro de Processamento de Dados",
+                "c": "1975"
+            }
+        ],
+        "300": [
+            {
+                "a": "104",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Recuperação da informação"
+            },
+            {
+                "a": "Armazenamento de dados"
+            },
+            {
+                "a": "Estrutura de dados"
+            },
+            {
+                "a": "Banco de dados"
+            },
+            {
+                "a": "Dicionários de dados"
+            },
+            {
+                "a": "Sistema de Gerenciamento de Informações"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

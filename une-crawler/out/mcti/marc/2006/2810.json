@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002810",
+        "005": "20190805113935.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0442292643"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42:159.9",
+            "b": "W423p",
+            "c": "1971"
+        },
+        "100": {
+            "a": "Weinberg, Gerald M.",
+            "d": "1933-"
+        },
+        "245": {
+            "a": "The psychology of computer programming",
+            "c": "Gerald M. Weinberg",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Van Nostrand Reinhold",
+                "c": "c1971"
+            }
+        ],
+        "300": [
+            {
+                "a": "xv, 288",
+                "c": "24 cm"
+            }
+        ],
+        "490": [
+            {
+                "a": "Computer science series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador",
+                "x": "Aspectos psicologicos"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)"
+            },
+            {
+                "a": "Inteligência artificial"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

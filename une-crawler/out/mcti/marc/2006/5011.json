@@ -1,0 +1,85 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005011",
+        "005": "20190807100157.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "551.58(100)(063)",
+            "b": "I61in",
+            "c": "1996"
+        },
+        "111": {
+            "a": "International Workshop on Research Uses of ISCCP Datasets",
+            "c": "New York, Estados Unidos",
+            "d": "1996"
+        },
+        "245": {
+            "a": "International Workshop on Research Uses of ISCCP Datasets",
+            "b": "NASA Goddard Institute for Space Studies, New York, NY, USA, 15-18 April 1996",
+            "h": "Impresso",
+            "c": "Goddard Institute for Space Studies, Organização Mundial de Meteorologia, International Satellite Cloud Climatology Project"
+        },
+        "260": [
+            {
+                "a": "Genebra (Suiça)",
+                "b": "World Meteorological Organization",
+                "c": "1997"
+            }
+        ],
+        "300": [
+            {
+                "a": "iv, 9, 4, 48, 6 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "WMO/TD",
+                "v": "n. 790"
+            }
+        ],
+        "500": [
+            {
+                "a": "\"December 1996.\" At head of cover title: International Council of Scientific Unions, Intergovernmental Oceanographic Commission, and World Meteorological Organization appear under banner, World Climate Research Programme. Includes bibliographical references. \"Global datasets from the International Satellite Cloud Climatology Project (ISCCP) ... 7 years [plus of data] (more than 11 years for the radiance data) and more than 200 papers have been published using these datasets. Since it has been more than seven years since the last special ISCCP symposium, ... to assess progress on cloud-climate problems .... organized into three topic areas, validation or improved interpretation of ISCCP data, determination of cloud properties or diagnosis of other climate processes, and improving climate model representations of cloud processes.\"--Summary."
+            }
+        ],
+        "650": [
+            {
+                "a": "Mudanças climáticas"
+            },
+            {
+                "a": "Sistema de informação"
+            },
+            {
+                "a": "Pesquisa"
+            },
+            {
+                "a": "Circulação atmosférica"
+            }
+        ],
+        "710": [
+            {
+                "a": "Goddard Institute for Space Studies",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Organização Mundial de Meteorologia",
+                "e": "Corporativo"
+            },
+            {
+                "a": "International Satellite Cloud Climatology Project",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

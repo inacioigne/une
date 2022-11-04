@@ -1,0 +1,54 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005772",
+        "005": "20190813161942.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "33(81)",
+            "b": "B827",
+            "c": "1983"
+        },
+        "245": {
+            "a": "Brazil, country economic memorandum",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[Washington (Distrito de Colúmbia, Estados Unidos)]",
+                "b": "Banco Mundial",
+                "c": "1983"
+            }
+        ],
+        "270": [
+            {
+                "d": "Estados Unidos"
+            }
+        ],
+        "300": [
+            {
+                "a": "313",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Política econômica",
+                "z": "Brasil"
+            },
+            {
+                "a": "Condições econômicas",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

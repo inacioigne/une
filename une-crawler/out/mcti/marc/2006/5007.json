@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005007",
+        "005": "20190807173136.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.032.26(81)(063)",
+            "b": "C749p",
+            "c": "1994"
+        },
+        "111": {
+            "a": "Congresso Brasileiro de Redes Neurais",
+            "c": "Itajubá, MG",
+            "d": "1994",
+            "n": "1"
+        },
+        "245": {
+            "a": "1° Congresso Brasileiro de Redes Neurais",
+            "b": "minicurso : modelagem, aplicações e implementações de redes neurais",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Itajubá",
+                "b": "Escola Federal de Engenharia de Itajubá",
+                "c": "1994"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (paginação irregular)",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede neural",
+                "x": "Biomedicina"
+            },
+            {
+                "a": "Inteligência artificial",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Processamento e detecção de sinais",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Processamento de imagem",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003988",
+        "005": "20190730110106.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "2867710030"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4:347.77",
+            "b": "B548p",
+            "c": "1984"
+        },
+        "100": {
+            "a": "Bertrand, André"
+        },
+        "245": {
+            "a": "Protections juridiques du logiciel",
+            "b": "progiciels, vidéo jeux, logiciels spécifiques, firmware",
+            "c": "André Bertrand",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Éditions des Parques",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "293"
+            }
+        ],
+        "650": [
+            {
+                "a": "Software",
+                "x": "Direitos autorais",
+                "z": "França"
+            },
+            {
+                "a": "Videogame",
+                "x": "Direitos autorais"
+            },
+            {
+                "a": "Microprogramação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

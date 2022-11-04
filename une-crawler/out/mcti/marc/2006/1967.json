@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001967",
+        "005": "20190808143843.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8570010346"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451",
+            "b": "G963p",
+            "c": "1980"
+        },
+        "100": {
+            "a": "Guimarães, Célio Cardoso",
+            "d": "1942-"
+        },
+        "245": {
+            "a": "Princípios de sistemas operacionais",
+            "c": "Célio Cardoso Guimarães",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Campus",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "222",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "1. Funções e objetivos de sistemas operacinais -- 1.1. Terminologia -- 1.2. Caracterização de sistema operacionais - um pequeno histório -- 1.3. Componentes básicos de um sistema operacional - um exemplo -- 1.4. Bibliografia -- 2. Organização básica de um computador digital -- 2.1. Histórico -- 2.2. Organização da máquina de von Neumann -- 2.3. Ciclo básico da execução de uma instrução -- 2.4. Instruções privilegiadas -- 2.5. Conceitos de entrada e saída -- 2.6. Exercícios -- 2.7 - Bibliografia -- 3. Processos paralelos -- 3.1. Introdução -- 3.2. Processos concorrentes -- 3.3. Pregiões críticas -- 3.4. Operações P e V -- 3.5. Regiões críticas condicionais -- 3.6. Monitores -- 3.7. Considerações sobre exclusão mútua e verificação de regiões críticas -- 4. Conceitos de memória virtual -- 4.1. Introdução -- 4.2. O conceito de espaço lógico -- 4.3. O conceito de programa relocável e de relocação estática -- 4.4. Relocação dinâmica -- Implementação de memória virtual no Sistema IBM /360,/370,/135 -- 4.6. Considerações sobre espaços lógicos lineares -- 4.7. Espaços lógicos bidimensionais:segmentação -- 4.8. Segmentação no Sistema HP3000 -- 4.10. Exercícios -- 4.11. Bibliografia -- 5. Gerenciamento de memória -- 5.1. Introdução -- 5.2. Permuta de programa -- 5.3. Gerenciamento de memória em sistemas que não implementam memória virutal -- 5.4. Gerenciamento de memória em sistemas com memória vitual -- 5.5. Influência de compartilhamento sobre o gerenciamento de memória -- 5.6. Bibliografia -- 6. Escalonamento de tarefas -- 6.1. Tipos de escalonamento e suas características -- 6.2. Escalonamento não preemptivo -- 6.3. Escalonamento dirigido por eventos -- 6.4. Políticas de escalonamento preemptivo -- 6.5. Modelos estocásticos para análise de políticas de escalonamento -- 6.6. Exemplos 1: O escalonamento de tarefas dos Sistema CTSS -- 6.7. Exemplo 2: O escalonamento no Sistema TOPS 10 -- 6.8. Bibliografia - 7. Sistemas de arquivos -- 7.1. Introdução - 7.2. Organização lógica de arquvios -- 7.3. Organização interna do sistema de arquivos -- 7.4. Exemplo: O sistema de arquivos do DEC10 -- 7.5. Manutenção e recuperação de arquivos -- 7.6. Bibliografia."
+            }
+        ],
+        "550": {
+            "a": "Publicado em convênio com a Fundação Nacional de Material Escolar, Ministério da Educação e Cultura e com a Comissão de Coordenação das Atividades de Processamento eletrónico, Secretaria do Planejamento da Presidência da Republica."
+        },
+        "586": {
+            "a": "O Programa Nacional de Treinamento em Computação (PNTC), foi criado com o objetivo de \"incentivar a formação de profissionais de processamento de dados em todos os níveis para suprir a demanda de mão-de-obra especializada no País, visando, ao mesmo tempo, a definição de uma filosofia geral do ensino especializado, com ênfase para a melhoria da qualidade\". Sua execução é coordenada pela CAPRE. De acordo com esses objetivos o PNTC vem promovendo incitavas que visam a incrementar tanto qualitativa como quantitativamente a formação de recursos humanos em informática no Brasil, de modo a garantir uma utilização eficaz e eficiente da computação pelas instituições públicas e privadas brasileiras de forma coerente com a necessidade do desenvolvimento do País."
+        },
+        "650": [
+            {
+                "a": "Sistemas operacionais (Computadores)"
+            },
+            {
+                "a": "Computador digital"
+            },
+            {
+                "a": "Memória virtual (Computação)"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

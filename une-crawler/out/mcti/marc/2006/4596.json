@@ -1,0 +1,80 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004596",
+        "005": "20190715180244.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "504.5:551.588.74",
+            "b": "A265c",
+            "c": "2001"
+        },
+        "110": {
+            "a": "Agência Internacional de Energia",
+            "c": "França"
+        },
+        "245": {
+            "a": "CO2 emissions from fuel combustion 1971 - 1999",
+            "h": "Impresso",
+            "c": "Agência Internacional de Energia (França)"
+        },
+        "246": [
+            {
+                "a": "Emissions de CO2 dues à la combustion d'énergie"
+            }
+        ],
+        "250": [
+            {
+                "a": "2001 ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Organisation for Economic Co-operation and Development",
+                "c": "2001"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxxix, 88, 413, 31 p."
+            }
+        ],
+        "490": [
+            {
+                "a": "IEA statistics"
+            }
+        ],
+        "650": [
+            {
+                "a": "Dióxido de carbono",
+                "x": "Estatísticas"
+            },
+            {
+                "a": "Energia de combustível fóssil",
+                "x": "Estatísticas"
+            },
+            {
+                "a": "Efeito estufa (Atmosfera)",
+                "x": "Estatísticas"
+            },
+            {
+                "a": "Atmosfera"
+            }
+        ],
+        "856": {
+            "y": "OECD iLibrary",
+            "u": "https://www.oecd-ilibrary.org/energy/co2-emissions-from-fuel-combustion-2001_co2_fuel-2001-en-fr",
+            "z": "Acesso em: 15/07/2019"
+        },
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

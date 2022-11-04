@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005525",
+        "005": "20190802092749.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.8'438",
+            "b": "K94e",
+            "c": "=133.1",
+            "d": "1985"
+        },
+        "100": {
+            "a": "Krutch, John"
+        },
+        "245": {
+            "a": "Expériences d'intelligence artificielle en Basic",
+            "c": "par John Krutch ; trad. de l'américain par Edith Schomberg",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Eyrolles",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "viii, 119 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Micro-ordinateurs"
+            }
+        ],
+        "650": [
+            {
+                "a": "Inteligência artificial"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "Basic (Linguagem de programação de computador)"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

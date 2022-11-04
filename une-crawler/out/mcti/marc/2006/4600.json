@@ -1,0 +1,76 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004600",
+        "005": "20190813180006.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "17:5/6",
+            "b": "C732",
+            "c": "2002"
+        },
+        "245": {
+            "a": "COMEST Working Meeting",
+            "b": "2-3 December 2002, UNESCO, Paris, summary report",
+            "h": "Impresso",
+            "c": "World Commission on the Ethics of Scientific Knowledge and Technology"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "UNESCO",
+                "c": "2003"
+            }
+        ],
+        "300": [
+            {
+                "a": "31"
+            }
+        ],
+        "500": [
+            {
+                "a": " SHS.2003/WS/35"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência",
+                "x": "Ética"
+            },
+            {
+                "a": "Recursos energéticos"
+            },
+            {
+                "a": "Recursos hídricos"
+            },
+            {
+                "a": "Desenvolvimento sustentável"
+            },
+            {
+                "a": "Sociedade da informação"
+            },
+            {
+                "a": "Ciência e civilização"
+            }
+        ],
+        "710": [
+            {
+                "a": "World Commission on the Ethics of Scientific Knowledge and Technology",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\4600 - COMEST Working Meeting.pdf",
+            "y": "Texto completo"
+        },
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

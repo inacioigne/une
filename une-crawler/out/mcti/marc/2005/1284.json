@@ -1,0 +1,99 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001284",
+        "005": "20190807134957.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "62-52(81)(063)",
+            "b": "C749o",
+            "c": "1990"
+        },
+        "111": {
+            "a": "Congresso Brasileiro de Automática",
+            "c": "Belém, PA",
+            "d": "1990",
+            "n": "8"
+        },
+        "245": {
+            "a": "8º Congresso Brasileiro de Automática",
+            "c": "editores, Jurandyr N. Garcez, Jorge R. Brito de Souza; autores corporativos: Universidade Federal do Paraná, Sociedade Brasileira de Automática",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Belém",
+                "b": "Sociedade Brasileira de Automática",
+                "c": "1990"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v.",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "A Biblioteca só possui o v. 2"
+            }
+        ],
+        "650": [
+            {
+                "a": "Robótica",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Automação",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Mecanização",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Engenharia industrial",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Garcez, Jurandyr Nascimento",
+                "e": "Editor"
+            },
+            {
+                "a": "Souza, Jorge Roberto Brito de",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Universidade Federal do Paraná",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Sociedade Brasileira de Automática",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

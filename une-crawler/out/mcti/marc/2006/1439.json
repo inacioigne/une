@@ -1,0 +1,83 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001439",
+        "005": "20190731131050.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "339.562(81)",
+            "b": "R433d",
+            "c": "1997"
+        },
+        "100": {
+            "a": "Resende, Marco Flávio C"
+        },
+        "245": {
+            "a": "Disponibilidade cambial e especificação da função de demanda de importações para o Brasil",
+            "c": "Marco Flávio C. Resende",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "1997"
+            }
+        ],
+        "300": [
+            {
+                "a": "44 f.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Texto para discussão / IPEA",
+                "v": "506",
+                "x": "1415-4765"
+            }
+        ],
+        "520": {
+            "a": "Desenvolve uma especificação alternativa das funções de demanda de importações totais e de bens de capital para o Brasil. Tem por base as hipóteses dos elevados custos de produção de tecnologia e deficiência de capacitação tecnológica da indústria nacional, em seu setor de bens de capital."
+        },
+        "650": [
+            {
+                "a": "Importação",
+                "z": "Brasil"
+            },
+            {
+                "a": "Bens de capital",
+                "z": "Brasil"
+            },
+            {
+                "a": "Câmbio"
+            },
+            {
+                "a": "Movimento de capital",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "IPEA",
+            "u": "http://www.ipea.gov.br/portal/images/stories/PDFs/TDs/td_0506.pdf",
+            "z": "Acesso em: 31/07/2019"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

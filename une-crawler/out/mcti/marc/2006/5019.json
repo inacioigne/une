@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005019",
+        "005": "20190805144341.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.311(81)(063)",
+            "b": "S471t",
+            "c": "1992"
+        },
+        "111": {
+            "a": "Seminário de Materiais no Setor Elétrico",
+            "c": "Curitiba, PR",
+            "d": "1992",
+            "n": "3"
+        },
+        "245": {
+            "a": "III Seminário de Materiais no Setor Elétrico",
+            "h": "Impresso",
+            "c": "Universidade Federal do Paraná"
+        },
+        "260": [
+            {
+                "a": "Curitiba",
+                "b": "Copel",
+                "c": "1992"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia elétrica",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Engenharia de materiais",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Materiais"
+            }
+        ],
+        "710": [
+            {
+                "a": "Universidade Federal do Paraná",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

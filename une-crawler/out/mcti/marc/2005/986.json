@@ -1,0 +1,85 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000986",
+        "005": "20190726100031.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "54(81)",
+            "b": "Q6",
+            "c": "2004"
+        },
+        "245": {
+            "a": "A química no Brasil através da química nova",
+            "c": "editores Angelo C. Pinto ... [et al.].",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "Ed. esp."
+            }
+        ],
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Sociedade Brasileira de Química",
+                "c": "2004"
+            }
+        ],
+        "300": [
+            {
+                "a": "412",
+                "b": "il."
+            }
+        ],
+        "610": [
+            {
+                "a": "Sociedade Brasileira de Química",
+                "x": "História"
+            }
+        ],
+        "650": [
+            {
+                "a": "Química",
+                "x": "Organização",
+                "z": "Brasil"
+            },
+            {
+                "a": "Desenvolvimento científico",
+                "z": "Brasil"
+            },
+            {
+                "a": "Desenvolvimento tecnológico",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Pinto, Angelo Cunha",
+                "e": "Editor"
+            },
+            {
+                "a": "Andrade, Jailson B. de",
+                "e": "Editor"
+            },
+            {
+                "a": "Vieira, Paulo C",
+                "e": "Editor"
+            },
+            {
+                "a": "Pardini, Vera L",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

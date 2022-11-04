@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004043",
+        "005": "20190805132104.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004",
+            "b": "V441t",
+            "c": "1984"
+        },
+        "100": {
+            "a": "Velloso, Fernando de Castro"
+        },
+        "245": {
+            "a": "Tópicos em processamento de dados",
+            "c": "Fernando de Castro Velloso",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Associação Nacional de Fundações",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "252",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "Introdução -- Solução de um problema de PD -- Utilização do computador -- Evolução dos sistemas -- O computador -- A memória -- Entrada de dados -- Microcomputadores -- Principais códigos -- Funcionamento do computador -- Organização da informação -- Teleprocessamento -- Modalidades de processamento."
+            }
+        ],
+        "650": [
+            {
+                "a": "Processamento de dados"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Banco de dados"
+            },
+            {
+                "a": "Minicomputador"
+            },
+            {
+                "a": "Teleprocessamento"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

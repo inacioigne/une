@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004228",
+        "005": "20190806112329.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "37.017:62(73)",
+            "b": "I43",
+            "c": "1982"
+        },
+        "245": {
+            "a": "Informational technology and its impact on American education",
+            "h": "Impresso",
+            "c": "Estados Unidos. Congress. Office of Technology Assessment"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "Congress of the U.S., Office of Technology Assessment",
+                "c": "1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 269 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ensino profissional",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Indústria e educação"
+            },
+            {
+                "a": "Educação",
+                "x": "Tecnologia",
+                "z": "Estados Unidos"
+            }
+        ],
+        "710": [
+            {
+                "a": "Estados Unidos. Congress. Office of Technology Assessment",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

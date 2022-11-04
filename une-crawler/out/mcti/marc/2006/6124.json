@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000006124",
+        "005": "20190805095245.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "378.4(815.68):001.891",
+            "b": "E56",
+            "c": "1999"
+        },
+        "245": {
+            "a": "The excellency in graduate programs",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Campinas",
+                "b": "Universidade Estadual de Campinas",
+                "c": "1999"
+            }
+        ],
+        "300": [
+            {
+                "a": "331",
+                "b": "il., tabs., grafs."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ensino superior",
+                "x": "Avaliação",
+                "z": "Brasil"
+            },
+            {
+                "a": "Universidade",
+                "x": "Avaliação",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Universidade Estadual de Campinas",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

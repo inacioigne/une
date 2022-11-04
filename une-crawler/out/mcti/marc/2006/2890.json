@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002890",
+        "005": "20190805093526.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0471557412"
+        },
+        "090": {
+            "a": "004.65",
+            "b": "L991d",
+            "c": "1976"
+        },
+        "100": {
+            "a": "Lyon, John K"
+        },
+        "245": {
+            "a": "The database administrator",
+            "c": "John K. Lyon",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Wiley-Interscience",
+                "c": "1976"
+            }
+        ],
+        "300": [
+            {
+                "a": "170",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Business data processing, a Wiley series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Banco de dados"
+            },
+            {
+                "a": "Gerenciamento de banco de dados"
+            },
+            {
+                "a": "Informática",
+                "x": "Gerência"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

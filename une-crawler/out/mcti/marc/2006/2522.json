@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002522",
+        "005": "20190813111752.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8585374012"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "001.32(815.3)",
+            "b": "C569",
+            "c": "1991"
+        },
+        "245": {
+            "a": "Ciência e tecnologia no estado do Rio de Janeiro",
+            "b": "cadastro de entidades atuantes",
+            "h": "Impresso",
+            "c": "Empresa Fluminense de Tecnologia, Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro",
+                "c": "1991"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxxiii, 526 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e tecnologia",
+                "z": "Rio de Janeiro"
+            },
+            {
+                "a": "Instituição de pesquisa",
+                "x": "Indicadores",
+                "z": "Rio de Janeiro"
+            }
+        ],
+        "710": [
+            {
+                "a": "Empresa Fluminense de Tecnologia",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

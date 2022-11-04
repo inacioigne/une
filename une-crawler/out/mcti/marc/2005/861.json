@@ -1,0 +1,78 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000861",
+        "005": "20190805174258.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8524910194"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "37:6",
+            "b": "E24",
+            "c": "=134.3",
+            "d": "2004"
+        },
+        "245": {
+            "a": "Educação e novas tecnologias",
+            "b": "esperança ou incerteza?",
+            "c": "Juan Carlos Tedesco (Org.); tradução de Claudia Berliner, Silvana Cobucci Leite.",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Cortez"
+            },
+            {
+                "a": "Buenos Aires",
+                "b": "Instituto Internacional de Planeamiento de la Educacion"
+            },
+            {
+                "a": "Brasília",
+                "b": "UNESCO",
+                "c": "2004"
+            }
+        ],
+        "300": [
+            {
+                "a": "255",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Tecnologia educacional"
+            },
+            {
+                "a": "Tecnologia da informação"
+            },
+            {
+                "a": "Educação",
+                "x": "Inovação tecnológica"
+            },
+            {
+                "a": "Inovação educacional"
+            },
+            {
+                "a": "Política educacional"
+            }
+        ],
+        "700": [
+            {
+                "a": "Tedesco, Juan Carlos",
+                "e": "Organizador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

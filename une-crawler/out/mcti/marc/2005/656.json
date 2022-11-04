@@ -1,0 +1,84 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000656",
+        "005": "20190729131138.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "332.122-029:62(100)(063)",
+            "b": "C748f",
+            "c": "1996"
+        },
+        "111": {
+            "a": "World Conference on Science Parks",
+            "c": "Rio de Janeiro, RJ",
+            "d": "1996",
+            "n": "5"
+        },
+        "245": {
+            "a": "V World Conference on Science Parks",
+            "b": "proceedings, october 29 to 31, 1996, Rio de Janeiro/Brasil",
+            "h": "Impresso",
+            "c": "Ministério da Ciência e Tecnologia"
+        },
+        "246": [
+            {
+                "a": "Proceedings"
+            }
+        ],
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Universidade Federal do Rio de Janeiro, Divisão Gráfica",
+                "c": "1996"
+            }
+        ],
+        "300": [
+            {
+                "a": "461",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Incubadora tecnológica",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Parque tecnológico",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Pesquisa tecnológica"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Ciência e tecnologia"
+            }
+        ],
+        "710": [
+            {
+                "a": "Brasil. Ministério da Ciência e Tecnologia",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Brasil. Ministério da Indústria e do Comércio",
+                "b": "Secretaria de Tecnologia Industrial",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

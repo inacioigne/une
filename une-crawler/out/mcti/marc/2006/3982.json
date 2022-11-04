@@ -1,0 +1,74 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003982",
+        "005": "20190730135849.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "272610371"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.8",
+            "b": "C749r",
+            "c": "1984"
+        },
+        "111": {
+            "a": "Congrès français de reconnaissance des formes et d'intelligence artificielle",
+            "c": "Paris, França",
+            "d": "1984",
+            "n": "4"
+        },
+        "245": {
+            "a": "Reconnaissance des formes et intelligence artificielle",
+            "b": "4ème congrès, Paris, 25-27 janvier 1984",
+            "h": "Impresso",
+            "c": "Congrès français de reconnaissance des formes et d'intelligence artificielle"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Association française pour la cybernétique économique et technique",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Inteligência artificial",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "710": [
+            {
+                "a": "Association Francaise pour la Cybernetique Economique et Technique",
+                "c": "França",
+                "e": "Corporativo"
+            },
+            {
+                "a": "França. Agence de l'informatique",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Institut National de Recherche en Informatique et en Automatique (França)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

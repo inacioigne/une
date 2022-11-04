@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004221",
+        "005": "20190801152846.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.45(043.3)",
+            "b": "A473e",
+            "c": "1982"
+        },
+        "100": {
+            "a": "Alvares, Luis Otavio Campos"
+        },
+        "245": {
+            "a": "Especificação de sistemas",
+            "b": "um software de apoio",
+            "c": "Luis Otavio Campos Alvares",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio Grande do Sul",
+                "c": "1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (paginação irregular)",
+                "b": "il."
+            }
+        ],
+        "502": [
+            {
+                "a": "Dissertação (Mestrado) - Universidade Federal do Rio Grande do Sul. Curso de Pós-Graduação em Ciência da Computação,Porto Alegre, 1982"
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia de software"
+            },
+            {
+                "a": "Análise estruturada"
+            },
+            {
+                "a": "Estrutura de dados"
+            },
+            {
+                "a": "Segurança de computador"
+            },
+            {
+                "a": "Dicionários de dados"
+            }
+        ],
+        "990": {
+            "a": "Dissertações/Teses/TCC"
+        }
+    }
+}

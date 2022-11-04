@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001060",
+        "005": "20190726111030.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8586571296"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "57.081",
+            "b": "S237l",
+            "c": "1999"
+        },
+        "100": {
+            "a": "Santos, Leonilda Correia dos"
+        },
+        "245": {
+            "a": "Laboratório ambiental",
+            "c": "Leonilda Correia dos Santos",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Cascavel, PR",
+                "b": "Universidade Estadual do Oeste do Paraná",
+                "c": "1999"
+            }
+        ],
+        "300": [
+            {
+                "a": "323",
+                "b": "il., (color.)"
+            }
+        ],
+        "650": [
+            {
+                "a": "Meio ambiente",
+                "x": "Laboratório"
+            },
+            {
+                "a": "Laboratório",
+                "x": "Instalações físicas"
+            },
+            {
+                "a": "Hematologia"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

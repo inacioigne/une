@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000642",
+        "005": "20190726131508.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8573032944"
+        },
+        "090": {
+            "a": "658.56",
+            "b": "L169m",
+            "c": "2001"
+        },
+        "100": {
+            "a": "Lafraia, João Ricardo Barusso"
+        },
+        "245": {
+            "a": "Manual de confiabilidade, mantenabilidade e disponibilidade",
+            "c": "João Ricardo Barusso Lafraia",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Qualitymark",
+                "c": "2001"
+            }
+        ],
+        "300": [
+            {
+                "a": "374",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia de produção"
+            },
+            {
+                "a": "Administração da produção"
+            },
+            {
+                "a": "Controle de qualidade"
+            },
+            {
+                "a": "Controle de produção"
+            },
+            {
+                "a": "Planejamento da produção"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

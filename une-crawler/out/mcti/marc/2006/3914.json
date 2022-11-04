@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003914",
+        "005": "20190730095641.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "551.468(036)",
+            "b": "C873",
+            "c": "[1989?]"
+        },
+        "245": {
+            "a": "Covering the coasts",
+            "b": "a reporter's guide to coastal and marine resources",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "National Safety Council, Environmental Health Center",
+                "c": "[1989?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "165"
+            }
+        ],
+        "650": [
+            {
+                "a": "Gerenciamento costeiro",
+                "x": "Guia"
+            },
+            {
+                "a": "Recursos marinhos"
+            },
+            {
+                "a": "Zoneamento costeiro"
+            }
+        ],
+        "651": [
+            {
+                "a": "Zona costeira"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

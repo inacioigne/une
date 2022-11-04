@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004201",
+        "005": "20190731101104.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0444865942"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.896",
+            "b": "D489",
+            "c": "1983"
+        },
+        "245": {
+            "a": "Developments in robotics, 1983",
+            "c": "compiled by Brian Rooks",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Bedford, [Estados Unidos]",
+                "b": "IFS Publications",
+                "c": "1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "iv, 263 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Robótica"
+            },
+            {
+                "a": "Robo industrial"
+            }
+        ],
+        "700": [
+            {
+                "a": "Rooks, Brian",
+                "e": "Compilador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

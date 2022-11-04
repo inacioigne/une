@@ -1,0 +1,122 @@
+{
+    "controfield": {
+        "000": "01585nam  2200385 a 4500",
+        "001": "000000051",
+        "005": "20190808134232.0",
+        "007": "t",
+        "008": "970703s1994    bl a     b   f100 0 por"
+    },
+    "datafield": {
+        "010": {
+            "a": "97831310"
+        },
+        "035": {
+            "a": "4029666"
+        },
+        "040": {
+            "a": "DLC",
+            "c": "DLC",
+            "d": "BR-BrMCT"
+        },
+        "041": {
+            "a": "poreng"
+        },
+        "042": {
+            "a": "lcode"
+        },
+        "050": {
+            "a": "T385",
+            "b": ".S55 1994"
+        },
+        "082": {
+            "2": "21",
+            "a": "006.6"
+        },
+        "090": {
+            "a": "004.924(81)(063)",
+            "b": "S612a",
+            "c": "1994"
+        },
+        "111": {
+            "a": "Simpósio Brasileiro de Computação Gráfica e Processamento de Imagens",
+            "c": "Curitiba, PR",
+            "d": "1994",
+            "n": "7"
+        },
+        "245": {
+            "a": "Anais do SIBGRAPI 94",
+            "b": "VII Simpósio Brasileiro de Computação Gráfica e Processamento de Imagens",
+            "c": "Carla M. Dal Sasso Freitas, Klaus de Geus, Sergio Scheer, [editores]; autor corporativo: Sociedade Brasileira de Computação, Universidade Federal do Paraná",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "SIBGRAPI 94"
+            }
+        ],
+        "260": [
+            {
+                "a": "[Curitiba]",
+                "b": "Universidade Federal do Paraná",
+                "c": "[1994?]"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "297",
+                "b": "il., (algumas color)",
+                "c": "29"
+            }
+        ],
+        "500": [
+            {
+                "a": "\"Curitiba, PR, novembro de 1994\" (informação retirada da capa)"
+            }
+        ],
+        "546": {
+            "a": "Texto em português e inglês"
+        },
+        "650": [
+            {
+                "a": "Computação gráfica",
+                "x": "Programação orientada a objeto"
+            },
+            {
+                "a": "Processamento de imagem",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Dal Sasso-Freitas, Carla Maria",
+                "e": "Editor"
+            },
+            {
+                "a": "Geus, Klaus de",
+                "e": "Editor"
+            },
+            {
+                "a": "Scheer, Sergio",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Sociedade Brasileira de Computação",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Universidade Federal do Paraná",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002627",
+        "005": "20180710163315.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7:621.39",
+            "b": "P644h",
+            "c": "1984"
+        },
+        "100": {
+            "a": "Pimenta, Tânia Emerick"
+        },
+        "245": {
+            "a": "Hardware de teleprocessamento gerenciado",
+            "c": "Tânia Emerick Pimenta, Décio Kosmisky, Sérgio Elias Haddad",
+            "h": "texto"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "219",
+                "b": "il., tabs."
+            }
+        ],
+        "500": [
+            {
+                "a": "1º prêmio do 1º Concurso Nacional de Informática, categoria Textos de Aplicação e Pesquisa na área de Hardware, promovido pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico-CNPq e Secretaria Especial de Informática-SEI"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Telecomunicações"
+            },
+            {
+                "a": "Rede de telecomunicação"
+            },
+            {
+                "a": "Hardware"
+            }
+        ],
+        "700": [
+            {
+                "a": "Kosmisky, Décio",
+                "e": "Coautor"
+            },
+            {
+                "a": "Haddad, Sérgio Elias",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

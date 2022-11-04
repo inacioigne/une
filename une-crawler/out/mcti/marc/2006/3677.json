@@ -1,0 +1,79 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003677",
+        "005": "20190812184613.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "551.468:528.8",
+            "b": "A652",
+            "c": "1999"
+        },
+        "245": {
+            "a": "Applications of satellite and airborne image data to coastal management",
+            "b": "seventh computer-based learning module (Bilko for Windows)",
+            "c": "Edited by A. J. Edwards",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "UNESCO",
+                "c": "1999"
+            }
+        ],
+        "300": [
+            {
+                "a": "185",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Coastal region and small island papers",
+                "v": "4"
+            }
+        ],
+        "650": [
+            {
+                "a": "Medição oceanográfica"
+            },
+            {
+                "a": "Oceanografia"
+            },
+            {
+                "a": "Sensoriamento remoto"
+            },
+            {
+                "a": "Software",
+                "x": "Meios auxiliares de ensino"
+            }
+        ],
+        "700": [
+            {
+                "a": "Edwards, A. J",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "UNESCO",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "u": "unesdoc.unesco.org/images/0011/001164/116472e.pdf",
+            "y": "Texto completo",
+            "z": "Acesso em: 12/08/2019"
+        },
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001382",
+        "005": "20190726104040.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "656.1/.5(811)",
+            "b": "S232r",
+            "c": "1998"
+        },
+        "100": {
+            "a": "Sant'Anna, José Alex"
+        },
+        "245": {
+            "a": "Rede básica de transportes da Amazônia",
+            "c": "José Alex Sant'Anna",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "1998"
+            }
+        ],
+        "300": [
+            {
+                "a": "86",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Texto para discussão / IPEA",
+                "v": "562",
+                "x": "1415-4765"
+            }
+        ],
+        "520": {
+            "a": "Trata do desenvolvimento da infra-estrutura de transportes na região da Amazônia Legal. Apresenta configuração dos possíveis corredores de transporte segundo informações editadas no final de 1996 a meados de 1997 com atualização em janeiro de 1998. Considera os problemas de comercialização e escoamento dos produtos da região e os países que se inserem na Amazônia. Propõe ações e hierarquização da rede de infra-estrutura de transportes e possíveis políticas alternativas para o futuro da região."
+        },
+        "650": [
+            {
+                "a": "Transporte",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Transporte aquático",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Aeronáutica comercial",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Transporte rodoviário",
+                "z": "Amazônia"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "IPEA",
+            "u": "http://www.ipea.gov.br/portal/images/stories/PDFs/TDs/td_0562.pdf",
+            "z": "Acesso em: 26/07/2019"
+        },
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

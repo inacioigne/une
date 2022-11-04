@@ -1,0 +1,54 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005762",
+        "005": "20190801090800.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "339.727.22",
+            "b": "D657",
+            "c": "c1983"
+        },
+        "245": {
+            "a": "Doing business in the United States of America",
+            "b": "a guide for the foreign investor",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Deloitte Haskins & Sells",
+                "c": "c1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "155"
+            }
+        ],
+        "650": [
+            {
+                "a": "Comércio",
+                "x": "Legislação",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Investimentos estrangeiros",
+                "x": "Legislação",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Impostos"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

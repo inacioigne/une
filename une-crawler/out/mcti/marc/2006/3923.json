@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003923",
+        "005": "20190813131214.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "0442224346"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.2",
+            "b": "F754c",
+            "c": "1976"
+        },
+        "100": {
+            "a": "Foster, Caxton C",
+            "d": "1929-"
+        },
+        "245": {
+            "a": "Computer architecture",
+            "c": "Foster Caxton C.",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Van Nostrand Reinhold",
+                "c": "1976"
+            }
+        ],
+        "300": [
+            {
+                "a": "xvii, 300",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Computer science series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Computadores"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

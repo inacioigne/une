@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004113",
+        "005": "20190805142628.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "334.726:004.78",
+            "b": "N144t",
+            "c": "1983"
+        },
+        "110": {
+            "a": "Centre on Transnational Corporations (Nações Unidas)"
+        },
+        "245": {
+            "a": "Transborder data flows",
+            "b": "access to the international on-line data-base market : a technical paper",
+            "h": "Impresso",
+            "c": "Centre on Transnational Corporations"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Nações Unidas",
+                "c": "1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 140",
+                "b": "il., tabs., grafs."
+            }
+        ],
+        "650": [
+            {
+                "a": "Fluxo de dados transfronteiras"
+            },
+            {
+                "a": "Comunicação de dados",
+                "x": "Empresas multinacionais"
+            },
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Sistema de transmissão de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

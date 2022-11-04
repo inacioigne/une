@@ -1,0 +1,54 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002453",
+        "005": "20190730093523.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "662.76-032.31(094)",
+            "b": "B823p",
+            "c": "2005"
+        },
+        "110": {
+            "a": "Brasil. Congresso Nacional",
+            "b": "Senado Federal"
+        },
+        "245": {
+            "a": "Projeto de lei do gás",
+            "b": "PLS n. 226, de 2005",
+            "h": "Impresso",
+            "c": "Congresso Nacional. Senado Federal"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Senado Federal, gabinete do Senador Rodolpho Tourinho",
+                "c": "2005"
+            }
+        ],
+        "300": [
+            {
+                "a": "125"
+            }
+        ],
+        "650": [
+            {
+                "a": "Gás natural",
+                "x": "Projeto de lei",
+                "z": "Brasil"
+            },
+            {
+                "a": "Discurso parlamentar"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

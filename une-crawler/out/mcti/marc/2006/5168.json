@@ -1,0 +1,52 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005168",
+        "005": "20190813121051.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "9090117725"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "341.67:623.459",
+            "b": "C517",
+            "c": "1999"
+        },
+        "245": {
+            "a": "Chemical disarmament",
+            "b": "basic facts",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "The Hague, Holanda",
+                "b": "Organization for the Prohibition of Chemical Weapons",
+                "c": "1999"
+            }
+        ],
+        "300": [
+            {
+                "a": "30 f.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Armas químicas",
+                "x": "Desarmamento"
+            },
+            {
+                "a": "Desarmamento universal controlado"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

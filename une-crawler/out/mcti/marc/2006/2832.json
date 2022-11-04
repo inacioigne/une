@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002832",
+        "005": "20190807101632.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0070394555"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451",
+            "b": "M182o"
+        },
+        "100": {
+            "a": "Madnick, Stuart E"
+        },
+        "245": {
+            "a": "Operating systems",
+            "c": "Stuart E. Madnick, John J. Donovan",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "McGraw-Hill",
+                "c": "c1974"
+            }
+        ],
+        "300": [
+            {
+                "a": "xvii, 640",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistemas operacionais (Computadores)",
+                "x": "Análise estruturada"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)"
+            },
+            {
+                "a": "Microprocessador"
+            },
+            {
+                "a": "Hardware"
+            },
+            {
+                "a": "Software"
+            },
+            {
+                "a": "Algoritmos"
+            }
+        ],
+        "700": [
+            {
+                "a": "Donovan, John J",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

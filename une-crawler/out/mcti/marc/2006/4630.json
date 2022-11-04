@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004630",
+        "005": "20190730110156.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4:62:025.5",
+            "b": "C397",
+            "c": "2003"
+        },
+        "245": {
+            "a": "CTAI - Revista de Automação e Tecnologia da Informação",
+            "h": "Impresso",
+            "c": "Serviço Nacional de Aprendizagem Industrial. Departamento Regional de Santa Catarina. Centro de Tecnologia em Automação e Informática"
+        },
+        "260": [
+            {
+                "a": "Florianópolis",
+                "b": "Serviço Nacional de Aprendizagem Industrial, Departamento Regional de Santa Catarina, Centro de Tecnologia em Automação e Informática",
+                "c": "2003"
+            }
+        ],
+        "300": [
+            {
+                "a": "76",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Periódico tratado como livro. v. 2, n. 1 Janeiro/Junho 2003 - ISSN 1677-6496"
+            }
+        ],
+        "505": [
+            {
+                "a": "Balanceamento de Cargas em Sistemas de Distribuição de Baixa Tensão -- Modelo do Controle Hierárquico de um Robô para Soldagem em Turbinas de Grande Porte -- Automação de Laboratórios de Metrologia e Ensaios -- Sistema Automatizado para Determinação da Relação de Espiras, Polaridade e Deslocamento Angular em Transformadores -- Interface Homem-Máquina Aplicada ao Esquema de Aterramento Híbrido -- Correção Ativa de Fator de Potência Trifasico Usando Microcontrolador - ADSL: Aspectos de Codificação, Modulação e Correção de Erro -- Modelos e Processos para Desenvolvimento de Sistemas de Software -- Privacidade e Segurança da Informação: Diferenciais Competitivos no Comércio Eletrônico -- Uma Visão Sobre Infra-estrutura de Chaves Públicas -- Uma Proposta de um Terminal Multimídia para Solução Corporativa e Social -- Pré-incubadora Empresarial para a Inovação da Automação e da Tecnologia da Informação -- Otimização - Conceitos Básicos, Ferramentas e Aplicações"
+            }
+        ],
+        "650": [
+            {
+                "a": "Automação"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Telecomunicações"
+            },
+            {
+                "a": "Tecnologia da informação"
+            }
+        ],
+        "710": [
+            {
+                "a": "Serviço Nacional de Aprendizagem Industrial",
+                "b": "Centro de Tecnologia em Automação e Informática",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

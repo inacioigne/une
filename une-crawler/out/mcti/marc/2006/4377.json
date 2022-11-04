@@ -1,0 +1,76 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004377",
+        "005": "20190805140620.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502.2:061",
+            "b": "I24",
+            "c": "1994"
+        },
+        "245": {
+            "a": "IGBP in action",
+            "b": "work plan 1994-1998",
+            "h": "Impresso",
+            "c": "Conselho Internacional das Uniões Científicas, Programa Internacional da Geosfera-Biosfera"
+        },
+        "260": [
+            {
+                "a": "Stockholm, Suécia",
+                "b": "International Geosphere-Biosphere Programme",
+                "c": "1994"
+            }
+        ],
+        "300": [
+            {
+                "a": "151",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "IGBP Report = IGBP Rapport = IGBP Informe",
+                "v": "n. 28"
+            }
+        ],
+        "610": [
+            {
+                "a": "Programa Internacional da Geosfera-Biosfera"
+            }
+        ],
+        "650": [
+            {
+                "a": "Geociências",
+                "x": "Cooperação internacional"
+            },
+            {
+                "a": "Biosfera",
+                "x": "Cooperação internacional"
+            },
+            {
+                "a": "Mudanças climáticas",
+                "x": "Cooperação internacional"
+            }
+        ],
+        "710": [
+            {
+                "a": "Conselho Internacional das Uniões Científicas",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Programa Internacional da Geosfera-Biosfera",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

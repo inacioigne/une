@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003965",
+        "005": "20190806102009.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.415.5",
+            "b": "V443v",
+            "c": "1986"
+        },
+        "100": {
+            "a": "Veloso, Paulo A. S.",
+            "d": "1944-",
+            "q": "Paulo Augusto Silva"
+        },
+        "245": {
+            "a": "Verificação e construção de programas",
+            "c": "Paulo A. S. Veloso",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Campinas",
+                "b": "Universidade Estadual de Campinas",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "211",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Programas de computador",
+                "x": "Qualidade"
+            },
+            {
+                "a": "Estrutura de dados"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Campinas, SP",
+                "d": "1986",
+                "n": "1"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

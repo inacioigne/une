@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004033",
+        "005": "20190813115521.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0080285759"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "37.018.8:004.382",
+            "b": "C738",
+            "c": "1983"
+        },
+        "245": {
+            "a": "Computer-based learning",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Berkshire, [Inglaterra]",
+                "b": "Pergamon Infotech",
+                "c": "1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "xi, 293",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "State of the art report",
+                "v": "11:4"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática na educação"
+            },
+            {
+                "a": "Estudo e ensino",
+                "x": "Aplicação de computador"
+            },
+            {
+                "a": "Treinamento de pessoal"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

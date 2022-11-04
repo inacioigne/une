@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005481",
+        "005": "20190731120521.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7:621.39",
+            "b": "R432",
+            "c": "1985"
+        },
+        "245": {
+            "a": "Réseaux et télématique",
+            "c": "par Guy Pujolle ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Eyrolles",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Informatique et université"
+            }
+        ],
+        "650": [
+            {
+                "a": "Telemática"
+            },
+            {
+                "a": "Sistema de transmissão de dados"
+            },
+            {
+                "a": "Telecomunicações"
+            },
+            {
+                "a": "Rede de telecomunicação"
+            }
+        ],
+        "700": [
+            {
+                "a": "Pujolle, G.",
+                "d": "1949-",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003028",
+        "005": "20190807102622.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8570010214"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.65",
+            "b": "F992o",
+            "c": "1982"
+        },
+        "100": {
+            "a": "Furtado, A. L.",
+            "d": "1934-",
+            "q": "Antonio Luz"
+        },
+        "245": {
+            "a": "Organização de bancos de dados",
+            "c": "A. L. Furtado, C. S. dos Santos",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Campus",
+                "c": "1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "281"
+            }
+        ],
+        "650": [
+            {
+                "a": "Banco de dados"
+            },
+            {
+                "a": "Gerenciamento de banco de dados"
+            },
+            {
+                "a": "Armazenamento de dados"
+            },
+            {
+                "a": "Arquivo",
+                "x": "Organização"
+            }
+        ],
+        "700": [
+            {
+                "a": "Santos, Clésio Saraiva dos",
+                "d": "1946-",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

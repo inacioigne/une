@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002110",
+        "005": "20190809150622.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "M626",
+            "c": "c1995"
+        },
+        "245": {
+            "a": "Microsoft visual sourcesafe",
+            "b": "preject-oriented version control, version 4.0 : for Windows 95, Windows NT, Microsoft Windows 3.1, MS-DOS, and Macintosh",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Redmont, Washington",
+                "b": "Microsoft Press",
+                "c": "c1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "204",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Users's Guide"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador",
+                "x": "Proteção de dados"
+            },
+            {
+                "a": "Programas de computador",
+                "x": "Software - Desenvolvimento"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

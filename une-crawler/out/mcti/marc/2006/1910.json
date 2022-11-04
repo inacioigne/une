@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001910",
+        "005": "20190731125144.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.8",
+            "b": "K97r",
+            "c": "1988"
+        },
+        "100": {
+            "a": "Kvitca, Adolfo M"
+        },
+        "245": {
+            "a": "Resolucion de problemas con inteligencia artificial",
+            "c": "Adolfo M. Kvitca",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[Curitiba]",
+                "b": "Escola Brasileiro-Argentina de Informática",
+                "c": "1988"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "285"
+            }
+        ],
+        "650": [
+            {
+                "a": "Inteligência artificial"
+            },
+            {
+                "a": "Teoria da computação"
+            },
+            {
+                "a": "Programação lógica"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Curitiba, PR",
+                "d": "1988",
+                "n": "3"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004304",
+        "005": "20190809173746.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8588425068"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.272(063)",
+            "b": "W926a",
+            "c": "2005"
+        },
+        "111": {
+            "a": "Workshop de Processamento Paralelo e Distribuído",
+            "c": "Porto Alegre, RS",
+            "d": "2005",
+            "n": "3"
+        },
+        "245": {
+            "a": "Anais",
+            "b": "do 3º Workshop de Processamento Paralelo e Distribuído (WSPPD 2005), 24 de junho de 2005",
+            "h": "Impresso",
+            "c": "editor Fernando Rosa doNascimento, Maurício Lima Pilla, Philippe Nauvaux"
+        },
+        "246": [
+            {
+                "a": "WSPPD 2005"
+            }
+        ],
+        "260": [
+            {
+                "a": "Porto Alegre",
+                "b": "Grupo de Processamento Paralelo e Distribuído",
+                "c": "2005"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "148",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Processamento paralelo"
+            },
+            {
+                "a": "Processamento distribuído"
+            },
+            {
+                "a": "Cluster"
+            }
+        ],
+        "700": [
+            {
+                "a": "Nascimento, Fernando Rosa do",
+                "e": "Editor"
+            },
+            {
+                "a": "Pilla, Maurício Lima",
+                "e": "Editor"
+            },
+            {
+                "a": "Nauvaux, Philippe",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Universidade Federal do Rio Grande do Sul. Instituto de Informática",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

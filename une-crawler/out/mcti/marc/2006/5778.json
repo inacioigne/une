@@ -1,0 +1,76 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005778",
+        "005": "20190807173322.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0818606843"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7(063)",
+            "b": "C748t",
+            "c": "1985"
+        },
+        "111": {
+            "a": "Conference on Local Computer Networks",
+            "c": "Minnesota, Estados Unidos",
+            "d": "1985",
+            "n": "10"
+        },
+        "245": {
+            "a": "10 th Conference on Local Computer Networks",
+            "b": "Minneapolis Plaza Hotel, Minneapolis, Minnesota, October 7-9, 1985",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Institute of Electrical and Electronics Engineers",
+                "c": "c1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "v, 163 p"
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede de computador",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Informática",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Rede local",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "710": [
+            {
+                "a": "University of Minnesota. Computer Center",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Institute of Electrical and Electronics Engineers",
+                "e": "Corporativo"
+            },
+            {
+                "a": "IEEE Computer Society",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

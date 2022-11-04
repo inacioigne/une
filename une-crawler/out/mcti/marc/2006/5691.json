@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005691",
+        "005": "20190730124404.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0080285996"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.056",
+            "b": "D232",
+            "c": "c1985"
+        },
+        "245": {
+            "a": "Data privacy and security",
+            "c": "[J.J.P. Kenny, editor]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Pergamon Infotech",
+                "c": "c1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "ix, 240 p",
+                "c": "31 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "State of the art report",
+                "v": "13:6"
+            }
+        ],
+        "505": [
+            {
+                "a": "Personal data / J. Bing -- The social and legal implications of two-way television services / B.C. Burrows and S. Flood -- Cryptography / D.B. Everett -- The activities of the French National Commission of Data Processing and Freedom / J. Fauvet -- The background to data privacy and security / G.A. Fisher -- Data regulations--the Swedish experience / J. Freese -- The role of supranational bodies / H.-P. Gassmann -- The history and theory of modern cryptography / J.A. Gordon -- The human rights aspect of data protection / F.W. Hondius -- The personnel aspect of computer security / D.T. Lindsay -- Data regulations--organisational experience / D.J. Nicks -- Organisational experience within ICL / J. Parfitt."
+            }
+        ],
+        "650": [
+            {
+                "a": "Segurança de computador"
+            },
+            {
+                "a": "Privacidade"
+            },
+            {
+                "a": "Criptografia"
+            },
+            {
+                "a": "Processamento de dados"
+            }
+        ],
+        "700": [
+            {
+                "a": "Kenny, J. J. P",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

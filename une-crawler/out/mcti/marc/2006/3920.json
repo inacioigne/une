@@ -1,0 +1,77 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003920",
+        "005": "20190807112535.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "330.564",
+            "b": "S729i",
+            "c": "2006"
+        },
+        "100": {
+            "a": "Medeiros, Marcelo",
+            "d": "1969-"
+        },
+        "245": {
+            "a": "Uma introdução às representações gráficas da desigualdade de renda",
+            "c": "Marcelo Medeiros",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "2006"
+            }
+        ],
+        "300": [
+            {
+                "a": "40 f.",
+                "b": "gráfs., tabs."
+            }
+        ],
+        "490": [
+            {
+                "a": "Texto para discussão / IPEA",
+                "v": "1202"
+            }
+        ],
+        "520": {
+            "a": "Descreve conceitos como distribuição e desigualdade, assim como apresenta quatro das principais ferramentas gráficas utilizadas para se representar a desigualdade em uma distribuição. Apresenta a notação formal destas curvas e indica literatura de apoio que permite um aprofundamento do tema."
+        },
+        "650": [
+            {
+                "a": "Renda",
+                "x": "Distribuição"
+            },
+            {
+                "a": "Desigualdade econômica"
+            },
+            {
+                "a": "Desigualdade social"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "IPEA",
+            "u": "http://www.ipea.gov.br/portal/images/stories/PDFs/TDs/td_1202.pdf",
+            "z": "Acesso em: 07/08/2019"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

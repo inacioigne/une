@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004038",
+        "005": "20190812175138.0",
+        "007": "t",
+        "008": "                                   ita"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "338.45:004",
+            "b": "A532",
+            "c": "1976"
+        },
+        "245": {
+            "a": "Analisi di settore",
+            "b": "informatica (allegato III al libro bianco fast sull'elettronica italiana)",
+            "h": "Impresso",
+            "c": "coordenadores Stefano Crespi-Reghizzi, G. Sacerdoti"
+        },
+        "260": [
+            {
+                "a": "Milano",
+                "b": "Federazione Delle Associazioni Scientifiche e Tecniche",
+                "c": "1976"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (paginação irregular)",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Condizioni e proposte per lo sviluppo dell'industria elettronica nazionale, Milano, 1976"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Aspectos economicos"
+            },
+            {
+                "a": "Engenharia eletrônica"
+            }
+        ],
+        "700": [
+            {
+                "a": "Crespi-Reghizzi, Stefano",
+                "e": "Coordenador"
+            },
+            {
+                "a": "Sacerdoti, G.",
+                "e": "Coordenador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003892",
+        "005": "20190730140230.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0201144506"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "B954r",
+            "c": "1975"
+        },
+        "100": {
+            "a": "Burge, William Herbert"
+        },
+        "245": {
+            "a": "Recursive programming techniques",
+            "c": "William H. Burge",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Reading, Massachusetts",
+                "b": "Addison-Wesley",
+                "c": "1975"
+            }
+        ],
+        "300": [
+            {
+                "a": "277",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "The Systems programming series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Técnica de programação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

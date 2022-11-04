@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005893",
+        "005": "20190809122659.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.3.049.77",
+            "b": "P963",
+            "c": "1990"
+        },
+        "245": {
+            "a": "Processos de microeletrônica",
+            "c": "editado por V. Baranauskas",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Campinas",
+                "b": "Sociedade Brasileira de Microeletrônica",
+                "c": "1990"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (paginação irregular)"
+            }
+        ],
+        "650": [
+            {
+                "a": "Microeletrônica"
+            },
+            {
+                "a": "Litografia"
+            },
+            {
+                "a": "Circuito integrado"
+            }
+        ],
+        "700": [
+            {
+                "a": "Baranauskas, Vitor",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

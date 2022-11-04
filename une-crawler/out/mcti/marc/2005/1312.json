@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001312",
+        "005": "20190812194305.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.039(81)",
+            "b": "C651",
+            "c": "2003"
+        },
+        "110": {
+            "a": "Comissão Nacional de Energia Nuclear (Brasil)"
+        },
+        "245": {
+            "a": "Comissão Nacional de Energia Nuclear",
+            "b": "setor nuclear brasileiro",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Comissão Nacional de Energia Nuclear",
+                "c": "2003"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "33"
+            }
+        ],
+        "650": [
+            {
+                "a": "Energia nuclear",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pesquisa nuclear",
+                "x": "Pesquisa e desenvolvimento",
+                "z": "Brasil"
+            },
+            {
+                "a": "Tecnologia nuclear",
+                "x": "Pesquisa e desenvolvimento",
+                "z": "Brasil"
+            },
+            {
+                "a": "Combustível nuclear",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

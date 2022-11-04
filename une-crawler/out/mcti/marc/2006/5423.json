@@ -1,0 +1,78 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005423",
+        "005": "20190730151142.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "020": {
+            "a": "9682604690"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4",
+            "b": "D441",
+            "c": "1984"
+        },
+        "245": {
+            "a": "Desarrollo y administracion de programas de computadora",
+            "b": "(software)",
+            "c": "Victor Gerez Greiser ... [et al.]",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "1. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "México",
+                "b": "Compañia Editorial Continental",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "299"
+            }
+        ],
+        "650": [
+            {
+                "a": "Software"
+            },
+            {
+                "a": "Programas de computador"
+            },
+            {
+                "a": "Software",
+                "x": "Desenvolvimento"
+            }
+        ],
+        "700": [
+            {
+                "a": "Greiser, Victor Gerez",
+                "e": "Coautor"
+            },
+            {
+                "a": "Muth, Mauricio Mier",
+                "e": "Coautor"
+            },
+            {
+                "a": "Nieva Gómez, Rolando",
+                "e": "Coautor"
+            },
+            {
+                "a": "Rodríguez Ortiz, Guilhermo",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

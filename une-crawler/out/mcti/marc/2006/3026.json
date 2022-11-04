@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003026",
+        "005": "20190802142228.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0133458504"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.39",
+            "b": "M386f",
+            "c": "1977"
+        },
+        "100": {
+            "a": "Martin, James",
+            "d": "1933-"
+        },
+        "245": {
+            "a": "Future developments in telecommunications",
+            "c": "James Martin",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "1977"
+            }
+        ],
+        "300": [
+            {
+                "a": "xvi, 668 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Prentice-Hall series in automatic computation"
+            }
+        ],
+        "650": [
+            {
+                "a": "Telecomunicações"
+            },
+            {
+                "a": "Tecnologia"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004956",
+        "005": "20190731124901.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "2831702526"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "630*28",
+            "b": "R433",
+            "c": "1995"
+        },
+        "245": {
+            "a": "Reservas extrativistas",
+            "c": "editores Julio Ruiz Murrieta, Rafael Pinzón Rueda",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Gland, Suiça",
+                "b": "Unión Mundial para la Naturaleza",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "133",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Reserva extrativista"
+            },
+            {
+                "a": "Extrativismo"
+            }
+        ],
+        "700": [
+            {
+                "a": "Ruiz Murrieta, Julio",
+                "e": "Editor"
+            },
+            {
+                "a": "Pinzón Rueda, Rafael",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

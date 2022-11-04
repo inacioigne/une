@@ -1,0 +1,73 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005688",
+        "005": "20190808151919.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42(100)(063)",
+            "b": "I61p",
+            "c": "1986"
+        },
+        "111": {
+            "a": "International Computer Software and Applications Conference",
+            "c": "Chicago, Estados Unidos",
+            "d": "1986",
+            "n": "10"
+        },
+        "245": {
+            "a": "Proceedings",
+            "b": "COMPSAC 86 : the IEEE Computer Society's Tenth Annual International Computer Software & Applications Conference, october 9-11, 1985, Americana Congress Hotel, Chicago, Illinois",
+            "h": "Impresso",
+            "c": "IEEE COMPSAC 86"
+        },
+        "246": [
+            {
+                "a": "IEEE COMPSAC 86"
+            }
+        ],
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Institute of Electrical and Electronics Engineers",
+                "c": "c1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "xix, 504",
+                "c": "28 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Informática",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Software",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "710": [
+            {
+                "a": "IEEE Computer Society",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

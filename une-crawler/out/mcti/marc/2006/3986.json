@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003986",
+        "005": "20190730141739.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7",
+            "b": "M538r",
+            "c": "1981"
+        },
+        "100": {
+            "a": "Mendes, Izidério de Almeida"
+        },
+        "245": {
+            "a": "Redes de computadores",
+            "b": "protocolos na rede de comunicação de dados",
+            "c": "Izidério de Almeida Mendes",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Pontifícia Universidade Católica do Rio de Janeiro",
+                "c": "1981"
+            }
+        ],
+        "300": [
+            {
+                "a": "94"
+            }
+        ],
+        "490": [
+            {
+                "a": "Série : Monografias em Ciência da Computação",
+                "v": "n. 9/81"
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede de computador",
+                "x": "Protocolo de comunicação"
+            },
+            {
+                "a": "Comunicação de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005517",
+        "005": "20190801155650.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.65",
+            "b": "C853s",
+            "c": "1984"
+        },
+        "100": {
+            "a": "Couceiro, Luiz Antonio Carneiro da Cunha"
+        },
+        "245": {
+            "a": "Sistemas de gerência de bancos de dados distribuídos",
+            "h": "Impresso",
+            "c": "Luiz Antonio Carneiro da Cunha Couceiro"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Livros Técnicos e Científicos",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "77",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Banco de dados distribuído"
+            },
+            {
+                "a": "Sistema de gerenciamento de banco de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

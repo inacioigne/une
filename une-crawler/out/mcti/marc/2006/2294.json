@@ -1,0 +1,78 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002294",
+        "005": "20190802132852.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8587257013"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6-027.15",
+            "b": "T255",
+            "c": "1999"
+        },
+        "245": {
+            "a": "Tecnologia & inovação para a industria",
+            "b": "biotecnologia, novos materiais, tecnologia da informação",
+            "c": "[Confederação Nacional da Industria, Instituto Euvaldo Lodi]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Confederação Nacional da Indústria",
+                "c": "1999"
+            },
+            {
+                "b": "Instituto Euvaldo Lodi",
+                "c": "1999",
+                "a": "Brasília, DF"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "250",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e tecnologia"
+            },
+            {
+                "a": "Inovação tecnológica",
+                "z": "Brasil"
+            },
+            {
+                "a": "Indústrias",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto Euvaldo Lodi",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Confederação Nacional da Indústria",
+                "c": "Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

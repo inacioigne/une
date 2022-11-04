@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003667",
+        "005": "20190805105536.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0792337816"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "551.588.74",
+            "b": "G813",
+            "c": "c1995"
+        },
+        "245": {
+            "a": "Greenhouse gas mitigation assessment",
+            "b": "a guidebook",
+            "c": "lead authors, Jayant Sathaye and Stephen Meyers ; chapter authors, Barbara Allen-Diaz ... [et al.] ; contributing authors, Gunther conzelmann ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Dordrecht",
+                "b": "Kluwer Academic Publishers",
+                "c": "c1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (paginação irregular)",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Environmental science and technology library",
+                "v": "v. 6"
+            }
+        ],
+        "650": [
+            {
+                "a": "Efeito estufa (Atmosfera)",
+                "x": "Mitigação"
+            },
+            {
+                "a": "Ar",
+                "x": "Poluição"
+            }
+        ],
+        "700": [
+            {
+                "a": "Sathaye, Jayant A.",
+                "e": "Coautor"
+            },
+            {
+                "a": "Meyers, Stephen",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

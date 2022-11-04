@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004058",
+        "005": "20190809160155.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.896",
+            "b": "G396o",
+            "c": "1983"
+        },
+        "100": {
+            "a": "Gevarter, William B"
+        },
+        "245": {
+            "a": "An overview of artificial intelligence and robotics",
+            "c": "William B. Gevarter",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "National Aeronautics and Space Administration",
+                "c": "1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "xi, 108 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "NASA Technical Memorandum",
+                "v": "85838"
+            }
+        ],
+        "505": [
+            {
+                "a": "v. 1. pt. A. Artificial intelligence: the core ingredients (Jun 1983) -- v. 1. pt. B. Artificial intelligence: applications (Oct 1983) -- v. 1. pt. C. Artificial intelligence: basic AI topics (1983) -- v. 2. Robotics (Mar 1982)"
+            }
+        ],
+        "650": [
+            {
+                "a": "Robótica"
+            },
+            {
+                "a": "Sistema especialista"
+            },
+            {
+                "a": "Inteligência artificial"
+            },
+            {
+                "a": "Visão por computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

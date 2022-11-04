@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002189",
+        "005": "20190801135004.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:631",
+            "b": "S471",
+            "c": "1983"
+        },
+        "111": {
+            "a": "Seminário Nacional de Informática na Agropecuária",
+            "c": "Fortaleza, CE",
+            "d": "1983",
+            "n": "1"
+        },
+        "245": {
+            "a": "Seminário nacional de informática na agropecuária",
+            "b": "I INFOAGRO - Fortaleza 15 a 17 de agosto de 1983. [recomendações]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Secretaria Especial de Informática",
+                "c": "1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "52"
+            }
+        ],
+        "500": [
+            {
+                "a": "Fomentar a utilização dos recusos de informática, como instrumento auxiliar à assistência técnica e extensão rural, bem como ao cooperativismo, produtores rurais, indústria de insumos e transformação agrícola, através de sistemas computacionais."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Agropecuária"
+            },
+            {
+                "a": "Aplicativo de tecnologia",
+                "x": "Agropecuária"
+            },
+            {
+                "a": "Sistema de computador",
+                "x": "Agropecuária"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

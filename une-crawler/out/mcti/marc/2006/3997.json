@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003997",
+        "005": "20190802095554.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.3.049.77",
+            "b": "I61",
+            "c": "1984"
+        },
+        "110": {
+            "a": "Integrated Circuit Engineering Corporation"
+        },
+        "245": {
+            "a": "Status 1984",
+            "c": "Editor William I. Strauss ; Illustration editor: Helen I. Pitcher",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Scottsdale [Estados Unidos]",
+                "b": "Integrated Circuit Engineering Corporation",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 152",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Periódico tratado como livro (ISSN : 0195-9190)"
+            }
+        ],
+        "650": [
+            {
+                "a": "Circuito integrado",
+                "x": "Estatísticas"
+            },
+            {
+                "a": "Semicondutores",
+                "x": "Estatísticas"
+            }
+        ],
+        "700": [
+            {
+                "a": "Strauss, William I",
+                "e": "Editor"
+            },
+            {
+                "a": "Pitcher, Helen I",
+                "e": "Ilustrador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

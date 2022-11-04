@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004297",
+        "005": "20190813104027.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.382(043.3)",
+            "b": "G633c",
+            "c": "1981"
+        },
+        "100": {
+            "a": "Gomes, Kelso Krieger"
+        },
+        "245": {
+            "a": "Confiabilidade e teste de circuitos",
+            "c": "Kelso Krieger Gomes",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "c": "1981",
+                "a": "[S.l.",
+                "b": "s.n.]"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxi, 450",
+                "b": "il."
+            }
+        ],
+        "502": [
+            {
+                "a": "Dissertação (Mestrado) - Universidade Federal do Rio Grande do Sul. Curso de Pós-Graduação em Ciência da Computação, Porto Alegre, 1981"
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia elétrica"
+            },
+            {
+                "a": "Circuito integrado",
+                "x": "Teste"
+            }
+        ],
+        "990": {
+            "a": "Dissertações/Teses/TCC"
+        }
+    }
+}

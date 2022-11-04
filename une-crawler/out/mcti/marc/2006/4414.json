@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004414",
+        "005": "20190802105251.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "1881054071"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "061.2:5/6",
+            "b": "C289f",
+            "c": "1993"
+        },
+        "245": {
+            "a": "Facing toward governments",
+            "b": "nongovernmental organizations and scientific and technical advice : a report of the Carnegie Commission on Science, Technology, and Government",
+            "h": "Impresso",
+            "c": "Carnegie Commission on Science, Technology, and Government"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Carnegie Commission on Science, Technology, and Government",
+                "c": "1993"
+            }
+        ],
+        "300": [
+            {
+                "a": "113"
+            }
+        ],
+        "650": [
+            {
+                "a": "Organização não-governamental",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Ciência e Estado",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Tecnologia e Estado",
+                "z": "Estados Unidos"
+            }
+        ],
+        "710": [
+            {
+                "a": "Carnegie Commission on Science, Technology, and Government",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

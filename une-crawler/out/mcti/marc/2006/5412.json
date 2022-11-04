@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005412",
+        "005": "20190731115330.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "339.137(047)",
+            "b": "R425",
+            "c": "1985"
+        },
+        "245": {
+            "a": "Report on international competitiveness, 1985",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "EMF's"
+            }
+        ],
+        "260": [
+            {
+                "a": "Genebra (Suiça)",
+                "b": "EMF Foundation",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "218",
+                "b": "il., tabs., grafs."
+            }
+        ],
+        "650": [
+            {
+                "a": "Competitividade internacional",
+                "x": "Indicadores"
+            },
+            {
+                "a": "Comércio internacional",
+                "x": "Indicadores"
+            }
+        ],
+        "710": [
+            {
+                "a": "EMF Foundation",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

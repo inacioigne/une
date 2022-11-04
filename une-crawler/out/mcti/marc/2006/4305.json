@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004305",
+        "005": "20190809133804.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4'422(043.3)",
+            "b": "F866m",
+            "c": "1982"
+        },
+        "100": {
+            "a": "Freire, Paulo Guilherme Teixeira"
+        },
+        "245": {
+            "a": "Metodologia para o desenvolvimento de compiladores",
+            "c": "Paulo Guilherme Teixeira Freire",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "c": "1982",
+                "a": "Rio Grande do Sul"
+            }
+        ],
+        "300": [
+            {
+                "a": "191",
+                "b": "il."
+            }
+        ],
+        "502": [
+            {
+                "a": "Dissertação (Mestrado) - Universidade Federal do Rio Grande do Sul. Curso de Pós-Graduação em Ciência da Computação, Porto Alegre, 1982"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Compilador"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)"
+            },
+            {
+                "a": "Arquitetura de software"
+            }
+        ],
+        "990": {
+            "a": "Dissertações/Teses/TCC"
+        }
+    }
+}

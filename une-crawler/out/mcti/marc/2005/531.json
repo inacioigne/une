@@ -1,0 +1,115 @@
+{
+    "controfield": {
+        "000": "01585nam  2200385 a 4500",
+        "001": "000000531",
+        "005": "20190808133900.0",
+        "007": "t",
+        "008": "970703s1994    bl a     b   f100 0 por"
+    },
+    "datafield": {
+        "010": {
+            "a": "97831310"
+        },
+        "035": {
+            "a": "4029666"
+        },
+        "040": {
+            "a": "DLC",
+            "c": "DLC",
+            "d": "BR-BrMCT"
+        },
+        "041": {
+            "a": "poreng"
+        },
+        "042": {
+            "a": "lcode"
+        },
+        "050": {
+            "a": "T385",
+            "b": ".S55 1994"
+        },
+        "082": {
+            "2": "21",
+            "a": "006.6"
+        },
+        "090": {
+            "a": "004.924(81)(063)",
+            "b": "S612a",
+            "c": "1993"
+        },
+        "111": {
+            "a": "Simpósio Brasileiro de Computação Gráfica e Processamento de Imagens",
+            "c": "Recife, PE",
+            "d": "1993",
+            "n": "6"
+        },
+        "245": {
+            "a": "Anais do SIBGRAPI 93",
+            "b": "VI Simpósio Brasileiro de Computação Gráfica e Processamento de Imagens",
+            "c": "Editores: Luiz Henrique de Figueiredo, Jonas de Miranda Gomes; autor corporativo: Sociedade Brasileira de Computação, Universidade Federal de Pernambuco",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Recife",
+                "b": "Universidade Federal de Pernambuco",
+                "c": "1993"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "355",
+                "b": "il., (algumas color)"
+            }
+        ],
+        "500": [
+            {
+                "a": "\"Recife, PE, outubro de 1993\" (informação retirada da capa)"
+            }
+        ],
+        "546": {
+            "a": "Texto em português e inglês"
+        },
+        "650": [
+            {
+                "a": "Computação gráfica",
+                "x": "Animação (computação gráfica)"
+            },
+            {
+                "a": "Processamento de imagem",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Informática médica"
+            }
+        ],
+        "700": [
+            {
+                "a": "Figueiredo, Luiz Henrique de",
+                "e": "Editor"
+            },
+            {
+                "a": "Gomes, Jonas de Miranda",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Sociedade Brasileira de Computação",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Universidade Federal de Pernambuco",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

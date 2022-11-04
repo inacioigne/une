@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001897",
+        "005": "20190730142724.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.725.5",
+            "b": "S237r",
+            "c": "1991"
+        },
+        "100": {
+            "a": "Santos, Jorge"
+        },
+        "245": {
+            "a": "Redes locales en tiempo real",
+            "c": "Jorge Santos",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Escola Brasileiro-Argentina de Informática",
+                "c": "1991"
+            }
+        ],
+        "300": [
+            {
+                "a": "176",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Versão preliminar publicada para a V Escola Brasileiro-Argentina de Informática, Rio de Janeiro - Janeiro de 1991"
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede local"
+            },
+            {
+                "a": "Telemática"
+            },
+            {
+                "a": "Rede de telecomunicação"
+            },
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Comunicação de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

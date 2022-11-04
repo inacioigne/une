@@ -1,0 +1,79 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001101",
+        "005": "20190806181927.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "604.6",
+            "b": "G943",
+            "c": "1991"
+        },
+        "245": {
+            "a": "Guias para la liberación en el medio ambiente de organismos modificados geneticamente",
+            "h": "Impresso",
+            "c": "Organização dos Estados Americanos, Organização Internacional de Epizootias, Instituto Interamericano de Cooperação para a Agricultura"
+        },
+        "260": [
+            {
+                "a": "San José",
+                "b": "Instituto Interamericano de Cooperação para a Agricultura",
+                "c": "1991"
+            }
+        ],
+        "300": [
+            {
+                "a": "145"
+            }
+        ],
+        "490": [
+            {
+                "a": "Publicaciones misceláneas / IICA",
+                "v": "A1/SC9109"
+            }
+        ],
+        "500": [
+            {
+                "a": "Programa II: Generación y transferencia de tecnologia"
+            }
+        ],
+        "650": [
+            {
+                "a": "Biotecnologia"
+            },
+            {
+                "a": "Melhoramento genético"
+            },
+            {
+                "a": "Engenharia genética"
+            },
+            {
+                "a": "Biossegurança"
+            }
+        ],
+        "710": [
+            {
+                "a": "Organização dos Estados Americanos (OEA)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Organização Internacional de Epizootias",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Instituto Interamericano de Cooperação para a Agricultura",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

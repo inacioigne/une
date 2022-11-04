@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nas  22      a 4500",
+        "001": "000001053",
+        "005": "20170123090716.0",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "022": {
+            "a": "0104-3595"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "02(05)"
+        },
+        "222": [
+            {
+                "a": "Informativo IBICT"
+            }
+        ],
+        "245": {
+            "a": "Informativo IBICT",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto Brasileiro de Informação em Ciência e Tecnologia",
+                "c": "1991-1998"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "b": "v"
+            }
+        ],
+        "310": {
+            "a": "Bimestral"
+        },
+        "650": [
+            {
+                "a": "Biblioteconomia",
+                "x": "Periódico"
+            },
+            {
+                "a": "Ciência da informação",
+                "x": "Periódico"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto Brasileiro de Informação em Ciência e Tecnologia",
+                "e": "Indefinida"
+            }
+        ],
+        "990": {
+            "a": "Periódicos"
+        }
+    }
+}

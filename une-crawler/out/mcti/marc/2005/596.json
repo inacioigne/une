@@ -1,0 +1,87 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000596",
+        "005": "20190807152156.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "061.27-047.37ABIPTI(058)",
+            "b": "I59",
+            "d": "CNPq",
+            "c": "1993"
+        },
+        "245": {
+            "a": "Institutos de pesquisa tecnológica industrial afiliados à ABIPTI",
+            "b": "perfil, produtos e serviços",
+            "h": "Impresso",
+            "c": " Instituto Brasileiro de Informação em Ciência e Tecnologia"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto Brasileiro de Informação em Ciência e Tecnologia",
+                "c": "1993"
+            }
+        ],
+        "300": [
+            {
+                "a": "148"
+            }
+        ],
+        "505": [
+            {
+                "a": "ANIMASEG -- ANPEI -- ATECEL -- CEFET-PR -- CENPES -- CEPED -- CEPEL -- CEPESC -- CETEC -- CETEM -- CIENTEC -- CODETEC -- COPPE -- CPqD -- CTA -- CTC/ITUC -- CTCCA -- CVRD/GIPER -- EMBRAPA -- FAENQUIL -- FATEA -- FIOCRUZ -- FUCAPI -- FUNCETI -- IAT -- IBICT -- IBQN -- ICT/DF -- IMT -- INMETRO -- INPE -- INT -- IPEN -- IPT -- ITAL -- ITEP -- ITPS -- ITUFES -- LAC -- LBDI -- LNLS -- NUTEC -- SENAI/RS -- TECPAR."
+            }
+        ],
+        "520": {
+            "a": "Esta publicação traça o perfil de 44 institutos de pesquisa tecnológica industrial afiliados a ABIPTI e é um subproduto de Base de Dados de Entidades em Ciência e Tecnologia do IBICT. A obra está organizada em ordem alfabética por sigla da instituição e contém as seguintes informações: sigla e nome completo da instituição; endereço completo; telefone; telex; faz; pessoa para contato; titular; Recursos humanos; natureza jurídica; afiliação nacional e internacional; planta-piloto; produtos/serviços; tipo de publicação que edita; título do periódico; atividade; setor de atuação; termo livre."
+        },
+        "650": [
+            {
+                "a": "Instituição de pesquisa",
+                "z": "Brasil",
+                "x": "Catálogo"
+            },
+            {
+                "a": "Pesquisa tecnológica",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pesquisa industrial",
+                "z": "Brasil"
+            },
+            {
+                "a": "Capacitação tecnológica"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto Brasileiro de Informação em Ciência e Tecnologia",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Associação Brasileira das Instituições de Pesquisa Tecnológica Industrial",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Confederação Nacional da Indústria",
+                "c": "Brasil",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Serviço Brasileiro de Apoio às Micro e Pequenas Empresas",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

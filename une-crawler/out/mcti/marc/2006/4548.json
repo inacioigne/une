@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004548",
+        "005": "20190809161533.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "338.432:004(81)(063)",
+            "b": "C749a",
+            "c": "2006"
+        },
+        "111": {
+            "a": "Congresso Brasileiro de Agroinformática",
+            "c": "Londrina, PR",
+            "d": "2006",
+            "n": "5"
+        },
+        "245": {
+            "a": "Anais",
+            "b": "Agronegócio, Tecnologia e Inovação : V Congresso Brasileiro de Agroinformática : II Simpósio Brasileiro de Tecnologia da Informação no Agronegócio Cooperativo",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Londrina",
+                "b": "Sociedade Brasileira de Informática Aplicada à Agropecuária e Agroindustria",
+                "c": "2006"
+            }
+        ],
+        "650": [
+            {
+                "a": "Agroindústria",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Agricultura",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Tecnologia da informação",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Sociedade Brasileira de Informática Aplicada à Agropecuária e Agroindústria",
+                "e": "Corporativo"
+            }
+        ],
+        "711": [
+            {
+                "a": "Simpósio Brasileiro de Tecnologia da Informação no Agronegócio Cooperativo",
+                "c": "Londrina, PR",
+                "d": "2006",
+                "n": "2"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

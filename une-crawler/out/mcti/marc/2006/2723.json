@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002723",
+        "005": "20190730131651.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0131973762"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.424.25",
+            "b": "G468d",
+            "c": "c1970"
+        },
+        "100": {
+            "a": "Gildersleeve, Thomas Robert"
+        },
+        "245": {
+            "a": "Decision tables and their practical application in data processing",
+            "c": "Thomas R. Gildersleeve",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "c1970"
+            }
+        ],
+        "300": [
+            {
+                "a": "206",
+                "c": "29 cm"
+            }
+        ],
+        "650": [
+            {
+                "a": "Processamento de dados"
+            },
+            {
+                "a": "Sistema de suporte a decisão"
+            },
+            {
+                "a": "Sistema de informação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004302",
+        "005": "20190809173357.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8588425033"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.272(063)",
+            "b": "W926a",
+            "c": "2004"
+        },
+        "111": {
+            "a": "Workshop de Processamento Paralelo e Distribuído",
+            "c": "Porto Alegre, RS",
+            "d": "2004",
+            "n": "2"
+        },
+        "245": {
+            "a": "Anais",
+            "b": "do 2o Workshop de Processamento Paralelo e Distribuído (WSPPD-04), 23 de julho de 2004",
+            "h": "Impresso",
+            "c": "editor Philippe Olivier Alexandre Navaux"
+        },
+        "246": [
+            {
+                "a": "WSPPD 2004"
+            }
+        ],
+        "260": [
+            {
+                "a": "Porto Alegre",
+                "b": "Grupo de Processamento Paralelo e Distribuído",
+                "c": "2004"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "182",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Processamento paralelo"
+            },
+            {
+                "a": "Processamento distribuído"
+            },
+            {
+                "a": "Cluster"
+            }
+        ],
+        "700": [
+            {
+                "a": "Navaux, Philippe O.A.",
+                "q": "Philippe Olivier Alexandre",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Universidade Federal do Rio Grande do Sul. Instituto de Informática",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003053",
+        "005": "20190809173938.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "630*2(811)(063)",
+            "b": "E56e",
+            "c": "1987"
+        },
+        "111": {
+            "a": "Encontro sobre Silvicultura e Manejo Florestal na Amazônia",
+            "c": "Manaus, AM",
+            "d": "1987"
+        },
+        "245": {
+            "a": "Anais",
+            "b": "Encontro sobre Silvicultura e Manejo Florestal na Amazônia, 23 a 27 de novembro de 1987",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Manaus",
+                "b": "Instituto Brasileiro de Desenvolvimento Florestal",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "119",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Florestas",
+                "x": "Congressos, eventos, encontros",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Manejo florestal",
+                "x": "Congressos, eventos, encontros",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Florestas",
+                "x": "Congressos, eventos, encontros",
+                "z": "Amazônia"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto Nacional de Pesquisas da Amazônia (Brasil)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Instituto Brasileiro de Desenvolvimento Florestal",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

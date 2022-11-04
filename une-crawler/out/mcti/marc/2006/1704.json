@@ -1,0 +1,92 @@
+{
+    "controfield": {
+        "000": "     nas  22      a 4500",
+        "001": "000001704",
+        "005": "20170127152257.0",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "022": {
+            "a": "0100-5227"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004(05)"
+        },
+        "210": [
+            {
+                "a": "Tema"
+            },
+            {
+                "a": "Tema"
+            }
+        ],
+        "222": [
+            {
+                "a": "Tema"
+            }
+        ],
+        "245": {
+            "a": "Tema",
+            "b": "revista do SERPRO",
+            "c": "Serviço Federal de Processamento de Dados, Centro de Comunicação Social",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Serviço Federal de Processamento de Dados, Centro de Comunicação Social",
+                "c": "1988"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "b": "v"
+            }
+        ],
+        "310": {
+            "a": "Bimestral"
+        },
+        "500": [
+            {
+                "a": "Coleção impressa: (n. 46, 1983 - presente)"
+            }
+        ],
+        "530": {
+            "a": "Documento eletrônico: Texto completo, período disponível (2010 - presente) - Livre acesso"
+        },
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Periódico",
+                "z": "Brasil"
+            },
+            {
+                "a": "Tecnologia",
+                "x": "Periódico",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Serviço Federal de Processamento de Dados. Centro de Comunicação Social",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "u": "http://tema.serpro.gov.br/pub/serpro/",
+            "y": "Texto completo (SERPRO)",
+            "z": "Acesso em: 27/01/2017"
+        },
+        "990": {
+            "a": "Periódicos"
+        }
+    }
+}

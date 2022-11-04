@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002843",
+        "005": "20190813130044.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0884050297"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.08",
+            "b": "W913c",
+            "c": "1974"
+        },
+        "100": {
+            "a": "Wooldridge, Susan"
+        },
+        "245": {
+            "a": "Computer input design",
+            "c": "Susan Wooldridge",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "1. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Petrocelli Books",
+                "c": "1974"
+            }
+        ],
+        "300": [
+            {
+                "a": "xvi, 199",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Equipamento periférico"
+            },
+            {
+                "a": "Entrada de dados"
+            },
+            {
+                "a": "Equipamento de entrada de dados"
+            },
+            {
+                "a": "Armazenamento de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003981",
+        "005": "20190807143352.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "9264223843"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.3.049.77",
+            "b": "M626",
+            "c": "1982"
+        },
+        "245": {
+            "a": "La Micro-électronique, la robotique et l'emploi",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Organisation de coopération et de développement économiques",
+                "c": "1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "263",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Politiques d'information, d'informatique et de communications"
+            }
+        ],
+        "650": [
+            {
+                "a": "Microeletrônica",
+                "x": "Aspectos economicos"
+            },
+            {
+                "a": "Robótica",
+                "x": "Aspectos economicos"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

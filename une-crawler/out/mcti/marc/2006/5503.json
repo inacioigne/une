@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005503",
+        "005": "20190813115823.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0131630806"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.58",
+            "b": "M158c",
+            "c": "1987"
+        },
+        "100": {
+            "a": "McKissick, Michael Landon"
+        },
+        "245": {
+            "a": "Computer-aided drafting and design",
+            "c": "Michael Landon McKissick",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "c1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "xv, 248",
+                "c": "25 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Projeto auxiliado por computador"
+            },
+            {
+                "a": "Computação gráfica"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

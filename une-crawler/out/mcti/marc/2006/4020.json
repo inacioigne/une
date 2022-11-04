@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004020",
+        "005": "20190802131955.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0080285716"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:005",
+            "b": "T255",
+            "c": "1982"
+        },
+        "245": {
+            "a": "Technology management",
+            "c": "Editor: B. Hubbard",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Berkshire, [Inglaterra]",
+                "b": "Pergamon Infotech",
+                "c": "1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "355",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "State of the art report",
+                "v": "série 10, n. 8"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Gerência"
+            },
+            {
+                "a": "Sistema de computador"
+            },
+            {
+                "a": "Informática"
+            }
+        ],
+        "700": [
+            {
+                "a": "Hubbard, B",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003294",
+        "005": "20190807133311.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "336.531.2:5/6(85)",
+            "b": "P471",
+            "c": "1960-2002"
+        },
+        "245": {
+            "a": "Peru ante la sociedad del conocimiento",
+            "b": "indicadores de ciencia, tecnología e innovación, 1960-2002 : compendio",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Lima, Peru",
+                "b": "Consejo Nacional de Ciencia y Tecnología",
+                "c": "2003"
+            }
+        ],
+        "300": [
+            {
+                "a": "295",
+                "b": "il., tabs., grafs."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência",
+                "x": "Indicadores",
+                "z": "Peru"
+            },
+            {
+                "a": "Tecnologia",
+                "x": "Indicadores",
+                "z": "Peru"
+            },
+            {
+                "a": "Economia",
+                "x": "Indicadores",
+                "z": "Peru"
+            }
+        ],
+        "710": [
+            {
+                "a": "Consejo Nacional de Ciencia y Tecnología (Peru)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005664",
+        "005": "20190801160548.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.94",
+            "b": "T757s",
+            "c": "1991"
+        },
+        "100": {
+            "a": "Tozzi, Clésio Luis"
+        },
+        "245": {
+            "a": "Sistemas gráficos",
+            "b": "técnicas de modelagem, desenho, PAC",
+            "c": "Clésio Luiz Tozzi, Léo Pini Magalhães",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Escola Brasileiro-Argentina de Informática",
+                "c": "1991"
+            }
+        ],
+        "300": [
+            {
+                "a": "287",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Computação gráfica"
+            },
+            {
+                "a": "Processamento de imagem"
+            },
+            {
+                "a": "Programação matemática"
+            }
+        ],
+        "700": [
+            {
+                "a": "Magalhães, Léo Pini",
+                "e": "Coautor"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Nova Friburgo, RJ",
+                "d": "1991",
+                "n": "5"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

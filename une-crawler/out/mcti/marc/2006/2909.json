@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002909",
+        "005": "20190730124617.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0850121205"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.6:658",
+            "b": "P413d",
+            "c": "c1974"
+        },
+        "245": {
+            "a": "Data processing case histories",
+            "b": "(learning to ride the computer)",
+            "c": "edited by G. Penney",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[Manchester]",
+                "b": "NCC Publications",
+                "c": "c1974"
+            }
+        ],
+        "300": [
+            {
+                "a": "122",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Processamento de dados",
+                "x": "Estudo de casos"
+            },
+            {
+                "a": "Informática",
+                "x": "Estudo de casos"
+            }
+        ],
+        "700": [
+            {
+                "a": "Penney, George",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

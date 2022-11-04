@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002151",
+        "005": "20190809144442.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "1572316381"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.455.2:004.774",
+            "b": "M626",
+            "c": "1998"
+        },
+        "245": {
+            "a": "Microsoft Internet information server resource kit",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Redmont, Washington",
+                "b": "Microsoft Press",
+                "c": "1998"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxiii, 587 p.",
+                "b": "il., + 2 CD-ROMs"
+            }
+        ],
+        "501": [
+            {
+                "a": "Acompanhado de 2 CD-Roms"
+            }
+        ],
+        "650": [
+            {
+                "a": "Internet",
+                "x": "Cliente/servidor (Computadores)"
+            },
+            {
+                "a": "Rede de computador",
+                "x": "Arquitetura de software"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

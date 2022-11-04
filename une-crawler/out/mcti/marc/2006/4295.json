@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004295",
+        "005": "20190801152925.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.39:004.7(043.3)",
+            "b": "M149s",
+            "c": "1980"
+        },
+        "100": {
+            "a": "Machado, Gilberto Soares"
+        },
+        "245": {
+            "a": "Sistema de testes de redes de teleprocessamento",
+            "c": "Gilberto Soares Machado",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "c": "1980",
+                "a": "[S.l.",
+                "b": "s.n]"
+            }
+        ],
+        "300": [
+            {
+                "a": "198 f.",
+                "b": "il."
+            }
+        ],
+        "502": [
+            {
+                "a": "Dissertação (mestrado) - Universidade Federal do Rio Grande do Sul. Curso de Pós-Graduação em Ciência da Computação, Porto Alegre, 1980"
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede de telecomunicação"
+            },
+            {
+                "a": "Telecomunicações"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Comunicação de dados",
+                "x": "Teste"
+            }
+        ],
+        "990": {
+            "a": "Dissertações/Teses/TCC"
+        }
+    }
+}

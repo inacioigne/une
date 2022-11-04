@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002620",
+        "005": "20190809114419.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451.7:658",
+            "b": "M527p",
+            "c": "1976"
+        },
+        "100": {
+            "a": "Mello, Aristófanes Ferreira de"
+        },
+        "245": {
+            "a": "Processamento eletrônico de dados para executivos",
+            "h": "Impresso",
+            "c": "Aristófanes Ferreira de Mello"
+        },
+        "260": [
+            {
+                "a": "Fortaleza",
+                "b": "Banco do Nordeste do Brasil",
+                "c": "1976"
+            }
+        ],
+        "300": [
+            {
+                "a": "115",
+                "c": "22 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Administração de empresas"
+            },
+            {
+                "a": "Computadores"
+            },
+            {
+                "a": "Desenvolvimento de sistemas"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

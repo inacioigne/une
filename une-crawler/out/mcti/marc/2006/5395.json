@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005395",
+        "005": "20190814185030.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "2040156143"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.438BASIC",
+            "b": "B311m",
+            "c": "1984"
+        },
+        "100": {
+            "a": "Maiman, M"
+        },
+        "245": {
+            "a": "Basic Microsoft et Basic ANSI",
+            "c": "M. Maiman",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[Paris]",
+                "b": "Dunod",
+                "c": "1984"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "vii, 167 p.",
+                "c": "21 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "MicroDunod"
+            }
+        ],
+        "650": [
+            {
+                "a": "Basic (Linguagem de programação de computador)",
+                "x": "Linguagem de programação (Computadores)"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

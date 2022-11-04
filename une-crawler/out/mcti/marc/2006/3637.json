@@ -1,0 +1,93 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003637",
+        "005": "20190814170318.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8585924071"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "311:573",
+            "b": "B615",
+            "c": "2000",
+            "d": "MAMIRAUÁ"
+        },
+        "245": {
+            "a": "Bioestat 2.0",
+            "b": "aplicações estatísticas nas áreas das ciências biológicas e médicas",
+            "c": "Manuel Ayres ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Belém",
+                "b": "Sociedade Civil Mamirauá",
+                "c": "2000"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 259 p.",
+                "b": "il.",
+                "e": "1 CD-Rom"
+            }
+        ],
+        "500": [
+            {
+                "a": "Desenvolvimento de software: Daniel Lima Ayres e Alex Santos do Santos."
+            }
+        ],
+        "505": [
+            {
+                "a": "Introdução -- Usando o BioEstat -- Amostragem -- Análise multivariada -- Análise de sobrevivência -- Análise de variância -- Correlação -- Distribuição de probabilidades -- Uma amostra -- Duas amostras independetes -- Duas amostras relacionadas -- Estatística descritiva -- Estimação de parâmetros -- Normalidade -- Qui-quadrado e teste G -- Regressão -- Tamanho das amostras -- Transformação -- Gráficos e tabela -- Fórmulas estatísticas -- Escolha do teste estatístico - sugestões -- Glossário -- Referências bibliográficas -- Índice"
+            }
+        ],
+        "650": [
+            {
+                "a": "Medicina"
+            },
+            {
+                "a": "Estatística"
+            },
+            {
+                "a": "Biologia"
+            },
+            {
+                "a": "Informática"
+            }
+        ],
+        "700": [
+            {
+                "a": "Ayres Júnior, Manuel",
+                "e": "Coautor"
+            },
+            {
+                "a": "Ayres, Manuel",
+                "e": "Coautor"
+            },
+            {
+                "a": "Ayres, Daniel Lima",
+                "e": "Coautor"
+            },
+            {
+                "a": "Santos, Alex de Assis Santos dos",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

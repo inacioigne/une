@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002488",
+        "005": "20190807114523.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0134998146"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.39:004",
+            "b": "M379i",
+            "c": "c1972"
+        },
+        "100": {
+            "a": "Martin, James",
+            "d": "1933-"
+        },
+        "245": {
+            "a": "Introduction to teleprocessing",
+            "h": "Impresso",
+            "c": "James Martin"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "c1972"
+            }
+        ],
+        "300": [
+            {
+                "a": "xv, 267 p.",
+                "c": "25 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Prentice-Hall series in automatic computation"
+            }
+        ],
+        "650": [
+            {
+                "a": "Comunicação de dados"
+            },
+            {
+                "a": "Sistema de informação"
+            },
+            {
+                "a": "Transferência de informação"
+            },
+            {
+                "a": "Estrutura de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

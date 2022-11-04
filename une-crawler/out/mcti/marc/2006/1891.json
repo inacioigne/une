@@ -1,0 +1,73 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001891",
+        "005": "20190813182730.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.2",
+            "b": "B675a",
+            "c": "1991"
+        },
+        "100": {
+            "a": "Bogni, Carlos J"
+        },
+        "245": {
+            "a": "Arquitectura de computadoras",
+            "c": "Carlos J. Bogni,Luis Marrone",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Escola Brasileiro-Argentina de Informática",
+                "c": "1991"
+            }
+        ],
+        "300": [
+            {
+                "a": "243",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Versão preliminar publicada para a V Escola Brasileiro-Argentina de Informática, Rio de Janeiro - Janeiro de 1991"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Arquitetura de software"
+            }
+        ],
+        "700": [
+            {
+                "a": "Marrone, Luis A",
+                "e": "Coautor"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Nova Friburgo, RJ",
+                "d": "1991",
+                "n": "5"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

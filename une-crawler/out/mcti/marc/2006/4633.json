@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004633",
+        "005": "20190812095337.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "581.524.4(815.3)",
+            "b": "P964",
+            "c": "1998"
+        },
+        "245": {
+            "a": "Programa Zoneamento Ecológico-Econômico do estado do Rio de Janeiro",
+            "b": "projeto II : zoneamento ecológico-econômico do Médio Vale do Paraíba",
+            "h": "Impresso",
+            "c": "Centro de Estudos Estratégicos"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto Ecotema",
+                "c": "1998"
+            }
+        ],
+        "300": [
+            {
+                "a": "116",
+                "b": "il., + mapas"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ecologia"
+            },
+            {
+                "a": "Zoneamento",
+                "x": "Ecologia"
+            },
+            {
+                "a": "Desenvolvimento sustentável"
+            },
+            {
+                "a": "Meio ambiente"
+            }
+        ],
+        "710": [
+            {
+                "a": "Centro de Estudos Estratégicos",
+                "c": "Brasil",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Rio de Janeiro (Estado). Secretaria de Meio Ambiente.",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Empresa Brasileira de Pesquisa Agropecuária",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Fundação Instituto Estadual de Florestas (RJ)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

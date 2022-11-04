@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002396",
+        "005": "20190801164210.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "37:004",
+            "b": "B823s",
+            "c": "1986"
+        },
+        "110": {
+            "a": "Brasil. Secretaria Especial de Informática"
+        },
+        "245": {
+            "a": "Situação do ensino de graduação de informática",
+            "b": "1986",
+            "c": "Secretaria Especial de Informática",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Secretaria Especial de Informática",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (sem paginação)"
+            }
+        ],
+        "505": [
+            {
+                "a": "1. Introdução -- 2. Distribuição geográfica -- 3. Dependência administrativa -- 4. A) Carga horária -- B) Estágio -- C) Acervo Bibliográfico -- 5. Corpo docente -- 6. Vagas e concluintes -- 7. Equipamentos -- 8. Currículos -- 8.1. de Bacharelado -- 8.2. de Tecnólogo em Processamento de Dados -- 9. Recomendações -- 10. Anexos (Recomendações da Comissão n. 10/SEI, 1983) -- 11. Apêndice (Dados coletados dos Cursos de Bacharelado em Ciência da Computação, Tecnólogo em Processamento de Dados, Matemática / Administração com ênfase em Informática - 1986)."
+            }
+        ],
+        "520": {
+            "a": "O objetivo de conhecer a situação do sistemas de ensino do 3. grau na área de Processamento Eletrônico de Dados, foram coletados informações relativas ao ano de 1983. Ditas informações subsidiaram a Comissão n. 10 e estão contidas no Relatório Final daquela Comissão. Passados quatros anos, foram levantadas as mesmas informações, com o objetivo de detectar a evolução neste mesmo campo de ensino. Espera-se que este trabalho, além de subsidiar a avaliação do PLANIN, seja de alguma forma, útil na compreensão da problemática da formação de mão-de-obra para o setor de informática no Brasil."
+        },
+        "650": [
+            {
+                "a": "Ensino superior",
+                "x": "Processamento de dados"
+            },
+            {
+                "a": "Política Nacional de Informática",
+                "x": "Ensino superior",
+                "z": "Brasil"
+            },
+            {
+                "a": "Informática"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

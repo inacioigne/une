@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000214",
+        "005": "20190726150835.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "025.4.36:004(043.2)",
+            "b": "O48s",
+            "c": "1976"
+        },
+        "100": {
+            "a": "Oliveira, José Palazzo Moreira de"
+        },
+        "245": {
+            "a": "Sistema de recuperação de informações",
+            "c": "José Palazzo Moreira de Oliveira",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Porto Alegre, RS",
+                "c": "1976"
+            }
+        ],
+        "300": [
+            {
+                "a": "67",
+                "b": "il."
+            }
+        ],
+        "502": [
+            {
+                "a": "Dissertação (mestrado) - Universidade Federal do Rio Grande do Sul. Curso de Pós-Graduação em Ciência da Computação, Porto Alegre, RS - 1976. Orientação: José Mauro Volkmer de Castilho"
+            }
+        ],
+        "650": [
+            {
+                "a": "Armazenamento de dados",
+                "x": "Tese"
+            },
+            {
+                "a": "Sistema de recuperação da informação",
+                "x": "Tese"
+            }
+        ],
+        "990": {
+            "a": "Dissertações/Teses/TCC"
+        }
+    }
+}

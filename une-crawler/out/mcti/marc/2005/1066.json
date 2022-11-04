@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "as   nas  22      a 4500",
+        "001": "000001066",
+        "005": "20170123090922.0",
+        "008": "por                                por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.039(05)"
+        },
+        "245": {
+            "a": "Informe CDTN",
+            "c": "Comissão Nacional de Energia Nuclear, Centro de Desenvolvimentoda Tecnologia Nuclear",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Belo Horizonte",
+                "b": "Comissão Nacional de Energia Nuclear, Centro de Desenvolvimento da Tecnologia Nuclear",
+                "c": "1993-1998"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "b": "v"
+            }
+        ],
+        "310": {
+            "a": "Trimestral"
+        },
+        "650": [
+            {
+                "a": "Energia nuclear",
+                "x": "Periódico"
+            }
+        ],
+        "710": [
+            {
+                "a": "Centro de Desenvolvimento da Tecnologia Nuclear",
+                "c": "Brasil",
+                "e": "Indefinida"
+            },
+            {
+                "a": "Comissão Nacional de Energia Nuclear (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Periódicos"
+        }
+    }
+}

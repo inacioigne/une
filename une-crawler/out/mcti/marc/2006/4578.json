@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004578",
+        "005": "20190809102959.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "574.1:025.5(063)",
+            "b": "I61d",
+            "c": "1994"
+        },
+        "111": {
+            "a": "International Workshop Held at the Tropical Database",
+            "c": "Campinas, SP",
+            "d": "1994"
+        },
+        "245": {
+            "a": "Proceedings of the international workshop held at the tropical database, Campinas, São Paulo, Brazil",
+            "b": "23-25 february, 1994",
+            "h": "Impresso",
+            "c": "Programa das Nações Unidas para o Meio Ambiente"
+        },
+        "260": [
+            {
+                "a": "Campinas",
+                "b": "Fundação Tropical de Pesquisas e Tecnologia André Tosello",
+                "c": "1994"
+            }
+        ],
+        "300": [
+            {
+                "a": "91",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema de informação",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Biodiversidade",
+                "x": "Sistema de informação"
+            }
+        ],
+        "710": [
+            {
+                "a": "Programa das Nações Unidas para o Meio Ambiente",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Brasil. Ministério do Meio Ambiente, dos Recursos Hídricos e da Amazônia Legal",
+                "b": "Secretaria de Coordenação da Amazônia Legal",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

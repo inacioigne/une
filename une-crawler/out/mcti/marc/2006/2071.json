@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002071",
+        "005": "20190813142751.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004",
+            "b": "S111c",
+            "c": "1981"
+        },
+        "100": {
+            "a": "Saad, Alfredo Carlos Cardoso",
+            "d": "1948-"
+        },
+        "245": {
+            "a": "Como conviver pacificamente com as restrições à importação de equipamentos de PD",
+            "c": "Alfredo Carlos Cardoso Saad",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[Brasília]",
+                "b": "[s.n.]",
+                "c": "1981"
+            }
+        ],
+        "300": [
+            {
+                "a": "70 f.",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Trabalho apresentado no 1. Concurso Nacional de Monografias em Informática, promovido pela Secretaria Especial de Informática (SEI) e pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq). teve como objetivo principal estimular a produção brasileira de literatura técnica no setor, tanto no que se refere a textos didáticos e de pesquisa como a aplicações de informática nos mais diversos aspectos da vida nacional."
+            }
+        ],
+        "505": [
+            {
+                "a": "1. Introdução -- 1.1. Considerações preliminares -- 1.2. Como suportar sem crises operacionais o crescimento da carga até a chegada do novo equipamento -- 2. dimensionamento o \"hardware\" -- 2.1. sua instalação precisa mesmo de outra CPU? -- 2.2. Por que expandir memória principal? -- 2.3. Como adiar a aquisição de dispositivos de disco? -- 2.4. São realmente necessários outras unidades de fita? -- 2.5. Quando adquirir mais impressoras? -- 3. Apresentação de casos -- 3.1. Efeitos do desbalanceamento da carga de trabalho sobre o desempenho de sistemas virtuais -- 3.2. O que fazer enquanto a expansão da memória não é instalada -- 3.3. Efeitos de segmentação de memória virtual entre diversos dispositivos de disco -- 3.4. Como minimizar o tempo de busca em arquivos em disco -- 3.5. Efeitos do referenciamento incorreto de matrizes sobre o desempenho de programas em sistemas virtuais -- 3.6. Como otimizar a configuaração de classes em uma instalação -- 3.7. Introdução ao conceito de desvio-padrão percentual e sua aplicação ao balanceamento da carga de trabalho."
+            }
+        ],
+        "650": [
+            {
+                "a": "Processamento de dados",
+                "x": "Importação"
+            },
+            {
+                "a": "Equipamento"
+            }
+        ],
+        "711": [
+            {
+                "a": "Concurso Nacional de Monografias sobre Informática",
+                "c": "Brasília, DF",
+                "d": "1981",
+                "n": "1"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

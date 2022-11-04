@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002997",
+        "005": "20190807143201.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:005",
+            "b": "M253m",
+            "c": "c1971"
+        },
+        "100": {
+            "a": "Mallet, Robert A"
+        },
+        "245": {
+            "a": "La méthode informatique",
+            "b": "conception et réalisation de l'informatique de gestion",
+            "c": "Robert A. Mallet.",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[Paris]",
+                "b": "Hermann",
+                "c": "c1971"
+            }
+        ],
+        "300": [
+            {
+                "a": "521",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Actualités scientifiques et industrielles",
+                "v": "1340"
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema de Gerenciamento de Informações"
+            },
+            {
+                "a": "Empresas",
+                "x": "Processamento de dados"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

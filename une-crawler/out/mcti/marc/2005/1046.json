@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001046",
+        "005": "20190725150510.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "567(811)(063)",
+            "b": "I61p",
+            "c": "1997"
+        },
+        "111": {
+            "a": "International Symposium Biology of Tropical Fishes",
+            "c": "Manaus, AM",
+            "d": "1997"
+        },
+        "245": {
+            "a": "Programme, participants, abstracts",
+            "c": "General organization Adalberto Luís Val.",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Manaus",
+                "b": "Instituto Nacional de Pesquisas da Amazônia",
+                "c": "1997"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxii, 201 p."
+            }
+        ],
+        "650": [
+            {
+                "a": "Peixe",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Val, Adalberto Luís",
+                "d": "1956-",
+                "e": "Organizador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

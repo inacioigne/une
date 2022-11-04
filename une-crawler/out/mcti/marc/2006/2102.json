@@ -1,0 +1,54 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002102",
+        "005": "20190809145510.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8534603154"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.91.032.6",
+            "b": "M626",
+            "c": "=134.3",
+            "d": "c1995"
+        },
+        "245": {
+            "a": "Microsoft Powerpoint 4 for windows",
+            "b": "passo a passo",
+            "c": "Perspection, Inc. ; tradução José Eduardo Nóbrega Tortello ; revisão técnica Vilma Vaz dos Santos",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Makron Books",
+                "c": "c1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "lvii, 445 p.",
+                "b": "il., + 1 disquete 3 1/2"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programas de computador",
+                "x": "Computação gráfica"
+            },
+            {
+                "a": "Software"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

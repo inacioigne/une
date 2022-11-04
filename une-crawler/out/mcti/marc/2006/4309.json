@@ -1,0 +1,82 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004309",
+        "005": "20190809161338.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8576690128"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.2(063)",
+            "b": "E74a",
+            "c": "2005"
+        },
+        "111": {
+            "a": "Escola Regional de Alto Desempenho",
+            "c": "Canoas, RS",
+            "d": "2005",
+            "n": "5"
+        },
+        "245": {
+            "a": "Anais",
+            "b": "5ª Escola Regional de Alto Desempennho : ERAD 2005 : 11 a 15 de janeiro de 2005, Canoas, RS, Brasil",
+            "c": "edição, Marcos Ennes Barreto, Mozart Lemos de Siqueira",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "ERAD 2005"
+            }
+        ],
+        "260": [
+            {
+                "a": "Porto Alegre",
+                "b": "Sociedade Brasileira de Computação",
+                "c": "2005"
+            }
+        ],
+        "300": [
+            {
+                "a": "204",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Processamento paralelo"
+            },
+            {
+                "a": "Processamento distribuído"
+            }
+        ],
+        "700": [
+            {
+                "a": "Barreto, Marcos Ennes",
+                "e": "Editor"
+            },
+            {
+                "a": "Siqueira, Mozart Lemos de",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Sociedade Brasileira de Computação",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

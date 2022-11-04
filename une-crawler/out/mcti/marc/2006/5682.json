@@ -1,0 +1,81 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005682",
+        "005": "20190806125401.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0879421886"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.382.7",
+            "b": "I59",
+            "c": "c1985"
+        },
+        "245": {
+            "a": "Insights into personal computers",
+            "c": "edited by Amar Gupta and Hoo-min D. Toong ; with valuable contributions from J.F. Bucy ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Institute of Electrical and Electronics Engineers",
+                "c": "c1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "xi, 380 p.",
+                "c": "26 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Microcomputador"
+            },
+            {
+                "a": "Software"
+            },
+            {
+                "a": "Arquitetura de computador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Gupta, Amar",
+                "e": "Editor"
+            },
+            {
+                "a": "Toong, Hoo-min D",
+                "e": "Editor"
+            },
+            {
+                "a": "Bucy, J. F",
+                "e": "Coautor"
+            },
+            {
+                "a": "Hewlett, W. R.",
+                "e": "Coautor"
+            },
+            {
+                "a": "Estridge, P. D.",
+                "e": "Coautor"
+            },
+            {
+                "a": "Evans, B. O.",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

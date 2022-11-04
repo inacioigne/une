@@ -1,0 +1,77 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000006019",
+        "005": "20190809140923.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "338.45:621.38(81)",
+            "b": "M626",
+            "c": "1990"
+        },
+        "245": {
+            "a": "Microeletrônica e informática",
+            "b": "uma abordagem sob o enfoque do complexo eletrônico",
+            "h": "Impresso",
+            "c": "Conselho Nacional de Desenvolvimento Científico e Tecnológico, Programa das Nações Unidas Para o Desenvolvimento, Banco Nacional de Desenvolvimento Econômico e Social"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Banco Nacional de Desenvolvimento Econômico e Social",
+                "c": "1990"
+            }
+        ],
+        "300": [
+            {
+                "a": "214"
+            }
+        ],
+        "490": [
+            {
+                "a": "Estudos BNDES",
+                "v": "14"
+            }
+        ],
+        "650": [
+            {
+                "a": "Microeletrônica",
+                "x": "Mercado"
+            },
+            {
+                "a": "Indústria eletrônica"
+            },
+            {
+                "a": "Indústria de computador"
+            },
+            {
+                "a": "Informática",
+                "x": "Mercado"
+            }
+        ],
+        "710": [
+            {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Programa das Nações Unidas Para o Desenvolvimento",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Banco Nacional de Desenvolvimento Econômico e Social",
+                "c": "Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

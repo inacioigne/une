@@ -1,0 +1,52 @@
+{
+    "controfield": {
+        "000": "am   nam  22      a 4500",
+        "001": "000004625",
+        "005": "20190801113741.0",
+        "007": "t",
+        "008": "por                                por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "342.7(083.94)",
+            "b": "S456",
+            "c": "1998"
+        },
+        "245": {
+            "a": "A segurança no Brasil",
+            "b": "projeto de pesquisa",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[Brasília]",
+                "c": "1998",
+                "b": "[ s.n.]"
+            }
+        ],
+        "300": [
+            {
+                "a": "65"
+            }
+        ],
+        "650": [
+            {
+                "a": "Segurança nacional",
+                "z": "Brasil",
+                "x": "Pesquisa"
+            },
+            {
+                "a": "Segurança coletiva"
+            },
+            {
+                "a": "Política de defesa"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

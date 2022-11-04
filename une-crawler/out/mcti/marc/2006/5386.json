@@ -1,0 +1,76 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005386",
+        "005": "20190802091245.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0863410162"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.41",
+            "b": "S681",
+            "c": "1984"
+        },
+        "245": {
+            "a": "Software engineering for microprocessor systems",
+            "c": "edited by P. Depledge",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Londres (Inglaterra)",
+                "b": "Peregrinus on behalf of the Institution of Electrical Engineers",
+                "c": "c1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 260",
+                "c": "24 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "IEE digital electronics and computing series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia de software"
+            },
+            {
+                "a": "Microcomputador"
+            },
+            {
+                "a": "Microprocessador"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Depledge, P.",
+                "q": "Peter",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Institution of Electrical Engineers",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

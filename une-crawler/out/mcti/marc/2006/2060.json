@@ -1,0 +1,51 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002060",
+        "005": "20190809144824.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.773.3",
+            "b": "M626",
+            "c": "c1995"
+        },
+        "245": {
+            "a": "Microsoft mail, electronic mail for PC Networks",
+            "b": "for the MS-DOS operating system",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[S.l.]",
+                "b": "Microsoft Press",
+                "c": "c1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "470",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Administrator's Guide"
+            }
+        ],
+        "650": [
+            {
+                "a": "Correio eletrônico",
+                "x": "Rede de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

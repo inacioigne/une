@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000434",
+        "005": "20190726115343.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "005.55(047)CERTI",
+            "b": "F981r",
+            "c": "2003"
+        },
+        "110": {
+            "a": "Fundação CERTI"
+        },
+        "245": {
+            "a": "Relatório de atividades 2003",
+            "b": "[CERTI]",
+            "h": "Impresso",
+            "c": "Fundação CERTI"
+        },
+        "260": [
+            {
+                "a": "Florianópolis",
+                "b": "Fundação Centros de Referências em Tecnologias Inovadoras",
+                "c": "2003"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "102",
+                "b": "il., color."
+            }
+        ],
+        "610": [
+            {
+                "a": "Fundação CERTI",
+                "x": "Gestão"
+            }
+        ],
+        "650": [
+            {
+                "a": "Pesquisa científica",
+                "x": "Financiamento"
+            },
+            {
+                "a": "Pesquisa tecnológica"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

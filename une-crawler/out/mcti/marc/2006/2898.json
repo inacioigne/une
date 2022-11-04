@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002898",
+        "005": "20190806110503.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.6:658",
+            "b": "S998i",
+            "c": "1972"
+        },
+        "100": {
+            "a": "Szweda, Ralph A"
+        },
+        "245": {
+            "a": "Information processing management",
+            "c": "Ralph A. Szweda",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Princeton [Estados Unidos]",
+                "b": "Auerbach",
+                "c": "1972"
+            }
+        ],
+        "300": [
+            {
+                "a": "632",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Administração"
+            },
+            {
+                "a": "Armazenamento de dados"
+            },
+            {
+                "a": "Informação",
+                "x": "Administração"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

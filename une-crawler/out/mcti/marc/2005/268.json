@@ -1,0 +1,88 @@
+{
+    "controfield": {
+        "000": "am   nam  22      a 4500",
+        "001": "000000268",
+        "005": "20190729100519.0",
+        "007": "t",
+        "008": "por                                por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8570130449"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6-043.86:001.891",
+            "b": "B823p",
+            "c": "1993"
+        },
+        "110": {
+            "a": "Brasil. Ministério da Ciência e Tecnologia"
+        },
+        "245": {
+            "a": "Pesquisa cooperativa",
+            "h": "Impresso",
+            "c": "Ministério da Ciência e Tecnologia"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Financiadora de Estudos e Projetos",
+                "c": "1993"
+            }
+        ],
+        "300": [
+            {
+                "a": "43 f."
+            }
+        ],
+        "490": [
+            {
+                "a": "Série apoio à capacitação tecnológica",
+                "v": "3"
+            }
+        ],
+        "505": [
+            {
+                "a": "Apresentação -- Capítulo I. Pesquisa Cooperativa -- Capítulo II. Experiência com Pesquisa Cooperativa -- Capítulo III. orientações para Implantação e Gestão -- Capítulo IV. Apoio Governamental -- Exemplo de Contrato -- Siglário e Contratos -- Referências Bibliográficas."
+            }
+        ],
+        "520": {
+            "a": "Desde o início dos anos 70, em muitos países industrializados, surgiram e foram tentadas várias formas de diminuir os custos das pesquisas, estudos e desenvolvimentos tecnológicos e de aproveitar melhor o potencial tecnológico disponível naqueles países. Essas tentativas deram ensejo ao aparecimento de formas compartilhadas para o desenvolvimento tecnológico denominadas pesquisas cooperativas e também chamadas de projetos multicilientes, joint industry projects ou ainda, cooperative researches. O que aqui chamamos de pesquisa cooperativa se caracteriza por um projeto de pesquisa aplicada, de desenvolvimento tecnológico ou de engenharia, objetivando a busca de novos conhecimentos sobre um determinado produto, sistema ou processo, ou de seus componentes, executado de forma cooperativa entre instituições e empresas que participam com recursos financeiros ou técnicos, custeando ou executando partes do projeto, tendo acesso, em contrapartida, às informações nele geradas. Essas pesquisa objetiva o desenvolvimento de tecnologia, mas seus resultados ficam em nível pré-comercial, o que permite a adesão ao projeto de empresa competidoras entre si. A pesquisa cooperativa vem se tornando um dos principais instrumentos de desenvolvimento e difusão tecnológica nos países desenvolvidos. Suas características de custo reduzido, amplo campo de aplicação, potencial de difusão, acessibilidade, mesmo para as pequenas e médias empresas, e grande capacidade de integração universidade/comunidade tecnológica/empresa têm motivado um crescimento vertiginoso na sua utilização. Deve-se observar ainda o caráter potencial de integração tecnológica entre países, como vem ocorrendo através de projetos como o Eureka, desenvolvido no âmbito da Comunidade Econômica Européia."
+        },
+        "650": [
+            {
+                "a": "Pesquisa tecnológica",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pesquisa industrial",
+                "x": "Financiamento",
+                "z": "Brasil"
+            },
+            {
+                "a": "Desenvolvimento tecnológico",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento",
+                "x": "Financiamento",
+                "z": "Brasil"
+            },
+            {
+                "a": "Informação científica",
+                "z": "Brasil"
+            }
+        ],
+        "856": {
+            "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\268-Pesquisa_cooperativa.pdf",
+            "y": "Texto completo",
+            "z": "Acesso em: 29/07/2019"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

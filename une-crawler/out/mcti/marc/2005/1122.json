@@ -1,0 +1,79 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001122",
+        "005": "20190726131743.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8588325276"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.38",
+            "b": "R467m",
+            "c": "2004"
+        },
+        "100": {
+            "a": "Rezende, Sergio Machado",
+            "d": "1940-"
+        },
+        "245": {
+            "a": "Materiais e dispositivos eletrônicos",
+            "c": "Sergio M. Rezende",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Livraria da Física",
+                "c": "2004"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 547",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia eletrônica"
+            },
+            {
+                "a": "Semicondutores"
+            },
+            {
+                "a": "Diodo"
+            },
+            {
+                "a": "Transistor"
+            },
+            {
+                "a": "Dispositivo eletrônico"
+            },
+            {
+                "a": "Dispositivo magnético"
+            },
+            {
+                "a": "Dispositivo óptico"
+            },
+            {
+                "a": "Mecânica quântica"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

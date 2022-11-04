@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003995",
+        "005": "20190807112610.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.032.8",
+            "b": "W373i",
+            "c": "1985"
+        },
+        "100": {
+            "a": "Weber, Kival Chaves",
+            "d": "1946-"
+        },
+        "245": {
+            "a": "Uma introdução às tecnologias e aplicações fundamentais para o desenvolvimento de uma nova geração de computadores",
+            "c": "Kival Chaves Weber",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Universidade de Brasília",
+                "c": "1985"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "120",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Computadores"
+            },
+            {
+                "a": "Inteligência artificial"
+            },
+            {
+                "a": "Sistema especialista"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

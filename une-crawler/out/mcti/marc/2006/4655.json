@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004655",
+        "005": "20190808170340.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502.131.1:631",
+            "b": "B823a",
+            "c": "1999"
+        },
+        "110": {
+            "a": "Brasil. Ministério do Meio Ambiente"
+        },
+        "245": {
+            "a": "Agenda 21 Brasileira",
+            "b": "área temática : agricultura sustentável : resumo do documento final",
+            "h": "Impresso",
+            "c": "Ministério do Meio Ambiente"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Ministério do Meio Ambiente",
+                "c": "1999"
+            }
+        ],
+        "300": [
+            {
+                "a": "125"
+            }
+        ],
+        "610": [
+            {
+                "a": "Programa das Nações Unidas Para o Desenvolvimento"
+            }
+        ],
+        "650": [
+            {
+                "a": "Desenvolvimento sustentável",
+                "z": "Brasil"
+            },
+            {
+                "a": "Meio ambiente",
+                "z": "Brasil"
+            },
+            {
+                "a": "Política ambiental",
+                "z": "Brasil"
+            },
+            {
+                "a": "Agricultura sustentável"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000555",
+        "005": "20190808180554.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8572280103"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "02:004.4",
+            "b": "A945",
+            "c": "2000"
+        },
+        "245": {
+            "a": "Avaliação de softwares para bibliotecas",
+            "c": "Adelaide Ramos e Côrte, Iêda Muniz de Almeida, (coord.)",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Polis"
+            },
+            {
+                "b": "Associação Paulista de Bibliotecários",
+                "c": "2000"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "108"
+            }
+        ],
+        "490": [
+            {
+                "a": "Coleção palavra-chave",
+                "v": "11"
+            }
+        ],
+        "650": [
+            {
+                "a": "Automação de bibliotecas"
+            },
+            {
+                "a": "Software",
+                "x": "Aplicação de computador"
+            },
+            {
+                "a": "Software de aplicação"
+            },
+            {
+                "a": "Documentação de sistemas"
+            }
+        ],
+        "700": [
+            {
+                "a": "Côrte, Adelaide Ramos e",
+                "e": "Coordenador"
+            },
+            {
+                "a": "Almeida, Iêda Muniz de",
+                "e": "Coordenador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001990",
+        "005": "20190814184206.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.738.5:339",
+            "b": "B457",
+            "c": "2000"
+        },
+        "245": {
+            "a": "Benchmarking progress on new ways of working and new forms of business across Europe",
+            "b": "ECaTT final report",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[S.l.]",
+                "b": "Comunidades Europeias, Comissão. Direção-Geral Sociedade da Informação",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "201",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Comércio eletrônico",
+                "z": "Europa"
+            },
+            {
+                "a": "Benchmarking (Administração)",
+                "z": "Europa"
+            },
+            {
+                "a": "Teletrabalho",
+                "z": "Europa"
+            },
+            {
+                "a": "Telemática",
+                "z": "Europa"
+            },
+            {
+                "a": "Telecomunicações",
+                "z": "Europa"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

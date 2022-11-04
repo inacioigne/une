@@ -1,0 +1,81 @@
+{
+    "controfield": {
+        "000": "     nas  22      a 4500",
+        "001": "000001263",
+        "005": "20170120103914.0",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "061(05)"
+        },
+        "245": {
+            "a": "C&TEM",
+            "b": "Informativo do Centro de Tecnologia Mineral",
+            "c": "Centro de Tecnologia Mineral",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Centro de Tecnologia Mineral",
+                "c": "1999"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "b": "v."
+            }
+        ],
+        "310": {
+            "a": "Trimestral"
+        },
+        "530": {
+            "a": "Documento eletrônico: Texto completo, período disponível: (2012-presente)"
+        },
+        "650": [
+            {
+                "a": "Instituição de pesquisa",
+                "x": "Periódico",
+                "z": "Brasil"
+            },
+            {
+                "a": "Tecnologia mineral",
+                "x": "Periódico",
+                "z": "Brasil"
+            },
+            {
+                "a": "Recursos minerais",
+                "x": "Periódico",
+                "z": "Brasil"
+            },
+            {
+                "a": "Produção mineral",
+                "x": "Periódico",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Centro de Tecnologia Mineral",
+                "c": "Brasil",
+                "e": "Indefinida"
+            }
+        ],
+        "856": {
+            "y": "Texto completo - Acesso em: 27/12/2013",
+            "u": "http://www.cetem.gov.br/comunicacao/cetem-noticias"
+        },
+        "990": {
+            "a": "Periódicos"
+        }
+    }
+}

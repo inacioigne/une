@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002357",
+        "005": "20190731131524.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.75",
+            "b": "T435d",
+            "c": "c1978"
+        },
+        "100": {
+            "a": "Thierauf, Robert J"
+        },
+        "245": {
+            "a": "Distributed processing systems",
+            "c": "Robert J. Thierauf",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "c1978"
+            }
+        ],
+        "300": [
+            {
+                "a": "ix, 305 p.",
+                "c": "25 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema de Gerenciamento de Informações"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Sistema distribuído"
+            },
+            {
+                "a": "Banco de dados distribuído"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

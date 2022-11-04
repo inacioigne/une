@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005835",
+        "005": "20190802104246.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "2040164278"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.932",
+            "b": "H464s",
+            "c": "1985"
+        },
+        "100": {
+            "a": "Hégron, Gérard"
+        },
+        "245": {
+            "a": "Synthèse d'image",
+            "b": "algorithmes élémentaires",
+            "c": "par Gérard Hégron ; préface de Michel Lucas",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Dunod",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "viii, 199",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Dunod informatique"
+            }
+        ],
+        "650": [
+            {
+                "a": "Processamento de imagem"
+            },
+            {
+                "a": "Algoritmos"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

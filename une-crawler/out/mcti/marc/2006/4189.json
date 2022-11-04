@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004189",
+        "005": "20190731101737.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.738.5:061",
+            "b": "B823r",
+            "c": "2003"
+        },
+        "110": {
+            "a": "Comitê Gestor da Internet no Brasil"
+        },
+        "245": {
+            "a": "Relatório de gestão, 2002",
+            "h": "Impresso",
+            "c": "Comitê Gestor da Internet no Brasil"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Comitê Gestor da Internet",
+                "c": "2003"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "87",
+                "b": "il., grafs., tabs."
+            }
+        ],
+        "610": [
+            {
+                "a": "Comitê Gestor da Internet no Brasil",
+                "x": "Relatórios"
+            }
+        ],
+        "650": [
+            {
+                "a": "Internet",
+                "x": "Gestão",
+                "z": "Brasil"
+            },
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Rede de telecomunicação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

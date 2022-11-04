@@ -1,0 +1,78 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001084",
+        "005": "20190805193904.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "551.583",
+            "b": "E82",
+            "c": "1999"
+        },
+        "245": {
+            "a": "Estudio para la identificación de medidas de mitigación de emisiones de gases de efecto invernadero del sector energía",
+            "c": "realizado en forma conjunta por: Dirección Nacional de Medio Ambiente, Ministerio de Vivienda, Ordenamiento Territorial y Medio Ambiente, Dirección Nacional de Energía, Ministerio de Industria, Energía y Minería",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Montevideo",
+                "b": "Unidad de Cambio Climático",
+                "c": "1999"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (várias paginações)",
+                "b": "il., tabs., grafs"
+            }
+        ],
+        "500": [
+            {
+                "a": "Proyecto URU/95/G31 (Proyecto del Fondo para el Medio Ambiente Mundial, FMAM, realizado por el Programa de las Naciones Unidas para el Desarrollo, PNYD)"
+            }
+        ],
+        "650": [
+            {
+                "a": "Emissão de gases",
+                "x": "Atmosfera"
+            },
+            {
+                "a": "Efeito estufa (Atmosfera)",
+                "x": "Mitigação"
+            },
+            {
+                "a": "Setor elétrico",
+                "z": "Uruguai"
+            },
+            {
+                "a": "Politica energética",
+                "z": "Uruguai"
+            },
+            {
+                "a": "Política ambiental",
+                "z": "Uruguai"
+            }
+        ],
+        "710": [
+            {
+                "a": "Uruguai. Dirección Nacional de Medio Ambiente",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Uruguai. Dirección Nacional de Energía",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

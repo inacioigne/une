@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005553",
+        "005": "20190806112215.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "681.5:007.5",
+            "b": "E79i",
+            "c": "[1985]"
+        },
+        "110": {
+            "a": "Estados Unidos. Congress. Office of Technology Assessment"
+        },
+        "245": {
+            "a": "Information technology R&D",
+            "b": "critical trends and issues",
+            "h": "Impresso",
+            "c": "Estados Unidos. Congress. Office of Technology Assessment"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "Congress of the U.S., Office of Technology Assessment",
+                "c": "[1985]"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 342 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Pesquisa",
+                "x": "Processamento de dados",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Sistema de informação",
+                "x": "Pesquisa",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Informação tecnológica",
+                "x": "Pesquisa",
+                "z": "Estados Unidos"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

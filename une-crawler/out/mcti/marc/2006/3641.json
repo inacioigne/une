@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003641",
+        "005": "20190812153920.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "332.122-029:62(100)(063)",
+            "b": "S471a",
+            "c": "1987"
+        },
+        "111": {
+            "a": "Seminário Internacional Parques Tecnológicos",
+            "c": "Rio de Janeiro, RJ",
+            "d": "1987"
+        },
+        "245": {
+            "a": "Anais do Seminário Internacional Parques Tecnológicos",
+            "b": "auditório do BNDES, Rio de Janeiro, 1 a 4 de dezembro de 1987",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Universidade Federal do Rio de Janeiro, Coordenação dos Programas de Pós-graduação de Engenharia, Nucleo de Inovação Tecnológica",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "330",
+                "b": "il., tab."
+            }
+        ],
+        "500": [
+            {
+                "a": "Patrocinio: Organização dos Estados Americanos ... [et al.]; realização Nucleo de Inovação Tecnologica, COPPE/UFRJ, colaboração: PACTO-IA/FEA/USP, BNDES"
+            }
+        ],
+        "650": [
+            {
+                "a": "Inovação tecnológica",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Parque tecnológico"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

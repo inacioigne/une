@@ -1,0 +1,88 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001871",
+        "005": "20190813110401.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "35.077CNEN/IPEN(062.552)",
+            "b": "I59c",
+            "c": "2003",
+            "d": "IPEN"
+        },
+        "245": {
+            "a": "Ciência e tecnologia para o novo milênio",
+            "b": "informe anual : 2003",
+            "c": "Coordenação Claudio Rodrigues",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Instituto de Pesquisas Energéticas e Nucleares",
+                "c": "2003"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "46 f.",
+                "b": "il."
+            }
+        ],
+        "520": {
+            "a": "Apresenta os principais resultados do Instituto de Pesquisas Energéticas e Nucleares - IPEN em pesquisas nas áreas de saúde, indústria, energia, materiais e meio ambiente, engenharia, tecnologia e ciências nucleares, segurança radiológica, ensino e informação científica e tecnológica, gestão e por fim ações de cidadania."
+        },
+        "610": [
+            {
+                "a": "Instituto de Pesquisas Energéticas e Nucleares",
+                "c": "SP",
+                "x": "Organização"
+            }
+        ],
+        "650": [
+            {
+                "a": "Radiofármacos",
+                "x": "Produção"
+            },
+            {
+                "a": "Radiação",
+                "x": "Saúde"
+            },
+            {
+                "a": "Pesquisa nuclear"
+            }
+        ],
+        "700": [
+            {
+                "a": "Rodrigues, Claudio",
+                "e": "Coordenador"
+            }
+        ],
+        "710": [
+            {
+                "a": "Comissão Nacional de Energia Nuclear (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "IPEN/CNEN",
+            "u": "http://memoria.cnen.gov.br/doc/pdf/Relatorios/Relatorio%20IPEN_2003.PDF",
+            "z": "Acesso em: 31/05/2016"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

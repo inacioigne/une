@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002061",
+        "005": "20190809151111.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "157231818x"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451.9",
+            "b": "M626t",
+            "c": "1998"
+        },
+        "245": {
+            "a": "Microsoft Windows NT 4.0 security, audit, and control",
+            "c": "James G. Jumes ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Redmont, Washington",
+                "b": "Microsoft Press",
+                "c": "1998"
+            }
+        ],
+        "300": [
+            {
+                "a": "318",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Microsoft technical reference"
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistemas operacionais (Computadores)",
+                "x": "Segurança de computador"
+            },
+            {
+                "a": "Rede de computador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Jumes, James G",
+                "e": "Coautor"
+            },
+            {
+                "a": "Cooper, Neil F",
+                "e": "Coautor"
+            },
+            {
+                "a": "Chamoun, Paula",
+                "e": "Coautor"
+            },
+            {
+                "a": "Feinman, Todd M",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

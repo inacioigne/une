@@ -1,0 +1,84 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000006100",
+        "005": "20190809102738.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "622(100)(063)",
+            "b": "I61p",
+            "c": "1995"
+        },
+        "111": {
+            "a": "International Symposium on Mining and Development",
+            "c": "Campinas, SP",
+            "d": "1995",
+            "n": "1"
+        },
+        "245": {
+            "a": "Proceedings of the First International Symposium on Mining and Development",
+            "b": "July 10-13, 1995, Campinas, Brazil",
+            "c": "organizing committee Iran Machado, Rachel Cavalcanti, Saul B. Suslick",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Campinas",
+                "b": "Universidade Estadual de Campinas, Instituto de Geociências",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "b": "il.",
+                "a": "2 v."
+            }
+        ],
+        "505": [
+            {
+                "a": "v. 1. Abstracts and program -- v. 2. Anais"
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia de minas"
+            },
+            {
+                "a": "Mina"
+            },
+            {
+                "a": "Recursos minerais"
+            },
+            {
+                "a": "Desenvolvimento sustentável"
+            },
+            {
+                "a": "Desenvolvimento econômico",
+                "x": "Aspectos ambientais"
+            }
+        ],
+        "700": [
+            {
+                "a": "Machado, Iran Ferreira",
+                "e": "Organizador"
+            },
+            {
+                "a": "Cavalcanti, Rachel Negrão",
+                "e": "Organizador"
+            },
+            {
+                "a": "Suslick, Saul Barisnik",
+                "e": "Organizador"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

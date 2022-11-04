@@ -1,0 +1,54 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005407",
+        "005": "20190813140704.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8585027142"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004",
+            "b": "O48c",
+            "c": "1987"
+        },
+        "100": {
+            "a": "Oliveira Junior, Joao de",
+            "d": "1954-"
+        },
+        "245": {
+            "a": "O caos vem computadorizado",
+            "c": "Joao de Oliveira Junior ; ilustrações: Edmar Sampaio Lopes Junior",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "[s.n.]",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "45 f.",
+                "c": "21 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Computadores",
+                "x": "Compra e venda"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

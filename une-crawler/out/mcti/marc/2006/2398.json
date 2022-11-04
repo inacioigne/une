@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002398",
+        "005": "20190801160050.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.382.4",
+            "b": "B823e",
+            "c": "[1984?]"
+        },
+        "110": {
+            "a": "Brasil. Secretaria Especial de Informática"
+        },
+        "245": {
+            "a": "Estimativa superminis",
+            "c": "Secretaria Especial de informática",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Secretaria Especial de Informática",
+                "c": "[1984?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (paginação irregular)",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "Estimativa de mercado para superminis em substituição ao parque instalado -- 1. Premissas consideradas -- Projeto de nacionalização, produção e comercialização de um supermini -- 1. Definição dos perfis hardware e software do produto -- 1.1. Hardware -- 1.2. Software base -- 2. Premissas gerais do projeto -- 3. Desenvolvimento de produto -- 3.1. Pessoal -- 3.2. Treinamento no exterior -- 3.3. Desenvolvimento de Hw e Sw -- 3.4. Documentação técnica -- 4. Produção -- 4.1. Pessoal produção -- 4.2. Instalação, partes, peças e equipamentos -- 5. Distribuição -- 5.1. Marketing -- 5.2. Infra-estrutura -- 5.3. Suporte de software -- 5.4. Manutenção -- 5.5. Documentação técnica -- 6. Necessidade de recursos -- 6.1. Desenvolvimento do produto -- 6.2. Produção -- 6.3. Distribuição -- 6.4. Total geral de recursos -- Análise do mercado brasileiro de superminis."
+            }
+        ],
+        "650": [
+            {
+                "a": "Parque nacional",
+                "x": "Minicomputador"
+            },
+            {
+                "a": "Minicomputador",
+                "x": "Mercado",
+                "z": "Brasil"
+            },
+            {
+                "a": "Recursos humanos",
+                "x": "Formação profissional"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

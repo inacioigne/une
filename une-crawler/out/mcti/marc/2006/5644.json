@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005644",
+        "005": "20190814155810.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0130489018"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.8",
+            "b": "R241a",
+            "c": "1985"
+        },
+        "100": {
+            "a": "Rauch-Hindin, Wendy B"
+        },
+        "245": {
+            "a": "Artificial intelligence in business, science, and industry",
+            "c": "Wendy B. Rauch-Hindin",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "c1985-c1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v",
+                "c": "25 cm",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "\"Computer vision, chapter 11, by Harvey J. Hindin\""
+            }
+        ],
+        "505": [
+            {
+                "a": "v. 1. Fundamentals -- v. 2. Applications"
+            }
+        ],
+        "650": [
+            {
+                "a": "Inteligência artificial"
+            },
+            {
+                "a": "Processamento de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

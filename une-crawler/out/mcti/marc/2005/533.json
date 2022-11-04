@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000533",
+        "005": "20190805182111.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.942",
+            "b": "C266e",
+            "c": "2000"
+        },
+        "100": {
+            "a": "Cárdenas, José Walter"
+        },
+        "245": {
+            "a": "Error estimates and existence of solutions for the shallow-water equations on periodic domains",
+            "c": "José Walter Cárdenas",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Petrópolis",
+                "b": "Laboratório Nacional de Computação Científica",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "19 f.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Relatórios de pesquisa e desenvolvimento",
+                "v": "n. 36/2000"
+            }
+        ],
+        "500": [
+            {
+                "a": "Periódico tratado como livro (ISSN: 0101-6113)"
+            }
+        ],
+        "650": [
+            {
+                "a": "Equações",
+                "x": "Informática"
+            },
+            {
+                "a": "Análise matemática"
+            },
+            {
+                "a": "Teorema",
+                "x": "Ciência da computação"
+            },
+            {
+                "a": "Equação diferencial"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

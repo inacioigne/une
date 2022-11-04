@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003034",
+        "005": "20190812184738.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "37.018.8:004",
+            "b": "M331a",
+            "c": "[2000]"
+        },
+        "100": {
+            "a": "Margulies, Stuart"
+        },
+        "245": {
+            "a": "Applied programed instruction",
+            "c": "Stuart Margulies, Lewis D. Eigen",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Wiley",
+                "c": "[2000]"
+            }
+        ],
+        "300": [
+            {
+                "a": "ix, 384 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Estudo e ensino"
+            },
+            {
+                "a": "Computadores"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Eigen, Lewis D",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

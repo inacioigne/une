@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002758",
+        "005": "20190729140221.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.422.833",
+            "b": "M471p",
+            "c": "=134.3 1976"
+        },
+        "100": {
+            "a": "Maynard, Jeff"
+        },
+        "245": {
+            "a": "Programação modular",
+            "c": "Jeff Maynard ; tradutor, Heitor M. Quitella",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Livros Técnicos e Científicos",
+                "c": "1976"
+            }
+        ],
+        "300": [
+            {
+                "a": "96",
+                "c": "23 cm",
+                "b": "il."
+            }
+        ],
+        "534": {
+            "a": "Modular programming"
+        },
+        "650": [
+            {
+                "a": "Programação modular"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

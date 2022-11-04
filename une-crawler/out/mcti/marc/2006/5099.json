@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005099",
+        "005": "20190806110733.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8585879122"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451.9",
+            "b": "M626p",
+            "c": "1997"
+        },
+        "100": {
+            "a": "Ethington, Brent"
+        },
+        "245": {
+            "a": "Windows 95",
+            "b": "passo a passo - básico",
+            "c": "Brent Ethington, Mozart Jesus Fialho dos Santos Júnior ; tradução João Eduardo Nóbrega Tortello; Jales Júnior Martins Borges.",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Goiânia",
+                "b": "Terra",
+                "c": "1997"
+            }
+        ],
+        "300": [
+            {
+                "a": "128",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistemas operacionais (Computadores)",
+                "x": "Windows 95 (Sistema operacional de computador)"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Borges, Jales Júnior Martins",
+                "e": "Editor"
+            },
+            {
+                "a": "Santos Júnior, Mozart Jesus Fialho dos",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

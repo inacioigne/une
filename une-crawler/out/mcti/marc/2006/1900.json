@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001900",
+        "005": "20190809155031.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "9501398730"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.891",
+            "b": "H595m",
+            "c": "1988"
+        },
+        "100": {
+            "a": "Heuser, Carlos Alberto"
+        },
+        "245": {
+            "a": "Modelagem conceitual de sistemas",
+            "c": "Carlos A.Heuser",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Buenos Aires",
+                "b": "Kapelusz",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "94",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Versão preliminar apresentada na IV Escola Brasileiro-Argentina de Informática, Santiago del Estero, 1989"
+            }
+        ],
+        "650": [
+            {
+                "a": "Análise de sistemas"
+            },
+            {
+                "a": "Armazenamento de dados"
+            },
+            {
+                "a": "Rede de computador",
+                "x": "Petri"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Santiago del Estero, Argentina",
+                "d": "1989",
+                "n": "4"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

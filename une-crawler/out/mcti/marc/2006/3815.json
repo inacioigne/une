@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003815",
+        "005": "20190801160635.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8524401672"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.92",
+            "b": "V436s",
+            "c": "2001",
+            "d": "IMPA"
+        },
+        "100": {
+            "a": "Velho, Luiz"
+        },
+        "245": {
+            "a": "Sistemas gráficos 3D",
+            "c": "Luiz Velho , Jonas Gomes",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Instituto Nacional de Matemática Pura e Aplicada",
+                "c": "2001"
+            }
+        ],
+        "300": [
+            {
+                "a": "330",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "Introdução -- 1.1. Computação Gráfica -- 1.2. Escopo e Aplicações -- 1.3. Proposta Metodológica -- 1.4. Arquitetura de Sistemas -- 1.5. Implementação e Extensões -- 1.6. Paradigma de Implementação -- 1.7. Padrões Gráficos -- 1.8. Aplicações Avançadas e Estudos Futuros -- 1.9. Conteúdo -- 1.10. Material Complementar -- Objetos e Equipamentos Gráficos -- 2.1. Objetos Gráficos -- 2.2. Dispositivos Gráficos e Representação -- 2.3. Classificação dos Equipamentos Gráficos -- 2.4. Estações Gráficas -- 2.5. O Pacote Gráfico GP -- 2.6. Comentários e Referências -- 2.7. Exercícios -- Geometria -- 3.1. Geometria para Computação Gráfica -- 3.2. O Espaço Euclidiano -- 3.3. Transformações do Espaço Euclidiano -- 3.4. Espaço Projetivo -- 3.5. Transformações Projetivas em RP3 -- 3.6. Transformações de Objetos Geométricos -- 3.7. Comentários e Referências -- 3.8. Exercícios -- Cor -- 4.1. Fundamentos de Cor -- 4.2. Sistemas de Cor dos Equipamentos -- 4.3. Sistemas de Especificação de Cor -- 4.4. Discretização do Sólido de Cor -- 4.5. Comentários e Referências -- 4.6. Exercícios -- Imagem Digital -- 5.1. Fundamentos -- 5.2. Formato de Representação de Imagem -- 5.3. Exibição de Imagem -- 5.4. Quantização Adaptativa -- 5.5. Dithering -- 5.6. Codificação de Imagens -- 5.7. Compressão -- 5.8. Comentários e Referências -- 5.9. Exercícios -- Descrição de Cenas 3D -- 6.1. Cenas 3D -- 6.2. Conceitos de Linguagem -- 6.3. Uma Linguagem de Extensão -- 6.4. Sub-Linguagens e Aplicações -- 6.5. Comentários e Referências -- 6.6. Exercícios -- Modelos Geométricos Tridimensionais -- 7.1. Fundamentos de Modelagem -- 7.2. Primitivos Geométricos -- 7.3. Aproximação de Superfícies e Malhas Poligonais -- 7.4. Superfícies Poligonais -- 7.5. Comentários e Referências -- 7.6. Exercícios -- Técnicas de Modelagem -- 8.1. Fundamentos de Sistemas de Modelagem -- 8.2. Modelos Construtivos -- 8.3. Modelagem Generativa -- 8.4. Comentários e Referências -- 8.5. Exercícios -- Hierarquias e Objetos Articulados -- 9.1. Vínculos Geométricos -- 9.2. Hierarquias e Transformações -- 9.3. Grupos de Objetos -- 9.4. Animação -- 9.5. Comentários e Referências -- 9.6. Exercícios -- Transformações de Visualização e Câmera -- 10.1. O Processo de Visualização -- 10.2. Transformações de Visualização -- 10.3. Especificação da Visualização -- 10.4. Comentários e Referências -- 10.5. Exercícios -- Recorte de Superfícies para Visualização -- 11.1. Fundamentos da Operação de Recorte -- 11.2. Casos Triviais de Recorte -- 11.3. Recorte em Dois Passos -- 11.4. Recorte Sequenciado -- 11.5. Comentários de Referências -- 11.6. Exercícios -- Rasterização -- 12.1. Fundamentos da Rasterização -- 12.2. Métodos Incrementais -- 12.3. Rasterização por Subdivisão -- 12.4. Comentários e Referências -- 12.5. Exercícios -- Cálculo de Superfícies Visíveis -- 13.1. Fundamentos -- 13.2. Z-Buffer -- 13.3. Traçado de Raios -- 13.4. Algoritmo do Pintor -- 13.5. Outros Métodos de Visibilidade -- 13.6. Comentários e Referências -- 13.7. Exercícios -- Modelos Locais de Iluminação -- 14.1. Fundamentos -- 14.2. Fontes de Luz -- 14.3. Iluminação Local -- 14.4. Materiais -- 14.5. Especificação na Linguagem -- 14.6. Comentários e Referências -- 14.7. Exercícios -- Iluminação Global -- 15.1. Modelo de Iluminação -- 15.2. Método de Traçado de Raios -- 15.3. Método de Radiosidade -- 15.4. Comentários e Referências -- 15.5. Exercícios -- Técnicas de Mapeamento -- 16.1. Fundamentos -- 16.2. Função de Textura -- 16.3. Mapeamento de Textura -- 16.4. Mapeamento de Rugosidade -- 16.5. Mapeamento de Reflexão -- 16.6. Mapeamento de Fontes de Luz -- 16.7. Comentários e Referências -- Colorização -- 17.1. Amostragem e Reconstrução da Função de Colorização -- 17.2. Métodos de Amostragem -- 17.3. Métodos de Reconstrução Básicos -- 17.4. Reconstrução de Atributos de Textura -- 17.5. Imageamento -- 17.6. Comentários e Referências -- Sistemas Gráficos 3D -- 18.1. Sistema A -- 18.2. Sistema B -- 18.3. Sistema C -- 18.4. Projetos -- Referências Bibliográficas."
+            }
+        ],
+        "520": {
+            "a": "Este livro foi elaborado com base no material do curso \"Projeto e Implementação de Sistemas Gráficos 3D\", lecionado pelos autores no IMPA desde 1997. Esse curso faz parte do programa de computação gráfica IMPA/PUC-Rio. O livro aborda os aspectos computacionais da modelagem geométrica e visualização de cenas tridimensionais. Uma grande ênfase é dada na arquitetura de sistemas gráficos 3D. O texto contém a descrição dos algoritmos básicos da computação gráfica 3D, implementados na linguagem C. Esse material didático é complementado por bibliotecas de rotinas para a construção de sistemas gráficos."
+        },
+        "650": [
+            {
+                "a": "Computação gráfica"
+            },
+            {
+                "a": "Programação matemática"
+            }
+        ],
+        "700": [
+            {
+                "a": "Gomes, Jonas de Miranda",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Matemática Pura e Aplicada (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

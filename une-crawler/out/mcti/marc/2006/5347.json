@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005347",
+        "005": "20190729145845.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.891",
+            "b": "Z94p",
+            "c": "2000"
+        },
+        "100": {
+            "a": "Zuffo, João Antonio",
+            "d": "1939-"
+        },
+        "245": {
+            "a": "PROISI, programa de integração de sistemas de informação",
+            "c": "João Antonio Zuffo",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[S.l.]",
+                "b": "Universidade de São Paulo",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "96",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Sistema Brasileiro de Tecnologias da Informação"
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema de informação"
+            },
+            {
+                "a": "Circuito integrado"
+            },
+            {
+                "a": "Rede de informação"
+            },
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Rede de telecomunicação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

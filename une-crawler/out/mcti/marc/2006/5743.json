@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005743",
+        "005": "20190813104552.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.3(063)",
+            "b": "I59c",
+            "c": "1987"
+        },
+        "111": {
+            "a": "IEEE Southeastcon",
+            "c": "Tampa, Estados Unidos",
+            "d": "1987"
+        },
+        "245": {
+            "a": "Conference proceedings",
+            "b": "IEEE Southeastcon '87, Holiday Inn, Tampa International Airport, Tampa, Florida, April 5-8, 1987",
+            "h": "Impresso",
+            "c": "IEEE Southeastcon"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Institute of Electrical and Electronics Engineers",
+                "c": "c1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia elétrica",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Engenharia eletrônica",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

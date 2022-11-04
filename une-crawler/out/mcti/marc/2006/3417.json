@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003417",
+        "005": "20190805123810.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4-027.564:354",
+            "b": "G943",
+            "c": "2005"
+        },
+        "245": {
+            "a": "Guia livre",
+            "b": "referência de migração para software livre do governo federal",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "c": "2005",
+                "b": "[s.n.]"
+            }
+        ],
+        "300": [
+            {
+                "a": "297",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Software livre"
+            },
+            {
+                "a": "Software",
+                "x": "Desenvolvimento"
+            },
+            {
+                "a": "Programa de governo"
+            },
+            {
+                "a": "Tecnologia da informação"
+            },
+            {
+                "a": "Comunicação"
+            },
+            {
+                "a": "Governo eletrônico"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

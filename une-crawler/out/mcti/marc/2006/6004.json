@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000006004",
+        "005": "20190801145306.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "338(81)",
+            "b": "G112s",
+            "c": "2001"
+        },
+        "100": {
+            "a": "Gabeira, Gabriel Luiz"
+        },
+        "245": {
+            "a": "Síntese da economia brasileira",
+            "b": "2001",
+            "c": "Gabriel Luiz Gabeira",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "Synthesis of the brazilian economy"
+            }
+        ],
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Confederação Nacional do Comércio",
+                "c": "2001"
+            }
+        ],
+        "300": [
+            {
+                "a": "127",
+                "b": "il., tabs."
+            }
+        ],
+        "650": [
+            {
+                "a": "Indicador econômico",
+                "z": "Brasil"
+            },
+            {
+                "a": "Condições econômicas",
+                "z": "Brasil"
+            },
+            {
+                "a": "Relações econômicas internacionais",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

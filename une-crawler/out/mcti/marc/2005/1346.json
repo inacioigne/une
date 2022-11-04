@@ -1,0 +1,99 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001346",
+        "005": "20190726132149.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "364.14(81)",
+            "b": "M827r",
+            "c": "2003"
+        },
+        "100": {
+            "a": "Morais, Maria da Piedade",
+            "d": "1963-"
+        },
+        "245": {
+            "a": "Residential segregation and social exclusion in Brazilian housing markets",
+            "c": "Maria da Piedade Morais, Bruno de Oliveira Cruz, Carlos Wagner de Albuquerque Oliveira",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "2003"
+            }
+        ],
+        "300": [
+            {
+                "a": "33 f.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Texto para discussão / IPEA",
+                "v": "951",
+                "x": "1415-4765"
+            }
+        ],
+        "520": {
+            "a": "Analisa o conjunto de características que podem explicar o surgimento de favelas nas cidades brasileiras, a partir dos microdados da PNAD, do IBGE, para o ano 1999. Faz uma breve descrição das tendências da urbanização, do processo de formação de favelas e do perfil da pobreza no Brasil e apresenta uma resenha da literatura empírica sobre exclusão social e segregação espacial. Estima uma função logit para testar hipóteses se atributos locais, regionais e pessoais são importantes para explicar o surgimento de favelas e a existência de segregação espacial e exclusão social no mercado habitacional das principais cidades brasileiras."
+        },
+        "650": [
+            {
+                "a": "Urbanização",
+                "z": "Brasil"
+            },
+            {
+                "a": "Exclusão social",
+                "z": "Brasil"
+            },
+            {
+                "a": "Favela",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pobreza",
+                "z": "Brasil"
+            },
+            {
+                "a": "Habitação",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Cruz, Bruno de Oliveira",
+                "e": "Coautor"
+            },
+            {
+                "a": "Oliveira, Carlos Wagner de Albuquerque",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "IPEA",
+            "u": "http://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=24741:dp-0122-residential-segregation-and-social-exclusion-in-brazilian-housing-markets&catid=346:2015&directory=1",
+            "z": "Acesso em: 26/07/2019"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

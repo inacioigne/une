@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002877",
+        "005": "20190813134308.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:519.67",
+            "b": "S237c",
+            "c": "1974"
+        },
+        "100": {
+            "a": "Santos, José Abel Royo dos",
+            "d": "1938-"
+        },
+        "245": {
+            "a": "Computação analógica",
+            "c": "José Abel Royo dos Santos",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Livros Técnicos e Científicos",
+                "c": "1974"
+            }
+        ],
+        "300": [
+            {
+                "a": "331",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Ciência de computação"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação matemática"
+            },
+            {
+                "a": "Ciência da computação",
+                "x": "Análise matemática"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Computador analógico"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

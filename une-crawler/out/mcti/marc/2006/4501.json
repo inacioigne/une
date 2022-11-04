@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004501",
+        "005": "20190805115039.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6(100)",
+            "b": "U56s",
+            "c": "2001"
+        },
+        "110": {
+            "a": "UNESCO"
+        },
+        "245": {
+            "a": "The State of science and technology in the world, 1996-1997",
+            "h": "Impresso",
+            "c": "UNESCO"
+        },
+        "260": [
+            {
+                "a": "Montreal",
+                "b": "UNESCO",
+                "c": "2001"
+            }
+        ],
+        "300": [
+            {
+                "a": "62",
+                "b": "il., tabs., grafs."
+            }
+        ],
+        "650": [
+            {
+                "a": "Pesquisa e desenvolvimento"
+            },
+            {
+                "a": "Desenvolvimento científico"
+            },
+            {
+                "a": "Ciência",
+                "x": "Estatísticas"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

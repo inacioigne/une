@@ -1,0 +1,79 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001185",
+        "005": "20190812135012.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "378.09:62(813.1)",
+            "b": "C397",
+            "c": "1998"
+        },
+        "245": {
+            "a": "Centro de Ensino Tecnológico Prof. José Euclides Ferreira Jr.",
+            "b": "CENTEC - UVA",
+            "c": "José Teodoro Soares (Organizador).",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Sobral, CE",
+                "b": "Universidade Estadual Vale do Acaraú",
+                "c": "1998"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "62"
+            }
+        ],
+        "650": [
+            {
+                "a": "Tecnologia",
+                "x": "Estudo e ensino",
+                "z": "Ceará"
+            },
+            {
+                "a": "Ensino superior",
+                "z": "Ceará"
+            },
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Estudo e ensino",
+                "z": "Ceará"
+            },
+            {
+                "a": "Inovação tecnológica",
+                "x": "Ensino superior",
+                "z": "Ceará"
+            },
+            {
+                "a": "Cultura",
+                "x": "Desenvolvimento tecnológico",
+                "z": "Ceará"
+            }
+        ],
+        "700": [
+            {
+                "a": "Soares, José Teodoro",
+                "d": "1940-",
+                "e": "Organizador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

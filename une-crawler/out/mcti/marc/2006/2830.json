@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002830",
+        "005": "20190805110720.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0135401127"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451",
+            "b": "S534l",
+            "c": "1974"
+        },
+        "100": {
+            "a": "Shaw, Alan C",
+            "d": "1937-"
+        },
+        "245": {
+            "a": "The logical design of operating systems",
+            "c": "Alan C. Shaw",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "c1974"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiii, 306",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Prentice-Hall series in automatic computation"
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistemas operacionais (Computadores)"
+            },
+            {
+                "a": "Sistema de computador"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

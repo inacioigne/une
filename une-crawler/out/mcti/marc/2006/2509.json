@@ -1,0 +1,97 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002509",
+        "005": "20190813113706.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0444109870"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "37.018.8:004(063)",
+            "b": "W927c",
+            "c": "1975"
+        },
+        "111": {
+            "a": "World Conference on Computer Education",
+            "c": "Marseille, França",
+            "d": "1975",
+            "n": "2"
+        },
+        "245": {
+            "a": "Computers in education",
+            "b": "proceedings of the IFIP 2d World Conference",
+            "c": "edited by O. Lecarme and R. Lewis ; [organized by L'Association française de cybernétique économique et technique, et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Amsterdam",
+                "b": "North-Holland"
+            },
+            {
+                "a": "Nova Iorque",
+                "b": "American Elsevier",
+                "c": "1975"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxii, 1020",
+                "c": "27 cm",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Texto em inglês e francês"
+            }
+        ],
+        "650": [
+            {
+                "a": "Educação",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Informática",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Informática na educação",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Lecarme, Olivier",
+                "e": "Editor"
+            },
+            {
+                "a": "Lewis, R.",
+                "d": "1940-",
+                "q": "Robert",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "International Federation for Information Processing",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Association Francaise pour la Cybernetique Economique et Technique",
+                "c": "França",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

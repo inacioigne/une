@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002949",
+        "005": "20190808135058.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:005",
+            "b": "A211m",
+            "c": "1975"
+        },
+        "245": {
+            "a": "Management of information technology",
+            "b": "case studies",
+            "c": "Compiled and edited by Elizabeth B. Adams",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "1. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Petrocelli Books",
+                "c": "1975"
+            }
+        ],
+        "300": [
+            {
+                "a": "viii, 196",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema de Gerenciamento de Informações",
+                "x": "Estudo de casos"
+            },
+            {
+                "a": "Informação tecnológica",
+                "x": "Estudo de casos"
+            },
+            {
+                "a": "Administração"
+            },
+            {
+                "a": "Computadores"
+            }
+        ],
+        "700": [
+            {
+                "a": "Adams, Elizabeth Byrne",
+                "d": "1933-",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

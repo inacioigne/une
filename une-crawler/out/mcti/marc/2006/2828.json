@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002828",
+        "005": "20190807101056.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "012701750x"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451",
+            "b": "T882o",
+            "c": "1974"
+        },
+        "100": {
+            "a": "Tsichritzis, Dionysios C"
+        },
+        "245": {
+            "a": "Operating systems",
+            "c": "Dionysios C. Tsichritzis and Philip A. Bernstein",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Academic Press",
+                "c": "c1974"
+            }
+        ],
+        "300": [
+            {
+                "a": "xviii, 298",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Computer science and applied mathematics"
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistemas operacionais (Computadores)"
+            },
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Software"
+            }
+        ],
+        "700": [
+            {
+                "a": "Bernstein, Philip A",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

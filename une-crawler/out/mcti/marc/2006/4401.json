@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004401",
+        "005": "20190807114323.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "551.583",
+            "b": "P291",
+            "c": "1998"
+        },
+        "245": {
+            "a": "Past Global Changes (PAGES)",
+            "b": "status report and implementation plan",
+            "c": "edited by Frank Oldfield",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Stockholm, Suécia",
+                "b": "International Geosphere-Biosphere Programme",
+                "c": "1998"
+            }
+        ],
+        "300": [
+            {
+                "a": "236",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "IGBP Report = IGBP Rapport = IGBP Informe",
+                "v": "n. 45"
+            }
+        ],
+        "650": [
+            {
+                "a": "Mudanças climáticas",
+                "x": "Pesquisa"
+            },
+            {
+                "a": "Paleontologia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Oldfield, Frank",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Programa Internacional da Geosfera-Biosfera",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Conselho Internacional das Uniões Científicas",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

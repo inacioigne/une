@@ -1,0 +1,73 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004546",
+        "005": "20190801142906.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "328(042)",
+            "b": "H722e",
+            "c": "2002"
+        },
+        "100": {
+            "a": "Holanda, Ariosto",
+            "d": "1938-"
+        },
+        "245": {
+            "a": "A escalada do homem",
+            "c": "Ariosto Holanda",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Câmara dos Deputados, Coordenação de Publicações",
+                "c": "2002"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "73"
+            }
+        ],
+        "490": [
+            {
+                "a": "Separatas de discursos, pareceres e projetos",
+                "v": "65 / 2002"
+            }
+        ],
+        "500": [
+            {
+                "a": "Trabalho do deputado mostrando a evolução do conhecimento humano ao longo dos anos, com informações sobre os principais cientistas, invenções e inventores, dentre outras."
+            }
+        ],
+        "650": [
+            {
+                "a": "Filósofo",
+                "x": "Biografia"
+            },
+            {
+                "a": "Cientistas",
+                "x": "Biografia"
+            },
+            {
+                "a": "Descoberta científica",
+                "x": "Cronologia"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005665",
+        "005": "20190730111508.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.057.4",
+            "b": "N778p",
+            "c": "1991"
+        },
+        "100": {
+            "a": "Nogueira, José Marcos Silva"
+        },
+        "245": {
+            "a": "Protocolos e serviços de comunicação",
+            "b": "princípios, especificação e teste",
+            "c": "José Marcos Silva Nogueira",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Escola Brasileiro-Argentina de Informática",
+                "c": "1991"
+            }
+        ],
+        "300": [
+            {
+                "a": "144",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Versão preliminar publicada para a V Escola Brasileiro-Argentina de Informática, Rio de Janeiro - Janeiro de 1991"
+            }
+        ],
+        "650": [
+            {
+                "a": "Protocolo de comunicação"
+            },
+            {
+                "a": "Rede de computador"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Nova Friburgo, RJ",
+                "d": "1991",
+                "n": "5"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

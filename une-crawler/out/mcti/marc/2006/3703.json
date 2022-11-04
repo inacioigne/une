@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003703",
+        "005": "20190808143639.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "857383109x"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "655.254.22(036)",
+            "b": "E55m",
+            "c": "R",
+            "d": "2001"
+        },
+        "110": {
+            "a": "Empresa Brasileira de Pesquisa Agropecuária"
+        },
+        "245": {
+            "a": "Manual de editoração",
+            "h": "Impresso",
+            "c": "Empresa Brasileira de Pesquisa Agropecuária"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Embrapa, Comunicação para Transferência de Tecnologia",
+                "c": "2001"
+            }
+        ],
+        "300": [
+            {
+                "a": "413",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Editoração",
+                "x": "Manual"
+            },
+            {
+                "a": "Documentos",
+                "x": "Normalização"
+            },
+            {
+                "a": "Livro",
+                "x": "Editoração"
+            }
+        ],
+        "710": [
+            {
+                "a": "Brasil. Ministério da Agricultura, Pecuária e Abastecimento",
+                "e": "Indefinida"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

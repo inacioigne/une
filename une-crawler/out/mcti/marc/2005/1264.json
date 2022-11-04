@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001264",
+        "005": "20190729111811.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "025.85",
+            "b": "P769",
+            "c": "1995"
+        },
+        "245": {
+            "a": "Política de preservação de acervos institucionais",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Museu de Astronomia e Ciências Afins",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "33 f."
+            }
+        ],
+        "650": [
+            {
+                "a": "Patrimônio cultural",
+                "x": "Política e governo",
+                "z": "Brasil"
+            },
+            {
+                "a": "Patrimônio histórico",
+                "x": "Política e governo",
+                "z": "Brasil"
+            },
+            {
+                "a": "Instituição cultural",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Museu de Astronomia e Ciências Afins",
+                "c": "Brasil",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Museu da República (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

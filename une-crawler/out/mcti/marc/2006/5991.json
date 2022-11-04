@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005991",
+        "005": "20190808150455.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6:005(063)",
+            "b": "S612a",
+            "c": "1991"
+        },
+        "111": {
+            "a": "Simpósio Nacional de Pesquisa de Administração em Ciência e Tecnologia",
+            "c": "Rio de Janeiro, RJ",
+            "d": "1991",
+            "n": "16"
+        },
+        "245": {
+            "a": "Administração em ciência e tecnologia",
+            "b": "trabalhos apresentados no simpósio nacional de pesquisa de administração em ciência e tecnologia",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Universidade de São Paulo",
+                "c": "1991"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v.",
+                "b": "il., tabs."
+            }
+        ],
+        "650": [
+            {
+                "a": "Administração",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Pesquisa científica"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

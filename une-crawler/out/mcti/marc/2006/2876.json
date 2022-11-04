@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002876",
+        "005": "20190808143625.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:519.67",
+            "b": "C154p",
+            "c": "=134.3 1969"
+        },
+        "100": {
+            "a": "Calingaert, Peter"
+        },
+        "245": {
+            "a": "Princípios de computação",
+            "c": "Peter Calingaert ; tradução Placidino Machado Fagundes",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Ao Livro Técnico",
+                "c": "1969"
+            }
+        ],
+        "300": [
+            {
+                "a": "224",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação matemática"
+            },
+            {
+                "a": "Programação de computador",
+                "x": "Análise matemática"
+            },
+            {
+                "a": "Ciência da computação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

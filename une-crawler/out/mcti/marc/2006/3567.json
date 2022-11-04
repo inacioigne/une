@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003567",
+        "005": "20190801090127.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "853460787"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:37(091)",
+            "b": "P118r",
+            "c": "1998"
+        },
+        "100": {
+            "a": "Pacitti, Tércio"
+        },
+        "245": {
+            "a": "Do Fortran ... à internet",
+            "b": "no rastro da trilogia : educação, pesquisa e desenvolvimento",
+            "c": "Tércio Pacitti",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Makron Books",
+                "c": "1998"
+            }
+        ],
+        "300": [
+            {
+                "a": "441"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "História"
+            },
+            {
+                "a": "Programas de computador"
+            },
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Comunicação de dados"
+            },
+            {
+                "a": "Educação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

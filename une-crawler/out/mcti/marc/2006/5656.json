@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005656",
+        "005": "20190805125705.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0672226979"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7(035)",
+            "b": "S782h",
+            "c": "1990"
+        },
+        "100": {
+            "a": "Stallings, William",
+            "d": "1945-"
+        },
+        "245": {
+            "a": "Handbook of computer-communications standards",
+            "c": "William Stallings",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "[S.l.]",
+                "b": "H. W. Sams",
+                "c": "1990"
+            }
+        ],
+        "300": [
+            {
+                "a": "3 v.",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "v. 1. The open systems interconnection (OSI) model and OSI-related standards -- v. 2. Local area network standards -- v. 3. The TCP/IP protocol suite / William Stallings ... [et al.]."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema de transmissão de dados",
+                "x": "Manual"
+            },
+            {
+                "a": "Rede local"
+            },
+            {
+                "a": "Rede de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

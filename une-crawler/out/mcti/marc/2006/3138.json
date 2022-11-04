@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003138",
+        "005": "20190807104917.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "005.34",
+            "b": "P124",
+            "c": "1996"
+        },
+        "245": {
+            "a": "Padrões tecnológicos, trabalho e dinâmica espacial",
+            "c": "Organização Rosa Maria Sales de Melo Soares, José Augusto Abreu Sá Fortes",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Universidade de Brasília",
+                "c": "1996"
+            }
+        ],
+        "300": [
+            {
+                "a": "234"
+            }
+        ],
+        "650": [
+            {
+                "a": "Administração"
+            },
+            {
+                "a": "Trabalho",
+                "x": "Organização"
+            }
+        ],
+        "700": [
+            {
+                "a": "Soares, Rosa Maria Sales de Melo",
+                "e": "Organizador"
+            },
+            {
+                "a": "Fortes, José Augusto Abreu Sá",
+                "e": "Organizador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

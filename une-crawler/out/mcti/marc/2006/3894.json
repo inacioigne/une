@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003894",
+        "005": "20190805095131.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "020114459X"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.45",
+            "b": "W824e",
+            "c": "1978"
+        },
+        "100": {
+            "a": "Withington, Frederic G"
+        },
+        "245": {
+            "a": "The environment for systems programs",
+            "c": "Frederic G. Withington",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Reading, Massachusetts",
+                "b": "Addison-Wesley",
+                "c": "1978"
+            }
+        ],
+        "300": [
+            {
+                "a": "xv, 324",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "The Systems programming series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Sistema de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

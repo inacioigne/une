@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003012",
+        "005": "20190812174538.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "517",
+            "b": "A341a",
+            "c": "1973"
+        },
+        "100": {
+            "a": "Albrecht, Peter"
+        },
+        "245": {
+            "a": "Análise numérica",
+            "b": "um curso moderno",
+            "c": "Peter Albrech ; colaboração Prof. Therezinha Costa Ferreira Chaves",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Livros Técnicos e Científicos",
+                "c": "1973"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 240 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Análise matemática"
+            },
+            {
+                "a": "Cálculo numérico"
+            },
+            {
+                "a": "Matrizes (matemática)"
+            },
+            {
+                "a": "Algoritmos"
+            }
+        ],
+        "700": [
+            {
+                "a": "Chaves, Therezinha Costa Ferreira",
+                "e": "Colaborador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

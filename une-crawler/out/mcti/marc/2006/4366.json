@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004366",
+        "005": "20190801142230.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-Br-MCT"
+        },
+        "090": {
+            "a": "621.31",
+            "b": "S632e",
+            "c": "1974"
+        },
+        "100": {
+            "a": "Slemon, Gordon R"
+        },
+        "245": {
+            "a": "Equipamentos magnetelétricos",
+            "b": "transdutores, transformadores e máquinas",
+            "c": "Gordon R. Slemon",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Livros Técnicos e Científicos",
+                "c": "1974"
+            }
+        ],
+        "300": [
+            {
+                "a": "240",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "A Biblioteca só possui o v. 1"
+            }
+        ],
+        "534": {
+            "a": "Magnetoelectric devices: transducers, transformers, and machines"
+        },
+        "650": [
+            {
+                "a": "Engenharia elétrica"
+            },
+            {
+                "a": "Energia elétrica",
+                "z": "Brasil"
+            },
+            {
+                "a": "Dispositivo magnético"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

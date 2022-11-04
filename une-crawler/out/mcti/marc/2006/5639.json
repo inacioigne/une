@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005639",
+        "005": "20190809101604.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.896(100)(063)",
+            "b": "I61pro",
+            "c": "1985"
+        },
+        "111": {
+            "a": "International Conference on Advanced Robotics",
+            "c": "Tokyo, Japão",
+            "d": "1985",
+            "n": "2"
+        },
+        "245": {
+            "a": "Proceedings of '85 International Conference on Advanced Robotics",
+            "b": "9, 10 September 1985",
+            "h": "Impresso",
+            "c": "Robotics Society of Japan"
+        },
+        "246": [
+            {
+                "a": "'85 ICAR"
+            }
+        ],
+        "260": [
+            {
+                "a": "Tokyo",
+                "b": "Japan Industrial Robot Association",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "570"
+            }
+        ],
+        "650": [
+            {
+                "a": "Robótica",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Inteligência artificial",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Circuito integrado",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "710": [
+            {
+                "a": "Robotics Society of Japan",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Society of Biomechanisms (Japão)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

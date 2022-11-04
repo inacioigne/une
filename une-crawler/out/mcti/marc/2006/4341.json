@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004341",
+        "005": "20190805130828.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004",
+            "b": "T445",
+            "c": "=111 [197-?]"
+        },
+        "245": {
+            "a": "Third data processing support programme of the Federal Government",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[S.l.]",
+                "b": "Gesellschaft für Mathematik und Datenverarbeitung MBH Bonn",
+                "c": "[197-?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "106",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Translated and edited by Gesellschaft für Mathematik und Datenverarbeitung MBH Bonn."
+            }
+        ],
+        "650": [
+            {
+                "a": "Processamento de dados"
+            },
+            {
+                "a": "Indústria de computador"
+            },
+            {
+                "a": "Software",
+                "x": "Desenvolvimento"
+            },
+            {
+                "a": "Política e governo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

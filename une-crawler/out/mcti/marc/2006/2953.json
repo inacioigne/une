@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002953",
+        "005": "20190806132125.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0810459598"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451.22",
+            "b": "G441i",
+            "c": "1976"
+        },
+        "100": {
+            "a": "Gibbons, Terry"
+        },
+        "245": {
+            "a": "Integrity and recovery in computer systems",
+            "c": "by Terry Gibbons",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Manchester [Inglaterra]",
+                "b": "NCC Publications",
+                "c": "1976"
+            }
+        ],
+        "300": [
+            {
+                "a": "137",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Information systems analysis and design series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Computador digital",
+                "x": "Segurança"
+            },
+            {
+                "a": "Segurança de computador"
+            },
+            {
+                "a": "Programas de computador",
+                "x": "Segurança"
+            },
+            {
+                "a": "Processamento de dados",
+                "x": "Tempo real"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

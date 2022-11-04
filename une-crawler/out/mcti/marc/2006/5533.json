@@ -1,0 +1,82 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005533",
+        "005": "20190808133727.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "005:929(520)",
+            "b": "M862m",
+            "c": "=134.3",
+            "d": "c1986"
+        },
+        "100": {
+            "a": "Morita, Akio",
+            "d": "1921-"
+        },
+        "245": {
+            "a": "Made in Japan",
+            "b": "Akio Morita e a Sony",
+            "c": "Akio Morita com Edwin M. Reingold e Mitsuko Shimomura ; tradução : Wladir Dupont",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Cultura",
+                "c": "c1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "334"
+            }
+        ],
+        "534": {
+            "a": "Titulo original: Made in Japan, c1986"
+        },
+        "600": [
+            {
+                "a": "Morita, Akio",
+                "d": "1921-",
+                "x": "Biografia"
+            }
+        ],
+        "610": [
+            {
+                "a": "Sony Corporation",
+                "x": "História"
+            }
+        ],
+        "650": [
+            {
+                "a": "Empresário",
+                "z": "Japão"
+            },
+            {
+                "a": "Tecnologia",
+                "z": "Japão"
+            }
+        ],
+        "700": [
+            {
+                "a": "Reingold, Edwin M",
+                "e": "Coautor"
+            },
+            {
+                "a": "Shimomura, Mitsuko",
+                "d": "1938-",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

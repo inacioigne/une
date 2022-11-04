@@ -1,0 +1,79 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002913",
+        "005": "20190812171107.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.414.2",
+            "b": "C456a",
+            "c": "=134.3"
+        },
+        "100": {
+            "a": "Chandor, Anthony"
+        },
+        "245": {
+            "a": "Análise de sistemas",
+            "b": "teoria e prática",
+            "c": "Anthony Chandor, John Graham , Robin Williamson ; tradução de Antonio Garcia de Miranda Netto",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Livros Técnicos e Científicos",
+                "c": "1973"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxx, 404 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Coleção universitária de administração",
+                "v": "11"
+            }
+        ],
+        "650": [
+            {
+                "a": "Processamento de dados"
+            },
+            {
+                "a": "Análise de sistemas"
+            },
+            {
+                "a": "Ciência da computação"
+            },
+            {
+                "a": "Informática"
+            }
+        ],
+        "700": [
+            {
+                "a": "Graham, John",
+                "e": "Coautor"
+            },
+            {
+                "a": "Williamson, Robin",
+                "e": "Coautor"
+            },
+            {
+                "a": "Miranda Netto, Antonio Garcia de",
+                "d": "1903-",
+                "e": "Tradutor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

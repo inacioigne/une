@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002073",
+        "005": "20190813141409.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "090": {
+            "a": "004.43",
+            "b": "A345p",
+            "c": "[1983?]"
+        },
+        "100": {
+            "a": "Albuquerque, Fausto Aragão da Silva"
+        },
+        "245": {
+            "a": "Como programar eficientemente em PL/I",
+            "c": "Fausto Aragão da Silva Albuquerque",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[Brasília]",
+                "b": "[s.n.]",
+                "c": "[1983?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "81 f.",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Trabalho apresentado no 2. Concurso Nacional de Monografias em Informática, promovido pela Secretaria Especial de Informática (SEI) e pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq). teve como objetivo principal estimular a produção brasileira de literatura técnica no setor, tanto no que se refere a textos didáticos e de pesquisa como a aplicações de informática nos mais diversos aspectos da vida nacional."
+            }
+        ],
+        "505": [
+            {
+                "a": "I. Introdução -- II. O uso desta publicação -- III. Otimização de programas -- 1. Declaração de variáveis -- 2. Especificiações de constantes -- 3. Conversões e comandos de atribuição em geral -- 4. Comandos de E/S -- 5. Grupos DO-END -- 6. Gerenciamento de memória -- 7. A sub-rotina para execução do \"Sort\" -- 8. Blocos de programas, sub-rotinas e funções -- 9. Grupos IF-THEN-ELSE -- 10. Condições -- 11. Processamento de tabelas -- 12. Operações -- 13. A clareza na programação -- 14. Verificações na listagem de compilação -- 15. Itens diversos - IV. Glossário dos termos e tradução usadas -- V. Índice alfabético -- VI. Bibliografia"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)"
+            }
+        ],
+        "711": [
+            {
+                "a": "Concurso Nacional de Monografias sobre Informática",
+                "c": "Brasília, DF",
+                "d": "1983",
+                "n": "2"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

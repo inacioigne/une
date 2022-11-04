@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005769",
+        "005": "20190813115135.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "926412852"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.056:34",
+            "b": "O68c",
+            "c": "1986"
+        },
+        "110": {
+            "a": "Organização de Cooperação e Desenvolvimento Econômico"
+        },
+        "245": {
+            "a": "Computer-related crime",
+            "b": "analysis of legal policy",
+            "h": "Impresso",
+            "c": "Organização de Cooperação e Desenvolvimento Econômico"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Organisation for Economic Co-operation and Development",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "71"
+            }
+        ],
+        "490": [
+            {
+                "a": "Information, computer, communications policy",
+                "v": "10"
+            }
+        ],
+        "650": [
+            {
+                "a": "Computadores",
+                "x": "Crime"
+            },
+            {
+                "a": "Segurança de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

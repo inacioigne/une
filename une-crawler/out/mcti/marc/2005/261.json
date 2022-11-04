@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nas  22      a 4500",
+        "001": "000000261",
+        "005": "20161201100836.0",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "022": {
+            "a": "0003-9810"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6(091)(05)"
+        },
+        "245": {
+            "a": "Archives internationales d'histoire des sciences",
+            "c": "Union internationale d'histoire des sciences",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "Teste"
+            }
+        ],
+        "260": [
+            {
+                "a": "Wiesbaden [Alemanha]",
+                "b": "Steiner",
+                "c": "1981-"
+            }
+        ],
+        "270": [
+            {
+                "d": "Alemanha"
+            }
+        ],
+        "300": [
+            {
+                "b": "v."
+            }
+        ],
+        "310": {
+            "a": "Semestral"
+        },
+        "650": [
+            {
+                "a": "Ciência",
+                "x": "Periódico"
+            },
+            {
+                "a": "Tecnologia",
+                "x": "Periódico"
+            }
+        ],
+        "710": [
+            {
+                "a": "Union Internationale d'Histoire des Sciences",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "Texto completo - Acesso em: 09/12/2013",
+            "u": "www.brepols.net/Pages/BrowseBySeries.aspx?TreeSeries=ARIHS"
+        },
+        "990": {
+            "a": "Periódicos"
+        }
+    }
+}

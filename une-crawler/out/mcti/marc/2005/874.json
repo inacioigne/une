@@ -1,0 +1,83 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000874",
+        "005": "20190726104438.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8576520133"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "37:5/6:336.581",
+            "b": "I62",
+            "c": "2005"
+        },
+        "245": {
+            "a": "Investimentos em educação, ciência e tecnologia",
+            "b": "o que pensam os jornalistas",
+            "c": "Jorge Werthein, Célio da Cunha (Orgs.).",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "UNESCO",
+                "c": "2005"
+            }
+        ],
+        "300": [
+            {
+                "a": "248"
+            }
+        ],
+        "650": [
+            {
+                "a": "Investimentos em educação"
+            },
+            {
+                "a": "Jornalismo",
+                "x": "Crônica"
+            },
+            {
+                "a": "Educação",
+                "x": "Financiamento"
+            },
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Aspectos economicos"
+            }
+        ],
+        "700": [
+            {
+                "a": "Werthein, Jorge",
+                "d": "1941-",
+                "e": "Organizador"
+            },
+            {
+                "a": "Cunha, Célio da",
+                "d": "1943-",
+                "e": "Organizador"
+            }
+        ],
+        "856": {
+            "y": "Texto completo (UNESCO)",
+            "u": "http://unesdoc.unesco.org/images/0018/001859/185925por.pdf",
+            "z": "Acesso em: 26/07/2019"
+        },
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

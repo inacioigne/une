@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003071",
+        "005": "20190813125603.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.2",
+            "b": "F634c",
+            "c": "1969"
+        },
+        "100": {
+            "a": "Flores, Ivan"
+        },
+        "245": {
+            "a": "Computer organization",
+            "c": "Ivan Flores",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "c1969"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 371",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Computadores",
+                "x": "Organização"
+            },
+            {
+                "a": "Sistema de computador"
+            },
+            {
+                "a": "Hardware"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

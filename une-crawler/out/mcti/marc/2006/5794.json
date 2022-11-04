@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005794",
+        "005": "20190809140641.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "9221056104"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.3.049.77",
+            "b": "K17m",
+            "c": "1987"
+        },
+        "100": {
+            "a": "Kaplinsky, Raphael"
+        },
+        "245": {
+            "a": "Micro-electronics and employment revisited",
+            "b": "a review",
+            "c": "Raphael Kaplinsky",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Genebra (Suiça)",
+                "b": "Repartição Internacional do Trabalho",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiv, 181 p."
+            }
+        ],
+        "650": [
+            {
+                "a": "Microeletrônica",
+                "x": "Aspectos sociais"
+            },
+            {
+                "a": "Informática",
+                "x": "Aspectos sociais"
+            },
+            {
+                "a": "Inovação",
+                "x": "Aspectos sociais"
+            },
+            {
+                "a": "Trabalho"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

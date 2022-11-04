@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005237",
+        "005": "20190807130851.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "930.25:006.1",
+            "b": "C755i",
+            "c": "2000"
+        },
+        "110": {
+            "a": "Conselho Nacional de Arquivos (Brasil)"
+        },
+        "245": {
+            "a": "ISAD(G)",
+            "b": "norma geral internacional de descrição arquivística",
+            "h": "Impresso",
+            "c": "Conselho Nacional de Arquivos"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Conselho Nacional de Arquivos",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (paginação irregular)",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Adotada pelo Comitê de normas de descrição, Estocolmo, Suécia, 19-22 de setembro de 1999."
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquivologia",
+                "x": "Normas técnicas"
+            },
+            {
+                "a": "Arquivo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

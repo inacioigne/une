@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004519",
+        "005": "20190807142002.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004(81)(083.92)",
+            "b": "B823p",
+            "c": "[198-?]"
+        },
+        "110": {
+            "a": "Brasil. Secretaria Especial de Informática"
+        },
+        "245": {
+            "a": "Plano Nacional de Informática e Automação",
+            "b": "planos setoriais",
+            "c": "Secretaria Especial de Informática",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Secretaria Especial de Informática",
+                "c": "[198-?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v.",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Este volume é composto de catorze planos setorias, enfocando \"software\", microeletrônica, computadores e periféricos, instrumentação, automação industrial, automação comercial, teleinformática, banco de dados, fluxos de dados transfronteiras, proteção de dados, informática militar, serviço público, aplicações econômico-sociais e ações internacional. Cada plano setorial foi reelaborado, a partir da Proposta Preliminar encaminhada pela SEI ao CONIN, com base na críticas e sugestões feitas por várias das instituições com assento nesse Conselho."
+            }
+        ],
+        "505": [
+            {
+                "a": "Apresentação -- Software -- Microeletrônica -- Computadores e periféricos -- Instrumentação -- Automação industrial -- Automação de serviços -- Teleinformática -- Banco de dados -- Fluxos de dados transfronteiras -- Proteção de dados -- Informática militar - Serviço público -- Aplicações econômico-sociais -- Recursos humanos -- Ação internacional."
+            }
+        ],
+        "650": [
+            {
+                "a": "Política de informática",
+                "z": "Brasil"
+            },
+            {
+                "a": "Informática",
+                "x": "Legislação",
+                "z": "Brasil"
+            }
+        ],
+        "856": {
+            "u": "http://www.planalto.gov.br/ccivil_03/leis/L7646.htm",
+            "y": "Texto completo LEI 7646 de 18/12/1987"
+        },
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

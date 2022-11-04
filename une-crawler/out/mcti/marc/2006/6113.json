@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000006113",
+        "005": "20190806122335.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.3.049.77(81)(063)",
+            "b": "C748e",
+            "c": "1996"
+        },
+        "111": {
+            "a": "Conference of the Brazilian Microelectronics Society",
+            "c": "Águas de Lindóia, SP",
+            "d": "1996",
+            "n": "11"
+        },
+        "245": {
+            "a": "XI Conference of the Brazilian Microelectronics Society",
+            "b": "proceedings",
+            "c": "Edited by Nelson L. A. Braga, Patrick Verdonck, Wilhelmus A. M. Van Noije",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Tec Art",
+                "c": "1996"
+            }
+        ],
+        "300": [
+            {
+                "a": "74, 434"
+            }
+        ],
+        "650": [
+            {
+                "a": "Microeletrônica",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Circuito integrado",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Braga, Nelson L. A",
+                "e": "Editor"
+            },
+            {
+                "a": "Verdonck, Patrick Bernard",
+                "e": "Editor"
+            },
+            {
+                "a": "Van Noije, Wilhelmus Adrianus Maria",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

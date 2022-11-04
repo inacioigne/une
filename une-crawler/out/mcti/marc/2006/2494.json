@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002494",
+        "005": "20190806112412.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "0885860004"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.2:002",
+            "b": "H961i",
+            "c": "1976"
+        },
+        "100": {
+            "a": "Hurtubise, Rolland A.",
+            "d": "1942-"
+        },
+        "245": {
+            "a": "Informatique et information",
+            "b": "la conception des systèmes d'information : les banques de données",
+            "c": "Rolland Hurtubise",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Montreal",
+                "b": "Agence d'Arc",
+                "c": "1976"
+            }
+        ],
+        "300": [
+            {
+                "a": "357",
+                "c": "23 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema de informação gerencial"
+            },
+            {
+                "a": "Sistema de gerenciamento de banco de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

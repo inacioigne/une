@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003893",
+        "005": "20190802092828.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0201144530"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.424.5",
+            "b": "L872s",
+            "c": "1975"
+        },
+        "100": {
+            "a": "Lorin, Harold"
+        },
+        "245": {
+            "a": "Sorting and sort systems",
+            "c": "Harold Lorin",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Reading, Massachusetts",
+                "b": "Addison-Wesley",
+                "c": "1975"
+            }
+        ],
+        "300": [
+            {
+                "a": "xv, 373, [86]",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "The Systems programming series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Algoritmos"
+            },
+            {
+                "a": "Estrutura de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005657",
+        "005": "20190805132417.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.3.049.77(81)(063)",
+            "b": "B827p",
+            "c": "1990"
+        },
+        "111": {
+            "a": "Brazilian Microelectronics School",
+            "c": "Caxambu, MG",
+            "d": "1990",
+            "n": "1"
+        },
+        "245": {
+            "a": "I Brazilian Microeletronics School",
+            "b": "proceedings",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Sociedade Brasileira de Microeletrônica",
+                "c": "1990"
+            }
+        ],
+        "300": [
+            {
+                "a": "634",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Microeletrônica",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Engenharia eletrônica",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005710",
+        "005": "20190807175220.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.083.74",
+            "b": "D611n",
+            "c": "1989"
+        },
+        "245": {
+            "a": "1989 Disk/trend report",
+            "b": "flexible disk drives",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Mountain, California",
+                "b": "Disk/Trend",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v."
+            }
+        ],
+        "500": [
+            {
+                "a": "Periódico tratado como livro."
+            }
+        ],
+        "650": [
+            {
+                "a": "Indústrias",
+                "x": "Disco flexivel"
+            },
+            {
+                "a": "Mercado"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

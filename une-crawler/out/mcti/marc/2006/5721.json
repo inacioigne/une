@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005721",
+        "005": "20190805105917.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "9211122198"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "338.1(2-77)",
+            "b": "N125l",
+            "c": "1985"
+        },
+        "110": {
+            "a": "Conferência das Nações Unidas sobre Comércio e Desenvolvimento"
+        },
+        "245": {
+            "a": "The least developed countries 1985 report",
+            "c": "prepared by the UNCTAD secretariat",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Nações Unidas",
+                "c": "1986"
+            }
+        ],
+        "270": [
+            {
+                "d": "Estados Unidos"
+            }
+        ],
+        "300": [
+            {
+                "a": "437, [42]",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Países em desenvolvimento"
+            },
+            {
+                "a": "Assistência econômica internacional",
+                "x": "Países em desenvolvimento"
+            },
+            {
+                "a": "Acordo de assistência técnica",
+                "x": "Países em desenvolvimento"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

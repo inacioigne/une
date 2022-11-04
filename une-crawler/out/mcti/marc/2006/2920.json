@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002920",
+        "005": "20190805130135.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:005",
+            "b": "T218u",
+            "c": "1969"
+        },
+        "100": {
+            "a": "Tatham, Laura Esther"
+        },
+        "245": {
+            "a": "The use of computers for profit",
+            "b": "a businessman's guide",
+            "c": "Laura Tatham",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "McGraw-Hill",
+                "c": "c1969"
+            }
+        ],
+        "300": [
+            {
+                "a": "xi, 291",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Negócios",
+                "x": "Processamento de dados"
+            },
+            {
+                "a": "Empresas",
+                "x": "Processamento de dados"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

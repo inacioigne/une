@@ -1,0 +1,73 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005785",
+        "005": "20190809141813.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.021",
+            "b": "F344a",
+            "c": "1988"
+        },
+        "100": {
+            "a": "Feofiloff, Paulo",
+            "d": "1946-"
+        },
+        "245": {
+            "a": "Algoritmos para igualdades minimax em grafos",
+            "c": "Por Paulo Feofiloff, Cláudio Leonardo Lucchesi",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Campinas",
+                "b": "Universidade Estadual de Campinas",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "155",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Matemática"
+            },
+            {
+                "a": "Física"
+            },
+            {
+                "a": "Algoritmos",
+                "x": "Grafos"
+            },
+            {
+                "a": "Técnica de programação"
+            }
+        ],
+        "700": [
+            {
+                "a": "Lucchesi, Claudio Leonardo",
+                "e": "Coautor"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola de Computação",
+                "c": "Campinas, SP",
+                "d": "1988",
+                "n": "6"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

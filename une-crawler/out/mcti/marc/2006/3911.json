@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003911",
+        "005": "20190813142911.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "0201144581"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.72",
+            "b": "C996c",
+            "c": "1978"
+        },
+        "100": {
+            "a": "Cypser, R. J"
+        },
+        "245": {
+            "a": "Communications architecture for distributed systems",
+            "c": "R. J. Cypser",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Reading, Massachusetts",
+                "b": "Addison-Wesley",
+                "c": "1978"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxii, 711",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "The Systems programming series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de rede de computador"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Arquitetura de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

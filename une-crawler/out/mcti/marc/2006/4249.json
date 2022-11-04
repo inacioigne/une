@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004249",
+        "005": "20190802105401.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "066291807x"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "005.591.6:005.912",
+            "b": "S995",
+            "c": "1982"
+        },
+        "245": {
+            "a": "Systèmes et services de bureautique",
+            "b": "répertoire des fournisseurs canadiens d'équipement et de services de bureautique",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "Office communications systems and services. Systèmes et services de bureautique"
+            }
+        ],
+        "260": [
+            {
+                "a": "Ottawa",
+                "b": "Government of Canada, Dept. of Communications",
+                "c": "1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "xvii, 100",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Automação de escritório",
+                "x": "Equipamentos"
+            },
+            {
+                "a": "Telecomunicações",
+                "x": "Equipamentos"
+            },
+            {
+                "a": "Informática",
+                "x": "Equipamentos"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

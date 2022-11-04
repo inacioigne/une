@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005545",
+        "005": "20190801140028.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "336.27",
+            "b": "D571",
+            "c": "[199-]"
+        },
+        "245": {
+            "a": "Séries históricas",
+            "b": "dívida pública",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Associação Nacional das Instituições do Mercado Aberto",
+                "c": "[199-]"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "175",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Dívida pública"
+            },
+            {
+                "a": "Finanças públicas"
+            },
+            {
+                "a": "Política fiscal"
+            }
+        ],
+        "710": [
+            {
+                "a": "Associação Nacional das Instituições do Mercado Aberto",
+                "c": "Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

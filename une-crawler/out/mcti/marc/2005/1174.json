@@ -1,0 +1,73 @@
+{
+    "controfield": {
+        "000": "am   nam  22      a 4500",
+        "001": "000001174",
+        "005": "20190729102157.0",
+        "007": "t",
+        "008": "por                                por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "658.56:67(81)",
+            "b": "P474",
+            "c": "1998"
+        },
+        "245": {
+            "a": "Pesquisa indicadores de qualidade e produtividade na indústria brasileira, 1997",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Serviço Brasileiro de Apoio às Micro e Pequenas Empresas",
+                "c": "1998"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "80",
+                "b": "il., color."
+            }
+        ],
+        "650": [
+            {
+                "a": "Qualidade",
+                "x": "Indústria",
+                "z": "Brasil"
+            },
+            {
+                "a": "Produtividade industrial",
+                "x": "Indicadores sociais",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Banco Nacional de Desenvolvimento Econômico e Social",
+                "c": "Brasil",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Confederação Nacional da Indústria",
+                "c": "Brasil",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Serviço Brasileiro de Apoio às Micro e Pequenas Empresas",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001902",
+        "005": "20190801153048.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "020": {
+            "a": "9501398730"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.658",
+            "b": "D662s",
+            "c": "=134.2 1988"
+        },
+        "100": {
+            "a": "Dolder, Herman E"
+        },
+        "245": {
+            "a": "Sistema experto para el diseño de bases de datos",
+            "c": "Herman e Dolder, Esteban Lubomirsky",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Buenos Aires",
+                "b": "Kapelusz",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "158"
+            }
+        ],
+        "500": [
+            {
+                "a": "Versão preliminar apresentada na IV Escola Brasileiro-Argentina de Informática, Santiago del Estero, 1989."
+            }
+        ],
+        "534": {
+            "a": "Título original: DBAID: an expert system for database design"
+        },
+        "650": [
+            {
+                "a": "Gerenciamento de banco de dados"
+            },
+            {
+                "a": "Banco de dados"
+            },
+            {
+                "a": "Sistema especialista"
+            }
+        ],
+        "700": [
+            {
+                "a": "Lubomirsky, Esteban",
+                "e": "Coautor"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Santiago del Estero, Argentina",
+                "d": "1989",
+                "n": "4"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

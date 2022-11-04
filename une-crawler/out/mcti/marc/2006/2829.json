@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002829",
+        "005": "20190729144224.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "070941823"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.43",
+            "b": "W412p",
+            "c": "1971"
+        },
+        "100": {
+            "a": "Wegner, Peter"
+        },
+        "245": {
+            "a": "Programming languages, information structures, and machine organization",
+            "c": "Peter Wegner, Allen Newell",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "McGraw-Hill",
+                "c": "c1971"
+            }
+        ],
+        "300": [
+            {
+                "a": "xx, 401",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "McGraw-Hill computer science series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)"
+            }
+        ],
+        "700": [
+            {
+                "a": "Newell, Allen",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

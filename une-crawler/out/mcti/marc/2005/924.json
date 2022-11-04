@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000924",
+        "005": "20190726092317.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "020": {
+            "a": "923304461"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "001.31(100)",
+            "b": "I43",
+            "c": "1998"
+        },
+        "245": {
+            "a": "Informe mundial sobre la ciencia",
+            "b": "1998",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "UNESCO"
+            },
+            {
+                "a": "Madri (Espanha)",
+                "b": "Santillana",
+                "c": "1998"
+            }
+        ],
+        "300": [
+            {
+                "a": "301",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e Estado"
+            },
+            {
+                "a": "Desenvolvimento científico"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento"
+            },
+            {
+                "a": "Ciência",
+                "x": "Anuários"
+            },
+            {
+                "a": "Ciência e civilização"
+            },
+            {
+                "a": "Recursos hídricos",
+                "x": "Administração"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

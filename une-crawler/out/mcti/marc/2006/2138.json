@@ -1,0 +1,53 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002138",
+        "005": "20190813144651.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0735605815"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4",
+            "b": "O94b",
+            "c": "1999"
+        },
+        "100": {
+            "a": "Byrne, Randy"
+        },
+        "245": {
+            "a": "Building applications with Microsoft Outlook 2000",
+            "b": "technical reference",
+            "c": "Randy Byrne ; foreword by Sue Mosher",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Redmont, Washington",
+                "b": "Microsoft Press",
+                "c": "1999"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxviii, 715 p.",
+                "b": "il., + 1 CD-ROM"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programas de computador",
+                "x": "Agenda eletrônica"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

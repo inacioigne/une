@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002354",
+        "005": "20190813142834.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "0131531638"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "629.783",
+            "b": "M379c",
+            "c": "1978"
+        },
+        "100": {
+            "a": "Martin, James",
+            "d": "1933-"
+        },
+        "245": {
+            "a": "Communications satellite systems",
+            "c": "James Martin",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "c1978"
+            }
+        ],
+        "300": [
+            {
+                "a": "xv, 398",
+                "c": "24 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Prentice-Hall series in automatic computation"
+            }
+        ],
+        "650": [
+            {
+                "a": "Satélite de comunicação"
+            },
+            {
+                "a": "Telecomunicações"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

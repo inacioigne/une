@@ -1,0 +1,101 @@
+{
+    "controfield": {
+        "000": "01582cas  2200481   4500",
+        "001": "000001687",
+        "005": "20160830114013.0",
+        "008": "750909c19749999fr mrzp       0   b0fre"
+    },
+    "datafield": {
+        "022": {
+            "a": "0303-240X"
+        },
+        "030": {
+            "a": "REEND7"
+        },
+        "040": {
+            "a": "DLC",
+            "c": "DLC",
+            "d": "BR-BrMCT"
+        },
+        "041": {
+            "a": "engfre"
+        },
+        "044": {
+            "c": "FRA"
+        },
+        "090": {
+            "a": "620.93(05)",
+            "b": "R454"
+        },
+        "210": [
+            {
+                "a": "Rev. énerg."
+            }
+        ],
+        "222": [
+            {
+                "a": "Revue de l'énergie"
+            }
+        ],
+        "245": {
+            "a": "Revue de l'énergie",
+            "h": "Impresso"
+        },
+        "249": {
+            "i": "ACQUIRE Title:"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Editions techniques et economiques",
+                "c": "1981-"
+            }
+        ],
+        "270": [
+            {
+                "d": "França"
+            }
+        ],
+        "300": [
+            {
+                "b": "v"
+            }
+        ],
+        "310": {
+            "a": "Mensal"
+        },
+        "500": [
+            {
+                "a": "Coleção impressa: (v. 32, n. 331, jan. 1981 - v. 45, n. 455, jan. 1994 / 2006)"
+            }
+        ],
+        "546": {
+            "a": "Inglês e Francês"
+        },
+        "650": [
+            {
+                "a": "Física",
+                "x": "Periódico"
+            },
+            {
+                "a": "Química",
+                "x": "Periódico"
+            },
+            {
+                "a": "Engenharia",
+                "x": "Periódico"
+            },
+            {
+                "a": "Bioquímica",
+                "x": "Periódico"
+            }
+        ],
+        "780": {
+            "t": "Revue francaise de l' energie",
+            "x": "0035-2934"
+        },
+        "990": {
+            "a": "Periódicos"
+        }
+    }
+}

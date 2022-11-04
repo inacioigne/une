@@ -1,0 +1,74 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000920",
+        "005": "20190806184413.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "8400080343"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "614:351.77",
+            "b": "H434",
+            "c": "2002"
+        },
+        "245": {
+            "a": "Health and quality of life",
+            "c": "[editors Angel Alique Palomar... et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Madri (Espanha)",
+                "b": "Instituto de Automática Industrial",
+                "c": "2002"
+            }
+        ],
+        "300": [
+            {
+                "a": "155",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Workshops ALCUE science & technology",
+                "v": "v. 2"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e tecnologia"
+            },
+            {
+                "a": "Qualidade de vida"
+            },
+            {
+                "a": "Saúde",
+                "x": "Ciência e tecnologia"
+            },
+            {
+                "a": "Saúde pública"
+            },
+            {
+                "a": "Educação sanitária"
+            }
+        ],
+        "700": [
+            {
+                "a": "Alique Palomar, Ángel",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

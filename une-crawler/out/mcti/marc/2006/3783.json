@@ -1,0 +1,74 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003783",
+        "005": "20190730113128.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "852440079X"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "512",
+            "b": "H461c",
+            "c": "2002"
+        },
+        "100": {
+            "a": "Hefez, Abramo"
+        },
+        "245": {
+            "a": "Curso de álgebra",
+            "b": "volume 1",
+            "c": "Abramo Hefez",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "3. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Instituto Nacional de Matemática Pura e Aplicada",
+                "c": "2002"
+            }
+        ],
+        "300": [
+            {
+                "a": "221",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Coleção Matemática Universitária"
+            }
+        ],
+        "650": [
+            {
+                "a": "Matemática"
+            },
+            {
+                "a": "Álgebra"
+            },
+            {
+                "a": "Teoria dos números"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Matemática Pura e Aplicada (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

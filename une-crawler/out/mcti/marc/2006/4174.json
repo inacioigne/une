@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004174",
+        "005": "20190808141438.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6:001.5(81)",
+            "b": "M278",
+            "c": "[200-?]",
+            "d": "IBICT"
+        },
+        "245": {
+            "a": "Manifesto brasileiro de apoio ao acesso livre à informação científica",
+            "h": "Impresso",
+            "c": "Instituto Brasileiro de Informação em Ciência e Tecnologia, Ministério da Ciência e Tecnologia"
+        },
+        "260": [
+            {
+                "a": "[Brasília]",
+                "b": "Instituto Brasileiro de Informação em Ciência e Tecnologia",
+                "c": "[200-?]"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "8 f."
+            }
+        ],
+        "505": [
+            {
+                "a": "O documento, reproduzido nesta obra, busca mobilizar a comunidade científica e a sociedade brasileira em geral para a necessidade de se universalizar e democratizar a informação em ciência e tecnologia, condição fundamental para o desenvolvimento econômico e social de nosso país."
+            }
+        ],
+        "650": [
+            {
+                "a": "Comunicação científica"
+            },
+            {
+                "a": "Pesquisa científica",
+                "x": "Divulgação científica"
+            },
+            {
+                "a": "Acesso à informação"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto Brasileiro de Informação em Ciência e Tecnologia",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Brasil. Ministério da Ciência e Tecnologia",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

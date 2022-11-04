@@ -1,0 +1,73 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004847",
+        "005": "20190805130409.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "339.9:338.1",
+            "b": "B213w",
+            "c": "2000"
+        },
+        "110": {
+            "a": "Banco Mundial"
+        },
+        "245": {
+            "a": "The World Bank",
+            "b": "partnerships for development",
+            "h": "Impresso",
+            "c": "Banco Mundial"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "Banco Mundial",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "218",
+                "b": "il."
+            }
+        ],
+        "610": [
+            {
+                "a": "Banco Mundial"
+            }
+        ],
+        "650": [
+            {
+                "a": "Relações econômicas internacionais"
+            },
+            {
+                "a": "Previsão econômica"
+            },
+            {
+                "a": "Corrupção"
+            },
+            {
+                "a": "Privatização"
+            },
+            {
+                "a": "Política ambiental"
+            },
+            {
+                "a": "Pobreza"
+            },
+            {
+                "a": "Desenvolvimento socio-econômico",
+                "x": "Indicadores"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

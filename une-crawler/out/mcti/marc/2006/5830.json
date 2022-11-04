@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005830",
+        "005": "20190813143246.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.438BASIC:621.01",
+            "b": "H126c",
+            "c": "1985"
+        },
+        "100": {
+            "a": "Haddadi, A"
+        },
+        "245": {
+            "a": "Calculs de béton armé en basic",
+            "c": "A. Haddadi",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Eyrolles",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "92",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Les Dossiers de la Construction. Informatique Appliquée"
+            }
+        ],
+        "650": [
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "Basic (Linguagem de programação de computador)"
+            },
+            {
+                "a": "Engenharia"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

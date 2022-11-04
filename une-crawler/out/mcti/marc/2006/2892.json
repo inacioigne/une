@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002892",
+        "005": "20190814172156.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0884052834"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.6:657.6",
+            "b": "J33a",
+            "c": "1974"
+        },
+        "100": {
+            "a": "Jancura, Elise G.",
+            "d": "1938-"
+        },
+        "245": {
+            "a": "Audit and control of computer systems",
+            "c": "Elise G. Jancura",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Petrocelli/Charter",
+                "c": "1974"
+            }
+        ],
+        "300": [
+            {
+                "a": "355",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Auditoria"
+            },
+            {
+                "a": "Administração"
+            },
+            {
+                "a": "Sistema de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

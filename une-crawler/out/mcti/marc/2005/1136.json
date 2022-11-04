@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001136",
+        "005": "20190726110405.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "604.6(83)",
+            "b": "B615",
+            "c": "1995"
+        },
+        "245": {
+            "a": "La biotecnologia vegetal en Chile",
+            "b": "analisis de sus oportunidades y limaciones",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Santiago (Chile)",
+                "b": "Organização das Nações Unidas para Agricultura e Alimentação",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "124"
+            }
+        ],
+        "650": [
+            {
+                "a": "Biotecnologia",
+                "z": "Chile",
+                "x": "Meio ambiente"
+            },
+            {
+                "a": "Biotecnologia vegetal",
+                "z": "Chile"
+            }
+        ],
+        "710": [
+            {
+                "a": "Organização das Nações Unidas para Agricultura e Alimentação. Regional Office for Latin America and the Caribbean",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

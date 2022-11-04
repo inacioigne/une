@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001963",
+        "005": "20190812095432.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42COBOL",
+            "b": "B327p",
+            "c": "1977"
+        },
+        "100": {
+            "a": "Bastos, Alex C"
+        },
+        "245": {
+            "a": "Programação COBOL",
+            "c": "Alex C. Bastos",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Livros Técnicos e Científicos",
+                "c": "1977"
+            }
+        ],
+        "300": [
+            {
+                "a": "xvi, 316",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Aplicações de computadores"
+            }
+        ],
+        "505": [
+            {
+                "a": "1. Conceitos básicos de programação -- 2. Idéia básica do COBOL -- 3. Data division -- 4. File section -- 5. Procedure division -- 6. Procedure division (cont.) -- 7. Procedure division (cont.) -- 8. Procedure division (cont.) -- 9. Indexação -- 10. Revisão do desvio incondicional go to -- 11. Dispositivos auxiliares da programação COBOL -- 12. Pesquisa de tabelas - cláusulas search - classificação de informações - cláusula sort -- 13. Programação modular - conceitos de programação COBOL avançada -- 14. Gerador de relatórios -- 15. Armazenamento em dispositivos de acesso direto - discos magnéticos - organização dos arquivos -- 16. Arquivos seqüênciais -- 17. Arquivos de acesso direto - criação e atualização - comandos COBOL - métodos de randomização e sinônimos -- 18. Arquivos de organização relativa e indexada -- Apêndice A - Teleprocessamento - dispositivos COBOL -- Apêndice B - Palavras reservadas ao COBOL ANSI implantado no computador IBM/370."
+            }
+        ],
+        "550": {
+            "a": "Publicado em convênio com a Fundação Nacional de Material Escolar, Ministério da Educação e Cultura e com a Comissão de Coordenação das Atividades de Processamento eletrónico, Secretaria do Planejamento da Presidência da Republica. Publicado em regime de co-edição da FENAME/MEC e da CAPRE/SEPLAN."
+        },
+        "650": [
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "COBOL"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

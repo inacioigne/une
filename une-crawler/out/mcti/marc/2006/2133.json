@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002133",
+        "005": "20190809145030.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451.9",
+            "b": "M939g",
+            "c": "1990"
+        },
+        "245": {
+            "a": "Microsoft MS-DOS, guia do usuário",
+            "b": "sistema operacional, versão 4",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Microtec",
+                "c": "1990"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (paginação irregular)",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "3 impressão."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistemas operacionais (Computadores)",
+                "x": "MS-DOS (Sistema operacional de computador)"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            },
+            {
+                "a": "Manual do usuário"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

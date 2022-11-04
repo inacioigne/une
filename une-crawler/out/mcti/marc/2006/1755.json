@@ -1,0 +1,73 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001755",
+        "005": "20190809120510.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "62:005(063)",
+            "b": "S471s",
+            "c": "[1987]"
+        },
+        "111": {
+            "a": "Seminario Latinoamericano de Gestion Tecnologica",
+            "c": "Ciudad de México, México",
+            "d": "1987",
+            "n": "2"
+        },
+        "245": {
+            "a": "Memorias, II Seminario Latinoamericano de Gestion Tecnologica",
+            "b": "29 al 30 de septiembre de 1987, Ciudad de Mexico",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[México",
+                "b": "s.n.",
+                "c": "1987]"
+            }
+        ],
+        "300": [
+            {
+                "a": "830",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Gestão tecnológica",
+                "x": "Congressos, eventos, encontros",
+                "z": "América Latina"
+            },
+            {
+                "a": "Inovação tecnológica",
+                "x": "Congressos, eventos, encontros",
+                "z": "América Latina"
+            },
+            {
+                "a": "Desenvolvimento tecnológico",
+                "x": "Congressos, eventos, encontros",
+                "z": "América Latina"
+            },
+            {
+                "a": "Tecnologia de ponta",
+                "x": "Congressos, eventos, encontros",
+                "z": "América Latina"
+            },
+            {
+                "a": "Parque tecnológico",
+                "x": "Congressos, eventos, encontros",
+                "z": "América Latina"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

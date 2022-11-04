@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004081",
+        "005": "20190805134847.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004",
+            "b": "I61",
+            "c": "[198-?]"
+        },
+        "245": {
+            "a": "IBM",
+            "b": "estratégia para os anos 80",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Compucenter",
+                "c": "[198-?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "146",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Cadernos de informática. Série Relatórios de Tecnologia",
+                "v": "1"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Empresas"
+            },
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Arquitetura de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

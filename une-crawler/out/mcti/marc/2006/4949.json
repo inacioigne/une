@@ -1,0 +1,77 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004949",
+        "005": "20190814175012.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "574.1(213.56:811)",
+            "b": "B615",
+            "d": "INPA",
+            "c": "2000"
+        },
+        "110": {
+            "a": "Serviço Brasileiro de Apoio às Micro e Pequenas Empresas"
+        },
+        "245": {
+            "a": "Biodiversidade amazônica",
+            "b": "exemplos e estratégias de utilização",
+            "h": "Impresso",
+            "c": "autor corporativo: Instituto Nacional de Pesquisas da Amazônia, Programa Piloto para a Proteção das Florestas Tropicais do Brasil"
+        },
+        "260": [
+            {
+                "a": "Manaus",
+                "b": "Instituto Nacional de Pesquisas da Amazônia",
+                "c": "2000"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "409",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Floresta Amazônica",
+                "x": "Noção de Conservação"
+            },
+            {
+                "a": "Biodiversidade",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Desenvolvimento sustentável",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Recursos florestais"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto Nacional de Pesquisas da Amazônia (Brasil)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Programa Piloto para a Proteção das Florestas Tropicais do Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

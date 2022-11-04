@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "00559nam  2200157 i 4500",
+        "001": "000000220",
+        "005": "20190726110740.0",
+        "007": "t",
+        "008": "020507s1981    fr d|||||     000|0 fre|d"
+    },
+    "datafield": {
+        "020": {
+            "a": "2110006692"
+        },
+        "029": {
+            "a": "0000721816"
+        },
+        "035": {
+            "a": "721816"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "023.4",
+            "b": "T254f",
+            "c": "1981"
+        },
+        "100": {
+            "a": "Tébéka, Jacques"
+        },
+        "245": {
+            "a": "La formation des spécialistes informaticiens ou la révolution informatique ne peut s'accomplir sans informaticiens",
+            "b": "Rapport á Monsieur le Premier ministre",
+            "c": "Jacques Tébéka",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "La Documentation Française",
+                "c": "1981"
+            }
+        ],
+        "300": [
+            {
+                "a": "224",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Analistas de sistemas",
+                "x": "Formação profissional",
+                "z": "França"
+            },
+            {
+                "a": "Informática",
+                "x": "Tendências",
+                "z": "França"
+            },
+            {
+                "a": "Processamento de dados",
+                "x": "Tendências",
+                "z": "França"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004547",
+        "005": "20190801140736.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "2550400356"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6:008(71)",
+            "b": "C212c",
+            "c": "2002"
+        },
+        "100": {
+            "a": "Robitaille, Jean-Pierre"
+        },
+        "245": {
+            "a": "Enquête sur la culture scientifique et technique des Québécoises et des Québécois",
+            "h": "Impresso",
+            "c": "Jean-Pierre Robitaille, Mathieu Albert, Christophe Marchal"
+        },
+        "260": [
+            {
+                "a": "Sainte-Foy, Québec",
+                "b": "Conseil de la science et de la technologie",
+                "c": "2002"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiv, 244 p.",
+                "b": "il., tabs., grafs."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência",
+                "x": "Aspectos sociais",
+                "z": "Québec, Canadá"
+            },
+            {
+                "a": "Inovação tecnológica",
+                "z": "Québec, Canadá"
+            },
+            {
+                "a": "Cultura",
+                "x": "Ciência",
+                "z": "Québec, Canadá"
+            },
+            {
+                "a": "Ciência e civilização"
+            }
+        ],
+        "700": [
+            {
+                "a": "Albert, Mathieu",
+                "e": "Realizador"
+            },
+            {
+                "a": "Marchal, Christophe",
+                "e": "Realizador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

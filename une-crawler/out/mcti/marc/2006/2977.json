@@ -1,0 +1,52 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002977",
+        "005": "20190813131621.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.382",
+            "b": "C738",
+            "c": "=03.111 1977"
+        },
+        "245": {
+            "a": "Computadores e computação",
+            "b": "textos do Scientific American",
+            "c": "Com introdução de Robert R. Fenichel, Joseph Weizenbaum",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Perspectiva",
+                "c": "1977"
+            }
+        ],
+        "300": [
+            {
+                "a": "332",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Computadores"
+            },
+            {
+                "a": "Inteligência artificial"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

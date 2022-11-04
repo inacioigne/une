@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005693",
+        "005": "20190808152356.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "090": {
+            "a": "004.4(81)(063)",
+            "b": "I61p",
+            "c": "1990"
+        },
+        "111": {
+            "a": "International Workshop on the Brazilian Software Plant Project",
+            "c": "Campinas, SP",
+            "d": "1990",
+            "n": "2"
+        },
+        "245": {
+            "a": "Proceedings of 2nd International Workshop on the Brazilian Software Plant Project",
+            "h": "Impresso",
+            "c": "Empresa Brasileira de Pesquisa Agropecuária"
+        },
+        "260": [
+            {
+                "a": "Campinas",
+                "b": "Banco do Brasil",
+                "c": "1990"
+            }
+        ],
+        "300": [
+            {
+                "a": "169",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia de software",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Indústria de software",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "710": [
+            {
+                "a": "Empresa Brasileira de Pesquisa Agropecuária",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Centro Tecnológico para Informática",
+                "c": "Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

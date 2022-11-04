@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003545",
+        "005": "20190807185904.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4'5(81)(063)",
+            "b": "S471q",
+            "c": "1978"
+        },
+        "111": {
+            "a": "Seminário Integrado de Software e Hardware",
+            "c": "Rio de Janeiro, RJ",
+            "d": "1978",
+            "n": "5"
+        },
+        "245": {
+            "a": "5º Seminário Integrado de Software e Hardware Nacionais",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Universidade Federal do Rio de Janeiro",
+                "c": "1978"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Ciência da computação",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Software",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Hardware",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

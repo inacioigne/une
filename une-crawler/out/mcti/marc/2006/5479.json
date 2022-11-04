@@ -1,0 +1,78 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005479",
+        "005": "20190807135857.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "681.5:336.7(063)",
+            "b": "C749a",
+            "c": "1981"
+        },
+        "111": {
+            "a": "Congreso Latinoamericano de Automatización",
+            "c": "Bogotá, Colombia",
+            "d": "1981",
+            "n": "8"
+        },
+        "245": {
+            "a": "La automatización y la gerencia financiera",
+            "b": "CLAB 81, VIII Congreso Latinoamericano de Automatización Bancaria",
+            "c": "CLAB 81, VIII Congreso Latinoamericano de Automatización Bancaria ; [traductores, Patricia Pareja y Rosario Camacho]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Bogotá",
+                "b": "Asociación Bancaria de Colombia",
+                "c": "1981"
+            }
+        ],
+        "300": [
+            {
+                "a": "300",
+                "c": "24 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Documento especial de la Revista FELABAN",
+                "v": "42"
+            }
+        ],
+        "650": [
+            {
+                "a": "Bancos",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Operação bancária",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Empresas",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "710": [
+            {
+                "a": "Asociación Bancaria de Colombia",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Federación Latinoamericana de Bancos",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

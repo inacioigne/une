@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003964",
+        "005": "20190808151128.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.421",
+            "b": "S129p",
+            "c": "1986"
+        },
+        "100": {
+            "a": "Sagastume, Marta"
+        },
+        "245": {
+            "a": "Problemas, lenguajes y algoritmos",
+            "c": "Marta Sagastume, Grabriel Baum",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Campinas",
+                "b": "Universidade Estadual de Campinas",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "165",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Linguagem de programação (Computadores)"
+            },
+            {
+                "a": "Algoritmos"
+            }
+        ],
+        "700": [
+            {
+                "a": "Baum, Gabriel A",
+                "d": "1954-",
+                "e": "Coautor"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Campinas, SP",
+                "d": "1986",
+                "n": "1"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

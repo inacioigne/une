@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004017",
+        "005": "20190806131959.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "008025686"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "005.591.6:005.912",
+            "b": "I61",
+            "c": "1982"
+        },
+        "245": {
+            "a": "Integrated office systems",
+            "c": "Editor, A. V. Stokes",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Berkshire, [Inglaterra]",
+                "b": "Pergamon Infotech",
+                "c": "1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "363",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "State of the art report",
+                "v": "série 10, n. 5"
+            }
+        ],
+        "650": [
+            {
+                "a": "Automação de escritório"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            },
+            {
+                "a": "Informática"
+            }
+        ],
+        "700": [
+            {
+                "a": "Stokes, Adrian V",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

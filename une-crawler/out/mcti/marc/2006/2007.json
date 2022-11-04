@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002007",
+        "005": "20190813164131.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004",
+            "b": "R175c",
+            "c": "[1979]"
+        },
+        "100": {
+            "a": "Ramos, Raimundo Amora"
+        },
+        "245": {
+            "a": "Coleta de dados com consistência local para um terminal inteligente",
+            "c": "Raimundo Amora Ramos"
+        },
+        "260": [
+            {
+                "a": "[Rio de Janeiro",
+                "b": "s.n.",
+                "c": "1979]"
+            }
+        ],
+        "300": [
+            {
+                "a": "116 f.",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Trabalho apresentado no Concurso Nacional de textos sobre processamento de dados, promovido pela Comissção de Coordenação das Atividades de Processamento Eletrônico (CAPRE) e a Fundação Nacional de Material Escolar (FENAME)."
+            }
+        ],
+        "650": [
+            {
+                "a": "Processamento de dados"
+            },
+            {
+                "a": "Terminal inteligente"
+            },
+            {
+                "a": "Sistema de informação"
+            }
+        ],
+        "711": [
+            {
+                "a": "Concurso Nacional de Textos sobre Processamento de Dados",
+                "c": "Brasília, DF",
+                "d": "1979",
+                "n": "1"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

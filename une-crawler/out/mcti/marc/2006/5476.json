@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005476",
+        "005": "20190802100634.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "081860686x"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.891(063)",
+            "b": "E96e",
+            "c": "1985"
+        },
+        "111": {
+            "a": "Expert Systems in Government Symposium",
+            "c": "McLean, Virginia, Estados Unidos",
+            "d": "1985"
+        },
+        "245": {
+            "a": "Expert Systems in Government Symposium",
+            "c": "Kamal N. Karna, editor",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "IEEE Computer Society Press",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxiii, 694 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema especialista",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Governo",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Karna, Kamal N",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "IEEE Computer Society",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

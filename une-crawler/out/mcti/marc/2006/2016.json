@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002016",
+        "005": "20190801122252.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "005.342",
+            "b": "E55",
+            "c": "2000"
+        },
+        "245": {
+            "a": "Empreendedorismo",
+            "b": "ciência, técnica e arte",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto Euvaldo Lodi",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "100"
+            }
+        ],
+        "650": [
+            {
+                "a": "Gestão",
+                "x": "Aprendizagem"
+            },
+            {
+                "a": "Formação profissional"
+            },
+            {
+                "a": "Criatividade"
+            },
+            {
+                "a": "Administração de empresas",
+                "x": "Inovação"
+            },
+            {
+                "a": "Estratégia empresarial"
+            },
+            {
+                "a": "Empresário",
+                "x": "Comportamento"
+            },
+            {
+                "a": "Empreendedorismo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

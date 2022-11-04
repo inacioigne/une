@@ -1,0 +1,80 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005727",
+        "005": "20190808165137.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0879422173"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.732",
+            "b": "A244",
+            "c": "1987"
+        },
+        "245": {
+            "a": "Advances in local area networks",
+            "c": "edited by Karl Kümmerle, Fouad A. Tobagi, John O. Limb",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "IEEE Communications",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 604 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Frontiers in communications"
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede local"
+            },
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Arquitetura de rede de computador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Kümmerle, Karl",
+                "e": "Editor"
+            },
+            {
+                "a": "Limb, J. O",
+                "q": "John O.",
+                "e": "Editor"
+            },
+            {
+                "a": "Tobagi, Fouad A",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "IEEE Communications Society",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005790",
+        "005": "20190807111744.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.82",
+            "b": "S263i",
+            "c": "1988"
+        },
+        "100": {
+            "a": "Savadovsky, Pedro"
+        },
+        "245": {
+            "a": "Introdução ao projeto de interfaces em linguagem natural",
+            "c": "Pedro Savadovsky",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Sid Informática",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "177"
+            }
+        ],
+        "490": [
+            {
+                "a": "Projeto estra"
+            }
+        ],
+        "650": [
+            {
+                "a": "Teoria da computação"
+            },
+            {
+                "a": "Linguística"
+            },
+            {
+                "a": "Linguagem natural"
+            },
+            {
+                "a": "Lingüística computacional"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

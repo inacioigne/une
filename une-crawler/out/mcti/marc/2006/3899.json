@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003899",
+        "005": "20190813160211.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0201144603"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "519.72",
+            "b": "M156c",
+            "c": "1980"
+        },
+        "100": {
+            "a": "Mackenzie, Charles E"
+        },
+        "245": {
+            "a": "Coded character sets",
+            "b": "history and development",
+            "c": "Charles E. Mackenzie",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Reading, Massachusetts",
+                "b": "Addison-Wesley",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxi, 513 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "The Systems programming series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Teoria da informação",
+                "x": "Aspectos matemáticos"
+            },
+            {
+                "a": "Processamento de dados"
+            },
+            {
+                "a": "Reconhecimento de caracteres"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

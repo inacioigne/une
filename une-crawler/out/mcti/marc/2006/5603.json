@@ -1,0 +1,74 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005603",
+        "005": "20190729151937.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621-52",
+            "b": "K95c",
+            "c": "1988"
+        },
+        "100": {
+            "a": "Kuchen, Benjamín"
+        },
+        "245": {
+            "a": "Control digital",
+            "c": "Benjamín Kuchen, Ricardo Carelli, Adrián Gambier",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Buenos Aires",
+                "b": "Kapelusz",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "236",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Este livro faz parte da coleção de livros-textos escritos para a III Escola Brasileiro-Argentina de Informática (III EBAI), realizada em Curitiba, PR, Brasil, de 25/01 a 07/02/1988."
+            }
+        ],
+        "650": [
+            {
+                "a": "Controle automático"
+            },
+            {
+                "a": "Controle de processo"
+            }
+        ],
+        "700": [
+            {
+                "a": "Carelli, Ricardo",
+                "e": "Coautor"
+            },
+            {
+                "a": "Gambeir, Adrián",
+                "e": "Coautor"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Curitiba, PR",
+                "d": "1988",
+                "n": "3"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

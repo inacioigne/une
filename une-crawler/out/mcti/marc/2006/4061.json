@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004061",
+        "005": "20190808131531.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.896",
+            "b": "M149",
+            "c": "1980"
+        },
+        "245": {
+            "a": "Machine intelligence and robotics",
+            "b": "report of the NASA Study Group : final report",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Springfield [Estados Unidos]",
+                "b": "National Technical Information Service",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (paginação irregular)",
+                "b": "il."
+            }
+        ],
+        "610": [
+            {
+                "a": "Estados Unidos. National Aeronautics and Space Administration",
+                "b": "National Aeronautics and Space Administration"
+            }
+        ],
+        "650": [
+            {
+                "a": "Exploração espacial",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Computadores",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Robótica"
+            },
+            {
+                "a": "Máquinas"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

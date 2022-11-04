@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004624",
+        "005": "20190731093740.0",
+        "007": "t",
+        "008": "                                   mul"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "504.122(213.56:811)",
+            "b": "D453",
+            "c": "[1997]",
+            "d": "INPE"
+        },
+        "245": {
+            "a": "Desflorestamento, 1995-1997",
+            "b": "Amazônia",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "Deforestation, 1995-1997"
+            }
+        ],
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto Nacional de Pesquisas Espaciais",
+                "c": "[1997]"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "[20 f.]",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "O monitoramento do desflorestamento bruto - Monitorando a floresta - INPE - Áreas críticas para a estimativa de 1997 - Principais perguntas e respostas sobre o desflorestamento da Amazônia."
+            }
+        ],
+        "520": {
+            "a": "O PRODES é considerado o maior projeto de monitoramento de florestas do mundo utilizando técnicas de sensoriamento remoto por satélite. O INPE há vários anos analisa as imagens do satélite Landsat para acompanhar a evolução do desflorestamento bruto da Amazônia. Este esforço gerou resultados cobrindo o período de 1974 a 1994. O presente estudo, relativo aos anos de 1995, 1996 e 1997, atualiza a série histórica da extensão e taxa de desflorestamento bruto da Amazônia e fornece uma visão mais atualizada que permite explorar as origens do desflorestamento e oferecer indicadores para orientar as diversas políticas públicas na região. Pela primeira vez, o INPE disponibiliza, além das estimativas da extensão e taxa de desflorestamento bruto por Unidade da Federação, a distribuição das alterações por grande tipos de vegetação e por tamanho de áreas desflorestadas."
+        },
+        "650": [
+            {
+                "a": "Desmatamento",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Monitoramento ambiental",
+                "x": "Reconhecimento aéreo"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

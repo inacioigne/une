@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001177",
+        "005": "20190809191140.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "681.5:007.5(817.4)",
+            "b": "S615c",
+            "c": "2003"
+        },
+        "110": {
+            "a": "Sindicato da Indústria da Informação do Distrito Federal"
+        },
+        "245": {
+            "a": "Cadeia produtiva da indústria da informação do Distrito Federal",
+            "h": "Impresso",
+            "c": "autor corporativo: Serviço Brasileiro de Apoio às Micro e Pequenas Empresas"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Sindicato das Indústrias da Informação do Distrito Federal",
+                "c": "2003"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "44",
+                "b": "il., color."
+            }
+        ],
+        "650": [
+            {
+                "a": "Tecnologia da informação"
+            },
+            {
+                "a": "Comércio eletrônico",
+                "z": "Brasil"
+            },
+            {
+                "a": "Telecomunicações"
+            }
+        ],
+        "710": [
+            {
+                "a": "Serviço Brasileiro de Apoio às Micro e Pequenas Empresas",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Serviço Nacional de Aprendizagem Industrial",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004968",
+        "005": "20190812164502.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "620.9(81)(063)",
+            "b": "C749a",
+            "c": "1990"
+        },
+        "111": {
+            "a": "Congresso Brasileiro de Energia",
+            "c": "Rio de Janeiro, RJ",
+            "d": "1990",
+            "n": "5"
+        },
+        "245": {
+            "a": "Anais do V Congresso Brasileiro de Energia",
+            "b": "Rio de Janeiro, novembro de 90",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Universidade Federal do Rio de Janeiro",
+                "c": "1990"
+            }
+        ],
+        "300": [
+            {
+                "a": "3 v.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Energia",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Recursos naturais",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

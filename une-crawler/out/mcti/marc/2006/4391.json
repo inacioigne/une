@@ -1,0 +1,52 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004391",
+        "005": "20190806114240.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "L382i",
+            "c": "1982"
+        },
+        "100": {
+            "a": "Laurent, Jean-Pierre"
+        },
+        "245": {
+            "a": "Initiation à l'analyse et à la programmation",
+            "c": "Jean-Pierre Laurent",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Dunod",
+                "c": "1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "99"
+            }
+        ],
+        "490": [
+            {
+                "a": "Dunod informatique"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

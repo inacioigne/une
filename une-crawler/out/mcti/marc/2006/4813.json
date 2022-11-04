@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004813",
+        "005": "20190807150126.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "52:061.1(81)(047)",
+            "b": "L123t",
+            "c": "1999"
+        },
+        "245": {
+            "a": "Laboratório Nacional de Astrofísica",
+            "b": "technical & scientific report",
+            "h": "Impresso",
+            "c": "Ministério da Ciência e Tecnologia"
+        },
+        "260": [
+            {
+                "a": "Itajubá, MG",
+                "b": "Laboratório Nacional de Astrofísica",
+                "c": "1999"
+            }
+        ],
+        "300": [
+            {
+                "a": "54",
+                "b": "il."
+            }
+        ],
+        "610": [
+            {
+                "a": "Laboratório Nacional de Astrofísica (Brasil)",
+                "x": "Relatórios"
+            }
+        ],
+        "650": [
+            {
+                "a": "Astrofísica"
+            },
+            {
+                "a": "Astronomia"
+            }
+        ],
+        "710": [
+            {
+                "a": "Brasil. Ministério da Ciência e Tecnologia",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

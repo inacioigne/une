@@ -1,0 +1,73 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001763",
+        "005": "20190814184525.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "620.91(81)",
+            "b": "B823ba",
+            "c": "2005"
+        },
+        "110": {
+            "a": "Brasil. Ministério das Minas e Energia"
+        },
+        "245": {
+            "a": "Balanço energético nacional 2005",
+            "b": "ano base 2004 : sumário executivo",
+            "h": "Impresso",
+            "c": "Ministério das Minas e Energia"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Empresa de Pesquisa Energética",
+                "c": "2005"
+            }
+        ],
+        "300": [
+            {
+                "a": "60",
+                "b": "il., tab., graf."
+            }
+        ],
+        "520": {
+            "a": "O Balanço Energético Nacional é o documento oficial do Ministério de Minas e Energia, destinado a registrar estatísticas de energia"
+        },
+        "650": [
+            {
+                "a": "Energia",
+                "z": "Brasil",
+                "x": "Consumo (Economia)"
+            },
+            {
+                "a": "Recursos energéticos",
+                "x": "Estatísticas",
+                "z": "Brasil"
+            },
+            {
+                "a": "Balanço energético (Geofísica)",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Empresa de Pesquisa Energética (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "Texto Completo",
+            "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\1763-Balanco_energetico_nacional_2005_sumario_executivo.pdf"
+        },
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

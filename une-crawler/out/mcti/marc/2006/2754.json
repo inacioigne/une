@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002754",
+        "005": "20190814171955.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "551.521.37(084.4)",
+            "b": "I59a",
+            "d": "R",
+            "c": "1998"
+        },
+        "110": {
+            "a": "Instituto Nacional de Metereologia (Brasil)"
+        },
+        "245": {
+            "a": "Atlas de irradiação solar do Brasil",
+            "b": "1. versão para irradiação global derivada de satélite e validada na superfície",
+            "h": "Impresso",
+            "c": "Instituto Nacional de Metereologia"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto Nacional de Metereologia",
+                "c": "1998"
+            }
+        ],
+        "300": [
+            {
+                "a": "58",
+                "b": "il., + 1 CD-Rom"
+            }
+        ],
+        "650": [
+            {
+                "a": "Energia solar"
+            },
+            {
+                "a": "Fonte alternativa de energia"
+            },
+            {
+                "a": "Recursos energéticos"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

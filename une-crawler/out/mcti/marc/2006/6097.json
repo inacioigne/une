@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000006097",
+        "005": "20190807185603.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "681.5(100)(063)",
+            "b": "I61e",
+            "c": "1994"
+        },
+        "111": {
+            "a": "International IFIP WG 10.5 Working Conference on Electronic Design Automation Frameworks",
+            "c": "Gramado, RS",
+            "d": "1994",
+            "n": "4"
+        },
+        "245": {
+            "a": "4th International IFIP WG 10.5 Working Conference on Electronic Design Automation Frameworks",
+            "b": "preprints",
+            "h": "Impresso",
+            "c": "editores Franz J Rammig, Flávio Rech Wagner"
+        },
+        "260": [
+            {
+                "a": "Porto Alegre",
+                "b": "Universidade Federal do Rio Grande do Sul",
+                "c": "1994"
+            }
+        ],
+        "300": [
+            {
+                "a": "242",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia elétrica",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Microeletrônica",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Automação",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Rammig, Franz J",
+                "e": "Editor"
+            },
+            {
+                "a": "Wagner, Flávio Rech",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

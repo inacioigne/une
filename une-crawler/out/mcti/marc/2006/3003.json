@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003003",
+        "005": "20190801091819.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0114453295"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.056:004.891",
+            "b": "K91s",
+            "c": "1972"
+        },
+        "100": {
+            "a": "Krauss, Leonard I"
+        },
+        "245": {
+            "a": "SAFE",
+            "b": "security audit and field evaluation for computer facilities and information systems",
+            "h": "Impresso",
+            "c": "Leonard I Krauss"
+        },
+        "260": [
+            {
+                "a": "Estados Unidos",
+                "b": "AMACOM",
+                "c": "c1972"
+            }
+        ],
+        "300": [
+            {
+                "a": "284",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Segurança"
+            },
+            {
+                "a": "Centros de processamento de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

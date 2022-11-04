@@ -1,0 +1,76 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005165",
+        "005": "20190807131143.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "53",
+            "b": "L864pe",
+            "c": "1995"
+        },
+        "100": {
+            "a": "Lopes, José Leite",
+            "d": "1918-2006"
+        },
+        "245": {
+            "a": "Pedagogical remarks on free field relativistic wave equations and their geometrical nature",
+            "c": "by J. Leite Lopes",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Centro Brasileiro de Pesquisas Físicas",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 f."
+            }
+        ],
+        "490": [
+            {
+                "a": "Notas de Física / CBPF"
+            }
+        ],
+        "500": [
+            {
+                "a": "CBPF-NF-067/95 CBPF-NF-038/95"
+            }
+        ],
+        "520": {
+            "a": "A technique of regarding the line element of space-time appropriate to each field variable as an operator acting on this variable allows a simple derivation of the free field relativistic wave equations, the geometrical nature of which is the line element. An illustrative example is the derivation of Einstein's linear equation for weak gravitational fields and the exact equation in the absence of matter. We may say that the fields contribute to the line-element and thus modify the space-time metric. The geometrical equation for spin 1/2 field allows the proof of the Feynman-Wheeler rule that negative energy fermions propagate backward in time in contrast to the choice of the propagation of positive energy fermions forward in time."
+        },
+        "650": [
+            {
+                "a": "Física"
+            },
+            {
+                "a": "Modelos matemáticos"
+            }
+        ],
+        "710": [
+            {
+                "a": "Centro Brasileiro de Pesquisas Físicas",
+                "c": "Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "Texto completo (CBPF)",
+            "u": "http://cbpfindex.cbpf.br/publication_pdfs/nf03895.2011_06_02_09_41_18.pdf",
+            "z": "Acesso em: 22/11/2016"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

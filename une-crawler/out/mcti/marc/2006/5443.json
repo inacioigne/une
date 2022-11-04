@@ -1,0 +1,47 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005443",
+        "005": "20190806112813.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "090": {
+            "a": "35:005.591.6(815.6)",
+            "b": "I43",
+            "c": "[200-?]"
+        },
+        "245": {
+            "a": "Informatização dos processos administrativos públicos",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Jundiaí, SP",
+                "b": "Prefeitura Municipal de Jundiaí",
+                "c": "[200-?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "[16] f."
+            }
+        ],
+        "650": [
+            {
+                "a": "Processo administrativo",
+                "x": "Automação",
+                "z": "Jundiaí, SP"
+            },
+            {
+                "a": "Administração pública",
+                "x": "Automação",
+                "z": "Jundiaí, SP"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

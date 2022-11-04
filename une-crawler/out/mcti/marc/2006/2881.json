@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002881",
+        "005": "20190813132532.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.38",
+            "b": "S487c",
+            "c": "1970"
+        },
+        "100": {
+            "a": "Serra, Celso Marques Penteado",
+            "d": "1925-"
+        },
+        "245": {
+            "a": "Computadores analógicos e digitais",
+            "c": "Celso Marques Penteado Serra",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "ETEGIL",
+                "c": "1970"
+            }
+        ],
+        "300": [
+            {
+                "a": "xvi, 410",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Computador digital"
+            },
+            {
+                "a": "Computador analógico"
+            },
+            {
+                "a": "Arquitetura de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

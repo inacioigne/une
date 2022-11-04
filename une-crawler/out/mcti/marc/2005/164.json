@@ -1,0 +1,127 @@
+{
+    "controfield": {
+        "000": "01193nam  22002895a 4500",
+        "001": "000000164",
+        "005": "20190812135547.0",
+        "007": "t",
+        "008": "020927s1998    bl a     b   s000 0 por"
+    },
+    "datafield": {
+        "010": {
+            "a": "2002370327"
+        },
+        "020": {
+            "a": "8502027263"
+        },
+        "040": {
+            "a": "DLC",
+            "c": "DLC",
+            "d": "BR-BrMCT"
+        },
+        "042": {
+            "a": "lcode"
+        },
+        "090": {
+            "a": "069-029:5",
+            "b": "C397",
+            "c": "1998"
+        },
+        "245": {
+            "a": "Centros e museus de ciência",
+            "b": "visões e experiências : subsídios para um programa nacional de popularização da ciência",
+            "c": "Silvério Crestana, Miriam Goldman de Castro, Gilson R. de M. Pereira, organizadores ; [autores, Sérgio Mascarenhas ... et al.].",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Universidade de São Paulo, Estação Ciência",
+                "c": "1998"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "239",
+                "b": "il., (principalmente color.)",
+                "c": "24"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e Estado",
+                "z": "Brasil"
+            },
+            {
+                "a": "Museus de ciências",
+                "z": "Brasil",
+                "x": "Educação"
+            },
+            {
+                "a": "Patrimônio histórico",
+                "z": "Brasil"
+            },
+            {
+                "a": "Divulgação científica"
+            }
+        ],
+        "700": [
+            {
+                "a": "Crestana, Silvério",
+                "e": "Organizador"
+            },
+            {
+                "a": "Castro, Miriam Goldman de",
+                "e": "Organizador"
+            },
+            {
+                "a": "Pereira, Gilson R. de M.",
+                "d": "1957-",
+                "e": "Organizador"
+            },
+            {
+                "a": "Mascarenhas, Sérgio",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Universidade de São Paulo",
+                "b": "Estação Ciência",
+                "e": "Corporativo"
+            }
+        ],
+        "906": {
+            "a": "7",
+            "b": "ibc",
+            "c": "origode",
+            "d": "3",
+            "e": "ncip",
+            "f": "20",
+            "g": "y-gencatlg"
+        },
+        "925": {
+            "a": "acquire",
+            "b": "1 shelf copy",
+            "x": "policy default"
+        },
+        "955": {
+            "a": "wr10; 09/27/02; desc"
+        },
+        "985": {
+            "e": "ODE-rj"
+        },
+        "990": {
+            "a": "Monografia"
+        },
+        "991": {
+            "b": "c-GenColl",
+            "o": "am",
+            "p": "00088991643"
+        }
+    }
+}

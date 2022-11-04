@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005184",
+        "005": "20190806131802.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6",
+            "b": "G682i",
+            "c": "1986"
+        },
+        "100": {
+            "a": "Gostkowski, Zygmunt"
+        },
+        "245": {
+            "a": "Integrated approach to indicators for science and technology",
+            "c": "by Zygmunt Gostkowski",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[S.l.]",
+                "b": "UNESCO",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "89"
+            }
+        ],
+        "650": [
+            {
+                "a": "Desenvolvimento tecnológico",
+                "x": "Indicadores"
+            },
+            {
+                "a": "Desenvolvimento científico",
+                "x": "Indicadores"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

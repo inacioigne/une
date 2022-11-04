@@ -1,0 +1,53 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004078",
+        "005": "20180724105819.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.39(81)(094.5)",
+            "b": "L514",
+            "c": "1977"
+        },
+        "245": {
+            "a": "Legislação sobre telecomunicações serviços de telefonia",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Telecomunicações do Rio de Janeiro",
+                "c": "1977"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "197"
+            }
+        ],
+        "650": [
+            {
+                "a": "Telecomunicações",
+                "x": "Serviços"
+            },
+            {
+                "a": "Rede de telecomunicação",
+                "x": "Legislação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

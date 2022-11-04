@@ -1,0 +1,73 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002848",
+        "005": "20190730125155.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0201144670"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.65",
+            "b": "F363d",
+            "c": "1981"
+        },
+        "100": {
+            "a": "Fernandez, Eduardo B",
+            "d": "1936-"
+        },
+        "245": {
+            "a": "Database security and integrity",
+            "c": "Eduardo B. Fernandez, Rita C. Summers, Christopher Wood",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Reading, Massachusetts",
+                "b": "Addison-Wesley",
+                "c": "1981"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiv, 320",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Addison-Wesley systems programming series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Gerenciamento de banco de dados"
+            },
+            {
+                "a": "Proteção de dados"
+            },
+            {
+                "a": "Banco de dados"
+            }
+        ],
+        "700": [
+            {
+                "a": "Summers, Rita C",
+                "e": "Coautor"
+            },
+            {
+                "a": "Wood, Christopher",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

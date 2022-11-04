@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002096",
+        "005": "20190809151938.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8534602239"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.912WORD",
+            "b": "M626p",
+            "c": "=134.3",
+            "d": "1994"
+        },
+        "245": {
+            "a": "Microsoft word 6 for Windows",
+            "b": "passo a passo",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Makron Books",
+                "c": "1994"
+            }
+        ],
+        "300": [
+            {
+                "a": "xlviii, 384 p.",
+                "b": "il., + 1 disquete 3 1/2"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programas de computador",
+                "x": "Word, Microsoft"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            }
+        ],
+        "710": [
+            {
+                "a": "Catapult, Inc",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

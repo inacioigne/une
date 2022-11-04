@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005740",
+        "005": "20190806111507.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "9264129278"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "681.5:007.5",
+            "b": "O68i",
+            "c": "1987"
+        },
+        "110": {
+            "a": "Organização de Cooperação e Desenvolvimento Econômico"
+        },
+        "245": {
+            "a": "Information technology and economic prospects",
+            "h": "Impresso",
+            "c": "Organização de Cooperação e Desenvolvimento Econômico"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Organisation for Economic Co-operation and Development",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "221"
+            }
+        ],
+        "490": [
+            {
+                "a": "Information, computer, communications policy",
+                "v": "12"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informação tecnológica",
+                "x": "Aspectos economicos"
+            },
+            {
+                "a": "Trabalho",
+                "x": "Aspectos sociais"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

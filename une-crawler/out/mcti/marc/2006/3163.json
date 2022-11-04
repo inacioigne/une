@@ -1,0 +1,83 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003163",
+        "005": "20190801152215.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "674.031.746.413",
+            "b": "M528e",
+            "c": "2002"
+        },
+        "100": {
+            "a": "Melo, Julio Eustaquio de"
+        },
+        "245": {
+            "a": "Espécies de madeiras substitutas do mogno",
+            "c": "Julio Eustaquio de Melo, Graciliano M. de Carvalho, Varlone Alves Martins",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Ministério do Meio Ambiente",
+                "c": "2002"
+            }
+        ],
+        "300": [
+            {
+                "a": "34 f.",
+                "b": "il., color",
+                "c": "21"
+            }
+        ],
+        "650": [
+            {
+                "a": "Madeira",
+                "z": "Brasil"
+            },
+            {
+                "a": "Recursos florestais",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Carvalho, Graciliano M. de",
+                "e": "Coautor"
+            },
+            {
+                "a": "Martins, Varlone Alves",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Brasil. Ministério do Meio Ambiente",
+                "b": "Secretaria de Biodiversidade e Florestas",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Programa Nacional de Florestas (Brasil)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Laboratório de Produtos Florestais (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005788",
+        "005": "20190814184842.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.651",
+            "b": "M528b",
+            "c": "1988"
+        },
+        "100": {
+            "a": "Melo, Rubens N.",
+            "q": "Rubens Nascimento"
+        },
+        "245": {
+            "a": "Bancos de dados não convencionais",
+            "b": "a tecnologia do BD e suas novas áreas de aplicações",
+            "c": "Rubens Nascimento Melo",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Campinas",
+                "b": "Universidade Estadual de Campinas",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Banco de dados"
+            },
+            {
+                "a": "Banco de dados orientado a objetos"
+            },
+            {
+                "a": "Sistema de gerenciamento de banco de dados"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola de Computação",
+                "c": "Campinas, SP",
+                "d": "1988",
+                "n": "6"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

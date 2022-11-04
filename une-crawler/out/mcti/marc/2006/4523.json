@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "am   nam  22      a 4500",
+        "001": "000004523",
+        "005": "20190806132039.0",
+        "007": "t",
+        "008": "eng                                eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "656.7",
+            "b": "I61",
+            "c": "c1998"
+        },
+        "245": {
+            "a": "Integrating global air traffic management",
+            "b": "guiding civil aviation into the 21st century",
+            "h": "Impresso",
+            "c": "International Systems and Communications, International Civil Aviation Organization"
+        },
+        "260": [
+            {
+                "a": "Londres (Inglaterra)",
+                "b": "International Systems and Communications",
+                "c": "c1998"
+            }
+        ],
+        "300": [
+            {
+                "a": "298",
+                "b": "il., color"
+            }
+        ],
+        "650": [
+            {
+                "a": "Tráfego aéreo"
+            },
+            {
+                "a": "Direito aéreo"
+            }
+        ],
+        "710": [
+            {
+                "a": "International Systems and Communications",
+                "e": "Corporativo"
+            },
+            {
+                "a": "International Civil Aviation Organization",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

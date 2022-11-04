@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005514",
+        "005": "20190814155054.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0853127530"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.8",
+            "b": "P275a",
+            "c": "1986"
+        },
+        "100": {
+            "a": "Partridge, D.",
+            "d": "1945-",
+            "q": "Derek"
+        },
+        "245": {
+            "a": "Artificial intelligence",
+            "b": "applications in the future of software engineering",
+            "c": "D. Partridge",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Chichester, West Sussex, Inglaterra",
+                "b": "E. Horwood"
+            },
+            {
+                "a": "Nova Iorque",
+                "b": "Halsted Press",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "241",
+                "c": "25 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Ellis Horwood series in artificial intelligence"
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia de software"
+            },
+            {
+                "a": "Inteligência artificial"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

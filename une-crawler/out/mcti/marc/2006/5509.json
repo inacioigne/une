@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005509",
+        "005": "20190814173204.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "005.591.6:339.5",
+            "b": "T224a",
+            "c": "1986"
+        },
+        "100": {
+            "a": "Tauile, José Ricardo",
+            "d": "1945-"
+        },
+        "245": {
+            "a": "Automação e competitividade, tendências no cenário internacional",
+            "c": "José Ricardo Tauile",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Universidade Federal do Rio de Janeiro, Instituto de Economia Industrial",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "161"
+            }
+        ],
+        "490": [
+            {
+                "a": "Texto para discussão / IEI/UFRJ",
+                "v": "n. 100"
+            }
+        ],
+        "650": [
+            {
+                "a": "Competitividade",
+                "x": "Automação"
+            },
+            {
+                "a": "Automação industrial"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

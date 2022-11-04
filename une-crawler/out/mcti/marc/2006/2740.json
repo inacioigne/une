@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002740",
+        "005": "20190805132020.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0884053040"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "M146t",
+            "c": "1975"
+        },
+        "100": {
+            "a": "McGowan, Clement L"
+        },
+        "245": {
+            "a": "Top-down structured programming techniques",
+            "c": "Clement L. McGowan, John R. Kelly",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "1. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Petrocelli/Charter",
+                "c": "1975"
+            }
+        ],
+        "300": [
+            {
+                "a": "vi, 288",
+                "c": "24 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Análise estruturada"
+            },
+            {
+                "a": "Programação estruturada"
+            }
+        ],
+        "700": [
+            {
+                "a": "Kelly, John R.",
+                "d": "1944-",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

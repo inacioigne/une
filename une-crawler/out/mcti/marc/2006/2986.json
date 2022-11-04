@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002986",
+        "005": "20190802104318.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.414.2",
+            "b": "S995",
+            "c": "1974"
+        },
+        "245": {
+            "a": "System analysis techniques",
+            "c": "edited by J. Daniel Couger and Robert W. Knapp",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Wiley",
+                "c": "c1974"
+            }
+        ],
+        "300": [
+            {
+                "a": "viii, 509",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Análise de sistemas"
+            },
+            {
+                "a": "Sistema de Gerenciamento de Informações"
+            },
+            {
+                "a": "Informática"
+            }
+        ],
+        "700": [
+            {
+                "a": "Couger, J. Daniel",
+                "e": "Editor"
+            },
+            {
+                "a": "Knapp, Robert W.",
+                "d": "1935-",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

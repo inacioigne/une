@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004169",
+        "005": "20190812115025.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "341.67:5/6(73)",
+            "b": "N277",
+            "c": "[1995]"
+        },
+        "245": {
+            "a": "National security science and technology strategy",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "Office of Science and Technology Policy",
+                "c": "[1995]"
+            }
+        ],
+        "270": [
+            {
+                "d": "Estados Unidos"
+            }
+        ],
+        "300": [
+            {
+                "a": "71",
+                "b": "il., color"
+            }
+        ],
+        "650": [
+            {
+                "a": "Segurança nacional",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Ciência e tecnologia",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Estratégia nacional",
+                "z": "Estados Unidos"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

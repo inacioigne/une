@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005547",
+        "005": "20190806114209.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "2040154930"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.414.2",
+            "b": "L173i",
+            "c": "1983"
+        },
+        "100": {
+            "a": "Lagarde, Jean de"
+        },
+        "245": {
+            "a": "Initiation à l'analyse des données",
+            "c": "Jean de Lagarde",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Dunod",
+                "c": "1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "ix, 157 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Gestão de projetos"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Processamento de dados"
+            },
+            {
+                "a": "Programação matemática"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

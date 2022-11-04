@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003927",
+        "005": "20190801090318.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "0850121663"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4",
+            "b": "L839d",
+            "c": "1977"
+        },
+        "100": {
+            "a": "Lomax, Jeffrey David"
+        },
+        "245": {
+            "a": "Documentation of software products",
+            "b": "recommendations for producers and users",
+            "c": "by J. D. Lomax",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Manchester [Inglaterra]",
+                "b": "NCC Publications",
+                "c": "1977"
+            }
+        ],
+        "300": [
+            {
+                "a": "xi, 60 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Documentação de sistemas"
+            },
+            {
+                "a": "Software",
+                "x": "Documentação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

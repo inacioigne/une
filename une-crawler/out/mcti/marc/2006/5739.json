@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005739",
+        "005": "20190802104408.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "081860834x"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.2(063)",
+            "b": "C736s",
+            "c": "1988"
+        },
+        "111": {
+            "a": "Comp Euro",
+            "c": "Buxelas, Bélgica",
+            "d": "1988",
+            "n": "2"
+        },
+        "245": {
+            "a": "System design",
+            "b": "concepts, methods, and tools",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "IEEE Computer Society Press",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "ix, 369",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Desenvolvimento de sistemas"
+            },
+            {
+                "a": "Computadores"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "710": [
+            {
+                "a": "IEEE Computer Society",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

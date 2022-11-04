@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005593",
+        "005": "20190813104836.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8521303475"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.438:004.356",
+            "b": "M676c",
+            "c": "1985"
+        },
+        "100": {
+            "a": "Mirshawka, Victor",
+            "d": "1941-"
+        },
+        "245": {
+            "a": "Conexão Grafix-IBM-PC e compatíveis",
+            "c": "Victor Mirshawka",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Nobel",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "256",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "Basic (Linguagem de programação de computador)"
+            },
+            {
+                "a": "Impressoras (Computadores)"
+            },
+            {
+                "a": "Microprogramação"
+            },
+            {
+                "a": "Equipamento periférico"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

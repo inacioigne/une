@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000886",
+        "005": "20190726141350.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6",
+            "b": "S416",
+            "c": "1987"
+        },
+        "245": {
+            "a": "Science and technology",
+            "c": "compiled by Eston T. White",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "National Defense University",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "261",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "National security management series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e tecnologia",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Ciência e civilização"
+            },
+            {
+                "a": "Mudança tecnológica"
+            },
+            {
+                "a": "Tecnologia militar"
+            },
+            {
+                "a": "Transferência de informação"
+            }
+        ],
+        "700": [
+            {
+                "a": "White, Eston T",
+                "e": "Compilador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

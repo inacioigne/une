@@ -1,0 +1,54 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005470",
+        "005": "20190802110616.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.31",
+            "b": "D815f",
+            "c": "1985"
+        },
+        "100": {
+            "a": "Dubois, Roland"
+        },
+        "245": {
+            "a": "Les microprocesseurs 16 bits a la loupe",
+            "c": "Rolan Dubois",
+            "b": "1. familles 8086.8088 et Z 8000 et leurs couplers",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Eyrolles",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "395"
+            }
+        ],
+        "650": [
+            {
+                "a": "Microprocessador"
+            },
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003957",
+        "005": "20190801162511.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "A553e",
+            "c": "1981"
+        },
+        "100": {
+            "a": "Andrade, Dimas A. de"
+        },
+        "245": {
+            "a": "Um estudo comparativo de metodologias de programação",
+            "c": "Por Dimas A. de Andrade, Antonio F. Veras, Rubens N. Melo",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Pontifícia Universidade Católica do Rio de Janeiro",
+                "c": "1981"
+            }
+        ],
+        "300": [
+            {
+                "a": "101"
+            }
+        ],
+        "490": [
+            {
+                "a": "Série : Monografias em Ciência da Computação",
+                "v": "n. 15/81"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Programação estruturada"
+            },
+            {
+                "a": "Programação lógica"
+            }
+        ],
+        "700": [
+            {
+                "a": "Veras, Antonio F",
+                "e": "Coautor"
+            },
+            {
+                "a": "Melo, Rubens N.",
+                "q": "Rubens Nascimento",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Financiadora de Estudos e Projetos (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

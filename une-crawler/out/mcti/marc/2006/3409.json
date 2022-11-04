@@ -1,0 +1,74 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003409",
+        "005": "20190801101756.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "8585761237"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6(81)",
+            "b": "S416",
+            "c": "2002"
+        },
+        "245": {
+            "a": "Science in Brazil",
+            "c": "organized by Antonio Carlos Campos de Carvalho, Diogenes de Almeida Campos, Luiz Bevilacqua",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Academia Brasileira de Ciências",
+                "c": "2002"
+            }
+        ],
+        "300": [
+            {
+                "a": "315",
+                "b": "il., tab."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência",
+                "z": "Brasil"
+            },
+            {
+                "a": "Ciência e tecnologia",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Carvalho, Antonio Carlos Campos de",
+                "e": "Organizador"
+            },
+            {
+                "a": "Campos, Diogenes de Almeida",
+                "e": "Organizador"
+            },
+            {
+                "a": "Bevilacqua, Luiz",
+                "d": "1937-",
+                "e": "Organizador"
+            }
+        ],
+        "710": [
+            {
+                "a": "Academia Brasileira de Ciências",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

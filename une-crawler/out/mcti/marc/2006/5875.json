@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005875",
+        "005": "20190802140925.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6:338",
+            "b": "C824t",
+            "c": "1989"
+        },
+        "100": {
+            "a": "Correa, Carlos María"
+        },
+        "245": {
+            "a": "Tecnologia y desarrollo de la informatica en el contexto norte-sur",
+            "c": "Carlos María Correa",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Buenos Aires",
+                "b": "Universitaria de Buenos Aires",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "220"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e tecnologia"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Desenvolvimento tecnológico"
+            },
+            {
+                "a": "Indústria de computador"
+            },
+            {
+                "a": "Indústria de software"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

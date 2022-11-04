@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005789",
+        "005": "20190807110633.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.432.42",
+            "b": "M514i",
+            "c": "1988"
+        },
+        "100": {
+            "a": "Meira, Silvio Romero de Lemos"
+        },
+        "245": {
+            "a": "Introdução a programação funcional",
+            "c": "Silvio Romero de Lemos Meira",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Campinas",
+                "b": "Universidade Estadual de Campinas",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "290",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Linguagem de programação (Computadores)"
+            },
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Computação aplicada"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola de Computação",
+                "c": "Campinas, SP",
+                "d": "1988",
+                "n": "6"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

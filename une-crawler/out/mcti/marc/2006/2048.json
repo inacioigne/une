@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002048",
+        "005": "20190809151621.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "1556156197 (v.3)"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451.9",
+            "b": "M626o",
+            "c": "1993"
+        },
+        "245": {
+            "a": "Microsoft Windows NT resource kit",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Redmont, Washington",
+                "b": "Microsoft Press",
+                "c": "1993"
+            }
+        ],
+        "300": [
+            {
+                "a": "3 v.",
+                "b": "il., + 3 disquetes (3 1/2)"
+            }
+        ],
+        "505": [
+            {
+                "a": "v. 1. Windows NT resource guide -- v. 2. Messages -- v. 3. Optimizing Windows NT / Russ Blake"
+            }
+        ],
+        "650": [
+            {
+                "a": "Comunicação de dados"
+            },
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Sistemas operacionais (Computadores)",
+                "x": "Manual"
+            },
+            {
+                "a": "Programas de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

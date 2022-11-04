@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001639",
+        "005": "20190801150602.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "581",
+            "b": "F383e",
+            "c": "1993",
+            "d": "INPA"
+        },
+        "100": {
+            "a": "Ferreira, Carlos Alberto Cid"
+        },
+        "245": {
+            "a": "Espécies botânicas do campus do INPA",
+            "b": "arbustivas e arbóreas",
+            "c": "Carlos Alberto Cid Ferreira, José Ferreira Ramos",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Manaus",
+                "b": "Instituto Nacional de Pesquisas da Amazônia",
+                "c": "1993"
+            }
+        ],
+        "300": [
+            {
+                "a": "17 f.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Botânica",
+                "x": "Catálogo",
+                "z": "Amazônia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Ramos, José Ferreira",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto Nacional de Pesquisas da Amazônia (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

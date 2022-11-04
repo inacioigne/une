@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005441",
+        "005": "20190730091856.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.416",
+            "b": "T231c",
+            "c": "1987"
+        },
+        "100": {
+            "a": "Tavares, Lourival",
+            "d": "1939-"
+        },
+        "245": {
+            "a": "Controle de manutenção por computador",
+            "c": "Lourival Augusto Tavares",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "JR Ed. Técnica",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "xvi, 214 p",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Tecnologia brasileira",
+                "v": "n. 2"
+            }
+        ],
+        "650": [
+            {
+                "a": "Manutenção",
+                "x": "Controle"
+            },
+            {
+                "a": "Controle automático"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Computadores",
+                "x": "Comércio"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

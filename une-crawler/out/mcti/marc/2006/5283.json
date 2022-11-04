@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005283",
+        "005": "20190801164239.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004(7/8=13)",
+            "b": "C824s",
+            "c": "1990"
+        },
+        "100": {
+            "a": "Correa, Carlos María"
+        },
+        "245": {
+            "a": "Situacion de la informatica en America Latina puntos de partida para una accion regional",
+            "c": "preparado por Carlos María Correa",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[S.l.]",
+                "b": "Organização das Nações Unidas para o Desenvolvimento Industrial",
+                "c": "1990"
+            }
+        ],
+        "300": [
+            {
+                "a": "85"
+            }
+        ],
+        "500": [
+            {
+                "a": "IPCT.111 (SPEC.)"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "z": "América Latina"
+            }
+        ],
+        "710": [
+            {
+                "a": "Organização das Nações Unidas para o Desenvolvimento Industrial",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

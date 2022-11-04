@@ -1,0 +1,78 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004321",
+        "005": "20190814162356.0",
+        "007": "t",
+        "008": "                                   mul"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "608.3:63",
+            "b": "B616",
+            "c": "1997"
+        },
+        "245": {
+            "a": "Bioseguridad agropecuaria",
+            "b": "hacia la comercialización de vegetales y vacunas genéticamente modificados",
+            "h": "Impresso",
+            "c": "autor corporativo: Secretaría de Agricultura, Ganadería, Pesca y Alimentación de Argentina, Departamento do Meio Ambiente da Grã Bretanha"
+        },
+        "246": [
+            {
+                "a": "Agricultural biosafety : towards commercialisation of genetically modified crop plants and vaccines"
+            }
+        ],
+        "260": [
+            {
+                "a": "Buenos Aires",
+                "b": "Secretaría de Agricultura, Ganadería, Pesca y Alimentación",
+                "c": "1997"
+            }
+        ],
+        "270": [
+            {
+                "d": "Argentina"
+            }
+        ],
+        "300": [
+            {
+                "a": "179, 163 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Transgênico"
+            },
+            {
+                "a": "Vegetais",
+                "x": "Biossegurança"
+            },
+            {
+                "a": "Animais",
+                "x": "Biossegurança"
+            },
+            {
+                "a": "Vacinação",
+                "x": "Biotecnologia"
+            }
+        ],
+        "710": [
+            {
+                "a": "Argentina. Secretaría de Agricultura, Ganadería, Pesca y Alimentación",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Grã Bretanha. Department of the Environment",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

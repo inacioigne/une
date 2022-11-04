@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002897",
+        "005": "20190802092141.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0877691576"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4",
+            "b": "W913s",
+            "c": "1973"
+        },
+        "100": {
+            "a": "Wooldridge, Susan"
+        },
+        "245": {
+            "a": "Software selection",
+            "c": "Susan Wooldridge",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Philadelphia",
+                "b": "Auerbach",
+                "c": "1973"
+            }
+        ],
+        "300": [
+            {
+                "a": "viii, 183",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Software"
+            },
+            {
+                "a": "Indústria de software"
+            },
+            {
+                "a": "Informática",
+                "x": "Administração"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

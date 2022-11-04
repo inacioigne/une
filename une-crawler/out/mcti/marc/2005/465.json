@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000465",
+        "005": "20190726134023.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.912WORD",
+            "b": "R467m",
+            "c": "1995"
+        },
+        "100": {
+            "a": "Rezende, Carlos Alberto de"
+        },
+        "245": {
+            "a": "Microsoft word 6.0",
+            "c": "Carlos Alberto de Rezende",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[Brasília]",
+                "b": "Universidade de Brasília, Centro de Informática",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "105",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "\"Contrato MCT/CPD-UnB\""
+            }
+        ],
+        "650": [
+            {
+                "a": "Programas de computador",
+                "x": "Word, Microsoft"
+            },
+            {
+                "a": "Software"
+            },
+            {
+                "a": "Informática",
+                "x": "Treinamento de pessoal"
+            }
+        ],
+        "710": [
+            {
+                "a": "Universidade de Brasília. Centro de Informática",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

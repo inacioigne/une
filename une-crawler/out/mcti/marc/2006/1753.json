@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001753",
+        "005": "20190805094239.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "0262041901"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.738.5:339",
+            "b": "C837g",
+            "c": "2001"
+        },
+        "100": {
+            "a": "Costa, Eduardo da"
+        },
+        "245": {
+            "a": "Global e-commerce strategies for small businesses",
+            "c": "Eduardo da Costa",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Cambridge",
+                "b": "Massachusetts Institute of Technology",
+                "c": "2001"
+            }
+        ],
+        "300": [
+            {
+                "a": "202",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Comércio eletrônico"
+            },
+            {
+                "a": "Pequena e média empresa"
+            },
+            {
+                "a": "Administração de empresas"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004031",
+        "005": "20190805092852.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0080285775"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.5",
+            "b": "C738",
+            "c": "1983"
+        },
+        "245": {
+            "a": "The computer user",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Berkshire, [Inglaterra]",
+                "b": "Pergamon Infotech",
+                "c": "1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "xv, 223",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "State of the art report",
+                "v": "11:6"
+            }
+        ],
+        "650": [
+            {
+                "a": "Aplicativo de tecnologia"
+            },
+            {
+                "a": "Computadores",
+                "x": "Usuário"
+            },
+            {
+                "a": "Treinamento de pessoal"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

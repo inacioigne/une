@@ -1,0 +1,89 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001051",
+        "005": "20190805183200.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8589629015"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "556.18(81)",
+            "b": "E79",
+            "c": "2003"
+        },
+        "245": {
+            "a": "O Estado das Águas no Brasil, 2001-2002",
+            "c": "Organizado por: Marcos Aurélio Vasconcelos de Freitas.",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Agência Nacional de Águas",
+                "c": "2003"
+            }
+        ],
+        "300": [
+            {
+                "a": "xx, 494 p.",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Edição comemorativa do Dia Mundial da Água"
+            }
+        ],
+        "650": [
+            {
+                "a": "Recursos hídricos",
+                "x": "Administração",
+                "z": "Brasil"
+            },
+            {
+                "a": "Educação ambiental",
+                "z": "Brasil"
+            },
+            {
+                "a": "Gestão ambiental",
+                "z": "Brasil"
+            },
+            {
+                "a": "Desenvolvimento sustentável",
+                "z": "Brasil"
+            },
+            {
+                "a": "Direito ambiental",
+                "x": "Recursos hídricos",
+                "z": "Brasil"
+            },
+            {
+                "a": "Política ambiental",
+                "x": "Recursos hídricos",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Freitas, Marcos Aurélio Vasconcelos de",
+                "e": "Organizador"
+            }
+        ],
+        "856": {
+            "y": "Texto completo (ANA)",
+            "u": "http://arquivos.ana.gov.br/institucional/sge/CEDOC/Catalogo/2003/OEstadodasAguasnoBrasil/estadoDasAguasNoBrasil.pdf",
+            "z": "Acesso em: 19/11/2014"
+        },
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

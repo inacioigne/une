@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005735",
+        "005": "20190801153241.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:34(450)",
+            "b": "S623",
+            "c": "1983"
+        },
+        "245": {
+            "a": "Sistema nacional de informatica juridica",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Roma",
+                "b": "Oficina Intergubernamental para la Informatica",
+                "c": "1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "69"
+            }
+        ],
+        "500": [
+            {
+                "a": "Oficina Intergubernamental para la Informatica (Itália)"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática Jurídica",
+                "z": "Italia"
+            },
+            {
+                "a": "Banco de dados",
+                "x": "Informática Jurídica",
+                "z": "Italia"
+            },
+            {
+                "a": "Tesauro",
+                "x": "Informática Jurídica",
+                "z": "Italia"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002863",
+        "005": "20190802105820.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "D687s",
+            "c": "1972"
+        },
+        "100": {
+            "a": "Donovan, John J"
+        },
+        "245": {
+            "a": "Systems programming",
+            "c": "John J. Donovan",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "McGraw-Hill",
+                "c": "c1972"
+            }
+        ],
+        "300": [
+            {
+                "a": "xvii, 488",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)"
+            },
+            {
+                "a": "Sistemas operacionais (Computadores)"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003891",
+        "005": "20190813135005.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "0201144557"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "L673c",
+            "c": "1978"
+        },
+        "100": {
+            "a": "Lewis, Philip M",
+            "d": "1931-"
+        },
+        "245": {
+            "a": "Compiler design theory",
+            "c": "Philip M. Lewis II, Daniel J. Rosenkrantz, Richard E. Stearns",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Reading, Massachusetts",
+                "b": "Addison-Wesley",
+                "c": "1978"
+            }
+        ],
+        "300": [
+            {
+                "a": "xx, 647",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "The Systems programming series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Compilador"
+            },
+            {
+                "a": "Processamento de dados"
+            }
+        ],
+        "700": [
+            {
+                "a": "Rosenkrantz, Daniel J",
+                "e": "Coautor"
+            },
+            {
+                "a": "Stearns, Richard E",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

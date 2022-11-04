@@ -1,0 +1,73 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002834",
+        "005": "20190812182452.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0130390089"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.438APL",
+            "b": "P769a",
+            "c": "1976"
+        },
+        "100": {
+            "a": "Polivka, Raymond P.",
+            "d": "1929-",
+            "q": "Raymond Peter"
+        },
+        "245": {
+            "a": "APL",
+            "b": "the language and its usage",
+            "c": "Raymond P. Polivka, Sandra Pakin",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "c1976"
+            }
+        ],
+        "300": [
+            {
+                "a": "iii, 124 p"
+            }
+        ],
+        "490": [
+            {
+                "a": "Prentice-Hall series in automatic computation"
+            }
+        ],
+        "500": [
+            {
+                "a": "Ao alto do título: Solutions manual"
+            }
+        ],
+        "650": [
+            {
+                "a": "Linguagem de programação (Computadores)"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Pakin, Sandra",
+                "d": "1940-",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

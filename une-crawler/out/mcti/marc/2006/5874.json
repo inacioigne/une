@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005874",
+        "005": "20190807180233.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:614(81)(063)",
+            "b": "C749p",
+            "c": "1986"
+        },
+        "111": {
+            "a": "Congresso Brasileiro de Informática em Saúde",
+            "c": "Campinas, SP",
+            "d": "1986",
+            "n": "1"
+        },
+        "245": {
+            "a": "1º Congresso Brasileiro de Informática em Saúde",
+            "b": "resumos : Campinas, S.P., 19 a 23 de novembro 1986",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[Campinas]",
+                "b": "Universidade Estadual de Campinas",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "155"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática médica",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Medicina",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

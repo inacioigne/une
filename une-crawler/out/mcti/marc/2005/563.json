@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000563",
+        "005": "20190726131534.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "311.312(048.83)CNPq",
+            "b": "C755r",
+            "c": "1995-1999",
+            "d": "CNPq"
+        },
+        "110": {
+            "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)"
+        },
+        "245": {
+            "a": "Resenha estatística do CNPq",
+            "b": "1995-1999",
+            "h": "Impresso",
+            "c": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+                "c": "2000"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "94",
+                "b": "il., graf., tab."
+            }
+        ],
+        "520": {
+            "a": "Apresenta os investimentos realizados pelo CNPq na formação de recursos humanos e no fomento à pesquisa. Os dados, síntese das principais estatísticas divulgadas estão detalhados por instrumento, por região, estado, instituição, programa, subprograma e modalidade."
+        },
+        "610": [
+            {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)",
+                "x": "Estatísticas"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Pesquisa",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento",
+                "x": "Estatísticas",
+                "z": "Brasil"
+            },
+            {
+                "a": "Desenvolvimento científico",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

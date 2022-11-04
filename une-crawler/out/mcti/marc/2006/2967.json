@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a",
+        "001": "000002967",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "681.5",
+            "b": "S237a"
+        },
+        "100": {
+            "a": "Santos, José J. Horta"
+        },
+        "245": {
+            "a": "Automação industrial",
+            "c": "José J. Horta Santos"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Livros Técnicos e Científicos",
+                "c": "1979"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiii, 268 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Indústrias",
+                "x": "Automação"
+            },
+            {
+                "a": "Controle de produção",
+                "x": "Administração"
+            },
+            {
+                "a": "Automação industrial"
+            },
+            {
+                "a": "Computadores"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

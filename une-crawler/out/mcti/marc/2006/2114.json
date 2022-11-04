@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002114",
+        "005": "20190809150706.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "853460178x"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451.9",
+            "b": "W765p",
+            "c": "=134.3",
+            "d": "1994"
+        },
+        "245": {
+            "a": "Microsoft Windows 3.1 passo passo",
+            "c": "Catapult, Inc. ; tradução Lídia Yumi Sato ; revisão técnica Plínio Borges",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Makron Books",
+                "c": "1994"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxxii, 373 p.",
+                "b": "il., + 1 disquete 3 1/2"
+            }
+        ],
+        "500": [
+            {
+                "a": "Cutter baseado no nome do programa a fim de reunir com as demais obras no acervo."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistemas operacionais (Computadores)"
+            },
+            {
+                "a": "Programas de computador",
+                "x": "Windows 3.1 (Sistema operacional de computador)"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

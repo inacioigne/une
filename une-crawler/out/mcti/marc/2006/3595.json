@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003595",
+        "005": "20190805105333.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0471058092"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.738.5:339",
+            "b": "E47i",
+            "c": "1994"
+        },
+        "100": {
+            "a": "Ellsworth, Jill H",
+            "d": "1949-"
+        },
+        "245": {
+            "a": "The Internet business book",
+            "c": "Jill H. Ellsworth ; Matthew V. Ellsworth",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Wiley",
+                "c": "1994"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxiv, 376",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Comércio eletrônico"
+            },
+            {
+                "a": "Administração de empresas",
+                "x": "Recursos de rede de computador"
+            },
+            {
+                "a": "Sistema de computador"
+            },
+            {
+                "a": "Internet"
+            }
+        ],
+        "700": [
+            {
+                "a": "Ellsworth, Matthew V",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

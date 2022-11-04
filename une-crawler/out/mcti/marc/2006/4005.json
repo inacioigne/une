@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004005",
+        "005": "20190813121456.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.056",
+            "b": "E79c",
+            "c": "1983"
+        },
+        "110": {
+            "a": "Estados Unidos. Congress. Senate. Committee on Governmental Affairs. Subcommittee on Oversight of Government Management"
+        },
+        "245": {
+            "a": "Computer security in the federal government and the private sector",
+            "b": "hearings before the Subcommittee on Oversight of Government Management of the Committee on Governmental Affairs, United States Senate, Ninety-eighth Congress, first session, October 25 and 26, 1983",
+            "h": "Impresso",
+            "c": "Congress. Senate. Committee on Governmental Affairs. Subcommittee on Oversight of Government Management"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "U.S. Government Printing Office",
+                "c": "1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "504",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "S. Hrg",
+                "v": "98-440"
+            }
+        ],
+        "650": [
+            {
+                "a": "Segurança de computador",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Centros de processamento de dados",
+                "x": "Normas de segurança"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

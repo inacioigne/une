@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003930",
+        "005": "20190730124048.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0131973681"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7:621.39",
+            "b": "H842d",
+            "c": "1979"
+        },
+        "100": {
+            "a": "Housley, Trevor",
+            "d": "1942-"
+        },
+        "245": {
+            "a": "Data communications & teleprocessing systems",
+            "c": "Trevor Housley",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "1979"
+            }
+        ],
+        "300": [
+            {
+                "a": "xvii, 474 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Rede de telecomunicação"
+            },
+            {
+                "a": "Rede de informação"
+            },
+            {
+                "a": "Informática"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

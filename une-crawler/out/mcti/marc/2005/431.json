@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nas  22      a 4500",
+        "001": "000000431",
+        "005": "20170120095427.0",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.039(05)"
+        },
+        "245": {
+            "a": "Boletim de Informações",
+            "c": "Instituto de Pesquisas Energéticas e Nucleares",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Comissão Nacional de Energia Nuclear",
+                "c": "1993-1994"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "b": "v"
+            }
+        ],
+        "310": {
+            "a": "Irregular"
+        },
+        "530": {
+            "a": "Documento eletrônico: CNEN, período disponível: (2011 - presente) - acesso livre"
+        },
+        "650": [
+            {
+                "a": "Energia nuclear",
+                "x": "Periódico"
+            },
+            {
+                "a": "Pesquisa nuclear",
+                "x": "Periódico"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Pesquisas Energéticas e Nucleares",
+                "c": "SP",
+                "e": "Indefinida"
+            }
+        ],
+        "856": {
+            "y": "Texto completo - Acesso em: 10/12/2013",
+            "u": "http://www.cnen.gov.br/noticias/lst_noticia_corr.asp"
+        },
+        "990": {
+            "a": "Periódicos"
+        }
+    }
+}

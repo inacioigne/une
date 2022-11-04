@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002811",
+        "005": "20190813143036.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0850121132"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4",
+            "b": "W949c",
+            "c": "1974"
+        },
+        "100": {
+            "a": "Wright, Graham G. L.",
+            "d": "1932-"
+        },
+        "245": {
+            "a": "Commercial computer programming",
+            "c": "by Graham Wright and David Evans",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Manchester [Inglaterra]",
+                "b": "NCC Publications",
+                "c": "c1974"
+            }
+        ],
+        "300": [
+            {
+                "a": "352",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Negócios",
+                "x": "Processamento de dados"
+            }
+        ],
+        "700": [
+            {
+                "a": "Evans, David J",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

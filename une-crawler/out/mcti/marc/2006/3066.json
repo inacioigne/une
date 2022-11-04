@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003066",
+        "005": "20190731113700.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0471053767"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.31",
+            "b": "M996d",
+            "c": "c1980"
+        },
+        "100": {
+            "a": "Myers, Glenford J.",
+            "d": "1946-"
+        },
+        "245": {
+            "a": "Digital system design with LSI Bit-Slice logic",
+            "c": "Glenford J. Myers",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Wiley-Interscience",
+                "c": "c1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "xi, 338 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Computador digital"
+            },
+            {
+                "a": "Circuito lógico"
+            },
+            {
+                "a": "Microprogramação"
+            },
+            {
+                "a": "Circuito integrado"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

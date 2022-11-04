@@ -1,0 +1,76 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004879",
+        "005": "20190814154919.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "852131244X"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "606:641",
+            "b": "B616n",
+            "c": "2003"
+        },
+        "245": {
+            "a": "Biotecnologia e nutrição",
+            "b": "saiba como o DNA pode enriquecer a qualidade dos alimentos",
+            "c": "Neuza Maria Brunoro Costa, Aluízio Borém coordenadores",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Nobel",
+                "c": "2003"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "214",
+                "c": "23 cm"
+            }
+        ],
+        "650": [
+            {
+                "a": "Alimentos",
+                "x": "Biotecnologia"
+            },
+            {
+                "a": "Biotecnologia"
+            },
+            {
+                "a": "Nutrição",
+                "x": "Aspectos genéticos"
+            },
+            {
+                "a": "Melhoramento genético"
+            }
+        ],
+        "700": [
+            {
+                "a": "Costa, Neuza Maria Brunoro",
+                "e": "Coautor"
+            },
+            {
+                "a": "Borém, Aluízio",
+                "d": "1959-",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

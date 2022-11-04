@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000496",
+        "005": "20190809182838.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "B931",
+            "c": "1998"
+        },
+        "245": {
+            "a": "Bug do milênio",
+            "b": "o que fazer para combatê-lo",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Confederação Nacional da Indústria, Unidade de Tecnologia da Informação",
+                "c": "1998"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "31"
+            }
+        ],
+        "650": [
+            {
+                "a": "Software",
+                "x": "Retificação"
+            },
+            {
+                "a": "Hardware",
+                "x": "Retificação"
+            },
+            {
+                "a": "Programas de computador"
+            },
+            {
+                "a": "Sistema de informação",
+                "x": "Retificação"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

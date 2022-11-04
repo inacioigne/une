@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005801",
+        "005": "20190807175000.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "537-962(100)(063)",
+            "b": "S276m",
+            "c": "1987"
+        },
+        "111": {
+            "a": "International Microwave Symposium",
+            "c": "Rio de Janeiro, RJ",
+            "d": "1987"
+        },
+        "245": {
+            "a": "1987 SBMO International Microwave Symposium proceedings",
+            "b": "July 27-30, 1987, Rio Palace Hotel, Rio de Janeiro Brazil",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Sociedade Brasileira de Microondas",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v.",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "IEEE catalog no. 87TH0183-4"
+            }
+        ],
+        "650": [
+            {
+                "a": "Microonda",
+                "x": "Equipamentos"
+            }
+        ],
+        "710": [
+            {
+                "a": "Sociedade Brasileira de Microondas",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

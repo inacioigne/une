@@ -1,0 +1,54 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005090",
+        "005": "20190806092232.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.548(81)",
+            "b": "T931",
+            "c": "[200-]"
+        },
+        "245": {
+            "a": "Turbina eólica V100 kW",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Camaquã, Rio Grande so Sul",
+                "b": "Turbinas Eólicas do Brasil",
+                "c": "[200-]"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v",
+                "b": "il., color"
+            }
+        ],
+        "500": [
+            {
+                "a": "Turbinas Eólicas do Brasil"
+            }
+        ],
+        "650": [
+            {
+                "a": "Turbina eólica",
+                "z": "Brasil"
+            },
+            {
+                "a": "Energia eólica",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005697",
+        "005": "20190808113921.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "376.3/.4:004.382",
+            "b": "L965",
+            "c": "1991"
+        },
+        "245": {
+            "a": "Liberando a mente",
+            "b": "computadores na educação especial",
+            "c": "organizado por José Armando Valente",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Campinas",
+                "b": "Universidade Estadual de Campinas",
+                "c": "1991"
+            }
+        ],
+        "300": [
+            {
+                "a": "314",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática na educação"
+            },
+            {
+                "a": "Linguagem LOGO",
+                "x": "Linguagem de programação (Computadores)"
+            },
+            {
+                "a": "Educação especial"
+            }
+        ],
+        "700": [
+            {
+                "a": "Valente, José Armando",
+                "e": "Organizador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

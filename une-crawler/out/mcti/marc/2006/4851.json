@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004851",
+        "005": "20190812102922.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "331.5",
+            "b": "C748m",
+            "c": "1998"
+        },
+        "110": {
+            "a": "Confederação Nacional da Indústria",
+            "c": "Brasil"
+        },
+        "245": {
+            "a": "Modernização, emprego e qualificação profissional",
+            "h": "Impresso",
+            "c": "Confederação Nacional da Indústria"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Serviço Nacional de Aprendizagem Industrial",
+                "c": "1998"
+            }
+        ],
+        "300": [
+            {
+                "a": "130"
+            }
+        ],
+        "650": [
+            {
+                "a": "Gestão de pessoas"
+            },
+            {
+                "a": "Qualificação profissional"
+            },
+            {
+                "a": "Tecnologia industrial"
+            }
+        ],
+        "710": [
+            {
+                "a": "Serviço Nacional de Aprendizagem Industrial",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

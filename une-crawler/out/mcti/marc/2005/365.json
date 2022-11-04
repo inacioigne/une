@@ -1,0 +1,80 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000365",
+        "005": "20190808135757.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.8(81)(063)",
+            "b": "S678a",
+            "c": "1991"
+        },
+        "111": {
+            "a": "Simpósio Brasileiro de Inteligência Artificial",
+            "c": "Brasília, DF",
+            "d": "1991",
+            "n": "8"
+        },
+        "245": {
+            "a": "Anais do VIII Simpósio Brasileiro de Inteligência Artificial",
+            "b": "Brasília, DF 18-21 novembro",
+            "h": "Impresso",
+            "c": "autor corporativo: Sociedade Brasileira de Computação"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Sociedade Brasileira de Computação",
+                "c": "1991"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "304",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Inteligência artificial",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Teoria da computação",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Aquisição de conhecimento (Sistemas especialistas)",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Representação do conhecimento (Teoria da informação)",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Sistema especialista",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "710": [
+            {
+                "a": "Sociedade Brasileira de Computação",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

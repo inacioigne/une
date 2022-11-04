@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002499",
+        "005": "20190813125515.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "B496a",
+            "c": "1974"
+        },
+        "100": {
+            "a": "Berger, Raymond M"
+        },
+        "245": {
+            "a": "Computer programmer job analysis",
+            "b": "an AFIPS report",
+            "c": "by Raymond M. Berger",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Montvale [Estados Unidos]",
+                "b": "American Federation of Information Processing Societies",
+                "c": "c1974"
+            }
+        ],
+        "300": [
+            {
+                "a": "93",
+                "c": "28 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "710": [
+            {
+                "a": "American Federation of Information Processing Societies",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

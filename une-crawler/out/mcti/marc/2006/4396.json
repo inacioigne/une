@@ -1,0 +1,79 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004396",
+        "005": "20190814162036.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502.51",
+            "b": "B616",
+            "c": "1993"
+        },
+        "245": {
+            "a": "Biospheric aspects of the hydrological cycle",
+            "b": "the operational plan",
+            "h": "Impresso",
+            "c": "autor corporativo: Programa Internacional da Geosfera-Biosfera, Conselho Internacional das Uniões Científicas"
+        },
+        "260": [
+            {
+                "a": "Stockholm, Suécia",
+                "b": "International Geosphere-Biosphere Programme",
+                "c": "1993"
+            }
+        ],
+        "270": [
+            {
+                "d": "Suécia"
+            }
+        ],
+        "300": [
+            {
+                "a": "103",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "IGBP Report = IGBP Rapport = IGBP Informe",
+                "v": "n. 27"
+            }
+        ],
+        "650": [
+            {
+                "a": "Biosfera"
+            },
+            {
+                "a": "Ciclo hidrológico",
+                "x": "Cooperação internacional"
+            },
+            {
+                "a": "Mudanças climáticas",
+                "x": "Cooperação internacional"
+            },
+            {
+                "a": "Geociências",
+                "x": "Cooperação internacional"
+            }
+        ],
+        "710": [
+            {
+                "a": "Programa Internacional da Geosfera-Biosfera",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Conselho Internacional das Uniões Científicas",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

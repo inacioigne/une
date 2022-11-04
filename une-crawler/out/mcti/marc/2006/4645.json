@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004645",
+        "005": "20190814172758.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "574.1(81:213.56)",
+            "b": "B615",
+            "c": "2002"
+        },
+        "245": {
+            "a": "Biodiversity and forests of Brazil",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Ministério do Meio Ambiente",
+                "c": "2002"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "105",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Recursos naturais",
+                "x": "Noção de Conservação",
+                "z": "Brasil"
+            },
+            {
+                "a": "Florestas",
+                "z": "Brasil"
+            },
+            {
+                "a": "Biodiversidade",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

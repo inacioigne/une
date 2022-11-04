@@ -1,0 +1,79 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000006119",
+        "005": "20190805101811.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0133616843"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "32:35(73)",
+            "b": "B967g",
+            "c": "c1987"
+        },
+        "100": {
+            "a": "Burns, James MacGregor"
+        },
+        "245": {
+            "a": "Government by the people",
+            "h": "Impresso",
+            "c": "James MacGregor Burns, Thomas Cronin, J. W. (Jack Walter) Peltason"
+        },
+        "250": [
+            {
+                "a": "13th ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "c1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 787 p.",
+                "b": "il., color."
+            }
+        ],
+        "650": [
+            {
+                "a": "Governo estadual",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Administração local",
+                "z": "Estados Unidos"
+            }
+        ],
+        "651": [
+            {
+                "a": "Estados Unidos",
+                "x": "Política e governo"
+            }
+        ],
+        "700": [
+            {
+                "a": "Cronin, Thomas E",
+                "e": "Coautor"
+            },
+            {
+                "a": "Peltason, J. W.",
+                "d": "1923-",
+                "q": "Jack Walter",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

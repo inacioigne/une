@@ -1,0 +1,54 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005294",
+        "005": "20190805094335.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "62-027.15",
+            "b": "G562",
+            "c": "2004"
+        },
+        "245": {
+            "a": "Global innovation outlook",
+            "b": "2004",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[New York]",
+                "b": "IBM",
+                "c": "2004"
+            }
+        ],
+        "300": [
+            {
+                "a": "71",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Inovação científica"
+            },
+            {
+                "a": "Inovação tecnológica"
+            },
+            {
+                "a": "Cooperação internacional"
+            },
+            {
+                "a": "Política e governo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

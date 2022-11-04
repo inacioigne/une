@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002988",
+        "005": "20190802150126.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.021",
+            "b": "F992t",
+            "c": "1973"
+        },
+        "100": {
+            "a": "Furtado, A. L.",
+            "d": "1934-",
+            "q": "Antonio Luz"
+        },
+        "245": {
+            "a": "Teoria dos grafos",
+            "b": "algoritmos",
+            "c": "Antonio Luz Furtado",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Livros Técnicos e Científicos",
+                "c": "1973"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 155",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Matemática"
+            },
+            {
+                "a": "Física"
+            },
+            {
+                "a": "Algoritmos",
+                "x": "Grafos"
+            },
+            {
+                "a": "Técnica de programação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

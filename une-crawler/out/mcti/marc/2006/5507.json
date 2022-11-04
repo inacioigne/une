@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005507",
+        "005": "20190813142826.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0387151656"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.896",
+            "b": "C738de",
+            "c": "c1985"
+        },
+        "245": {
+            "a": "CAM",
+            "b": "developments in computer-integrated manufacturing",
+            "c": "edited by D. Kochan",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Berlim"
+            },
+            {
+                "a": "Nova Iorque",
+                "b": "Springer-Verlag",
+                "c": "c1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiii, 289 p."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema de fabricação integrada por computador"
+            },
+            {
+                "a": "Engenharia auxiliada por computador"
+            },
+            {
+                "a": "Sistema CAD/CAM"
+            },
+            {
+                "a": "Engenharia industrial"
+            },
+            {
+                "a": "Sistema flexível de fabricação"
+            }
+        ],
+        "700": [
+            {
+                "a": "Kochan, Detlef",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

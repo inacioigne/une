@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002855",
+        "005": "20190813131301.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "61:004",
+            "b": "T231c",
+            "c": "1976"
+        },
+        "100": {
+            "a": "Tavares, Brenildo Meirelles"
+        },
+        "245": {
+            "a": "Computadores em medicina e tratamento intensivo",
+            "c": "Brenildo Meirelles Tavares",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Ministério da Previdência e Assistência Social",
+                "c": "1976"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxxii, 219",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Biblioteca temas de tratamento intensivo e choque",
+                "v": "v. 6"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática médica"
+            },
+            {
+                "a": "Medicina"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            },
+            {
+                "a": "Tratamento"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

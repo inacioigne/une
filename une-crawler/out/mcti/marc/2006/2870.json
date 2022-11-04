@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002870",
+        "005": "20190805091421.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "338.1:004",
+            "b": "A652",
+            "c": "1971"
+        },
+        "245": {
+            "a": "The application of computer technology for development",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Nações Unidas",
+                "c": "1971"
+            }
+        ],
+        "300": [
+            {
+                "a": "121",
+                "b": "il."
+            }
+        ],
+        "501": [
+            {
+                "a": "Ao alto do título: Department of Economic and Social Affairs"
+            }
+        ],
+        "650": [
+            {
+                "a": "Desenvolvimento econômico",
+                "x": "Processamento de dados"
+            },
+            {
+                "a": "Informática"
+            }
+        ],
+        "710": [
+            {
+                "a": "Nações Unidas",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

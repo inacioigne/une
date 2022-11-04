@@ -1,0 +1,85 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004380",
+        "005": "20190807093017.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502.3",
+            "b": "I61",
+            "c": "1994"
+        },
+        "245": {
+            "a": "International global atmospheric chemistry (IGAC) project",
+            "b": "the operational plan",
+            "c": "edited by A.A.P. Pszenny and R.G. Prinn ; with contributions by M.O. Andreae ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Stockholm, Suécia",
+                "b": "International Geosphere-Biosphere Programme",
+                "c": "1994"
+            }
+        ],
+        "300": [
+            {
+                "a": "133",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "IGBP Report = IGBP Rapport = IGBP Informe",
+                "v": "n. 32"
+            }
+        ],
+        "610": [
+            {
+                "a": "Programa Internacional da Geosfera-Biosfera"
+            }
+        ],
+        "650": [
+            {
+                "a": "Atmosfera",
+                "x": "Química"
+            },
+            {
+                "a": "Efeito estufa (Atmosfera)"
+            }
+        ],
+        "700": [
+            {
+                "a": "Pszenny, A.A.P.",
+                "e": "Editor"
+            },
+            {
+                "a": "Prinn, R.G.",
+                "e": "Editor"
+            },
+            {
+                "a": "Andreae, M.O.",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Programa Internacional da Geosfera-Biosfera",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Conselho Internacional das Uniões Científicas",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

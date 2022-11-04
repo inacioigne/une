@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002959",
+        "005": "20190807133202.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "005.821",
+            "b": "P468",
+            "c": "=134.3 1968"
+        },
+        "245": {
+            "a": "Pert custo",
+            "b": "um manual de instrução programada",
+            "c": "Tradução de Reginald Uelze",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Pioneira",
+                "c": "1968"
+            }
+        ],
+        "300": [
+            {
+                "a": "172",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Biblioteca Pioneira de administração e negócios"
+            }
+        ],
+        "534": {
+            "a": "Título original: Pert cost : a programed instruction manual"
+        },
+        "650": [
+            {
+                "a": "Análise de redes (Planejamento)",
+                "x": "PERT-CPM"
+            },
+            {
+                "a": "Administração de empresas"
+            },
+            {
+                "a": "Análise de sistemas"
+            },
+            {
+                "a": "Planejamento"
+            }
+        ],
+        "710": [
+            {
+                "a": "Federal Electric Corporation",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

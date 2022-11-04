@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002353",
+        "005": "20190808165006.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.2",
+            "b": "M996a",
+            "c": "1978"
+        },
+        "100": {
+            "a": "Myers, Glenford J.",
+            "d": "1946-"
+        },
+        "245": {
+            "a": "Advances in computer architecture",
+            "c": "Glenford J. Myers",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Wiley",
+                "c": "c1978"
+            }
+        ],
+        "300": [
+            {
+                "a": "xv, 314 p.",
+                "c": "24 cm",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "\"A Wiley-Interscience publication.\""
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

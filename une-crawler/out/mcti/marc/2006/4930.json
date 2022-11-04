@@ -1,0 +1,80 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004930",
+        "005": "20190809155130.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "51",
+            "b": "M183a",
+            "c": "2001",
+            "d": "LNCC"
+        },
+        "100": {
+            "a": "Madureira, Alexandre Loureiro"
+        },
+        "245": {
+            "a": "An always convergent biharmonic model",
+            "c": "Alexandre L. Madureira",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Petrópolis",
+                "b": "Laboratório Nacional de Computação Científica",
+                "c": "2001"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "12 f.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Relatórios de pesquisa e desenvolvimento",
+                "v": "n. 39/2001",
+                "x": "0101-6113"
+            }
+        ],
+        "505": [
+            {
+                "a": "Introduction -- 1. The Asymptotic expansion -- 2. An improved Biharmonic model -- 3. Convergence in other norms -- References"
+            }
+        ],
+        "520": {
+            "a": "We modify the usual biharmonic model, still frequently used in the engineering community to model linearly elastic plates. In its traditional form, the biharmonic model diverges in general, since it does not incorporate shear effects. Our changes make it convergent for all loads, under a usual assumption on how the loads depend on the thickness. The idea is to add \"higher order\" terms that appear in the asymptotic expansion of the exact solution. The changes can be readily incorporated to engineering codes, without degrading the computational performance."
+        },
+        "650": [
+            {
+                "a": "Matemática"
+            }
+        ],
+        "710": [
+            {
+                "a": "Laboratório Nacional de Computação Científica (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "Texto completo (LNCC)",
+            "u": " http://www.lncc.br/~alm/public/biharmonic.pdf",
+            "z": "Acesso em: 19/07/2017"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000624",
+        "005": "20190808141921.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.41(81)(063)",
+            "b": "S612d",
+            "c": "[1999]"
+        },
+        "111": {
+            "a": "Simpósio Brasileiro de Engenharia de Software",
+            "c": "Florianopólis, SC",
+            "d": "1999",
+            "n": "13"
+        },
+        "245": {
+            "a": "Anais do XIII Simpósio Brasileiro de Engenharia de Software",
+            "b": "WQS'99 : Workshop Qualidade de Software, Florianópolis, 11 de outubro de 1999",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "[XIII SBES]"
+            }
+        ],
+        "260": [
+            {
+                "a": "Florianópolis",
+                "b": "[s.n.",
+                "c": "1999?]"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "174",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia de software",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Software",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Gerência de sistema"
+            },
+            {
+                "a": "Normas técnicas",
+                "x": "ISO 9000"
+            }
+        ],
+        "711": [
+            {
+                "a": "WQS'99 : Workshop Qualidade de Software",
+                "d": "1999",
+                "c": "Florianopólis, SC"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

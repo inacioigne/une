@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000970",
+        "005": "20180725105917.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "336.531.2:5/6(817.3)",
+            "b": "G615",
+            "c": "2004"
+        },
+        "245": {
+            "a": "Goiás",
+            "b": "ciência e tecnologia : 2004",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Goiânia",
+                "b": "Secretaria de Estado de Ciência e Tecnologia",
+                "c": "2004"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "71",
+                "b": "il., (color.)"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e tecnologia",
+                "z": "Goiás"
+            },
+            {
+                "a": "Inclusão digital",
+                "z": "Goiás"
+            },
+            {
+                "a": "Inovação tecnológica",
+                "z": "Goiás"
+            },
+            {
+                "a": "Pesquisa científica",
+                "z": "Goiás"
+            },
+            {
+                "a": "Tecnologia educacional"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

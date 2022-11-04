@@ -1,0 +1,45 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003342",
+        "005": "20190805131054.0",
+        "007": "c",
+        "008": "                                   mul"
+    },
+    "datafield": {
+        "020": {
+            "a": "1564090647"
+        },
+        "090": {
+            "a": "CD030",
+            "b": "H673",
+            "c": "=134.2",
+            "d": "2003"
+        },
+        "245": {
+            "a": "Hispánica CD",
+            "h": "Recurso Eletrônico"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Encyclopaedia Britannica do Brasil",
+                "c": "2003"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 CD-Rom"
+            }
+        ],
+        "650": [
+            {
+                "a": "Enciclopédia",
+                "x": "Língua espanhola"
+            }
+        ],
+        "990": {
+            "a": "CD-ROM"
+        }
+    }
+}

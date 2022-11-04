@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002929",
+        "005": "20190805094035.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.5",
+            "b": "E24",
+            "c": "1971"
+        },
+        "245": {
+            "a": "The EDP people problem",
+            "c": "Fred Gruenberger, editor",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Los Angeles",
+                "b": "Data Processing Digest",
+                "c": "c1971"
+            }
+        ],
+        "300": [
+            {
+                "a": "176"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Treinamento de pessoal"
+            },
+            {
+                "a": "Computadores"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Recursos humanos"
+            }
+        ],
+        "700": [
+            {
+                "a": "Gruenberger, Fred Joseph",
+                "d": "1918-",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

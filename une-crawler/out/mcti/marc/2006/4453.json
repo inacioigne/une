@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004453",
+        "005": "20190730141533.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "681.5:007.5",
+            "b": "S593r",
+            "c": "2001"
+        },
+        "100": {
+            "a": "Simões, Nelson"
+        },
+        "245": {
+            "a": "Rede Nacional de Pesquisa \"Promovendo o desenvolvimento de redes e TI para o ensino e a pesquisa\"",
+            "c": "Nelson Simões",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[Rio de Janeiro]",
+                "b": "Rede Nacional de Pesquisa",
+                "c": "2001"
+            }
+        ],
+        "300": [
+            {
+                "a": "[11] f"
+            }
+        ],
+        "650": [
+            {
+                "a": "Internet",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento",
+                "z": "Brasil"
+            },
+            {
+                "a": "Política e governo",
+                "x": "Internet",
+                "z": "Brasil"
+            },
+            {
+                "a": "Tecnologia da informação",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Rede Nacional de Pesquisa (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

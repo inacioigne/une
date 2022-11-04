@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003949",
+        "005": "20190731090047.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.891:025.5",
+            "b": "J62d",
+            "c": "[1981?]"
+        },
+        "100": {
+            "a": "Jobim Filho, Paulo"
+        },
+        "245": {
+            "a": "Desenvolvimento de sistemas de informação",
+            "b": "metodologias para especificação, programação estruturada, equipes de programação, avaliação de sistemas",
+            "c": "Paulo Jobim Filho, Anibal Pereira Cardoso, Jackson Guedes",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[S.l.]",
+                "b": "Secretaria Especial de Informática",
+                "c": "[1981?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "266",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema de informação"
+            },
+            {
+                "a": "Processamento de dados"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Cardoso, Anibal Pereira",
+                "e": "Coautor"
+            },
+            {
+                "a": "Guedes, Jackson",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

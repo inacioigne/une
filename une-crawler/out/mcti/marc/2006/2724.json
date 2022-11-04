@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002724",
+        "005": "20190731130157.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "013215871X"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "D575d",
+            "c": "c1976"
+        },
+        "100": {
+            "a": "Dijkstra, Edsger Wybe"
+        },
+        "245": {
+            "a": "A discipline of programming",
+            "c": "Edsger W. Dijkstra",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "c1976"
+            }
+        ],
+        "300": [
+            {
+                "a": "xvii, 217 p",
+                "c": "24 cm"
+            }
+        ],
+        "490": [
+            {
+                "a": "Prentice-Hall series in automatic computation"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)"
+            },
+            {
+                "a": "Programação matemática"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

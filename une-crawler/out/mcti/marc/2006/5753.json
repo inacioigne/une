@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005753",
+        "005": "20190730111600.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004(047)",
+            "b": "T136p",
+            "c": "1988"
+        },
+        "100": {
+            "a": "Takahashi, Tadao",
+            "q": "Eduardo Tadao"
+        },
+        "245": {
+            "a": "Proyecto ETHOS",
+            "b": "informe final de la fase preliminar",
+            "c": "Tadao Takahashi, Armando Martin Haeberer",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[S.l.]",
+                "b": "Programa Argentino Brasileiro de Pesquisa e Estudos Avançados em Informática",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "viii, 186",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Relatórios"
+            },
+            {
+                "a": "Software",
+                "x": "Relatórios"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento",
+                "x": "Relatórios"
+            },
+            {
+                "a": "Inteligência artificial",
+                "x": "Relatórios"
+            }
+        ],
+        "700": [
+            {
+                "a": "Haeberer, Armando Martín",
+                "d": "1947-",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

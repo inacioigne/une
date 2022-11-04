@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005370",
+        "005": "20190805142553.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.272.44",
+            "b": "T772",
+            "c": "1980"
+        },
+        "245": {
+            "a": "Transborder data flow",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Stanford",
+                "b": "Stanford University, School of Law",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "227"
+            }
+        ],
+        "500": [
+            {
+                "a": "Periódico tratado como livro: Stanford Journal of International Law, Volume XVI/Summer 1980."
+            }
+        ],
+        "650": [
+            {
+                "a": "Fluxo de dados transfronteiras"
+            },
+            {
+                "a": "Proteção de dados"
+            },
+            {
+                "a": "Propriedade intelectual"
+            },
+            {
+                "a": "Teleprocessamento"
+            }
+        ],
+        "710": [
+            {
+                "a": "Stanford University. School of Law",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

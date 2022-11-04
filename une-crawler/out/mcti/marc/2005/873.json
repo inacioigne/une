@@ -1,0 +1,73 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000873",
+        "005": "20190726104314.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8576520133"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "37:5/6:336.581",
+            "b": "I62",
+            "c": "2004"
+        },
+        "245": {
+            "a": "Investimentos em educação, ciência e tecnologia",
+            "b": "o que pensam os jornalistas",
+            "c": "Jorge Werthein, Célio da Cunha (Orgs.).",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "UNESCO",
+                "c": "2004"
+            }
+        ],
+        "300": [
+            {
+                "a": "248"
+            }
+        ],
+        "650": [
+            {
+                "a": "Investimentos em educação"
+            },
+            {
+                "a": "Jornalismo",
+                "x": "Crônica"
+            },
+            {
+                "a": "Educação",
+                "x": "Financiamento"
+            },
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Aspectos economicos"
+            }
+        ],
+        "700": [
+            {
+                "a": "Werthein, Jorge",
+                "d": "1941-",
+                "e": "Organizador"
+            },
+            {
+                "a": "Cunha, Célio da",
+                "d": "1943-",
+                "e": "Organizador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000967",
+        "005": "20190801191403.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "338.28(510)",
+            "b": "D294",
+            "c": "1995"
+        },
+        "245": {
+            "a": "Decision of the Central Committee of the Chinese Communist Party and the State Council on the acceleration of scientific and technological progress",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "China",
+                "b": "United Nations Institute for Disarmament Research",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "52"
+            }
+        ],
+        "650": [
+            {
+                "a": "Desenvolvimento científico",
+                "z": "China"
+            },
+            {
+                "a": "Desenvolvimento tecnológico",
+                "z": "China"
+            },
+            {
+                "a": "Ciência e tecnologia",
+                "z": "China"
+            },
+            {
+                "a": "Desenvolvimento econômico",
+                "z": "China"
+            },
+            {
+                "a": "Desenvolvimento social",
+                "z": "China"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

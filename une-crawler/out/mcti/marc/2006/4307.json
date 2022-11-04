@@ -1,0 +1,45 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004307",
+        "005": "20190808181214.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "32:004(84)",
+            "b": "A347",
+            "c": "1978"
+        },
+        "245": {
+            "a": "Alcances de la politica y estrategia de la informatica boliviana",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "La Paz",
+                "b": "Centro Nacional de Computação",
+                "c": "1978"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Política e governo",
+                "z": "Bolívia"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

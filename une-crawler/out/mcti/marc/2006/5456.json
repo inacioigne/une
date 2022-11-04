@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005456",
+        "005": "20190805114826.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "9264126872"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.315.59",
+            "b": "S471",
+            "c": "=111 1985"
+        },
+        "245": {
+            "a": "The Semi-conductor industry",
+            "b": "trade related issues",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Organisation for Economic Co-operation and Development"
+            },
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "OECD Publications and Information Centre [distributor]",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "145",
+                "b": "il."
+            }
+        ],
+        "534": {
+            "a": "Título orginal: L'industrie des semi-conducteurs : questions liées aux échanges."
+        },
+        "650": [
+            {
+                "a": "Semicondutores",
+                "x": "Indústria"
+            },
+            {
+                "a": "Microeletrônica",
+                "x": "Indústria"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

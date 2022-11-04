@@ -1,0 +1,81 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001761",
+        "005": "20190812122711.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "853461122x"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.655.3",
+            "b": "S271m",
+            "c": "=134.3",
+            "d": "2000"
+        },
+        "100": {
+            "a": "Sawtell, Rick"
+        },
+        "245": {
+            "a": "Notas para exame",
+            "b": "SQL server 7 administration, exame 70 - 028",
+            "c": "Rick Sawtell, Lance Mortensen, Joseph L. Jorden ; tradução: Ariovaldo Griesi",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Makron Books",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxxi, 316 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Certificação Profissional"
+            }
+        ],
+        "534": {
+            "a": "Tradução de MCSE exam notes : SQL Server 7 administration"
+        },
+        "650": [
+            {
+                "a": "Banco de dados relacionais"
+            },
+            {
+                "a": "Gerenciamento de banco de dados"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "SQL (Linguagem de programação de computador)"
+            },
+            {
+                "a": "Informática"
+            }
+        ],
+        "700": [
+            {
+                "a": "Mortensen, Lance",
+                "e": "Coautor"
+            },
+            {
+                "a": "Jorden, Joseph L",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004197",
+        "005": "20190812095233.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.65",
+            "b": "M689",
+            "c": "1986"
+        },
+        "245": {
+            "a": "Modelos semânticos de dados",
+            "b": "comparações e aplicações",
+            "c": "Beatriz Zakimi Miyasato organizadora",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Companhia de Processamento de Dados do Estado de São Paulo",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "61",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Coleção Informática PRODESP. Série Software",
+                "v": "4"
+            }
+        ],
+        "650": [
+            {
+                "a": "Banco de dados"
+            },
+            {
+                "a": "Banco de dados relacionais"
+            },
+            {
+                "a": "Gerenciamento de banco de dados"
+            },
+            {
+                "a": "Armazenamento de dados"
+            }
+        ],
+        "700": [
+            {
+                "a": "Miyasato, Beatriz Zakimi",
+                "e": "Organizador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000499",
+        "005": "20190726133805.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8570251262"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.43:37",
+            "b": "A972m",
+            "c": "1986"
+        },
+        "100": {
+            "a": "Axt, Margarete"
+        },
+        "245": {
+            "a": "Os micromundos LOGO da linguagem",
+            "c": "Margarete Axt",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Porto Alegre",
+                "b": "Universidade Federal do Rio Grande do Sul",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "116"
+            }
+        ],
+        "490": [
+            {
+                "a": "Educação e informática",
+                "v": "2"
+            }
+        ],
+        "500": [
+            {
+                "a": "\"Centro-Piloto EDUCOM/LEC-UFRS\""
+            }
+        ],
+        "650": [
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "Linguagem LOGO"
+            },
+            {
+                "a": "Informática",
+                "x": "Educação",
+                "z": "Brasil"
+            },
+            {
+                "a": "Informática na educação"
+            },
+            {
+                "a": "Tecnologia educacional"
+            }
+        ],
+        "710": [
+            {
+                "a": "Fundação Centro Brasileiro de Televisão Educativa",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

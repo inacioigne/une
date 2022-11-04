@@ -1,0 +1,85 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004394",
+        "005": "20190805101048.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "551.583",
+            "b": "I24",
+            "c": "1995"
+        },
+        "245": {
+            "a": "The IGBP terrestrial transects",
+            "b": "science plan",
+            "c": "edited by G.W. Koch ... [et al.] with contributions from I. Burke ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Stockholm, Suécia",
+                "b": "International Geosphere-Biosphere Programme",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "61",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "IGBP Report = IGBP Rapport = IGBP Informe",
+                "v": "n. 36"
+            }
+        ],
+        "650": [
+            {
+                "a": "Mudanças climáticas",
+                "x": "Aspectos ambientais"
+            },
+            {
+                "a": "Atmosfera",
+                "x": "Pesquisa"
+            },
+            {
+                "a": "Interação oceano-atmosfera",
+                "x": "Cooperação internacional"
+            },
+            {
+                "a": "Gestão ambiental",
+                "x": "Cooperação internacional"
+            }
+        ],
+        "700": [
+            {
+                "a": "Koch, G. W",
+                "e": "Editor"
+            },
+            {
+                "a": "Burke, Ingrid C",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Programa Internacional da Geosfera-Biosfera",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Conselho Internacional das Uniões Científicas",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

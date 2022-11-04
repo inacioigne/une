@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000925",
+        "005": "20190726140450.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "336.531.2:5/6(73)",
+            "b": "S416",
+            "c": "1998"
+        },
+        "245": {
+            "a": "Science & engineering indicators",
+            "b": "1998",
+            "h": "Impresso",
+            "c": "National Science Board (Estados Unidos)"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "National Science Board",
+                "c": "1998"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (várias paginações)",
+                "b": "il., tabs., grafs."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência",
+                "x": "Estatísticas",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Engenharia",
+                "x": "Estatísticas",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento",
+                "x": "Indicadores",
+                "z": "Estados Unidos"
+            }
+        ],
+        "710": [
+            {
+                "a": "National Science Board (Estados Unidos)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "National Science Foundation (Estados Unidos)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

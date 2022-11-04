@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005651",
+        "005": "20190814160010.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.8",
+            "b": "G396ar",
+            "c": "1984"
+        },
+        "100": {
+            "a": "Gevarter, William B"
+        },
+        "245": {
+            "a": "Artificial intelligence, expert systems, computer vision, and natural language processing",
+            "c": "William B. Gevarter",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Park Ridge, Estados Unidos",
+                "b": "Noyes Publications",
+                "c": "c1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiv, 226 p",
+                "c": "25 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Robótica"
+            },
+            {
+                "a": "Sistema especialista"
+            },
+            {
+                "a": "Inteligência artificial"
+            },
+            {
+                "a": "Visão por computador"
+            },
+            {
+                "a": "Processamento de linguagem natural (Computação)"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

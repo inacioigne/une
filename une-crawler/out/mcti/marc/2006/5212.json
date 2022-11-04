@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005212",
+        "005": "20190813121601.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:025.43",
+            "b": "C738",
+            "d": "R",
+            "c": "1980"
+        },
+        "245": {
+            "a": "Computer sciences microthesaurus",
+            "b": "a hierarchical list of indexing terms used by NTIS",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Springfield [Estados Unidos]",
+                "b": "National Technical Information Service",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "65"
+            }
+        ],
+        "500": [
+            {
+                "a": "PB80-207814"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Tesauro"
+            },
+            {
+                "a": "Ciência da computação",
+                "x": "Tesauro"
+            }
+        ],
+        "990": {
+            "a": "Tesauro"
+        }
+    }
+}

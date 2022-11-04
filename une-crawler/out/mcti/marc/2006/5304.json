@@ -1,0 +1,49 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005304",
+        "005": "20190802142111.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.39(094)",
+            "b": "B823f",
+            "c": "[200-]"
+        },
+        "110": {
+            "a": "Brasil. Ministério das Comunicações"
+        },
+        "245": {
+            "a": "FUST, Fundo de universalização dos serviços de telecomunicações",
+            "b": "legislação",
+            "h": "Impresso",
+            "c": "Ministério das Comunicações"
+        },
+        "260": [
+            {
+                "a": "[Brasília]",
+                "b": "Ministério das Comunicações",
+                "c": "[200-]"
+            }
+        ],
+        "300": [
+            {
+                "a": "51"
+            }
+        ],
+        "650": [
+            {
+                "a": "Telecomunicações",
+                "x": "Legislação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002911",
+        "005": "20190802105641.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:005",
+            "b": "C639s",
+            "c": "1970"
+        },
+        "100": {
+            "a": "Clifton, H. D.",
+            "d": "1927-",
+            "q": "Harold Dennis"
+        },
+        "245": {
+            "a": "Systems analysis for business data processing",
+            "c": "H. D. Clifton",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Princeton [Estados Unidos]",
+                "b": "Auerbach",
+                "c": "1970"
+            }
+        ],
+        "300": [
+            {
+                "a": "244",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Análise de sistemas"
+            },
+            {
+                "a": "Informática",
+                "x": "Empresas"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

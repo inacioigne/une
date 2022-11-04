@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005462",
+        "005": "20190801120346.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "S355e",
+            "c": "1983"
+        },
+        "100": {
+            "a": "Schmit, Jacques"
+        },
+        "245": {
+            "a": "Éléments de programmation",
+            "c": "Jacques Schmit ; préface d'Henry Leroy",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Eyrolles",
+                "c": "1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "341"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Sistema de informação"
+            },
+            {
+                "a": "Programas de computador"
+            },
+            {
+                "a": "Informática"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

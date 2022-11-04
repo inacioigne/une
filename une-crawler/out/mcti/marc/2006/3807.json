@@ -1,0 +1,83 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003807",
+        "005": "20190813161414.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8524401669"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "519.725",
+            "b": "H461c",
+            "c": "2002",
+            "d": "IMPA"
+        },
+        "100": {
+            "a": "Hefez, Abramo"
+        },
+        "245": {
+            "a": "Códigos corretores de erros",
+            "c": "Abramo Hefez, Maria Lucia T. Villela",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Instituto Nacional de Matemática Pura e Aplicada",
+                "c": "2002"
+            }
+        ],
+        "300": [
+            {
+                "a": "vi, 206 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Série de Computação e Matemática"
+            }
+        ],
+        "505": [
+            {
+                "a": "Códigos Corretores de Erros -- 1 Códigos Corretores de Erros -- 1.1. O que é um código -- 1.2. Métrica de Hamming -- 1.3. Equivalência de Códigos -- 2 Anéis e Corpos -- 2.1. O Conceito de Anel -- 2.2. Potenciação -- 2.3. Divisibilidade -- 2.4. Classes Residuais -- 2.5. Os Inteiros -- 2.6. Classes Residuais de Inteiros -- 2.7. Mudança de Alfabeto -- 3 Polinômios -- 3.1. Anéis de Polinômios -- 3.2. Divisão de Polinômios -- 3.3. Derivação de Polinômios -- 3.4. Classes Residuais de Polinômios -- 3.5. Interpolação -- 3.6. Relações entre Coeficientes e Raízes -- 4 Corpos Finitos -- 4.1. Espaços Vetoriais -- 4.2. A Característica de um Corpo -- 4.3. Potências da Característica -- 4.4. Polinômios Irredutíveis -- 4.5. Classificação dos Corpos Finitos -- 4.6. Elementos Primitivos -- 5 Códigos Lineares -- 5.1. Códigos Lineares -- 5.2. Matriz Geradora de um Código -- 5.3. Códigos Duais -- 5.4. Exemplos de Códigos -- 5.5. Decodificação -- 6 Códigos Cíclicos -- 6.1. Introdução -- 6.2. Ideais de um Anel -- 6.3. Códigos Cíclicos -- 6.4. Decodificação em Códigos Cíclicos -- 7 Códigos BCH -- 7.1. Extensões de Corpos Finitos -- 7.2. Raízes da Unidade -- 7.3. Códigos Cíclicos Definidos por Anulamento -- 7.4. Códigos BCH -- 7.5. Polinômios q-lineares -- 7.6. Peso de um Código BCH Primitivo -- 7.7 Polinômio Gerador de um Código BCH -- 7.8 Dimensão de um Código BCH -- 8 Códigos de Goppa Clássicos -- 8.1. Códigos de Goppa Clássicos -- 8.2. Matriz Geradora de um Código de Goppa -- 8.3. Decodificação em Códigos de Goppa -- 9 Códigos de Goppa Racionais -- 9.1. Polinômios em Duas Indeterminadas -- 9.2. Funções Racionais -- 9.3. Divisores -- 9.4. Espaços Vetoriais Associados a Divisores -- 9.5. Códigos de Goppa Racionais -- 9.6. Duais de Códigos de Goppa Racionais -- 10 Cotas Assintóticas -- 10.1. Parâmetros de um Código -- 10.2. O Teorema de Shannon -- 10.3. Cota Assintótica de Gilbert-Varshamov -- 10.4. Códigos BCH Primitivos Longos -- 10.5. Códigos de Goppa Longos -- Apêndice 1 Indução Matemática -- Apêndice 2 Isometrias de Hamming -- Bibliografia -- Índice Alfabético"
+            }
+        ],
+        "520": {
+            "a": "Os códigos corretores de erros participam da vida moderna de inúmeras formas como, por exemplo, nas comunicações via satélite, na telefonia celular, nos pagers e na comunicação entre computadores, etc. Este livro contém os fundamentos desta teoria, apresentando com detalhes e rigor todas as ferramentas matemáticas necessárias para se adquirir uma sólida formação no assunto. São estudados com profundidade os tipos de códigos mais utilizados na vida real, chegando até aos códigos geométricos de Goppa racionais. O livro contém inúmeros algoritmos facilmente implementáveis, bem como vários exercícios para ajudar o leitor a fixar os conceitos."
+        },
+        "650": [
+            {
+                "a": "Matemática"
+            },
+            {
+                "a": "Códigos de controle de erros (Teoria da informação)"
+            },
+            {
+                "a": "Teoria dos erros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Villela, Maria Lúcia T",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Matemática Pura e Aplicada (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

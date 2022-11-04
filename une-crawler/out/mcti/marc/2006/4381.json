@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004381",
+        "005": "20190813155228.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "551.468",
+            "b": "C652",
+            "c": "1990"
+        },
+        "245": {
+            "a": "Coastal ocean fluxes and resources",
+            "c": "edited by P. Holligan",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Stockholm, Suécia",
+                "b": "International Geosphere-Biosphere Programme",
+                "c": "1990"
+            }
+        ],
+        "300": [
+            {
+                "a": "53",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "IGBP Report = IGBP Rapport = IGBP Informe",
+                "v": "n. 14"
+            }
+        ],
+        "650": [
+            {
+                "a": "Oceanografia"
+            },
+            {
+                "a": "Gerenciamento costeiro",
+                "x": "Aspectos ambientais"
+            }
+        ],
+        "700": [
+            {
+                "a": "Holligan, P",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Programa Internacional da Geosfera-Biosfera",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Conselho Internacional das Uniões Científicas",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

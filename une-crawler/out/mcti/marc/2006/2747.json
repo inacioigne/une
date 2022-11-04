@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a",
+        "001": "000002747",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0442156405"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451",
+            "b": "K19a"
+        },
+        "100": {
+            "a": "Katzan, Harry"
+        },
+        "245": {
+            "a": "Advanced programming",
+            "b": "programming and operating systems",
+            "c": "Harry Katzan, Jr."
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Van Nostrand Reinhold",
+                "c": "c1970"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 285 p",
+                "c": "24 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Computer science series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)"
+            },
+            {
+                "a": "Processamento de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

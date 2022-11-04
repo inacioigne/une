@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002072",
+        "005": "20190801152036.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.43",
+            "b": "C959s",
+            "c": "[1981]"
+        },
+        "100": {
+            "a": "Cétolo, Maria Tereza Azevedo"
+        },
+        "245": {
+            "a": "Um sistema BASIC multiusuário para o COBRA 400",
+            "c": "Maria Tereza Azevedo Cétolo",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[Brasília]",
+                "b": "[s.n.]",
+                "c": "[1981]"
+            }
+        ],
+        "300": [
+            {
+                "a": "69 f.",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Trabalho apresentado no 1. Concurso Nacional de Monografias em Informática, promovido pela Secretaria Especial de Informática (SEI) e pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq). teve como objetivo principal estimular a produção brasileira de literatura técnica no setor, tanto no que se refere a textos didáticos e de pesquisa como a aplicações de informática nos mais diversos aspectos da vida nacional."
+            }
+        ],
+        "505": [
+            {
+                "a": "Introdução -- 1. Implementação do interpretador basic monoprogramado no COBRA-400 -- 2. Implantação do interpretador reetrante -- 3. Gerenciamento de memória -- 4. Entrada e saída multiprogramada -- 5. Escalonamento de processos -- 6. Medidas de desempenho e conclusões -- Apêndice 01 - Comandos do BASIC-8080 -- Apêndice 02 - Variáveis de contreole utilizadas pelo interpretador -- Apêndice - 03 Mapa de memória dos sistema basic multiiusuário -- Apêndice 04 - Análise das instruções especiais para relocação -- Apêndice - 05 Rotina de interrupção -- Apêndice 06 - Rotina de entrada de dados via teclado -- Apêndice 07 - Formato do disco fixo do COBRA-400 -- Apêndice 08 - Rotina de escalonamento de processo -- Apêndice 09 - Programa para resolver sistema de equações -- Bibliográfia."
+            }
+        ],
+        "650": [
+            {
+                "a": "Linguagem de programação (Computadores)"
+            },
+            {
+                "a": "Sistema de comunicação"
+            },
+            {
+                "a": "Software"
+            }
+        ],
+        "711": [
+            {
+                "a": "Concurso Nacional de Monografias sobre Informática",
+                "c": "Brasília, DF",
+                "d": "1981",
+                "n": "1"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005863",
+        "005": "20190812095905.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7",
+            "b": "M689",
+            "c": "1987"
+        },
+        "100": {
+            "a": "Montoro, Fabio de Azevedo",
+            "d": "1950-"
+        },
+        "245": {
+            "a": "Modem products data book",
+            "h": "Impresso",
+            "c": "Fabio de Azevedo Montoro"
+        },
+        "260": [
+            {
+                "a": "[S.l.]",
+                "b": "Rockwell International",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia elétrica"
+            },
+            {
+                "a": "Modem"
+            },
+            {
+                "a": "Sistema de transmissão de dados"
+            },
+            {
+                "a": "Rede de telecomunicação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

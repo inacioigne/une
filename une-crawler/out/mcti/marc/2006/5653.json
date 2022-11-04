@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005653",
+        "005": "20190814153844.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.732'735",
+            "b": "T191r",
+            "c": "1986"
+        },
+        "100": {
+            "a": "Tarouco, Liane Margarida Rockenbach"
+        },
+        "245": {
+            "a": "Redes de computadores locais e de longa distância",
+            "c": "Liane Margarida Rockenback Tarouco,",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Makron Books",
+                "c": "1986"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "352",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Rede local"
+            },
+            {
+                "a": "Rede de longa distância"
+            },
+            {
+                "a": "Comunicação de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

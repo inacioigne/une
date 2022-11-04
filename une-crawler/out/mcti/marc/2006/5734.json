@@ -1,0 +1,53 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005734",
+        "005": "20190807181914.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:94(815.6)",
+            "b": "V789",
+            "c": "1987"
+        },
+        "245": {
+            "a": "20 anos SUCESU São Paulo",
+            "b": "memória da informática",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Sociedade dos Usuários de Computadores e Equipamentos Subsidiários",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "96",
+                "b": "il."
+            }
+        ],
+        "610": [
+            {
+                "a": "Sociedade dos Usuários de Computadores e Equipamentos Subsidiários (Brasil)",
+                "x": "História"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "História",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

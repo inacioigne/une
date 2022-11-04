@@ -1,0 +1,83 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002673",
+        "005": "20190801120618.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8572270167"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "622.777",
+            "b": "V726e",
+            "c": "1991",
+            "d": "CETEM"
+        },
+        "100": {
+            "a": "Villas Boas, Roberto C.",
+            "q": "Roberto Cerrini"
+        },
+        "245": {
+            "a": "Eletrorrecuperação de ouro a partir de soluções diluidas de seu cianeto",
+            "c": "Roberto C. Villas Bôas",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Centro de Tecnologia Mineral",
+                "c": "1991"
+            }
+        ],
+        "300": [
+            {
+                "a": "15 f.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Tecnologia mineral / CETEM",
+                "v": "51",
+                "x": "0103-7382"
+            }
+        ],
+        "505": [
+            {
+                "a": "1.Introdução --- 2. Fundamentos --- 3. O caso da eletrólise do ouro --- 4. Aproximação de Pickett --- 5. Conclusão --- Referências"
+            }
+        ],
+        "520": {
+            "a": "A literatura técnica sobre a cianetação de minérios auríferos é tão vasta quanto antigo é o processo. Aborda aspectos variados desde a química de lixiviação, passando por parâmetros de operação, indo, em detalhes, até a cementação por pó de zinco ou, mais modernamente, via carvão ativado. Entretanto, ao chegar ao processo eletrolítico, sequência normalmente mais indicada à recuperação de ouro e prata a partir de soluções alcalinas produzidas por autoclavação ou dessorção de carvão ativado, pouquíssimas referências são encontradas, mormente quanto ao projeto e análise de desempenho das células de eletrorrecuperação."
+        },
+        "650": [
+            {
+                "a": "Ouro",
+                "x": "Eletrorrecuperação"
+            },
+            {
+                "a": "Cianetação"
+            }
+        ],
+        "710": [
+            {
+                "a": "Centro de Tecnologia Mineral",
+                "c": "Brasil",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

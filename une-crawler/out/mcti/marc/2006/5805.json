@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005805",
+        "005": "20190808152124.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42(100)(063)",
+            "b": "I61p",
+            "c": "1987"
+        },
+        "111": {
+            "a": "International Computer Software and Applications Conference",
+            "c": "Tokyo, Japão",
+            "d": "1987",
+            "n": "11"
+        },
+        "245": {
+            "a": "Proceedings 11",
+            "b": "COMPSAC 87, October 7-9, 1987, COMPSAC 87, the Eleventh Annual International Computer Software & Applications Conference, Takanawa Prince Hotel, Tokyo, Japan",
+            "h": "Impresso",
+            "c": "IEEE COMPSAC 86"
+        },
+        "246": [
+            {
+                "a": "IEEE COMPSAC 86"
+            }
+        ],
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "IEEE Computer Society Press",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "xviii, 750",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Informática",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Software",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "710": [
+            {
+                "a": "IEEE Computer Society",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

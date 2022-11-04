@@ -1,0 +1,76 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000453",
+        "005": "20190726131044.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "001.891(430)(047)",
+            "b": "R425",
+            "c": "[2000]"
+        },
+        "245": {
+            "a": "Report of the federal government on research 2000",
+            "b": "full version",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Bonn",
+                "b": "Federal Ministry for Research and Technology",
+                "c": "[2000]"
+            }
+        ],
+        "300": [
+            {
+                "a": "176",
+                "b": "il.,",
+                "e": "1 CD-ROM"
+            }
+        ],
+        "490": [
+            {
+                "a": "BMBF publik"
+            }
+        ],
+        "650": [
+            {
+                "a": "Pesquisa científica",
+                "z": "Alemanha"
+            },
+            {
+                "a": "Ciência e Estado",
+                "z": "Alemanha"
+            },
+            {
+                "a": "Tecnologia e Estado",
+                "z": "Alemanha"
+            },
+            {
+                "a": "Cooperação internacional",
+                "x": "Pesquisa científica",
+                "z": "Alemanha"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento",
+                "z": "Alemanha"
+            }
+        ],
+        "710": [
+            {
+                "a": "Alemanha. Federal Ministry for Research and Technology",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001970",
+        "005": "20190807112051.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.65",
+            "b": "L533i",
+            "c": "1980",
+            "d": "CAPRE"
+        },
+        "100": {
+            "a": "Leite, Leonardo Lellis Pereira",
+            "d": "1952-"
+        },
+        "245": {
+            "a": "Introdução aos sistemas de gerência de banco de dados",
+            "c": "Leonardo Lellis Pereira Leite",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Edgard Blucher",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "138",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "1. Introdução -- 2. Utilização de Sistemas de Gerência de Bando de Dados (SGBD) em sistema de informação -- 3. Conceituação dos Sistemas de Gerência de Bando de Dados SGBD -- 4. Análise dos SGBD mais utilizados no mercado brasileiro -- Apêndice - Estudo de caso."
+            }
+        ],
+        "550": {
+            "a": "Publicado em convênio com a Fundação Nacional de Material Escolar, Ministério da Educação e Cultura e com a Comissão de Coordenação das Atividades de Processamento eletrónico, Secretaria do Planejamento da Presidência da Republica."
+        },
+        "586": {
+            "a": "O Programa Nacional de Treinamento em Computação (PNTC), foi criado com o objetivo de \"incentivar a formação de profissionais de processamento de dados em todos os níveis para suprir a demanda de mão-de-obra especializada no País, visando, ao mesmo tempo, a definição de uma filosofia geral do ensino especializado, com ênfase para a melhoria da qualidade\". Sua execução é coordenada pela CAPRE. De acordo com esses objetivos o PNTC vem promovendo incitavas que visam a incrementar tanto qualitativa como quantitativamente a formação de recursos humanos em informática no Brasil, de modo a garantir uma utilização eficaz e eficiente da computação pelas instituições públicas e privadas brasileiras de forma coerente com a necessidade do desenvolvimento do País."
+        },
+        "650": [
+            {
+                "a": "Sistema de informação"
+            },
+            {
+                "a": "Sistema de gerenciamento de banco de dados"
+            },
+            {
+                "a": "Banco de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

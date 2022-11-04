@@ -1,0 +1,105 @@
+{
+    "controfield": {
+        "000": "06861nas  22018737a 4500",
+        "001": "000001017",
+        "003": "LIBRIS",
+        "005": "20170123093351.0",
+        "008": "730000c19599999au zr|p       0    0eng c"
+    },
+    "datafield": {
+        "022": {
+            "a": "0020-6067"
+        },
+        "030": {
+            "a": "IAEBAB"
+        },
+        "035": {
+            "a": "3415188"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.039(05)"
+        },
+        "210": [
+            {
+                "a": "Int. At. Energy Agency bull."
+            }
+        ],
+        "222": [
+            {
+                "a": "IAEA bulletin"
+            },
+            {
+                "a": "IAEA bulletin"
+            }
+        ],
+        "245": {
+            "a": "International Atomic Energy Agency bulletin",
+            "c": "International Atomic Energy Agency",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Vienna",
+                "b": "Agência Internacional de Energia Atômica",
+                "c": "1976"
+            }
+        ],
+        "270": [
+            {
+                "d": "Austria"
+            }
+        ],
+        "300": [
+            {
+                "b": "v"
+            }
+        ],
+        "310": {
+            "a": "Semestral"
+        },
+        "500": [
+            {
+                "a": "Publicação em espanhol (v. 18, n. 5/6 de 1976 ao v. 20, n. 6, dez. 1978)"
+            }
+        ],
+        "530": {
+            "a": "Documento eletrônico: Texto completo, período disponível (1959 - presente) - Livre acesso"
+        },
+        "650": [
+            {
+                "a": "Energia nuclear",
+                "x": "Periódico"
+            },
+            {
+                "a": "Tecnologia nuclear",
+                "x": "Periódico"
+            }
+        ],
+        "710": [
+            {
+                "a": "Agência Internacional de Energia Atômica",
+                "c": "Viena (Áustria)",
+                "e": "Corporativo"
+            }
+        ],
+        "776": {
+            "t": "IAEA bulletin (Online)",
+            "x": "1564-2690"
+        },
+        "780": {
+            "t": "Organismo Internacional de Energia Atomica Boletin",
+            "x": "0020-6067"
+        },
+        "856": {
+            "u": "https://www.iaea.org/publications",
+            "y": "Texto completo - Livre acesso",
+            "z": "Acesso em: 23/01/2017"
+        },
+        "990": {
+            "a": "Periódicos"
+        }
+    }
+}

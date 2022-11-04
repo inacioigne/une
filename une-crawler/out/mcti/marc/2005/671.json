@@ -1,0 +1,79 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000671",
+        "005": "20190812132222.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "332.145(813.7)",
+            "b": "C395",
+            "c": "2003"
+        },
+        "245": {
+            "a": "Cenários de desenvolvimento local",
+            "b": "estudos exploratórios",
+            "c": "Maria Lúcia de Oliveira Falcón, Dean Lee Hansen, Edison Rodrigues Barreto Junior (organizadores)",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Aracajú",
+                "b": "Associação Nacional de Entidades Promotoras de Empreendimentos Inovadores",
+                "c": "2003"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "216",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Desenvolvimento econômico",
+                "z": "Aracajú"
+            },
+            {
+                "a": "Economia regional",
+                "z": "Aracajú"
+            },
+            {
+                "a": "Planejamento econômico",
+                "z": "Aracajú"
+            },
+            {
+                "a": "Desenvolvimento local",
+                "z": "Aracajú"
+            }
+        ],
+        "700": [
+            {
+                "a": "Falcón, Maria Lúcia de Oliveira",
+                "e": "Organizador"
+            },
+            {
+                "a": "Hansen, Dean Lee",
+                "e": "Organizador"
+            },
+            {
+                "a": "Barreto Júnior, Edison Rodrigues",
+                "e": "Organizador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

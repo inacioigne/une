@@ -1,0 +1,73 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000245",
+        "005": "20180814164004.0",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "001.8(815.1)(063)",
+            "b": "S471s"
+        },
+        "111": {
+            "a": "Semana de Iniciação Cientifica da UFMG",
+            "c": "Belo Horizonte, MG",
+            "d": "1993",
+            "n": "2"
+        },
+        "245": {
+            "a": "II Semana de Iniciação Cientifica da UFMG",
+            "b": "05 a 07 de outubro de 1993, Belo Horizonte : [resumos]"
+        },
+        "246": [
+            {
+                "a": "A universidade mostra os trabalhos dos alunos de graduação dias 5, 6 e 7 de outubro 1993"
+            }
+        ],
+        "260": [
+            {
+                "a": "Belo Horizonte",
+                "b": "Universidade Federal de Minas Gerais, Pró-Reitoria de Pesquisa",
+                "c": "1993"
+            }
+        ],
+        "300": [
+            {
+                "a": "140"
+            }
+        ],
+        "610": [
+            {
+                "a": "Universidade Federal de Minas Gerais",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "650": [
+            {
+                "a": "Pesquisa científica",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Iniciação científica",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento",
+                "x": "Congressos, eventos, encontros",
+                "z": "Minas Gerais"
+            },
+            {
+                "a": "Instituição de pesquisa",
+                "x": "Congressos, eventos, encontros",
+                "z": "Minas Gerais"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

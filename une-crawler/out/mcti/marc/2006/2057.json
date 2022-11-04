@@ -1,0 +1,85 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002057",
+        "005": "20190806101904.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:338.45(81)",
+            "b": "I42i",
+            "c": "1990"
+        },
+        "245": {
+            "a": "A indústria de informática no Brasil",
+            "c": "Paulo Bastos Tigre ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Campinas",
+                "b": "Universidade Estadual de Campinas, Instituto de Economia, Centro de Estudos de Relações Econômicas Internacionais, Núcleo de Economia Industrial e da Tecnologia",
+                "c": "1990"
+            }
+        ],
+        "300": [
+            {
+                "a": "211"
+            }
+        ],
+        "500": [
+            {
+                "a": "Projeto: Desenvolvimento tecnológico da indústria e a constituição de sistema de inovação no Brasil. Contrato: IPT/FECAMP Coordenação: Prof. Dr. Luciano Galvão Coutinho - UNICAMP/Instituto de Economia; Prof. Dr. Wilson Suzigan - UNICAMP/Instituto de Economia/NEIT"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Indústria",
+                "z": "Brasil"
+            },
+            {
+                "a": "Indústrias",
+                "x": "Desenvolvimento tecnológico",
+                "z": "Brasil"
+            },
+            {
+                "a": "Inovação tecnológica",
+                "x": "Indústria",
+                "z": "Brasil"
+            },
+            {
+                "a": "Qualidade",
+                "x": "Informática",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Coutinho, Luciano Galvão",
+                "e": "Coautor"
+            },
+            {
+                "a": "Suzigan, Wilson",
+                "d": "1942-",
+                "e": "Coautor"
+            },
+            {
+                "a": "Baptista, Margarida",
+                "e": "Coautor"
+            },
+            {
+                "a": "Tigre, Paulo Bastos",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

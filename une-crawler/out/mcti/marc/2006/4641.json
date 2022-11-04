@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004641",
+        "005": "20190808130510.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "020": {
+            "a": "8486094933"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6(7/8=134.2)",
+            "b": "S623",
+            "c": "1992"
+        },
+        "245": {
+            "a": "Los sistemas de ciencia y tecnología en Iberoamérica",
+            "c": "edición de Luis A. Oro y Jesús Sebastián ; prólogo de Javier Solana",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Madri (Espanha)",
+                "b": "Fundesco",
+                "c": "1992"
+            }
+        ],
+        "300": [
+            {
+                "a": "355",
+                "b": "il., grafs."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e Estado",
+                "z": "América Latina"
+            },
+            {
+                "a": "Ciência",
+                "z": "América Latina"
+            },
+            {
+                "a": "Pesquisa científica",
+                "z": "América Latina"
+            }
+        ],
+        "700": [
+            {
+                "a": "Oro, Luis A",
+                "e": "Editor"
+            },
+            {
+                "a": "Sebastian, Jesús",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

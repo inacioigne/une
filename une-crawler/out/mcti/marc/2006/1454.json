@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001454",
+        "005": "20190813115948.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0131651269"
+        },
+        "040": {
+            "a": "Br-MCT",
+            "c": "Br-MCT"
+        },
+        "090": {
+            "a": "004.05",
+            "b": "F375c",
+            "c": "1978"
+        },
+        "100": {
+            "a": "Ferrari, Domenico",
+            "d": "1940-"
+        },
+        "245": {
+            "a": "Computer systems performance evaluation",
+            "c": "Domenico Ferrari",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "1978"
+            }
+        ],
+        "300": [
+            {
+                "a": "554",
+                "c": "25",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Computador digital",
+                "x": "Avaliação de desempenho"
+            },
+            {
+                "a": "Simulação (Computadores)"
+            },
+            {
+                "a": "Sistema de computador",
+                "x": "Avaliação de desempenho"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003967",
+        "005": "20190807110452.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.43",
+            "b": "F992p",
+            "c": "1986"
+        },
+        "100": {
+            "a": "Furtado, A. L.",
+            "d": "1934-",
+            "q": "Antonio Luz"
+        },
+        "245": {
+            "a": "Paradigmas de linguagens de programação",
+            "c": "Antonio L. Furtado",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Campinas",
+                "b": "Universidade Estadual de Campinas",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "146",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Linguagem de programação (Computadores)"
+            },
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Programação estruturada"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Campinas, SP",
+                "d": "1986",
+                "n": "1"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004333",
+        "005": "20190807131502.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "62-021.273",
+            "b": "I88",
+            "c": "2001"
+        },
+        "245": {
+            "a": "IT technology transfer list",
+            "h": "Impresso",
+            "c": "Institute of Information Technology Assessment"
+        },
+        "260": [
+            {
+                "a": "Seoul, República da Coréia",
+                "b": "Institute of Information Technology Assessment",
+                "c": "2001"
+            }
+        ],
+        "300": [
+            {
+                "a": "72",
+                "b": "il., tabs."
+            }
+        ],
+        "650": [
+            {
+                "a": "Transferência de tecnologia"
+            },
+            {
+                "a": "Semicondutores"
+            },
+            {
+                "a": "Informação tecnológica"
+            }
+        ],
+        "710": [
+            {
+                "a": "Institute of Information Technology Assessment (República da Coréia)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

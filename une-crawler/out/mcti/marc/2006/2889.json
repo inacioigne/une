@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002889",
+        "005": "20190809142512.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "H972m",
+            "c": "c1970"
+        },
+        "100": {
+            "a": "Husson, Samir S"
+        },
+        "245": {
+            "a": "Microprogramming",
+            "b": "principles and practices",
+            "c": "Samir S. Husson",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "c1970"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 614 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Microprocessador"
+            },
+            {
+                "a": "Microprogramação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

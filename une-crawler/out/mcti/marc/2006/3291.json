@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003291",
+        "005": "20190812111135.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.3.049:771.14(043.3)",
+            "b": "M357m",
+            "c": "1980"
+        },
+        "100": {
+            "a": "Marques, José Manuel Costa Alves"
+        },
+        "245": {
+            "a": "MOSAIC",
+            "b": "une méthodologie de conception pour les circuits système VLSI",
+            "c": "par José Manuel Costa Alves Marques",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Grenoble [França]",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "356",
+                "b": "il."
+            }
+        ],
+        "502": [
+            {
+                "a": "Tese (Doutorado) - Institut National Polytechnique de Grenoble, Grenoble, 1980."
+            }
+        ],
+        "650": [
+            {
+                "a": "Circuito integrado"
+            },
+            {
+                "a": "Projeto MOSAIC"
+            },
+            {
+                "a": "Arquitetura de computador"
+            }
+        ],
+        "990": {
+            "a": "Dissertações/Teses/TCC"
+        }
+    }
+}

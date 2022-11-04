@@ -1,0 +1,85 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005765",
+        "005": "20190807190334.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "62-52(81)(063)",
+            "b": "C749s",
+            "c": "1988"
+        },
+        "111": {
+            "a": "Congresso Brasileiro de Automática",
+            "c": "São José dos Campos, SP",
+            "d": "1988",
+            "n": "7"
+        },
+        "245": {
+            "a": "7° Congresso Brasileiro de Automática",
+            "c": "editor, J. A. M. Felippe de Souza",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São José dos Campos",
+                "b": "Sociedade Brasileira de Automática",
+                "c": "1988"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "3 v.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Robótica",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Automação",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Mecanização",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Engenharia industrial",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Souza, José Antonio Menezes Felippe de",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Sociedade Brasileira de Automática",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000278",
+        "005": "20190805194002.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "857013040X"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "025.5-52",
+            "b": "F475e",
+            "c": "1994"
+        },
+        "100": {
+            "a": "Figueiredo, Nice Menezes de"
+        },
+        "245": {
+            "a": "Estudos de uso e usuários da informação",
+            "c": "Nice Menezes de Figueiredo",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto Brasileiro de Informação em Ciência e Tecnologia",
+                "c": "1994"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "154",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Biblioteconomia"
+            },
+            {
+                "a": "Serviço de informação",
+                "x": "Avaliação"
+            },
+            {
+                "a": "Bibliotecas",
+                "x": "Estudo de usuários"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

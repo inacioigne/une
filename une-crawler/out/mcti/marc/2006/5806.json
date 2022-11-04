@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005806",
+        "005": "20190805134109.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.891(063)",
+            "b": "S612p",
+            "c": "1987"
+        },
+        "111": {
+            "a": "Simpósio sobre Produtividade no Desenvolvimento de Sistemas",
+            "c": "Brasília, DF",
+            "d": "1987",
+            "n": "1"
+        },
+        "245": {
+            "a": "I Simpósio sobre produtividade no desenvolvimento de sistemas",
+            "b": "( I SIMPRO ) : Anais",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "[s.n.]",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "108",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Desenvolvimento de sistemas",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Sistema de informação",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

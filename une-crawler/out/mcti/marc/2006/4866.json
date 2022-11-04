@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004866",
+        "005": "20190806090441.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "628.3",
+            "b": "T776",
+            "c": "1999"
+        },
+        "245": {
+            "a": "Tratamento de esgotos sanitários por processo anaeróbio e disposição controlada no solo",
+            "c": "José Roberto Campos, coordenador",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Carlos, SP",
+                "b": "Associação Brasileira de Engenharia Sanitária e Ambiental",
+                "c": "1999"
+            }
+        ],
+        "300": [
+            {
+                "a": "435",
+                "c": "23",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Esgoto sanitário",
+                "x": "Tratamento"
+            },
+            {
+                "a": "Águas residuais",
+                "x": "Purificação"
+            },
+            {
+                "a": "Engenharia sanitária"
+            }
+        ],
+        "700": [
+            {
+                "a": "Campos, Jose Roberto",
+                "e": "Coordenador"
+            }
+        ],
+        "710": [
+            {
+                "a": "Programa de Pesquisa em Saneamento Básico (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

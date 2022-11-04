@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003056",
+        "005": "20190802105747.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0872018148"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.414.2:371.11",
+            "b": "S587s",
+            "c": "1972"
+        },
+        "100": {
+            "a": "Silvern, Leonard Charles",
+            "d": "1919-"
+        },
+        "245": {
+            "a": "Systems engineering applied to training",
+            "c": "Leonard C. Silvern",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Houston [Estados Unidos]",
+                "b": "Gulf Pub. Co.",
+                "c": "c1972"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiii, 170",
+                "b": "il., (1 fold. in pocket)"
+            }
+        ],
+        "650": [
+            {
+                "a": "Escolas",
+                "x": "Organização e administração",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Análise de sistemas"
+            },
+            {
+                "a": "Escola",
+                "x": "Gerência"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005766",
+        "005": "20190801165919.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.8",
+            "b": "C837s",
+            "c": "1986"
+        },
+        "100": {
+            "a": "Costa, Antonio Carlos da Rocha"
+        },
+        "245": {
+            "a": "Sobre os fundamentos da inteligencia artificial",
+            "c": "Antônio Carlos da Rocha Costa",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Porto Alegre",
+                "b": "Universidade Federal do Rio Grande do Sul, Curso de Pós-Graduação em Ciência da Computação",
+                "c": "c1986"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "56"
+            }
+        ],
+        "650": [
+            {
+                "a": "Inteligência artificial"
+            },
+            {
+                "a": "Simulação (Computadores)"
+            },
+            {
+                "a": "Computadores"
+            },
+            {
+                "a": "Processamento de dados"
+            }
+        ],
+        "710": [
+            {
+                "a": "Universidade Federal do Rio Grande do Sul",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

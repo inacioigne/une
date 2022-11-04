@@ -1,0 +1,73 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003904",
+        "005": "20190801095313.0",
+        "007": "t",
+        "008": "                                   mul"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "338.1(81)(084.21)",
+            "b": "E19",
+            "c": "1996"
+        },
+        "245": {
+            "a": "A Economia brasileira em gráficos",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "the brazilian economy in graphs"
+            }
+        ],
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Fundação Getulio Vargas",
+                "c": "1996"
+            }
+        ],
+        "300": [
+            {
+                "a": "130",
+                "b": "il."
+            }
+        ],
+        "520": {
+            "a": "Apresenta dados estatisticos atraves de graficos do pib, população, desemprego, salario minimo, distribuição de renda, grãos, pecuaria, industria, exportações, importações, divida externa, icms, dolar paralelo, e de ativos financeiros ate 1995."
+        },
+        "650": [
+            {
+                "a": "Condições econômicas",
+                "z": "Brasil"
+            },
+            {
+                "a": "Condições sociais",
+                "z": "Brasil"
+            },
+            {
+                "a": "Mercado de trabalho",
+                "z": "Brasil"
+            },
+            {
+                "a": "Agropecuária",
+                "z": "Brasil"
+            },
+            {
+                "a": "Indústrias",
+                "z": "Brasil"
+            },
+            {
+                "a": "Finanças públicas",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

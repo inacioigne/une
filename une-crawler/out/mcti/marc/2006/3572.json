@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003572",
+        "005": "20190730125838.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "1413-506X"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.5(81)",
+            "b": "Q1",
+            "c": "1995"
+        },
+        "245": {
+            "a": "Qualidade no setor de software brasileiro, 1995",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Ministério da Ciência e Tecnologia",
+                "c": "1996"
+            }
+        ],
+        "300": [
+            {
+                "a": "52",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Periódico tratado como livro (ISSN 1518-112X)"
+            }
+        ],
+        "505": [
+            {
+                "a": "Introdução -- Caracterização das empresas -- Caracterização dos softwares -- Gestão da qualidade -- Gestão de recursos humanos -- Atendimento a clientes -- Procedimentos para qualidade em software -- Anexo 1. Modelo de formulário para pesquisa -- Anexo 2. Glossário -- Anexo 3. Contatos com o PBQP -- Anexo 4. Entidades que colaboram na pesquisa -- Anexo 5. Empresas participantes -- Índice remissivo de tabelas e gráficos."
+            }
+        ],
+        "520": {
+            "a": "A pesquisa Qualidade no Setor de Software Brasileiro foi realizada, em sua segunda edição, sob a coordenação da Divisão de Sistemas de Informação sobre Informática da Secretaria de Política de Informática e Automação do Ministério da Ciência e Tecnologia - DSI/SEPIN/MCT, no âmbito do Subprograma Setorial da Qualidade e Produtividade em Software, do Programa Brasileiro da Qualidade e Produtividade - SSQP/SW-PBQP. Esta pesquisa provê dados para o Sistema Brasileiro de Informação sobre Software - SBIS, concebido pelo Programa Brasileiro de Software para Exportação - SOFTEX 2000 e integra o projeto Competitividade da Indústria Brasileira de Software, apresentado ao SSQP/SW-PBQP, que objetiva levantar informações sobre aspectos relevantes para a qualidade da produção de software no País."
+        },
+        "650": [
+            {
+                "a": "Software",
+                "x": "Qualidade",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pesquisa científica",
+                "x": "Software",
+                "z": "Brasil"
+            },
+            {
+                "a": "Controle de qualidade"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

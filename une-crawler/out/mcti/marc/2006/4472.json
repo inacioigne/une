@@ -1,0 +1,46 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004472",
+        "005": "20190801090507.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6:62-027.15",
+            "b": "D637",
+            "c": "2001"
+        },
+        "245": {
+            "a": "Documentos rectores de la ciencia y la innovacion tecnologica",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Havana (Cuba)",
+                "b": "Editorial Academia",
+                "c": "2001"
+            }
+        ],
+        "300": [
+            {
+                "a": "74"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e tecnologia"
+            },
+            {
+                "a": "Desenvolvimento tecnológico"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003009",
+        "005": "20190807093106.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "07066266"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.38",
+            "b": "I61",
+            "c": "1980"
+        },
+        "245": {
+            "a": "International marketing opportunities",
+            "b": "electronics",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "McGraw-Hill",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (paginação irregular)",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia eletrônica"
+            },
+            {
+                "a": "Indústria eletrônica"
+            },
+            {
+                "a": "Instrumento eletrônico"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004923",
+        "005": "20190801112327.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "674.047",
+            "b": "M538s",
+            "c": "1996"
+        },
+        "100": {
+            "a": "Mendes, Alfredo de Souza"
+        },
+        "245": {
+            "a": "A secagem da madeira",
+            "c": "Alfredo de Souza Mendes",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Manaus",
+                "b": "Instituto Nacional de Pesquisas da Amazônia",
+                "c": "1996"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "64",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Madeira",
+                "x": "Armazenamento"
+            },
+            {
+                "a": "Secagem da madeira"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto Nacional de Pesquisas da Amazônia (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005086",
+        "005": "20190807091402.0",
+        "007": "t",
+        "008": "                                   eng  "
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502.13(213.56:811)",
+            "b": "I61",
+            "c": "1995",
+            "d": "CNPq"
+        },
+        "245": {
+            "a": "Interdisciplinary research on the conservation and sustainable use of the Amazonian rain forest and its information requirements",
+            "b": "report on the workshop held in Brasília, Brazil, November 20-22, 1995",
+            "c": "edited by Reinhard Lieberei, Christoph Reisdorff, Antônio Dantas Machado",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Alemanha",
+                "b": "Forschungszentrum Geesthacht",
+                "c": "[1996]"
+            }
+        ],
+        "270": [
+            {
+                "d": "Itália"
+            }
+        ],
+        "300": [
+            {
+                "a": "iii, 323 p.",
+                "b": "il., mapas",
+                "c": "30"
+            }
+        ],
+        "650": [
+            {
+                "a": "Florestas tropicais",
+                "x": "Congressos, eventos, encontros",
+                "z": "Amazonas, Rio"
+            },
+            {
+                "a": "Florestas",
+                "x": "Congressos, eventos, encontros",
+                "z": "Amazonas, Rio"
+            }
+        ],
+        "700": [
+            {
+                "a": "Lieberei, Reinhard",
+                "e": "Editor"
+            },
+            {
+                "a": "Reisdorff, Christoph",
+                "e": "Editor"
+            },
+            {
+                "a": "Machado, Antônio Dantas",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

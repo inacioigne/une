@@ -1,0 +1,86 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003145",
+        "005": "20190806104755.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502.15(213.56:811)",
+            "b": "B273i",
+            "c": "2002"
+        },
+        "100": {
+            "a": "Barreto, Paulo"
+        },
+        "245": {
+            "a": "Informações e sugestões para a criação e gestão de florestas públicas na Amazônia",
+            "c": "Paulo Barreto, Adalberto Veríssimo",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Ministério do Meio Ambiente",
+                "c": "2002"
+            }
+        ],
+        "300": [
+            {
+                "a": "43 f.",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "A criação de novas florestas nacionais -- Preços mínimos para as madeiras das flonas -- Modelo de gestão de florestas públicas para a Amazônia"
+            }
+        ],
+        "650": [
+            {
+                "a": "Florestas",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Gestão ambiental",
+                "x": "Florestas",
+                "z": "Amazônia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Veríssimo, Adalberto",
+                "d": "1965-",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Brasil. Ministério do Meio Ambiente",
+                "b": "Secretaria de Biodiversidade e Florestas",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Programa Nacional de Florestas (Brasil)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Programa Piloto para a Proteção das Florestas Tropicais do Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "Livro Aberto/IBICT",
+            "u": "http://livroaberto.ibict.br/bitstream/1/841/1/informacoes_sugestoes_criacao_gestao_florestas.pdf",
+            "z": "Acesso em: 23/12/2014"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

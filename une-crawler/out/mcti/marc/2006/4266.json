@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004266",
+        "005": "20190813145335.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "620.91(81)",
+            "b": "B823b",
+            "c": "2004"
+        },
+        "110": {
+            "a": "Brasil. Ministério das Minas e Energia"
+        },
+        "245": {
+            "a": "Brazilian energy balance",
+            "b": "BEB 2004 : based on 2003 data",
+            "h": "Impresso",
+            "c": "Ministério das Minas e Energia"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Ministério das Minas e Energia",
+                "c": "2004"
+            }
+        ],
+        "300": [
+            {
+                "a": "169",
+                "b": "il."
+            }
+        ],
+        "520": {
+            "a": "O Balanço Energético Nacional é o documento oficial do Ministério de Minas e Energia, destinado a registrar estatísticas de energia."
+        },
+        "650": [
+            {
+                "a": "Energia",
+                "z": "Brasil",
+                "x": "Consumo (Economia)"
+            },
+            {
+                "a": "Recursos energéticos",
+                "x": "Estatísticas",
+                "z": "Brasil"
+            },
+            {
+                "a": "Balanço energético (Geofísica)",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

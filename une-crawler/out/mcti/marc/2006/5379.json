@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005379",
+        "005": "20190812165801.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "378.018.8:004(063)",
+            "b": "S471a",
+            "c": "1995"
+        },
+        "111": {
+            "a": "Seminário de Computação na Universidade",
+            "c": "Canela, RS",
+            "d": "1995",
+            "n": "25"
+        },
+        "245": {
+            "a": "Anais do XXV Seminário de computação na universidade",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Porto Alegre",
+                "b": "Instituto de Informática, Universidade Federal do Rio grande do Sul",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "44",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência da computação",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Universidade"
+            },
+            {
+                "a": "Informática"
+            }
+        ],
+        "711": [
+            {
+                "a": "Congresso da Sociedade Brasileira de Computação",
+                "c": "Canela, RS",
+                "d": "1995",
+                "n": "15"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004451",
+        "005": "20190813160111.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "2040090428"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.438COBOL",
+            "b": "B248c",
+            "c": "1983"
+        },
+        "100": {
+            "a": "Barès, Michel"
+        },
+        "245": {
+            "a": "Cobol",
+            "b": "initiation et pratique",
+            "c": "par Michel Barès et Henri Ducasse ; préface de Jean Vignes ; présentation de René Malgoire",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Dunod",
+                "c": "1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "197",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Dunod informatique"
+            }
+        ],
+        "650": [
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "COBOL"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Ducasse, Henri",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

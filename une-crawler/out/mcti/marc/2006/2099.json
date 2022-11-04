@@ -1,0 +1,44 @@
+{
+    "controfield": {
+        "000": "     nam  22      a",
+        "001": "000002099",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.438VisualBASIC",
+            "b": "M626l"
+        },
+        "245": {
+            "a": "Microsoft Visual Basic language reference",
+            "b": "programming system for windows, version 4.0"
+        },
+        "260": [
+            {
+                "a": "[S.l.]",
+                "b": "Microsoft Press",
+                "c": "c1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "vii, 1064 p."
+            }
+        ],
+        "650": [
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "Visual Basic (Linguagem de programação de computador)"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

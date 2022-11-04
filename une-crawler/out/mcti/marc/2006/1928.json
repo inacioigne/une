@@ -1,0 +1,77 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001928",
+        "005": "20190805101350.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004(100)(063)",
+            "b": "F527i",
+            "c": "[1988?]"
+        },
+        "111": {
+            "a": "International Informatics Congress",
+            "c": "Rio de Janeiro, RJ",
+            "d": "1988",
+            "n": "1"
+        },
+        "245": {
+            "a": "The impact of using information technology",
+            "b": "proceedings : Brazil, 22 to 26, August 1988",
+            "c": "1st International Informatics Congress of Rio de Janeiro"
+        },
+        "260": [
+            {
+                "a": "[Rio de Janeiro]",
+                "b": "Association française pour la cybernétique économique et technique",
+                "c": "[1988?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "180",
+                "c": "28 cm",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Título da capa Inglês, com um artigo em francês"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Tecnologia da informação",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Informática",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Sistema de informação",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "710": [
+            {
+                "a": "Association Francaise pour la Cybernetique Economique et Technique",
+                "c": "França",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

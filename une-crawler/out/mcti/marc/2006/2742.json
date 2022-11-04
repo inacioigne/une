@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002742",
+        "005": "20190809142123.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "013729624X"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.415.53",
+            "b": "H589p",
+            "c": "1973"
+        },
+        "245": {
+            "a": "Program test methods",
+            "c": "edited by William C. Hetzel",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "c1973"
+            }
+        ],
+        "300": [
+            {
+                "a": "ix, 311, [41]",
+                "c": "24 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Prentice-Hall series in automatic computation"
+            }
+        ],
+        "500": [
+            {
+                "a": "\"Based on the proceedings of the Computer Program Test Methods Symposium held at the University of North Carolina, Chapel Hill, June 21-23, 1972.\""
+            }
+        ],
+        "650": [
+            {
+                "a": "Programas de computador",
+                "x": "Teste"
+            },
+            {
+                "a": "Software",
+                "x": "Teste"
+            }
+        ],
+        "700": [
+            {
+                "a": "Hetzel, William C.",
+                "d": "1941-",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005397",
+        "005": "20190808092832.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.438BASIC",
+            "b": "B311s",
+            "c": "=133.1",
+            "d": "c1984"
+        },
+        "100": {
+            "a": "Stephenson, Alfred Philip"
+        },
+        "245": {
+            "a": "Le BASIC bien programmé",
+            "c": "A. P. Stephenson ; [traduit par G. Jastrzeb]",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "de l'ABC aux fichiers"
+            }
+        ],
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Dunod",
+                "c": "c1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "120",
+                "c": "21 cm"
+            }
+        ],
+        "490": [
+            {
+                "a": "MicroDunod"
+            }
+        ],
+        "534": {
+            "a": "Tradução de: Beginner's guide to Basic programming"
+        },
+        "650": [
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Jastrzeb, Gérard",
+                "e": "Tradutor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

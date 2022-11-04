@@ -1,0 +1,88 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001908",
+        "005": "20190802130649.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "020": {
+            "a": "9501398808"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4",
+            "b": "H133f",
+            "c": "1989"
+        },
+        "100": {
+            "a": "Haeberer, Armando Martín",
+            "d": "1947-"
+        },
+        "245": {
+            "a": "Formalización del proceso de desarrollo de software",
+            "c": "A.M. Haeberer, P. A. S. Veloso, G. Baum",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Buenos Aires",
+                "b": "Kapelusz",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "172, 20 p.",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Versão preliminar apresentada na IV Escola Brasileiro-Argentina de Informática, Santiago del Estero, 1989."
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia de software"
+            },
+            {
+                "a": "Software",
+                "x": "Desenvolvimento"
+            },
+            {
+                "a": "Software"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Baum, Gabriel A",
+                "d": "1954-",
+                "e": "Coautor"
+            },
+            {
+                "a": "Veloso, Paulo A. S.",
+                "d": "1944-",
+                "q": "Paulo Augusto Silva",
+                "e": "Coautor"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Santiago del Estero, Argentina",
+                "d": "1989",
+                "n": "4"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

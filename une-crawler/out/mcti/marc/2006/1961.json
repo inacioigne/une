@@ -1,0 +1,48 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001961",
+        "005": "20190808164856.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "629.783(450)",
+            "b": "A244",
+            "c": "[200-?]"
+        },
+        "245": {
+            "a": "Advanced satellite networks developed in Italy",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Roma",
+                "b": "Telespazio",
+                "c": "[200-?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "10 folhas soltas"
+            }
+        ],
+        "650": [
+            {
+                "a": "Satélite artificial",
+                "z": "Italia"
+            },
+            {
+                "a": "Ciência e tecnologia",
+                "z": "Italia"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

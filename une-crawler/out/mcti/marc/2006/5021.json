@@ -1,0 +1,86 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005021",
+        "005": "20190807114354.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8509001642"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6:32(815.6)",
+            "b": "P944",
+            "c": "2006"
+        },
+        "245": {
+            "a": "PATEM",
+            "b": "15 anos de apoio tecnológico aos municípios do Estado de São Paulo",
+            "c": "coordenação, Luiz Carlos Tanno, Vilma Alves Campanha, Omar Yazbek Bitar",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Instituto de Pesquisas Tecnológicas",
+                "c": "2006"
+            }
+        ],
+        "300": [
+            {
+                "a": "219",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Programa de Apoio Tecnológico aos Municípios (SP)"
+            }
+        ],
+        "650": [
+            {
+                "a": "Tecnologia",
+                "x": "Política e governo",
+                "z": "São Paulo"
+            },
+            {
+                "a": "Política tecnológica",
+                "z": "São Paulo"
+            },
+            {
+                "a": "Desenvolvimento tecnológico",
+                "z": "São Paulo"
+            }
+        ],
+        "700": [
+            {
+                "a": "Tanno, Luiz Carlos",
+                "e": "Coordenador"
+            },
+            {
+                "a": "Campanha, Vilma Alves",
+                "d": "1943-",
+                "e": "Coordenador"
+            },
+            {
+                "a": "Bitar, Omar Yazbek",
+                "d": "1954-",
+                "e": "Coordenador"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Pesquisas Tecnológicas (SP)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

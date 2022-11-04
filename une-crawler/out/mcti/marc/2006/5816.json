@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005816",
+        "005": "20190806101400.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.39:621.311(81)(063)",
+            "b": "S471q",
+            "c": "1990"
+        },
+        "111": {
+            "a": "Seminário Nacional de Telecomunicações das Empresas de Energia Elétrica",
+            "c": "Brasília, DF",
+            "d": "1990",
+            "n": "5"
+        },
+        "245": {
+            "a": "V Seminário Nacional de Telecomunicações das Empresas de Energia Elétrica",
+            "h": "Impresso",
+            "c": "Seminário Nacional de Telecomunicações das Empresas de Energia Elétrica"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Companhia de Eletricidade de Brasília",
+                "c": "1990"
+            }
+        ],
+        "300": [
+            {
+                "a": "482",
+                "b": "il."
+            }
+        ],
+        "610": [
+            {
+                "a": "ELETROBRAS"
+            }
+        ],
+        "650": [
+            {
+                "a": "Energia elétrica",
+                "z": "Brasil",
+                "x": "Engenharia elétrica"
+            },
+            {
+                "a": "Telecomunicações",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Usinas hidrelétricas",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

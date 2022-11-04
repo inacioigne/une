@@ -1,0 +1,80 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004428",
+        "005": "20190808110945.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0300084838"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502.131.1(213.56:811)",
+            "b": "L641e",
+            "c": "2001"
+        },
+        "245": {
+            "a": "Lessons from Amazonia",
+            "b": "the ecology and conservation of a fragmented forest",
+            "c": "edited by Richard O. Bierregaard, Jr. ... [et al.] ; foreword by Edward O. Wilson ; prologue by Eneas Salati",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "New Haven [Estados Unidos]",
+                "b": "Yale University",
+                "c": "2001"
+            }
+        ],
+        "300": [
+            {
+                "a": "xv, 478 p., [8] p. de lâms.",
+                "b": "il., mapas"
+            }
+        ],
+        "650": [
+            {
+                "a": "Florestas tropicais",
+                "x": "Ecologia",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Florestas",
+                "x": "Proteção",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Ecologia florestal"
+            },
+            {
+                "a": "Desenvolvimento sustentável"
+            }
+        ],
+        "700": [
+            {
+                "a": "Bierregaard, Richard O",
+                "e": "Editor"
+            },
+            {
+                "a": "Gascon, Claude",
+                "e": "Editor"
+            },
+            {
+                "a": "Lovejoy, Thomas E",
+                "e": "Editor"
+            },
+            {
+                "a": "Mesquita, Rita C. G",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

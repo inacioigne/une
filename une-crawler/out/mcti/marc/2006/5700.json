@@ -1,0 +1,53 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005700",
+        "005": "20190731130801.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.355.085",
+            "b": "D611",
+            "c": "1989"
+        },
+        "245": {
+            "a": "Disk/trend report",
+            "b": "optical disk drives",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Mountain, California",
+                "b": "Disk/Trend",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v."
+            }
+        ],
+        "500": [
+            {
+                "a": "Periódico tratado como livro."
+            }
+        ],
+        "650": [
+            {
+                "a": "Indústrias",
+                "x": "Periódico"
+            },
+            {
+                "a": "Mercado"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

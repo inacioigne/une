@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003813",
+        "005": "20190812170817.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8524401206"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "517.518.5",
+            "b": "F475a",
+            "c": "2003",
+            "d": "IMPA"
+        },
+        "100": {
+            "a": "Figueiredo, Djairo Guedes de",
+            "d": "1934-"
+        },
+        "245": {
+            "a": "Análise de fourier e equações diferenciais parciais",
+            "c": "Djairo Guedes de Figueiredo",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "4. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Instituto Nacional de Matemática Pura e Aplicada",
+                "c": "2003"
+            }
+        ],
+        "300": [
+            {
+                "a": "273",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "Introdução -- Capítulo 1 - Por Que Estudar Séries de Fourier? -- Capítulo 2 - Séries de Fourier -- Capítulo 3 - Convergência das Séries de Fourier -- Capítulo 4 - Equação do Calor -- Capítulo 5 - Equação das Ondas -- Capítulo 6 - Transformada de Fourier e Aplicações -- Capítulo 7 - Equação de Laplac --"
+            }
+        ],
+        "520": {
+            "a": "O objetivo central do presente texto é a resolução de algumas equações diferenciais parciais que aparecem em problemas da Física Matemática. Para isso, teremos de desenvolver certos métodos, sendo que o primeiro deles é o Método de Fourier, cujo ingrediente essencial é a série de Fourier. Um outro método introduzido utiliza a transformada de Fourier.Portanto, sendo a série e a transformada de Fourier as duas ferramentas básicas usadas, dedicamos alguns capítulos à chamada Análise de Fourier. O espírito que nos guiou na coordenação da matéria do texto foi o de desenvolver o instrumental matemático à proporção em que ele se fazia necessário. Assim, decidimos iniciar o presente trabalho apresentando um problema da Física Matemática. A seguir, durante a resolução do mesmo, fomos motivando a introdução de certos conceitos e justificando certos teoremas. Parece-nos que esse ponto de vista é particularmente instrutivo para o estudante. Um tal procedimento responde, por si mesmo, àquela preocupação do aluno sobre a utilidade das teorias matemáticas que estuda, mostrando como e porque elas foram criadas. Procuramos também mostrar a força dos métodos introduzidos, aplicando-os também para mostrar a força dos métodos introduzidos, aplicando-os à resolução de vários outros problemas da Física Matemática."
+        },
+        "650": [
+            {
+                "a": "Fourier, análise de"
+            },
+            {
+                "a": "Equações diferenciais parciais"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Matemática Pura e Aplicada (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

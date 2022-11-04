@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002581",
+        "005": "20190806094714.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "020": {
+            "a": "1405-2903"
+        },
+        "022": {
+            "a": "1405-2903"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "336.531.2:5/6(72)",
+            "b": "I39",
+            "c": "1996"
+        },
+        "245": {
+            "a": "Indicadores de actividades científicas y tecnológicas",
+            "b": "México, 1996",
+            "h": "Impresso",
+            "c": "Consejo Nacional de Ciencia y Tecnología, Secretaría de Educación Pública"
+        },
+        "260": [
+            {
+                "a": "México",
+                "b": "Consejo Nacional de Ciencia y Tecnología",
+                "c": "1997"
+            }
+        ],
+        "300": [
+            {
+                "a": "196",
+                "b": "il., tabs., grafs."
+            }
+        ],
+        "650": [
+            {
+                "a": "Pesquisa científica",
+                "x": "Estatísticas",
+                "z": "México"
+            },
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Indicadores",
+                "z": "México"
+            }
+        ],
+        "710": [
+            {
+                "a": "Consejo Nacional de Ciencia y Tecnología (México)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "México. Secretaría de Educación Pública",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004399",
+        "005": "20190805105211.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "551.583",
+            "b": "I61",
+            "c": "1990"
+        },
+        "245": {
+            "a": "The International Geosphere-Biosphere Programme, a study of global change, IGBP",
+            "b": "the initial core projects",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Stockholm, Suécia",
+                "b": "International Geosphere-Biosphere Programme",
+                "c": "1990"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "IGBP Report = IGBP Rapport = IGBP Informe",
+                "v": "n. 12"
+            }
+        ],
+        "650": [
+            {
+                "a": "Mudanças climáticas",
+                "x": "Pesquisa"
+            },
+            {
+                "a": "Biosfera",
+                "x": "Pesquisa"
+            },
+            {
+                "a": "Meio ambiente"
+            }
+        ],
+        "710": [
+            {
+                "a": "Programa Internacional da Geosfera-Biosfera",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Conselho Internacional das Uniões Científicas",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

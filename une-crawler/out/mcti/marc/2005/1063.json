@@ -1,0 +1,96 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001063",
+        "005": "20190812121418.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "020": {
+            "a": "8478370676"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "551.583",
+            "b": "C175",
+            "c": "[1992?]"
+        },
+        "245": {
+            "a": "Cambio climatico",
+            "b": "evaluación de impactos del IPCC",
+            "h": "Impresso",
+            "c": "autor corporativo: Grupo de Trabajo del Grupo Intergubernamental de Expertos sobre el Cambio Climatico ... [et. al.]"
+        },
+        "260": [
+            {
+                "a": "[Madrid]",
+                "b": "[Instituto Nacional de Meteorología]",
+                "c": "[1992?]"
+            }
+        ],
+        "270": [
+            {
+                "d": "Espanha"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v.",
+                "b": "il., (algumas color.)"
+            }
+        ],
+        "505": [
+            {
+                "a": "v. 1. Informe preparado para el IPCC por el Grupo de Trabajo 1 ; versión española a cargo del Instituto Nacional de Meteorología -- v. 2. Informe preparado para el IPCC por el Grupo de Trabajo II ; versión española a cargo del Instituto Nacional de Meteorología"
+            }
+        ],
+        "650": [
+            {
+                "a": "Efeito estufa (Atmosfera)",
+                "x": "Aspectos ambientais"
+            },
+            {
+                "a": "Ar",
+                "x": "Poluição"
+            },
+            {
+                "a": "Aquecimento global"
+            },
+            {
+                "a": "Meio ambiente"
+            },
+            {
+                "a": "Climatologia"
+            }
+        ],
+        "710": [
+            {
+                "a": "Grupo Intergubernamental de Expertos sobre el Cambio Climatico. Grupo de Trabajo 1",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Grupo Intergubernamental de Expertos sobre el Cambio Climatico. Grupo de Trabajo 2",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Instituto Nacional de Meteorología (Espanha)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Programa das Nações Unidas para o Meio Ambiente",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Organização Mundial de Meteorologia",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

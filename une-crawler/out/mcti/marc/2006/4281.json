@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004281",
+        "005": "20190729141303.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004",
+            "b": "P963",
+            "c": "1976"
+        },
+        "245": {
+            "a": "Programme quadriennal de développement de l'informatique dans la communauté",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Bruxelas",
+                "b": "Comunidades Europeias, Comissão",
+                "c": "1976"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v.",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "v. 1 - Objectifs et resume du programme : textes juridiques -- v. 2 - Expose des motifs : annexes techniques -- v. 3 - Rapport sur l'evolution du secteur de l'informatique dans la communaute en relation avec la situation mondiale."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Política e governo"
+            },
+            {
+                "a": "Desenvolvimento tecnológico"
+            }
+        ],
+        "710": [
+            {
+                "a": "Commission des Communautés Européennes",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

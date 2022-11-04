@@ -1,0 +1,84 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000211",
+        "005": "20190806182458.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "007:681.131(036)",
+            "b": "S592g",
+            "c": "1973"
+        },
+        "100": {
+            "a": "Simmons, Ralph A"
+        },
+        "245": {
+            "a": "Guidelines for the use of computer technology in the developing countries",
+            "h": "Impresso",
+            "c": "Ralph A Simmons"
+        },
+        "246": [
+            {
+                "a": "Lignes directrices régissant la protection des consommateurs dans le contexte du commerce électronique"
+            }
+        ],
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "National Bureau of Standards",
+                "c": "1973"
+            }
+        ],
+        "300": [
+            {
+                "b": "165 p."
+            }
+        ],
+        "490": [
+            {
+                "a": "NBSIR 73-423"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência da computação",
+                "x": "Política e governo"
+            },
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Países em desenvolvimento"
+            },
+            {
+                "a": "Educação"
+            },
+            {
+                "a": "Aplicativo de tecnologia",
+                "x": "Países em desenvolvimento"
+            },
+            {
+                "a": "Ensino auxiliado por computador"
+            }
+        ],
+        "710": [
+            {
+                "a": "Institute for Computer Sciences and Technology",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Estados Unidos",
+                "b": "Agência de Desenvolvimento Internacional",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

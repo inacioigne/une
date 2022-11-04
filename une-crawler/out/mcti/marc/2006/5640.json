@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005640",
+        "005": "20190814154052.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.8",
+            "b": "A534a",
+            "c": "1986"
+        },
+        "100": {
+            "a": "Anastaze, Guy"
+        },
+        "245": {
+            "a": "Artificial intelligence",
+            "b": "a strategic choice for corporations",
+            "c": "by Guy Anastaze",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Genebra (Suiça)",
+                "b": "International Management Institute",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "116",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Inteligência artificial"
+            },
+            {
+                "a": "Sistema especialista"
+            },
+            {
+                "a": "Processamento de dados"
+            }
+        ],
+        "710": [
+            {
+                "a": "International Management Institute (Suiça)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

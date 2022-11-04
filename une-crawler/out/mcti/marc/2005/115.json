@@ -1,0 +1,129 @@
+{
+    "controfield": {
+        "000": "00886cam  2200253 a 4500",
+        "001": "000000115",
+        "005": "20190726103104.0",
+        "007": "t",
+        "008": "000603s1999    bl a         f000 0 por"
+    },
+    "datafield": {
+        "010": {
+            "a": "00286726"
+        },
+        "040": {
+            "a": "DLC",
+            "c": "DLC",
+            "d": "BR-BrMCT"
+        },
+        "042": {
+            "a": "lcode"
+        },
+        "043": {
+            "a": "s-bl---"
+        },
+        "050": {
+            "a": "HC167.A455",
+            "b": "C33 1999"
+        },
+        "090": {
+            "a": "556.18",
+            "b": "C117r",
+            "c": "1999"
+        },
+        "100": {
+            "a": "Cabral, J. Bernardo",
+            "d": "1932-",
+            "q": "José Bernardo"
+        },
+        "245": {
+            "a": "Recursos hídricos e o desenvolvimento sustentável II",
+            "c": "José Bernardo Cabral.",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Senado Federal, Secretaria Especial de Editoração e Publicações",
+                "c": "1999"
+            }
+        ],
+        "300": [
+            {
+                "a": "301",
+                "c": "30",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Desenvolvimento sustentável",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Recursos hídricos",
+                "z": "Amazônia",
+                "x": "Desenvolvimento sustentável"
+            },
+            {
+                "a": "Discurso parlamentar"
+            },
+            {
+                "a": "Desmatamento",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Animais",
+                "x": "Extinção",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Incêndio",
+                "z": "Roraima"
+            },
+            {
+                "a": "Transporte fluvial",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Água",
+                "x": "Poluição",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Florestas",
+                "x": "Madeira",
+                "z": "Amazônia"
+            }
+        ],
+        "906": {
+            "a": "7",
+            "b": "cbc",
+            "c": "origode",
+            "d": "3",
+            "e": "ncip",
+            "f": "20",
+            "g": "y-gencatlg"
+        },
+        "925": {
+            "a": "acquire",
+            "b": "1 shelf copy",
+            "x": "policy default"
+        },
+        "955": {
+            "a": "wr07; 06/03/00; desc",
+            "d": "sb16 2001-09-25",
+            "e": "sb31 2001-09-27 to Dewey"
+        },
+        "985": {
+            "e": "ODE-rj"
+        },
+        "990": {
+            "a": "Monografia"
+        },
+        "991": {
+            "b": "c-GenColl",
+            "o": "am",
+            "p": "00071569603"
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002907",
+        "005": "20190806105204.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:005",
+            "b": "B352i",
+            "c": "=134.3",
+            "d": "1975"
+        },
+        "100": {
+            "a": "Bauvin, Gerard"
+        },
+        "245": {
+            "a": "A informática a serviço da gerência",
+            "c": "Gerard Bauvin ; tradução de equipe de LTD/Datamec, rev. de Augusto de Vasconcellos",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Livros Técnicos e Científicos",
+                "c": "1975"
+            }
+        ],
+        "300": [
+            {
+                "a": "ix, 99 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Processamento de dados na empresa. Série LTC/LTD"
+            }
+        ],
+        "650": [
+            {
+                "a": "Processamento de dados"
+            },
+            {
+                "a": "Armazenamento de dados"
+            },
+            {
+                "a": "Informática",
+                "x": "Empresas"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005539",
+        "005": "20190813152331.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:005.6",
+            "b": "W445c",
+            "c": "1985"
+        },
+        "100": {
+            "a": "Welgacz Junior, José"
+        },
+        "245": {
+            "a": "Círculos de controle de qualidade",
+            "b": "uma filosofia para aumentar a qualidade de serviços em processamento de dados",
+            "c": "José Welgacz Junior",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Curitiba",
+                "b": "Arco-íris",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "121",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Processamento de dados",
+                "x": "Administração"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Controle de qualidade"
+            },
+            {
+                "a": "Produtividade"
+            },
+            {
+                "a": "Relações humanas"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

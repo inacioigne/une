@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005591",
+        "005": "20190806105247.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:32:35(81)",
+            "b": "I43",
+            "c": "1992"
+        },
+        "245": {
+            "a": "Informática brasileira em transição",
+            "b": "política governamental e tendências internacionais nos anos 90",
+            "c": "Organizadores Peter Evans, Claudio Frischtak, Paulo Bastos Tigre",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Universidade Federal do Rio de Janeiro",
+                "c": "1992"
+            }
+        ],
+        "300": [
+            {
+                "a": "257",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Política de informática",
+                "x": "Análise comparativa",
+                "z": "Ásia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Evans, Peter",
+                "e": "Organizador"
+            },
+            {
+                "a": "Frischtak, Claudio",
+                "e": "Organizador"
+            },
+            {
+                "a": "Tigre, Paulo Bastos",
+                "e": "Organizador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

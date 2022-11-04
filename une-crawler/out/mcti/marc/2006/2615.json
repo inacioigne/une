@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002615",
+        "005": "20190731110859.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0884050726"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.056",
+            "b": "G463r",
+            "c": "1974"
+        },
+        "100": {
+            "a": "Gilb, Tom"
+        },
+        "245": {
+            "a": "Reliable EDP application design",
+            "c": "Tom Gilb",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "1st ed"
+            }
+        ],
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Petrocelli Books",
+                "c": "1974"
+            }
+        ],
+        "300": [
+            {
+                "a": "200",
+                "c": "23 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Programas de computador",
+                "x": "Segurança"
+            },
+            {
+                "a": "Informática",
+                "x": "Segurança"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002940",
+        "005": "20190730124802.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0884050572"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:005.51",
+            "b": "B819d",
+            "c": "1974"
+        },
+        "100": {
+            "a": "Brandon, Dick H"
+        },
+        "245": {
+            "a": "Data processing organization and manpower planning",
+            "c": "Dick H. Brandon",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Petrocelli Books",
+                "c": "1974"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 269 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Administração"
+            },
+            {
+                "a": "Gerência de sistema"
+            },
+            {
+                "a": "Sistema de Gerenciamento de Informações"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

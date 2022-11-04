@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002106",
+        "005": "20190813131648.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4(036)",
+            "b": "B823c",
+            "c": "1977"
+        },
+        "110": {
+            "a": "Comissão de Coordenação das Atividades de Processamento Eletrônico",
+            "c": "Brasil"
+        },
+        "245": {
+            "a": "Catálogo de software das instituições de ensino de pesquisa",
+            "c": "Comissão de Cooredenação das Atividades de Processamento Eletrônico",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Comissão de Coordenação das Atividades de Processamento Eletrônico",
+                "c": "1977"
+            }
+        ],
+        "300": [
+            {
+                "b": "il.",
+                "a": "3 v."
+            }
+        ],
+        "490": [
+            {
+                "v": "3"
+            }
+        ],
+        "500": [
+            {
+                "a": "A Biblioteca possui apenas o v. 3."
+            }
+        ],
+        "505": [
+            {
+                "a": "Administração de Empresas -- Agrimensura -- Agronomia -- Arquitetura e Urbanismo -- Astronomia - Biblioteconomia -- Ciências Biológicas -- Ciências Econômicas -- Ciências Sociais -- Estatística -- Farmácia -- Física -- Geologia -- Letras -- Matemática -- Medicina -- Meteorologia -- Oceanografia -- Pedagogia -- Química -- Zootecnia -- Outras áreas."
+            }
+        ],
+        "520": {
+            "a": "Foram catalogados 325 sistemas e programas relacionados às áreas de Administração Geral da I.E.S. e Engenharia, divulgados, respectivamente, nos Catálogos de Software das Universidades v. 1 e 2. Este Catálogo resulta da ampliação do levantamento às demais áreas de aplicação universitárias, tendo sido consultadas 73 instituições, entre Universidades e Centros de Pesquisa. Atenderam ao levantamento 40 entidades, fornecendo as descrições de 233 software relacionados a 24 áreas de aplicação. Foram incluídas ainda, em Apêndice, 35 software de Administração Geral das I.E.S. e 26 de Engenharia , que complementam as edições do Catálogo, o que perfaz um total de 294 software na presente edição."
+        },
+        "650": [
+            {
+                "a": "Software",
+                "x": "Instituição de pesquisa"
+            },
+            {
+                "a": "Programas de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

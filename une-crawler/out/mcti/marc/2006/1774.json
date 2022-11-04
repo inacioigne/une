@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001774",
+        "005": "20190807110929.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8570011814"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.651",
+            "b": "D232i",
+            "c": "=134.3",
+            "d": "1984"
+        },
+        "100": {
+            "a": "Date, C. J",
+            "d": "1941-"
+        },
+        "245": {
+            "a": "Introdução a sistemas de bancos de dados",
+            "c": "C. J. Date ; tradução: Hélio Auro Gouveia",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Campus",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "513",
+                "b": "il."
+            }
+        ],
+        "534": {
+            "a": "Tradução de: An introduction to database systems"
+        },
+        "650": [
+            {
+                "a": "Banco de dados relacionais"
+            },
+            {
+                "a": "Sistema de gerenciamento de banco de dados"
+            },
+            {
+                "a": "Armazenamento de dados"
+            },
+            {
+                "a": "Estrutura de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

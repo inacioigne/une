@@ -1,0 +1,48 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002100",
+        "005": "20190809150350.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.438VisualBASIC",
+            "b": "M626",
+            "c": "c1995"
+        },
+        "245": {
+            "a": "Microsoft Visual Basic building client/server applications with visual basic",
+            "b": "programming system for windows, version 4.0",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[S.l.]",
+                "b": "Microsoft Press",
+                "c": "c1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "ix, 275 p."
+            }
+        ],
+        "650": [
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "Visual Basic (Linguagem de programação de computador)"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

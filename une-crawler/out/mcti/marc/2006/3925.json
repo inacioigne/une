@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003925",
+        "005": "20190805091537.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "0130447684"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.2'382.4",
+            "b": "L765a",
+            "c": "1979"
+        },
+        "100": {
+            "a": "Lippiatt, Arthur G.",
+            "d": "1936-"
+        },
+        "245": {
+            "a": "The architecture of small computer systems",
+            "c": "Arthur G. Lippiatt",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "1979"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiii, 173",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Microcomputador"
+            },
+            {
+                "a": "Minicomputador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000612",
+        "005": "20190726125159.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "35.077INPA:005.51'21",
+            "b": "R382",
+            "c": "1994"
+        },
+        "245": {
+            "a": "Relatório final do planejamento estratégico",
+            "c": "revisores, Carlos R. Bueno, Jason Santos",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Manaus",
+                "b": "Instituto Nacional de Pesquisas da Amazônia",
+                "c": "1994"
+            }
+        ],
+        "300": [
+            {
+                "a": "53",
+                "b": "il."
+            }
+        ],
+        "610": [
+            {
+                "a": "Instituto Nacional de Pesquisas da Amazônia (Brasil)",
+                "x": "Desenvolvimento organizacional"
+            }
+        ],
+        "650": [
+            {
+                "a": "Gestão de projetos",
+                "z": "Amazônia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Bueno, Carlos Roberto",
+                "e": "Revisor"
+            },
+            {
+                "a": "Santos, Jason",
+                "e": "Revisor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000359",
+        "005": "20190808131213.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:78(81)(063)",
+            "b": "S612t",
+            "c": "1996"
+        },
+        "111": {
+            "a": "Simpósio Brasileiro de Computação e Música",
+            "c": "Recife, PE",
+            "d": "1996",
+            "n": "3"
+        },
+        "245": {
+            "a": "Anais do III Simpósio Brasileiro de Computação e Música",
+            "b": "Recife, PE 5 a 7 de agosto de 1996",
+            "c": "editado por Didier Guigue e Osman Giuseppe Gioia",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Recife",
+                "b": "Universidade Federal de Pernambuco, Departamento de Música",
+                "c": "1996"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "116",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Evento realizado no XVI Congresso da Sociedade Brasileira de Computação"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Inteligência artificial",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Processamento e detecção de sinais",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Composição musical",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Guigue, Didier",
+                "e": "Editor"
+            },
+            {
+                "a": "Gioia, Osman Giuseppe",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

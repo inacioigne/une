@@ -1,0 +1,93 @@
+{
+    "controfield": {
+        "000": "00985pam  2200277 i 4500",
+        "001": "000000507",
+        "005": "20190805181350.0",
+        "007": "t",
+        "008": "800513s1980    maua     b    001 0 eng"
+    },
+    "datafield": {
+        "010": {
+            "a": "80016896"
+        },
+        "020": {
+            "a": "0932376061"
+        },
+        "035": {
+            "a": "3244340"
+        },
+        "040": {
+            "a": "DLC",
+            "c": "DLC",
+            "d": "BR-BrMCT"
+        },
+        "050": {
+            "a": "Q310",
+            "b": ".G45 1980"
+        },
+        "082": {
+            "a": "001.53"
+        },
+        "090": {
+            "a": "007",
+            "b": "G562e",
+            "c": "1980"
+        },
+        "100": {
+            "a": "Glorioso, Robert M"
+        },
+        "245": {
+            "a": "Engineering intelligent systems",
+            "b": "concepts, theory, and applications",
+            "c": "Robert M. Glorioso, Fernando C. Colón Osorio",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Bedford, [Estados Unidos]",
+                "b": "Digital Press",
+                "c": "c1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "xvi, 472",
+                "c": "24",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Revisão de \"Engineering cybernetics\", publicado em 1975"
+            }
+        ],
+        "650": [
+            {
+                "a": "Cibernética"
+            },
+            {
+                "a": "Teoria da computação"
+            },
+            {
+                "a": "Engenharia de computação"
+            },
+            {
+                "a": "Inteligência artificial"
+            },
+            {
+                "a": "Teoria da informação",
+                "x": "Cibernética"
+            }
+        ],
+        "700": [
+            {
+                "a": "Colón Osorio, Fernando C",
+                "d": "1949-",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

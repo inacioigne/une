@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002908",
+        "005": "20190808134936.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "005.591.6:004",
+            "b": "K16m",
+            "c": "c1970"
+        },
+        "100": {
+            "a": "Kanter, Jerome"
+        },
+        "245": {
+            "a": "Management guide to computer system selection and use",
+            "c": "Jerome Kanter",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "c1970"
+            }
+        ],
+        "300": [
+            {
+                "a": "ix, 257 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Processamento de dados",
+                "x": "Empresas"
+            },
+            {
+                "a": "Empresas",
+                "x": "Informática"
+            },
+            {
+                "a": "Administração"
+            },
+            {
+                "a": "Computadores"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

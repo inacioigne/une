@@ -1,0 +1,80 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001035",
+        "005": "20190729104806.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "551.588.74(540)",
+            "b": "G813",
+            "c": "2001"
+        },
+        "245": {
+            "a": "Transportation in Developing Countries",
+            "b": "greenhouse gas scenarios for Delhi, India",
+            "c": "Ranjan Bose ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Arlington [Estados Unidos]",
+                "b": "Pew Center on Global Climate Change",
+                "c": "2001"
+            }
+        ],
+        "300": [
+            {
+                "a": "vi, 43 f."
+            }
+        ],
+        "490": [
+            {
+                "a": "Transportation in developing countries"
+            }
+        ],
+        "650": [
+            {
+                "a": "Emissão de gases",
+                "x": "Automóveis"
+            },
+            {
+                "a": "Efeito estufa (Atmosfera)"
+            },
+            {
+                "a": "Ar",
+                "x": "Poluição"
+            }
+        ],
+        "700": [
+            {
+                "a": "Bose, Ranjan",
+                "e": "Coautor"
+            },
+            {
+                "a": "Sperling, Daniel",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Pew Center on Global Climate Change",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "u": "www.pewclimate.org/docUploads/transportation%5Fdelhi%2Epdf",
+            "y": "C2ES",
+            "z": "Acesso em: 19/11/2014"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000474",
+        "005": "20190726115433.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4",
+            "b": "B823l",
+            "c": "2001"
+        },
+        "110": {
+            "a": "Brasil. Ministério da Ciência e Tecnologia",
+            "b": "Secretaria de Política de Informática"
+        },
+        "245": {
+            "a": "Levantamento do universo de associadas SOFTEX",
+            "b": "pesquisa censo SW, agosto de 2001",
+            "h": "Impresso",
+            "c": "Ministério da Ciência e Tecnologia. Secretaria de Política de Informática"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Ministério da Ciência e Tecnologia, Secretaria de Política de Informática e Tecnologia"
+            },
+            {
+                "a": "Campinas",
+                "b": "Sociedade Brasileira para Promoção da Exportação de Software",
+                "c": "2001"
+            }
+        ],
+        "300": [
+            {
+                "a": "97",
+                "b": "il., (algumas color.)"
+            }
+        ],
+        "500": [
+            {
+                "a": "Periódico tratado como livro (ISSN: 1676-3858)"
+            }
+        ],
+        "505": [
+            {
+                "a": "Síntese dos Resultados -- Contextualização do Trabalho -- Projeto da Pesquisa -- Identificação das Organizações -- Caracterização das Organizações -- Caracterização dos Produtos de Software -- Anexo 1: Modelo do Formulário da Pesquisa -- Anexo 2: Estrutura SOFTEX -- Anexo 3: Empresas Participantes da Pesquisa."
+            }
+        ],
+        "520": {
+            "a": "Descreve os resultados do Levantamento do Universo de Associadas SOFTEX - Pesquisa Censo SW, cujo trabalho de campo ocorreu nos meses de julho e agosto de 2001 e foi estruturado em dois grandes blocos: identificação das organizações e caracterização das organizações e seus produtos . O objetivo geral deste estudo foi levantar características principais dos associados SOFTEX a fim de mapeá-los e subsidiar a análise comparada do setor de software e este conjunto particular de organizações. Especificamente, buscou-se levantar dados referentes à identificação das organizações, sua caracterização e de seus produtos, como: força de trabalho da organização, atividade, domínio e tipo de aplicação de software desenvolvidos no Brasil."
+        },
+        "650": [
+            {
+                "a": "Software",
+                "x": "Controle de qualidade",
+                "z": "Brasil"
+            },
+            {
+                "a": "Software",
+                "x": "Desenvolvimento",
+                "z": "Brasil"
+            },
+            {
+                "a": "Programas de computador",
+                "x": "Indicadores",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Sociedade Brasileira para Promoção da Exportação de Software",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "Texto completo",
+            "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\474-Levantamento_universo_associados_SOFTEX.pdf",
+            "z": "Acesso em: 26/07/2019"
+        },
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

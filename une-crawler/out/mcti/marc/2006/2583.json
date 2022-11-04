@@ -1,0 +1,82 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002583",
+        "005": "20190813130255.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "377:004(063)",
+            "b": "R585c",
+            "c": "1972"
+        },
+        "111": {
+            "a": "The Rio Symposium on Computer Education for Developing Countries",
+            "c": "Rio de Janeiro, RJ",
+            "d": "1972"
+        },
+        "245": {
+            "a": "Computer education for development",
+            "b": "proceedings based on The Rio Sympodium on Computer Education for Developing Countries, August 6/12-1972",
+            "c": "prepared and edited by Claudia Bussel ; organized by: Brazilian Academy of Sciences and Intergovernmental Bureau for Informatics - International Computation Center (IBI - ICC)",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Ao Livro Técnico",
+                "c": "c1972"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (várias paginações)"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática na educação",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Tecnologia educacional",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Aplicativo de tecnologia",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Formação profissional"
+            }
+        ],
+        "700": [
+            {
+                "a": "Bussel, Claudia",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Intergovernmental Bureau for Informatics",
+                "e": "Corporativo"
+            },
+            {
+                "a": "International Computation Centre",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Academia Brasileira de Ciências",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004035",
+        "005": "20190809141756.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0080285783"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.382.6",
+            "b": "P963",
+            "c": "1983"
+        },
+        "245": {
+            "a": "Professional workstations",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Berkshire, [Inglaterra]",
+                "b": "Pergamon Infotech",
+                "c": "1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "xi, 220",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "State of the art report",
+                "v": "11:7"
+            }
+        ],
+        "650": [
+            {
+                "a": "Microcomputador"
+            },
+            {
+                "a": "Microcomputadores como estação de trabalho"
+            },
+            {
+                "a": "Comércio",
+                "x": "Processamento de dados"
+            },
+            {
+                "a": "Administração",
+                "x": "Processamento de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

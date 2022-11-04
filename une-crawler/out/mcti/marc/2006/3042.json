@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003042",
+        "005": "20190805093951.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0231032668"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:33",
+            "b": "S532e",
+            "c": "1969"
+        },
+        "100": {
+            "a": "Sharpe, William F"
+        },
+        "245": {
+            "a": "The economics of computers",
+            "c": "William F. Sharpe",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Columbia University Press",
+                "c": "c1969"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 571",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Empresas",
+                "x": "Processamento de dados"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Centros de processamento de dados"
+            },
+            {
+                "a": "Indústria de computador",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Negócios"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005548",
+        "005": "20190802151842.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0818608013"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.75(100)(063)",
+            "b": "I61t",
+            "c": "1987"
+        },
+        "111": {
+            "a": "International Conference on Distributed Computing Systems",
+            "c": "Berlim, Alemanha",
+            "d": "1987",
+            "n": "7"
+        },
+        "245": {
+            "a": "The 7th International Conference on Distributed Computing Systems",
+            "b": "Berlim, West Germany, September 21-25, 1987",
+            "c": "edited by: R. Popescu-Zeetin, G. Le Lann, K.H. (Kane) Kim",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "IEEE Computer Society Press",
+                "c": "c1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxiii, 564"
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema distribuído"
+            },
+            {
+                "a": "Processamento distribuído"
+            },
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Sistema de informação"
+            }
+        ],
+        "700": [
+            {
+                "a": "Popescu-Zeletin, R",
+                "e": "Editor"
+            },
+            {
+                "a": "Le Lann, G.",
+                "d": "1943-",
+                "q": "Gérard",
+                "e": "Editor"
+            },
+            {
+                "a": "Kim, K. H.",
+                "q": "Kane H.",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

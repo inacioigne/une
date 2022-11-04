@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002069",
+        "005": "20190809151903.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "1572313447"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451.9",
+            "b": "M626re",
+            "c": "1996"
+        },
+        "245": {
+            "a": "Microsoft Windows NT Server resource kit",
+            "b": "technical information and tools for the support professional : for Windows NT Server version 4.0",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Redmont, Washington",
+                "b": "Microsoft Press",
+                "c": "1996"
+            }
+        ],
+        "300": [
+            {
+                "a": "3 v.",
+                "b": "il., + 1 CD-ROM"
+            }
+        ],
+        "505": [
+            {
+                "a": "v. 1 - Microsoft Windows NT Server Networking guide ; v. 2 - Microsoft Windows NT Server Internet guide ; v. 3 - Microsoft Windows NT Server Resource guide"
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistemas operacionais (Computadores)",
+                "x": "Windows NT (Sistema operacional de computador)"
+            },
+            {
+                "a": "Rede de computador",
+                "x": "Rede de longa distância"
+            },
+            {
+                "a": "Internet"
+            },
+            {
+                "a": "Comunicação de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002932",
+        "005": "20190801155814.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "005.591.6:004.89",
+            "b": "P954i",
+            "c": "=134.3 1975"
+        },
+        "100": {
+            "a": "Prince, Thomas Richard"
+        },
+        "245": {
+            "a": "Sistemas de informação",
+            "b": "planejamento, gerência e controle",
+            "c": "Thomas R. Prince ; tradutor José Ricardo Brandão Azevedo",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Livros Técnicos e Científicos",
+                "c": "1975"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Coleção universitária de administração",
+                "v": "13"
+            }
+        ],
+        "650": [
+            {
+                "a": "Administração de empresas",
+                "x": "Serviço de informação"
+            },
+            {
+                "a": "Processo decisório"
+            },
+            {
+                "a": "Planejamento",
+                "x": "Serviço de informação"
+            },
+            {
+                "a": "Serviço de informação",
+                "x": "Controle"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

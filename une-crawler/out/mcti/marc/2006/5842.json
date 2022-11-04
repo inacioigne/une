@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005842",
+        "005": "20190813103109.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "020": {
+            "a": "9586013103"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5:378(7/8=13)",
+            "b": "C569",
+            "c": "1991"
+        },
+        "245": {
+            "a": "Ciencia, educación superior y desarrollo en América Latina",
+            "c": "Benjamín Alvarez, Paz Buttedahl, editores",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Bogotá",
+                "b": "International Development Research Centre",
+                "c": "1991"
+            }
+        ],
+        "300": [
+            {
+                "a": "337"
+            }
+        ],
+        "650": [
+            {
+                "a": "Recursos humanos",
+                "z": "América Latina"
+            },
+            {
+                "a": "Desenvolvimento econômico",
+                "x": "Aspectos sociais",
+                "z": "América Latina"
+            },
+            {
+                "a": "Desenvolvimento científico",
+                "z": "América Latina"
+            },
+            {
+                "a": "Desenvolvimento tecnológico",
+                "z": "América Latina"
+            },
+            {
+                "a": "Ensino superior",
+                "z": "América Latina"
+            }
+        ],
+        "700": [
+            {
+                "a": "Alvarez H., Benjamín",
+                "e": "Editor"
+            },
+            {
+                "a": "Buttedahl, Paz",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

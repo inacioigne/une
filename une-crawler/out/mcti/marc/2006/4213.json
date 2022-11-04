@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004213",
+        "005": "20190813121640.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.01",
+            "b": "C738",
+            "c": "1982"
+        },
+        "245": {
+            "a": "Computer science and technologies",
+            "c": "editor, T. Kitagawa",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Tokyo",
+                "b": "OHMSHA"
+            },
+            {
+                "a": "Amsterdam",
+                "b": "North-Holland",
+                "c": "1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "iv, 365",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Japan annual reviews in electronics, computers and telecommunications",
+                "x": "0167-5036"
+            }
+        ],
+        "650": [
+            {
+                "a": "Computadores",
+                "z": "Japão"
+            },
+            {
+                "a": "Informática",
+                "z": "Japão"
+            }
+        ],
+        "700": [
+            {
+                "a": "Kitagawa, Toshio",
+                "d": "1909-",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

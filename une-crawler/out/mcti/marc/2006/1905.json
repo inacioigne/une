@@ -1,0 +1,74 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001905",
+        "005": "20190812104141.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "020": {
+            "a": "9501398765"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451",
+            "b": "B734c",
+            "c": "1989"
+        },
+        "100": {
+            "a": "Boria, Jorge Luis"
+        },
+        "245": {
+            "a": "Construcción de sistemas operativos",
+            "b": "um curso práctico",
+            "c": "Jorge L. Boria",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Buenos Aires",
+                "b": "Kapelusz",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (paginação irregular)",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Versão preliminar apresentada na IV Escola Brasileiro-Argentina de Informática, Santiago del Estero, 1989."
+            }
+        ],
+        "650": [
+            {
+                "a": "Aplicativo de tecnologia"
+            },
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Sistemas operacionais (Computadores)"
+            },
+            {
+                "a": "Software"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Santiago del Estero, Argentina",
+                "d": "1989",
+                "n": "4"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

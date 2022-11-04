@@ -1,0 +1,80 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002400",
+        "005": "20190813131514.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "0103331X"
+        },
+        "022": {
+            "a": "0103331X"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.3.049.77(036)",
+            "b": "C357",
+            "c": "1989",
+            "d": "SEI"
+        },
+        "245": {
+            "a": "Catálogo nacional de componentes de microeletrônica",
+            "h": "Impresso",
+            "c": "Secretaria Especial de Informática, Associação Brasileira da Indústria Elétrica e Eletrônica"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Secretaria Especial de Informática"
+            },
+            {
+                "a": "São Paulo",
+                "b": "Associação Brasileira da Indústria Elétrica e Eletrônica",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "v."
+            }
+        ],
+        "500": [
+            {
+                "a": "Periódico tratado como livro."
+            }
+        ],
+        "505": [
+            {
+                "a": "Apresentação -- Introdução -- I. Classificação dos produtos -- 1.1. Índice geral -- 1.2. Estrutura de classificação -- II. Relação dos fabricantes -- III Relação dos produtos -- IV. Relação de equivalência: Equivalência Local -- V. Relação de equivalência: Equivalência Internacional."
+            }
+        ],
+        "650": [
+            {
+                "a": "Microeletrônica",
+                "x": "Catálogo"
+            },
+            {
+                "a": "Equipamento eletrônico",
+                "x": "Catálogo"
+            }
+        ],
+        "710": [
+            {
+                "a": "Brasil. Secretaria Especial de Informática",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Associação Brasileira da Indústria Elétrica e Eletrônica",
+                "e": "Coordenador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

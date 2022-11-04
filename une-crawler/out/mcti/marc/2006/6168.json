@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000006168",
+        "005": "20190805135519.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "681.2-7(063)",
+            "b": "S612t",
+            "c": "1984"
+        },
+        "111": {
+            "a": "Simpósio de Manutenção de Instrumentos",
+            "c": "Porto Alegre, RS",
+            "d": "1984",
+            "n": "2"
+        },
+        "245": {
+            "a": "Trabalhos técnicos do 2º Simpósio de manutenção de instrumentos",
+            "h": "Impresso",
+            "c": "Simpósio de Manutenção de Instrumentos"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Instituto Brasileiro de Petróleo",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "327",
+                "b": "il., tabs."
+            }
+        ],
+        "650": [
+            {
+                "a": "Instrumentação",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Engenharia elétrica"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

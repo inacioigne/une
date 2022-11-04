@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004049",
+        "005": "20190807114126.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0471025941"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "517.938",
+            "b": "L948i",
+            "c": "1979"
+        },
+        "100": {
+            "a": "Luenberger, David G",
+            "d": "1937-"
+        },
+        "245": {
+            "a": "Introduction to dynamic systems",
+            "b": "theory, models, and applications",
+            "c": "David G. Luenberger",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Wiley",
+                "c": "1979"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiv, 445 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Matemática"
+            },
+            {
+                "a": "Estatística"
+            },
+            {
+                "a": "Equações"
+            },
+            {
+                "a": "Sistemas dinâmicos"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000615",
+        "005": "20190806181727.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "001.32(811)(036)",
+            "b": "F676g",
+            "c": "1994",
+            "d": "INPA"
+        },
+        "100": {
+            "a": "Fonseca, Ozório José de Menezes"
+        },
+        "245": {
+            "a": "Guia de referência dos pesquisadores do INPA",
+            "c": "Ozório José de Menezes Fonseca, Ana Luiza Belém Rebello",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Manaus",
+                "b": "Instituto Nacional de Pesquisas da Amazônia",
+                "c": "1994"
+            }
+        ],
+        "300": [
+            {
+                "a": "59"
+            }
+        ],
+        "610": [
+            {
+                "a": "Instituto Nacional de Pesquisas da Amazônia (Brasil)"
+            }
+        ],
+        "650": [
+            {
+                "a": "Pesquisadores",
+                "x": "Catálogo",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Pesquisa científica",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Pesquisa tecnológica",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Pesquisa",
+                "x": "Política e governo",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Rebello, Ana Luiza Belém",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto Nacional de Pesquisas da Amazônia (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

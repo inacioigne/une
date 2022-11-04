@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004040",
+        "005": "20190805131916.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0897911210"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451'5",
+            "b": "C532h",
+            "c": "1983"
+        },
+        "111": {
+            "a": "CHI Conference",
+            "c": "Boston, Estados Unidos",
+            "d": "1983"
+        },
+        "245": {
+            "a": "Human factors in computing systems",
+            "b": "CHI'83 conference proceedings",
+            "c": "sponsored by the ACM Special Interest Group on Computer & Human Interaction (SIGCHI) and the Human Factors Society in cooperation with ACM SIGGRAPH ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Association for Computing Machinery",
+                "c": "1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 297 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Homem",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Usuário",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Interação homem-máquina",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Interação homem-computador",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

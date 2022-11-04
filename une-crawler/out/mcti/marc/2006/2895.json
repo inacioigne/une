@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002895",
+        "005": "20190813131458.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.38",
+            "b": "V331cb",
+            "c": "1972"
+        },
+        "100": {
+            "a": "Vasconcellos, Augusto de"
+        },
+        "245": {
+            "a": "Computadores eletrônicos digitais",
+            "b": "conceitos básicos",
+            "c": "Augusto de Vasconcellos",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Fundo de Cultura",
+                "c": "1972"
+            }
+        ],
+        "300": [
+            {
+                "a": "131",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Computador digital"
+            },
+            {
+                "a": "Equipamento de entrada de dados"
+            },
+            {
+                "a": "Matemática"
+            },
+            {
+                "a": "Arquitetura de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

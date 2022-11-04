@@ -1,0 +1,74 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003502",
+        "005": "20190801121646.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "9280719009"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502.14",
+            "b": "E53",
+            "c": "2000"
+        },
+        "245": {
+            "a": "Emerging environmental issues for the 21st century",
+            "b": "a study for GEO-2000",
+            "c": "R.E. (Ted) Munn, Anne Whyte and Peter Timmerman (Eds.)",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Programa das Nações Unidas para o Meio Ambiente",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "27 f.",
+                "b": "il., graf."
+            }
+        ],
+        "500": [
+            {
+                "a": "UNEP / DEIA & EW / TR.99-5"
+            }
+        ],
+        "650": [
+            {
+                "a": "Degradação ambiental"
+            },
+            {
+                "a": "Gestão ambiental"
+            },
+            {
+                "a": "Economia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Whyte, Anne",
+                "e": "Editor"
+            },
+            {
+                "a": "Timmerman, Peter",
+                "e": "Editor"
+            },
+            {
+                "a": "Munn, R.E. (Ted)",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

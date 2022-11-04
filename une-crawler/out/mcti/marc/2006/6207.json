@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000006207",
+        "005": "20190807184345.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502/504(81)(063)",
+            "b": "E56t",
+            "c": "1991"
+        },
+        "111": {
+            "a": "Encontro Nacional de Estudos sobre o Meio Ambiente",
+            "c": "Londrina, PR",
+            "d": "1991",
+            "n": "3"
+        },
+        "245": {
+            "a": "3º Encontro nacional de estudos sobre o meio ambiente",
+            "b": "anais",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Londrina",
+                "b": "Universidade Estadual de Londrina",
+                "c": "1991"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Meio ambiente",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Ecologia",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "710": [
+            {
+                "a": "Universidade Estadual de Londrina",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Universidade Estadual de Maringá",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Universidade Estadual Paulista",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

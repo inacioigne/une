@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005513",
+        "005": "20190809141730.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0130220051"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.415.2.043",
+            "b": "W799a",
+            "c": "1986"
+        },
+        "100": {
+            "a": "Wirth, Niklaus",
+            "d": "1934-"
+        },
+        "245": {
+            "a": "Algorithms and data structures",
+            "c": "Niklaus Wirth",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": " Algorithms & data structures"
+            }
+        ],
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "c1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "288",
+                "c": "25 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Estrutura de dados"
+            },
+            {
+                "a": "Ciência da computação"
+            },
+            {
+                "a": "Algoritmos"
+            },
+            {
+                "a": "Matemática aplicada a informática"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

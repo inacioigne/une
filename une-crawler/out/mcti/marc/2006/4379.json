@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004379",
+        "005": "20190802095421.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502.2:061",
+            "b": "S796",
+            "c": "1998"
+        },
+        "245": {
+            "a": "START implementation plan 1997-2002",
+            "c": "edited by Roland Fuchs, Hassan Virji and Cory Fleming",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Stockholm, Suécia",
+                "b": "International Geosphere-Biosphere Programme",
+                "c": "c1998"
+            }
+        ],
+        "300": [
+            {
+                "a": "80",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "IGBP Report = IGBP Rapport = IGBP Informe",
+                "v": "n. 44"
+            }
+        ],
+        "650": [
+            {
+                "a": "Meio ambiente"
+            },
+            {
+                "a": "Desenvolvimento social"
+            },
+            {
+                "a": "Homem",
+                "x": "Influência sobre a natureza"
+            }
+        ],
+        "710": [
+            {
+                "a": "Programa Internacional da Geosfera-Biosfera",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Conselho Internacional das Uniões Científicas",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

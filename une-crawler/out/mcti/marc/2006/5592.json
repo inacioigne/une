@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005592",
+        "005": "20190812165650.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004(81)(063)",
+            "b": "C749i",
+            "c": "1986"
+        },
+        "111": {
+            "a": "Congresso Nacional de Informática",
+            "c": "Rio de Janeiro, RJ",
+            "d": "1986",
+            "n": "19"
+        },
+        "245": {
+            "a": "Anais do XIX Congresso Nacional de Informática",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Sociedade dos Usuários de Computadores e Equipamentos Subsidiários",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v.",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "v. 1 - Administração de informática, Tele-informática, software, aplicações --- v. 2 - Micro-informática, Micro-eletrênica"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Educação"
+            },
+            {
+                "a": "Banco de dados"
+            },
+            {
+                "a": "Inteligência artificial"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

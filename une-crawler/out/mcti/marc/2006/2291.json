@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002291",
+        "005": "20190807181000.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4(81)(063)",
+            "b": "W926",
+            "c": "1985",
+            "d": "CTI"
+        },
+        "245": {
+            "a": "1st Workshop on the Brazilian Software Plant Project",
+            "b": "comimitte's report : relatório dos comitês",
+            "h": "Impresso",
+            "c": "organizadores M. D. Ferraretto, V. Stenning; Centro Tecnológico para Informática"
+        },
+        "260": [
+            {
+                "a": "[S.l.]",
+                "b": "Centro Tecnológico para Informática",
+                "c": "1985"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "Master Plan -- 1. Overall Analysis -- 2. The situation in Brazil -- 2.1. Present situation -- 2.2. The Brazilian software industry demand and requirements -- 2.3. The software plant - Its mission -- 2.4. Compliance with Policies and Guidelines -- 3. Strategy -- 3.1. Introduction -- 3.2. Integration strategy models -- 3.3. Technology strategy -- 3.4. Strategy for financial autonomy -- 3.5. Human resources strategy -- 3.6. Strategy for project management -- 4. The software plant -- 4.1. Functions -- 4.2. External functions -- 4.3. Internal function -- 4.4. Organisation -- 5. Planning and control system -- 5.1. Planning and control of the software plant project during its implementation -- 5.2. Administration of the software plant in its \"steady state\" (in prepartion) -- 6. Financial program -- 6.1. SPP Staff Profile Tables -- 6.2. Investment tables -- 6.3. Cost tables -- 6.4. Earnings tables -- 6.5. Parameters -- Appendix -- A - Software plant basic plans -- B - Action plan -- C - PPL (preliminary) design."
+            }
+        ],
+        "650": [
+            {
+                "a": "Software",
+                "x": "Indústria"
+            },
+            {
+                "a": "Informática"
+            }
+        ],
+        "700": [
+            {
+                "a": "Ferraretto, M. D.",
+                "e": "Organizador"
+            },
+            {
+                "a": "Stenning, V.",
+                "e": "Organizador"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

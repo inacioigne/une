@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005712",
+        "005": "20190801100130.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "338.1:5/6(7/8=13)(047)",
+            "b": "B213e",
+            "c": "1988"
+        },
+        "110": {
+            "a": "Banco Interamericano de Desenvolvimento"
+        },
+        "245": {
+            "a": "Economic and Social Progress in Latin America",
+            "b": "1988 report",
+            "h": "Impresso",
+            "c": "Banco Interamericano de Desenvolvimento"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Banco Interamericano de Desenvolvimento",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "604",
+                "b": "il., graf., tab."
+            }
+        ],
+        "500": [
+            {
+                "a": "Special Section: Science and Technology"
+            }
+        ],
+        "650": [
+            {
+                "a": "Desenvolvimento econômico",
+                "x": "Relatórios",
+                "z": "América Latina"
+            },
+            {
+                "a": "Desenvolvimento social",
+                "x": "Relatórios",
+                "z": "América Latina"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

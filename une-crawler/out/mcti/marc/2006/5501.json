@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005501",
+        "005": "20190805105155.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "519.6",
+            "b": "G637g",
+            "c": "1995"
+        },
+        "100": {
+            "a": "Gondran, Michel"
+        },
+        "245": {
+            "a": "Graphes et algorithmes",
+            "c": "Michel Gondran, Michel Minoux",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2e éd. rev. et augm."
+            }
+        ],
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Eyrolles",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxxiii, 588 p",
+                "c": "25 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Collection de la Direction des études et recherches d'Électricité de France"
+            }
+        ],
+        "650": [
+            {
+                "a": "Matemática aplicada a informática"
+            },
+            {
+                "a": "Gráfico",
+                "x": "Algoritmos"
+            }
+        ],
+        "700": [
+            {
+                "a": "Minoux, Michel",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

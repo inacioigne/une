@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005549",
+        "005": "20190807151052.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.651",
+            "b": "M672a",
+            "c": "1986"
+        },
+        "100": {
+            "a": "Miranda, Serge"
+        },
+        "245": {
+            "a": "L'art des bases de données",
+            "c": "par S.M. Miranda, J.M. Busta",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Eyrolles",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v.",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "1. Introduction aux bases de données. 2. Les bases de données rationnelles."
+            }
+        ],
+        "650": [
+            {
+                "a": "Banco de dados"
+            },
+            {
+                "a": "Banco de dados relacionais"
+            }
+        ],
+        "700": [
+            {
+                "a": "Busta, José-Maria",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

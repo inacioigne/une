@@ -1,0 +1,73 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005732",
+        "005": "20190812144736.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "041": {
+            "a": "por",
+            "b": "eng"
+        },
+        "090": {
+            "a": "004.31(81)(063)",
+            "b": "S612a",
+            "c": "1989"
+        },
+        "111": {
+            "a": "Simpósio Brasileiro de Concepção de Circuitos Integrados",
+            "c": "Rio de Janeiro, RJ",
+            "d": "1989",
+            "n": "4"
+        },
+        "245": {
+            "a": "Anais do IV Simpósio Brasileiro de Concepção de Circuitos Integrados",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Universidade Federal do Rio de Janeiro",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "220",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Circuito integrado",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Software",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Hardware",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Rede de computador",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "710": [
+            {
+                "a": "Sociedade Brasileira de Computação",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

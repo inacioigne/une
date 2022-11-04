@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002393",
+        "005": "20190731102716.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:336.71(063)",
+            "b": "S471r",
+            "c": "1989"
+        },
+        "111": {
+            "a": "Seminário de Automação Bancária",
+            "c": "São Paulo",
+            "d": "1989",
+            "n": "1"
+        },
+        "245": {
+            "a": "Relatório do seminário de automação bancária",
+            "c": "Secretaria Especial de Informática",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Secretaria Especial de Informática",
+                "c": "1990"
+            }
+        ],
+        "300": [
+            {
+                "a": "55"
+            }
+        ],
+        "505": [
+            {
+                "a": "Histórico -- O Banco brasileiro -- Constituição do seminário, metodologia de trabalho e lista de participantes -- Transferência eletrônica de fundos/cartões/integração de redes - GT 1 -- Segurança na automação bancária - GT2 -- A Indústria nacional de informática na automação bancária -- GT 3."
+            }
+        ],
+        "650": [
+            {
+                "a": "Automação bancária"
+            },
+            {
+                "a": "Rede de informação",
+                "x": "Proteção de dados"
+            },
+            {
+                "a": "Indústria de computador",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

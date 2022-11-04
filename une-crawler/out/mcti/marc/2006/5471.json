@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005471",
+        "005": "20190809155814.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0835932672"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004",
+            "b": "B419i",
+            "c": "1986"
+        },
+        "100": {
+            "a": "Behforooz, Ali",
+            "d": "1942-"
+        },
+        "245": {
+            "a": "An introduction to computer science",
+            "b": "a structured problem-solving approach",
+            "c": "Ali Behforooz, Onkar P. Sharma",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxiii, 709 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência da computação"
+            },
+            {
+                "a": "Informática",
+                "x": "Análise estruturada"
+            }
+        ],
+        "700": [
+            {
+                "a": "Sharma, Onkar P",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

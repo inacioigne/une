@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002346",
+        "005": "20190806112633.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0821357298"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "316.42:338.1",
+            "b": "W927",
+            "c": "2004"
+        },
+        "245": {
+            "a": "World development indicators 2004",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "Banco Mundial",
+                "c": "2004"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxiv, 386",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Desenvolvimento social",
+                "x": "Indicadores"
+            },
+            {
+                "a": "Desenvolvimento econômico",
+                "x": "Indicadores"
+            }
+        ],
+        "710": [
+            {
+                "a": "Banco Mundial",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "Texto completo (WORLD BANK)",
+            "u": "http://www-wds.worldbank.org/external/default/WDSContentServer/IW3P/IB/2004/06/08/000160016_20040608153404/Rendered/PDF/289690PAPER0WDI02004.pdf",
+            "z": "Acesso em: 23/11/12"
+        },
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

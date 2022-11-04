@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004894",
+        "005": "20190809133716.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.896(043.3)",
+            "b": "C824p",
+            "c": "1990"
+        },
+        "100": {
+            "a": "Corrêa, Antenor Cesar Vanderlei"
+        },
+        "245": {
+            "a": "Product definition strategies for CAD/CAM",
+            "c": "by Antenor Cesar Vanderlei Corrêa",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "c": "1990",
+                "a": "[S.l.",
+                "b": "s.n]"
+            }
+        ],
+        "300": [
+            {
+                "a": "139 f."
+            }
+        ],
+        "502": [
+            {
+                "a": "Dissertação (mestrado) - University of Warwick, 1990 Supervisor acadêmico: Vinesh Raja"
+            }
+        ],
+        "650": [
+            {
+                "a": "Inteligência artificial",
+                "x": "Dissertação"
+            },
+            {
+                "a": "Robótica",
+                "x": "Dissertação"
+            },
+            {
+                "a": "Sistema de computador",
+                "x": "Dissertação"
+            }
+        ],
+        "990": {
+            "a": "Dissertações/Teses/TCC"
+        }
+    }
+}

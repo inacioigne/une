@@ -1,0 +1,80 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001646",
+        "005": "20190802114917.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8521100108"
+        },
+        "090": {
+            "a": "630*2(811)",
+            "b": "F634",
+            "c": "1998",
+            "d": "INPA"
+        },
+        "245": {
+            "a": "Floresta amazônica",
+            "b": "dinâmica, regeneração e manejo",
+            "c": "editores, Claude Gascon, Paulo Moutinho",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Manaus",
+                "b": "Instituto Nacional de Pesquisas da Amazônia",
+                "c": "1998"
+            }
+        ],
+        "300": [
+            {
+                "a": "373",
+                "b": "il., (algumas color.)"
+            }
+        ],
+        "650": [
+            {
+                "a": "Floresta Amazônica"
+            },
+            {
+                "a": "Florestas",
+                "x": "Exploração",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Pesquisa florestal",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Florestas",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Economia florestal",
+                "z": "Amazônia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Gascon, Claude",
+                "e": "Editor"
+            },
+            {
+                "a": "Moutinho, Paulo",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto Nacional de Pesquisas da Amazônia (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

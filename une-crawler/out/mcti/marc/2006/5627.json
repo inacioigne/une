@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005627",
+        "005": "20190806110933.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "926413025x"
+        },
+        "090": {
+            "a": "377.014.53:5/6",
+            "b": "C397i",
+            "c": "=111",
+            "d": "1987"
+        },
+        "110": {
+            "a": "Centre for Educational Research and Innovation"
+        },
+        "245": {
+            "a": "Information technologies and basic learning",
+            "b": "reading writing, science, and mathematics",
+            "h": "Impresso",
+            "c": "Centre for Educational Research and Innovation"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Organisation for Economic Co-operation and Development",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "269"
+            }
+        ],
+        "650": [
+            {
+                "a": "Educação",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Educação básica",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Leitura",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Ciência",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Matemática",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

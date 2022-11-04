@@ -1,0 +1,83 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003021",
+        "005": "20190813113705.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004",
+            "b": "C569",
+            "c": "=134.3",
+            "d": "1972"
+        },
+        "245": {
+            "a": "Ciência de computadores",
+            "b": "1. curso",
+            "c": "Alexandra I. Forsythe ... [et al]. Tradução Octavio Almerindo Ferreira",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Pontifícia Universidade Católica do Rio de Janeiro",
+                "c": "1972"
+            }
+        ],
+        "300": [
+            {
+                "a": "2. v.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Ciência da computação"
+            }
+        ],
+        "650": [
+            {
+                "a": "Computadores"
+            },
+            {
+                "a": "Ciência da computação"
+            },
+            {
+                "a": "Programação matemática"
+            },
+            {
+                "a": "Fluxograma"
+            },
+            {
+                "a": "Algoritmos"
+            }
+        ],
+        "700": [
+            {
+                "a": "Forsythe, Alexandra I",
+                "e": "Coautor"
+            },
+            {
+                "a": "Keenan, Thomas A",
+                "e": "Coautor"
+            },
+            {
+                "a": "Organick, Elliott Irving",
+                "d": "1925-",
+                "e": "Coautor"
+            },
+            {
+                "a": "Stenberg, Warren",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

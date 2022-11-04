@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004217",
+        "005": "20190809133528.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.651:025.4.036(043.3)",
+            "b": "G625m",
+            "c": "1980"
+        },
+        "100": {
+            "a": "Golendziner, Lia Goldstein"
+        },
+        "245": {
+            "a": "Uma metodologia para melhorar a eficiência de instruções de recuperacao em banco de dados",
+            "c": "Lia Goldstein Golendziner",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "c": "1980",
+                "a": "Rio Grande do Sul"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 130",
+                "b": "il."
+            }
+        ],
+        "502": [
+            {
+                "a": "Dissertação (Mestrado) - Universidade Federal do Rio Grande do Sul. Curso de Pós-Graduação em Ciência da Computação, Porto Alegre, 1980."
+            }
+        ],
+        "650": [
+            {
+                "a": "Banco de dados"
+            },
+            {
+                "a": "Banco de dados relacionais"
+            },
+            {
+                "a": "Recuperação da informação"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Gerenciamento de banco de dados"
+            }
+        ],
+        "990": {
+            "a": "Dissertações/Teses/TCC"
+        }
+    }
+}

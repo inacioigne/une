@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nas  22      a 4500",
+        "001": "000002146",
+        "005": "20170127091319.0",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "022": {
+            "a": "1517-7165"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004(05)"
+        },
+        "245": {
+            "a": "RNP notícias",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Rede Nacional de Pesquisa",
+                "c": "2006"
+            }
+        ],
+        "300": [
+            {
+                "b": "v"
+            }
+        ],
+        "310": {
+            "a": "Trimestral"
+        },
+        "530": {
+            "a": "Documento eletrônico: Sumários, período disponível (1999 - presente) - Livre acesso"
+        },
+        "650": [
+            {
+                "a": "Internet",
+                "x": "Periódico",
+                "z": "Brasil"
+            },
+            {
+                "a": "Rede de computador",
+                "x": "Periódico",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Rede Nacional de Pesquisa (Brasil)",
+                "e": "Indefinida"
+            }
+        ],
+        "990": {
+            "a": "Periódicos"
+        }
+    }
+}

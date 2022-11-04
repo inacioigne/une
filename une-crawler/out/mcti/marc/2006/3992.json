@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003992",
+        "005": "20190802100546.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0080285929"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.891",
+            "b": "E96f",
+            "c": "c1984"
+        },
+        "245": {
+            "a": "Expert systems",
+            "c": "J. Fox, editor",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Berkshire, [Inglaterra]",
+                "b": "Pergamon Infotech",
+                "c": "c1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "xi, 206 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "State of the art report",
+                "v": "12:7"
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema especialista",
+                "x": "Ciência da computação"
+            },
+            {
+                "a": "Teoria do conhecimento"
+            },
+            {
+                "a": "Educação"
+            }
+        ],
+        "700": [
+            {
+                "a": "Fox, J.",
+                "q": "John",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

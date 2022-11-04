@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005856",
+        "005": "20190730134707.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004",
+            "b": "V441q",
+            "c": "1985"
+        },
+        "100": {
+            "a": "Velloso, Fernando de Castro"
+        },
+        "245": {
+            "a": "Quinze lições de informática",
+            "c": "Fernando de Castro Velloso",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Estabelecimento General Gustavo Cordeiro de Faria",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "387"
+            }
+        ],
+        "505": [
+            {
+                "a": "1ª. Lição - Fundamento -- 2ª. Lição - A memória do computador -- 3ª. Lição - Unidade central de processamento -- 4ª Lição - Unidades de entrada e saída -- 5ª Lição - Codificação -- 6ª Lição - Organização da informação --7ª Lição - Funcionamento do computador -- 8ª Lição - Noções sumárias de Cobol -- 9ª Lição - Noções sumárias de Fortran -- 10ª Lição - Linguagem Basic -- 11ª Lição - Auditoria e segurança -- 12ª Lição - Microcomputador -- 13ª Lição - Solução de problemas -- 14ª Lição - Teleprocessamento -- 15ª Lição - Modalidades de processamento."
+            }
+        ],
+        "650": [
+            {
+                "a": "Processamento de dados"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Teleprocessamento"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "Basic (Linguagem de programação de computador)"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

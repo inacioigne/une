@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002961",
+        "005": "20190807112658.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "005.821",
+            "b": "I61",
+            "c": "=134.3",
+            "d": "1987"
+        },
+        "245": {
+            "a": "Uma Introdução programada ao PERT",
+            "b": "avaliação de programa e técnica de revisão",
+            "c": "Federal Eletric Corporation ; tradução de Reginald Uelze, Daniel dos Santos e Virgilio Spinola",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Pioneira",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 144 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Biblioteca Pioneira de administração e negócios"
+            }
+        ],
+        "650": [
+            {
+                "a": "Análise de redes (Planejamento)",
+                "x": "PERT-CPM"
+            },
+            {
+                "a": "Administração de empresas"
+            },
+            {
+                "a": "Instrução programada"
+            }
+        ],
+        "710": [
+            {
+                "a": "Federal Electric Corporation",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

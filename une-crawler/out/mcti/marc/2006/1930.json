@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001930",
+        "005": "20190802103250.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004(81)(063)",
+            "b": "C749s",
+            "c": "1988"
+        },
+        "111": {
+            "a": "Congresso Nacional de Informática",
+            "c": "Rio de Janeiro, RJ",
+            "d": "1988",
+            "n": "21"
+        },
+        "245": {
+            "a": "SUCESU'88",
+            "b": "XXI Congresso Nacional de Informática : I Congresso Internacional de Informática : programação técnica, 22 a 26 de agosto de 1988, Rio de Janeiro",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Sociedade dos Usuários de Computadores e Equipamentos Subsidiários",
+                "c": "[1988]"
+            }
+        ],
+        "300": [
+            {
+                "a": "3 v.",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "v. 1 - Anais -- v. 2 - Anais -- v. 3 - Resumo das palestras e o curriculum dos palestrantes -- v. 4 - Programa temário."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Sociedade dos Usuários de Computadores e Equipamentos Subsidiários (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

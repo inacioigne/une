@@ -1,0 +1,104 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000360",
+        "005": "20190808142208.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4'3(81)(063)",
+            "b": "S471v",
+            "c": "1996"
+        },
+        "111": {
+            "a": "Seminário Integrado de Software e Hardware",
+            "c": "Recife, PE",
+            "d": "1996",
+            "n": "23"
+        },
+        "245": {
+            "a": "Anais do XXIII Seminário Integrado de Software e Hardware",
+            "b": "SEMISH'96, Recife, PE 4 a 9 de agosto de 1996",
+            "c": "editado por Roberto Souto Maior de Barros e Paulo Roberto Freire Cunha",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Recife",
+                "b": "Universidade Federal de Pernambuco, Departamento de Informática",
+                "c": "1996"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "564",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Evento realizado no XVI Congresso da Sociedade Brasileira de Computação"
+            }
+        ],
+        "650": [
+            {
+                "a": "Computação gráfica",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Banco de dados",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Rede de computador",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Sistema distribuído",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Arquitetura de computador",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Engenharia de software",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Internet"
+            }
+        ],
+        "700": [
+            {
+                "a": "Barros, Roberto Souto Maior de",
+                "e": "Editor"
+            },
+            {
+                "a": "Cunha, Paulo Roberto Freire",
+                "e": "Editor"
+            }
+        ],
+        "711": [
+            {
+                "a": "Congresso da Sociedade Brasileira de Computação",
+                "c": "Recife, PE",
+                "d": "1996",
+                "n": "16"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

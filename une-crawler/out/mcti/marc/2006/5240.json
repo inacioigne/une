@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005240",
+        "005": "20190807131254.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "338.45:004.4",
+            "b": "P418",
+            "c": "2003"
+        },
+        "245": {
+            "a": "Os pensadores do software no Brasil",
+            "b": "por um setor de software estratégico",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "[s.n.]",
+                "c": "2003"
+            }
+        ],
+        "300": [
+            {
+                "a": "17 f.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Indústria de software"
+            },
+            {
+                "a": "Software",
+                "x": "Desenvolvimento"
+            },
+            {
+                "a": "Inclusão digital"
+            },
+            {
+                "a": "Política e governo"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

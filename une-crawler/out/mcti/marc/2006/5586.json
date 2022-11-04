@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005586",
+        "005": "20190812105805.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.43'4'423",
+            "b": "S263c",
+            "c": "1988"
+        },
+        "100": {
+            "a": "Savadovsky, Pedro"
+        },
+        "245": {
+            "a": "A construção de interpretadores para linguagem natural",
+            "c": "Pedro Savadovsky",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Buenos Aires",
+                "b": "Kapelusz",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "108",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Este livro faz parte da coleção de livros-textos escritos para a III Escola Brasileiro-Argentina de Informática (III EBAI), realizada em Curitiba, PR, Brasil, de 25/01 a 07/02/1988."
+            }
+        ],
+        "650": [
+            {
+                "a": "Linguagem natural"
+            },
+            {
+                "a": "Linguística"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Curitiba, PR",
+                "d": "1988",
+                "n": "3"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000415",
+        "005": "20190808174617.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8585007192"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502.2(084.8)",
+            "b": "A881",
+            "d": "R",
+            "c": "1994"
+        },
+        "245": {
+            "a": "Atlas do meio ambiente do Brasil",
+            "h": "Impresso",
+            "c": "autor corporativo: Empresa Brasileira de Pesquisa Agropecuária"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Departamento de Sociologia da PUC-MG",
+                "c": "1994"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "138",
+                "b": "il., color."
+            }
+        ],
+        "650": [
+            {
+                "a": "Biodiversidade"
+            },
+            {
+                "a": "Meio ambiente",
+                "x": "Atlas",
+                "z": "Brasil"
+            },
+            {
+                "a": "Explosões demográfica"
+            },
+            {
+                "a": "Crescimento urbano"
+            },
+            {
+                "a": "Energia",
+                "x": "Meio ambiente"
+            },
+            {
+                "a": "Desertificação"
+            },
+            {
+                "a": "Erosão"
+            },
+            {
+                "a": "Água",
+                "x": "Poluição"
+            },
+            {
+                "a": "Ar",
+                "x": "Poluição"
+            }
+        ],
+        "710": [
+            {
+                "a": "Empresa Brasileira de Pesquisa Agropecuária",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Atlas"
+        }
+    }
+}

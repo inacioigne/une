@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002838",
+        "005": "20190805093701.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0471077704"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.031.43",
+            "b": "B629d",
+            "c": "1975"
+        },
+        "100": {
+            "a": "Blackman, Maurice"
+        },
+        "245": {
+            "a": "The design of real time applications",
+            "c": "M. Blackman",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Londres (Inglaterra)"
+            },
+            {
+                "a": "Nova Iorque",
+                "b": "Wiley",
+                "c": "1975"
+            }
+        ],
+        "300": [
+            {
+                "a": "xviii, 265",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "\"A Wiley-Interscience publication.\""
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema de computador",
+                "x": "Tempo real"
+            },
+            {
+                "a": "Processamento de dados",
+                "x": "Tempo real"
+            },
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Desenvolvimento de sistemas"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002249",
+        "005": "20190807141412.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502.131.1:631(811.3)",
+            "b": "P712",
+            "c": "2005"
+        },
+        "245": {
+            "a": "Plano municipal de desenvolvimento rural sustentável",
+            "b": "Parintins - Amazonas : 2005-2012",
+            "c": "Raul Couto (organizador)",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Manaus",
+                "b": "Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis",
+                "c": "2005"
+            }
+        ],
+        "300": [
+            {
+                "a": "171",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Desenvolvimento agrícola",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Desenvolvimento sustentável",
+                "z": "Amazônia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Couto, Raul",
+                "e": "Organizador"
+            }
+        ],
+        "710": [
+            {
+                "a": "Brasil. Ministério do Meio Ambiente",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Brasil. Ministério do Desenvolvimento Agrário",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001638",
+        "005": "20190809114836.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8585761113"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "615.32(81)",
+            "b": "M489",
+            "c": "1998"
+        },
+        "245": {
+            "a": "Medicamentos a partir de plantas medicinais no Brasil",
+            "c": "[organizado por] Sérgio H. Ferreira",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Academia Brasileira de Ciências",
+                "c": "1998"
+            }
+        ],
+        "300": [
+            {
+                "a": "131",
+                "c": "25",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Planta medicinal",
+                "x": "Indústria",
+                "z": "Brasil"
+            },
+            {
+                "a": "Indústria farmacêutica"
+            },
+            {
+                "a": "Medicina alternativa",
+                "z": "Brasil"
+            },
+            {
+                "a": "Medicina popular",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Ferreira, Sérgio H",
+                "q": "Sérgio Henrique",
+                "e": "Organizador"
+            }
+        ],
+        "710": [
+            {
+                "a": "Academia Brasileira de Ciências",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

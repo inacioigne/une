@@ -1,0 +1,54 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004895",
+        "005": "20190806101831.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8521608268"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.772",
+            "b": "T274v",
+            "c": "1991"
+        },
+        "100": {
+            "a": "Telles, Pedro Carlos da Silva"
+        },
+        "245": {
+            "a": "Vasos de pressão",
+            "c": "Pedro Carlos da Silva Telles",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Livros Técnicos e Científicos",
+                "c": "1991"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiii, 300",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Pressão e vácuo (controle)"
+            },
+            {
+                "a": "Instalações hidráulicas"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

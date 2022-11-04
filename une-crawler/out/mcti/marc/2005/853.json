@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000853",
+        "005": "20190726142404.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "35.077SEI(062.13)",
+            "b": "B823",
+            "d": "SEI",
+            "c": "1983"
+        },
+        "110": {
+            "a": "Brasil. Secretaria Especial de Informática"
+        },
+        "245": {
+            "a": "Secretaria Especial de Informática",
+            "b": "regimento interno",
+            "h": "Impresso",
+            "c": "Secretaria Especial de Informática"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Secretaria Especial de Informática",
+                "c": "1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "60"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Política e governo",
+                "z": "Brasil"
+            },
+            {
+                "a": "Política tecnológica",
+                "z": "Brasil"
+            }
+        ],
+        "777": {
+            "t": "Centro Tecnológico para Informática : regimento interno",
+            "d": "Brasília: Secretaria Especial de Informática, 1983"
+        },
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

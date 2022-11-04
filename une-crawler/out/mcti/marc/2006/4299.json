@@ -1,0 +1,89 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004299",
+        "005": "20190807100351.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.738.5:339",
+            "b": "B823i",
+            "c": "2005",
+            "d": "MCT"
+        },
+        "110": {
+            "a": "Brasil. Ministério da Ciência e Tecnologia",
+            "b": "Secretaria de Política de Informática"
+        },
+        "245": {
+            "a": "Internet comercial",
+            "b": "aspectos gerais, estatísticas, aspectos legais, contribuições especiais, glossário",
+            "h": "Impresso",
+            "c": "Ministério da Ciência e Tecnologia. Secretaria de Política de Informática"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Ministério da Ciência e Tecnologia, Secretaria de Política de Informática",
+                "c": "2005"
+            }
+        ],
+        "300": [
+            {
+                "a": "203",
+                "b": "il., color"
+            }
+        ],
+        "500": [
+            {
+                "a": "versão 3"
+            }
+        ],
+        "505": [
+            {
+                "a": "Breve história da internet -- principais conceitos -- Comércio eletrônico e comércio convencional -- Marketing eletrônico -- Estatísticas -- O tamanho atual da internet -- O comércio eletrônico -- Aspectos legais -- Características legais do comércio eletrônico -- Comércio eletrônico e propriedade intelectual -- Assinatura eletrônica ou digital -- Transações eletrônicas, proteção e o direito de privacidade -- Tributação do comércio eletrônico -- SPAM ou UCE -- TV Digital no Brasil -- Ações do governo brasileiro -- Os correios e o comércio eletrônico -- A evolução do comércio eletrônico no mercado brasileiro"
+            }
+        ],
+        "520": {
+            "a": "Atualiza, amplia e incorpora novos conceitos relacionados com os diversos termos utilizados na atualidade com relação a rede mundial Internet; atualiza as estatísticas relacionadas com a Internet e o comércio eletrônico no Brasil e em alguns países, onde os números são significativos; apresenta os aspectos legais relacionados com os temas principais da Internet e estuda os aspectos relativos aos direitos da propriedade intelectual das informações contidas na rede eletrônica de dados. Além destes aspectos, esta edição incorpora algumas contribuições especiais que complementam este trabalho de forma qualitativa. Para finalizar, este estudo traz um glossário de termos utilizados no âmbito da Internet comercial, revisado e atualizado."
+        },
+        "650": [
+            {
+                "a": "Comércio eletrônico",
+                "z": "Brasil",
+                "x": "Aspectos legais"
+            },
+            {
+                "a": "Comercialização",
+                "x": "Aplicação de computador",
+                "z": "Brasil"
+            },
+            {
+                "a": "Contrato eletrônico",
+                "z": "Brasil"
+            },
+            {
+                "a": "Proteção de dados",
+                "z": "Brasil"
+            },
+            {
+                "a": "Privacidade",
+                "z": "Brasil"
+            }
+        ],
+        "856": {
+            "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\4299-Internet_comercial_aspectos_gerais.zip",
+            "y": "MCTIC",
+            "z": "Acesso em: 07/08/2019"
+        },
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

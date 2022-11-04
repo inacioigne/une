@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003945",
+        "005": "20190813113453.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.39:004.7",
+            "b": "C741",
+            "c": "1980"
+        },
+        "245": {
+            "a": "Comunicação de dados, exposição à Telebrás e Minicom",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[S.l.]",
+                "b": "Secretaria Especial de Informática",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "58",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "1. Introdução -- A teleinformática -- Diretrizes governamentais -- Princípios da Portaria 104 -- Reações do mercado -- 2. Estrutura de análise do problema -- 3. As características do negócio de comunicação de dados -- Mercado -- Planejamento e implantação -- Operação e manutenção -- Comercialização -- Indústria -- 4. Novas Posturas da Embratel -- 5. Ações imediatas -- Novos serviços -- Revisão da Portaria 104 -- Utilização rede telefônica."
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede de telecomunicação"
+            },
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Comunicação de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

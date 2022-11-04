@@ -1,0 +1,94 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001024",
+        "005": "20190726151931.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "551.583(81)",
+            "b": "S678",
+            "c": "1992"
+        },
+        "245": {
+            "a": "Socioeconomic impacts of climate variations and policy responses in Brazil",
+            "c": "Antonio R. Magalhães and Michael H. Glantz, (editors)",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Fundação Grupo Esquel Brasil"
+            },
+            {
+                "a": "Nairobi",
+                "b": "Programa das Nações Unidas para o Meio Ambiente",
+                "c": "1992"
+            }
+        ],
+        "300": [
+            {
+                "a": "155",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Clima",
+                "x": "Aspectos sócio-econômicos",
+                "z": "Brasil"
+            },
+            {
+                "a": "Variação da temperatura",
+                "z": "Brasil"
+            },
+            {
+                "a": "Política ambiental",
+                "z": "Brasil"
+            },
+            {
+                "a": "Meio ambiente",
+                "x": "Política e governo",
+                "z": "Brasil"
+            },
+            {
+                "a": "Secas",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Magalhães, Antonio Rocha",
+                "d": "1944-",
+                "e": "Editor"
+            },
+            {
+                "a": "Glantz, Michael H",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Programa das Nações Unidas para o Meio Ambiente",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Fundação Grupo Esquel Brasil",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Ceará. Secretaria do Planejamento e Coordenação",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

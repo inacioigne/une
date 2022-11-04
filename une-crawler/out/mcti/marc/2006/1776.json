@@ -1,0 +1,51 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001776",
+        "005": "20190806093811.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0442212844"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.3.049.77",
+            "b": "B329i",
+            "c": "1985"
+        },
+        "100": {
+            "a": "Bateson, John"
+        },
+        "245": {
+            "a": "In-circuit testing",
+            "c": "John Bateson",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Van Nostrand Reinhold",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "xvii, 243 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Circuito integrado"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

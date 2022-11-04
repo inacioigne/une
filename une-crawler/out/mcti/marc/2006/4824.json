@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004824",
+        "005": "20190801115113.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.31",
+            "b": "E38",
+            "c": "1999"
+        },
+        "245": {
+            "a": "Electricity technology roadmap",
+            "b": "electricity supply",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Palo Alto, California",
+                "b": "Electric Power Research Institute",
+                "c": "1999"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (paginação irregular)",
+                "b": "il., tabs."
+            }
+        ],
+        "650": [
+            {
+                "a": "Energia de combustível fóssil"
+            },
+            {
+                "a": "Energia nuclear"
+            },
+            {
+                "a": "Energia elétrica",
+                "z": "Brasil"
+            },
+            {
+                "a": "Tecnologia"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

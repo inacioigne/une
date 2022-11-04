@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001779",
+        "005": "20190814184358.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "620.91(815.6)",
+            "b": "S239b",
+            "c": "2005"
+        },
+        "110": {
+            "a": "São Paulo (Estado). Secretaria de Energia, Recursos Hídricos e Saneamento"
+        },
+        "245": {
+            "a": "Balanço energético do estado de São Paulo - 2005",
+            "b": "ano base 2004",
+            "h": "Impresso",
+            "c": "Secretaria de Energia, Recursos Hídricos e Saneamento"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Secretaria de Energia, Recursos Hídricos e Saneamento",
+                "c": "2005"
+            }
+        ],
+        "300": [
+            {
+                "a": "155 p., [52] p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Informações Energéticas",
+                "v": "2"
+            }
+        ],
+        "501": [
+            {
+                "a": "Informações energéticas do estado de São Paulo - 2005: ano base: 2004. São Paulo: Secretaria de Energia, Recursos Hídricos e Saneamento, 2005. 1 folha dobrada [8 p.], il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Energia",
+                "x": "Consumo (Economia)",
+                "z": "São Paulo"
+            },
+            {
+                "a": "Balanço energético (Geofísica)",
+                "z": "São Paulo"
+            },
+            {
+                "a": "Recursos energéticos",
+                "x": "Estatísticas",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

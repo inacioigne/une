@@ -1,0 +1,97 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004778",
+        "005": "20190813180617.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "022": {
+            "a": "1808-1983"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "31:308(81)",
+            "b": "I59b",
+            "c": "2005"
+        },
+        "245": {
+            "a": "Brasil em números",
+            "b": "2005",
+            "h": "Impresso",
+            "c": "autor corporativo: Instituto Brasileiro de Geografia e Estatística"
+        },
+        "246": [
+            {
+                "a": "Brazil in figures"
+            }
+        ],
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Instituto Brasileiro de Geografia e Estatística",
+                "c": "2005"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "329",
+                "b": "il., color."
+            }
+        ],
+        "500": [
+            {
+                "a": "Periódico tratado como livro (ISSN: 0103-9288)"
+            },
+            {
+                "a": "Cutter retirado do autor corporativo"
+            }
+        ],
+        "650": [
+            {
+                "a": "Educação",
+                "x": "Estatísticas",
+                "z": "Brasil"
+            },
+            {
+                "a": "Ciências sociais",
+                "x": "Estatísticas",
+                "z": "Brasil"
+            },
+            {
+                "a": "Demografia",
+                "z": "Brasil"
+            },
+            {
+                "a": "História do Brasil"
+            },
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Estatísticas",
+                "z": "Brasil"
+            },
+            {
+                "a": "Comércio exterior",
+                "x": "Estatísticas",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto Brasileiro de Geografia e Estatística",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003148",
+        "005": "20190802145547.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "911.3:32(100)",
+            "b": "G347g",
+            "c": "=134.3",
+            "d": "1973"
+        },
+        "100": {
+            "a": "George, Pierre",
+            "d": "1909-"
+        },
+        "245": {
+            "a": "Geografia industrial do mundo",
+            "c": "Por Pierre George ; tradução de Cecilia Assumpção",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "3. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Difusão Européia do Livro",
+                "c": "1973"
+            }
+        ],
+        "300": [
+            {
+                "a": "118",
+                "b": "il., tabs."
+            }
+        ],
+        "490": [
+            {
+                "a": "Coleção saber atual",
+                "v": "82"
+            }
+        ],
+        "650": [
+            {
+                "a": "Geografia econômica"
+            },
+            {
+                "a": "Indústrias",
+                "x": "História"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

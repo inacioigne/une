@@ -1,0 +1,88 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000378",
+        "005": "20190726092357.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8590114813"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "001.89:378.4(815.6)USTJ",
+            "b": "S586i",
+            "c": "1999"
+        },
+        "100": {
+            "a": "Silva, Oberdan Dias da",
+            "d": "1949-"
+        },
+        "245": {
+            "a": "Iniciação científica",
+            "b": "uma experiência da Universidade São Judas Tadeu",
+            "c": "Oberdan Dias da Silva, Alberto Mesquita Filho",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "1. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Universidade São Judas Tadeu",
+                "c": "1999"
+            }
+        ],
+        "300": [
+            {
+                "a": "303",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Iniciação científica",
+                "x": "Universidade",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pesquisa universitária",
+                "x": "Aspectos históricos",
+                "z": "Brasil"
+            },
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Universidade",
+                "z": "São Paulo"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento",
+                "x": "Universidade",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Mesquita Filho, Alberto",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Universidade São Judas Tadeu",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

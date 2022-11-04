@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003048",
+        "005": "20190730093927.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "51-37:62(043)",
+            "b": "L111p",
+            "c": "1980"
+        },
+        "100": {
+            "a": "La Neve, Alessandro"
+        },
+        "245": {
+            "a": "Projeto e construção de uma máquina de calcular serial-binária",
+            "c": "Alessandro La Neve",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Universidade de São Paulo",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "92 p. + anexos",
+                "b": "il."
+            }
+        ],
+        "502": [
+            {
+                "a": "Dissertação (Mestrado) - Departamento de Engenharia Elétrica, Escola Politécnica., Universidade de São Paulo, São Paulo, 1980"
+            }
+        ],
+        "650": [
+            {
+                "a": "Máquinas de calcular",
+                "x": "Engenharia de programação"
+            },
+            {
+                "a": "Número binário",
+                "x": "Circuito eletrônico"
+            }
+        ],
+        "990": {
+            "a": "Dissertações/Teses/TCC"
+        }
+    }
+}

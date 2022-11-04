@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002009",
+        "005": "20190805115820.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.738.5",
+            "b": "G943",
+            "c": "1997"
+        },
+        "245": {
+            "a": "Guia internet de conectividade",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "3. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Cyclades",
+                "c": "1997"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "157",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Internet"
+            },
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Protocolo de comunicação"
+            },
+            {
+                "a": "Rede local"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

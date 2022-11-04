@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002053",
+        "005": "20190809145416.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8534603855"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4:005.8",
+            "b": "M626",
+            "c": "=134.3",
+            "d": "1995"
+        },
+        "245": {
+            "a": "Microsoft Project 4 for windows",
+            "b": "passo a passo",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Makron Books",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "419",
+                "b": "il., + 1 disquete (3 1/2)"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programas de computador",
+                "x": "Project, Windows"
+            },
+            {
+                "a": "Sistemas operacionais (Computadores)",
+                "x": "Windows 95 (Sistema operacional de computador)"
+            },
+            {
+                "a": "Gestão de projetos"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

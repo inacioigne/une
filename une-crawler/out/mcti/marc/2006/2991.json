@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002991",
+        "005": "20190802104434.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0138803692"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "W799s",
+            "c": "1973"
+        },
+        "100": {
+            "a": "Wirth, Niklaus",
+            "d": "1934-"
+        },
+        "245": {
+            "a": "Systematic programming",
+            "b": "an introduction",
+            "c": "Niklaus Wirth",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "c1973"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiv, 167",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Prentice-Hall series in automatic computation"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Programação matemática"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

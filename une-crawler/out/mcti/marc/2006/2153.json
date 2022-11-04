@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002153",
+        "005": "20190730142145.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8570013892"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.725.5",
+            "b": "S676r",
+            "c": "1986"
+        },
+        "100": {
+            "a": "Soares, Luiz Fernando G.",
+            "q": "Luiz Fernando Gomes"
+        },
+        "245": {
+            "a": "Redes locais",
+            "c": "Luiz Fernando G. Soares",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Campus",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "250",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede de computador",
+                "x": "Arquitetura de rede"
+            },
+            {
+                "a": "Comunicação de dados",
+                "x": "Rede de telecomunicação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

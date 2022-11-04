@@ -1,0 +1,54 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004511",
+        "005": "20190808125715.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "336.144.2(81)",
+            "b": "B823l",
+            "c": "[200-?]"
+        },
+        "110": {
+            "a": "Brasil. Ministério do Planejamento, Orçamento e Gestão"
+        },
+        "245": {
+            "a": "Long term funding in Brazil",
+            "b": "the infrastructure case",
+            "h": "Impresso",
+            "c": "Ministério do Planejamento, Orçamento e Gestão"
+        },
+        "260": [
+            {
+                "a": "[Brasília]",
+                "b": "Ministério do Planejamento, Orçamento e Gestão",
+                "c": "[200-?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "65"
+            }
+        ],
+        "650": [
+            {
+                "a": "Infraestrutura (Economia)",
+                "x": "Financiamento",
+                "z": "Brasil"
+            },
+            {
+                "a": "Economia",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002980",
+        "005": "20190809140419.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "007042327x"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.3.049.77",
+            "b": "M655m",
+            "c": "c1979"
+        },
+        "100": {
+            "a": "Millman, Jacob",
+            "d": "1911-"
+        },
+        "245": {
+            "a": "Microelectronics",
+            "b": "digital and analog circuits and systems",
+            "c": "Jacob Millman",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "McGraw-Hill",
+                "c": "c1979"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxviii, 881 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "McGraw-Hill series in electrical engineering"
+            }
+        ],
+        "650": [
+            {
+                "a": "Microeletrônica"
+            },
+            {
+                "a": "Circuito integrado"
+            },
+            {
+                "a": "Circuito eletrônico"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

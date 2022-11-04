@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002347",
+        "005": "20190809154453.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0876643721"
+        },
+        "090": {
+            "a": "004.451.25",
+            "b": "M665",
+            "c": "c1978"
+        },
+        "245": {
+            "a": "Minicomputers in industrial control",
+            "b": "an introduction",
+            "c": "edited by Thomas J. Harrison",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Pittsburgh [Estados Unidos]",
+                "b": "Instrument Society of America",
+                "c": "c1978"
+            }
+        ],
+        "300": [
+            {
+                "a": "xix, 361 p.",
+                "c": "26 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Controle de processo"
+            },
+            {
+                "a": "Automação industrial"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            },
+            {
+                "a": "Minicomputador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Harrison, Thomas J",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

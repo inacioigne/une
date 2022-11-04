@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001111",
+        "005": "20190729114224.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "614.2:5/6",
+            "b": "P925",
+            "c": "2002"
+        },
+        "245": {
+            "a": "Prêmio de incentivo em ciência e tecnologia para o SUS-2002",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Secretaria de Políticas de Saúde, Departamento de Ciência e Tecnologia em Saúde",
+                "c": "2002"
+            }
+        ],
+        "300": [
+            {
+                "a": "36 f."
+            }
+        ],
+        "650": [
+            {
+                "a": "Saúde",
+                "x": "Prêmio",
+                "z": "Brasil"
+            },
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Pesquisa e desenvolvimento",
+                "z": "Brasil"
+            },
+            {
+                "a": "Política tecnológica",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Brasil. Ministério da Saúde",
+                "b": "Departamento de Ciência e Tecnologia em Saúde",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

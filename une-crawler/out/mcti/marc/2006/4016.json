@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004016",
+        "005": "20190813115900.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0080285589"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.056",
+            "b": "C738",
+            "c": "1981"
+        },
+        "245": {
+            "a": "Computer systems security",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Berkshire, [Inglaterra]",
+                "b": "Pergamon Infotech",
+                "c": "1981"
+            }
+        ],
+        "300": [
+            {
+                "a": "448",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "State of the art report",
+                "v": "série 9, n. 5"
+            }
+        ],
+        "650": [
+            {
+                "a": "Segurança de computador"
+            },
+            {
+                "a": "Proteção de dados"
+            },
+            {
+                "a": "Sistema de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

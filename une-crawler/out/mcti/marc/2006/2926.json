@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002926",
+        "005": "20190805125919.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "0877690561"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:005(035)",
+            "b": "H236",
+            "c": "1971"
+        },
+        "245": {
+            "a": "Handbook of data processing management",
+            "c": "Martin L. Rubin, editor ; Thomas Harrell, technical editor",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Princeton [Estados Unidos]",
+                "b": "Auerbach",
+                "c": "1971"
+            }
+        ],
+        "300": [
+            {
+                "a": "6 v.",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "v. 1. Introduction to the system life cycle. M. L. Rubin, author.--v. 2. System life cycle standards. M. L. Rubin, principal author and editor.--v. 3. System life cycle standards: forms method, by P. Zuckerman.--v. 4. Advanced technology: input and output. M. L. Rubin, editor.--v. 5. Advanced technology-systems concepts. M. L. Rubin, editor.--v. 6. Data processing administration. M. L. Rubin, editor."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Manual"
+            },
+            {
+                "a": "Computador digital",
+                "x": "Manual"
+            },
+            {
+                "a": "Gerência de sistema"
+            },
+            {
+                "a": "Sistema de informação"
+            }
+        ],
+        "700": [
+            {
+                "a": "Rubin, Martin L",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

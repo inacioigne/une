@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002107",
+        "005": "20190809143605.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8534603847"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.65ACCESS",
+            "b": "V665m",
+            "c": "=134.3",
+            "d": "1995"
+        },
+        "100": {
+            "a": "Viescas, John",
+            "d": "1947-"
+        },
+        "245": {
+            "a": "Microsoft Access 2 for Windows",
+            "b": "guia autorizado Microsoft",
+            "c": "John L. Viescas ; tradução de Kátia A. Roque ; revisão técnica Antonio Barros Uchoa",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Makron Books",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxviii, 944 p.",
+                "b": "il., + 1 disquete 3 1/2"
+            }
+        ],
+        "501": [
+            {
+                "a": "Acompanhado de 1 disquete 3 1/2"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programas de computador",
+                "x": "Access, Microsoft"
+            },
+            {
+                "a": "Sistema de gerenciamento de banco de dados",
+                "x": "Access, Microsoft"
+            },
+            {
+                "a": "Banco de dados",
+                "x": "Linguagem de programação (Computadores)"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

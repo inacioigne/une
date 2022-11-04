@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001944",
+        "005": "20190813122534.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "069-029:5(81)",
+            "b": "C397",
+            "c": "2005"
+        },
+        "245": {
+            "a": "Centros e museus de ciência do Brasil",
+            "h": "Impresso",
+            "c": "Associação Brasileira de Centros e Museus de Ciência"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Universidade Federal do Rio de Janeiro, Casa da Ciência",
+                "c": "2005"
+            }
+        ],
+        "300": [
+            {
+                "a": "139",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Museus de ciências",
+                "z": "Brasil",
+                "x": "Aspectos educacionais"
+            }
+        ],
+        "710": [
+            {
+                "a": "Associação Brasileira de Centros e Museus de Ciência",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Universidade Federal do Rio de Janeiro",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Fundação Oswaldo Cruz",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Universidade Federal do Rio de Janeiro. Casa da Ciência",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

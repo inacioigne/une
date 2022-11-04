@@ -1,0 +1,74 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005747",
+        "005": "20190801142240.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0818608307"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7(100)(063)",
+            "b": "I61s",
+            "c": "1988"
+        },
+        "111": {
+            "a": "International Phoenix Conference on Computers and Communications",
+            "c": "Scottsdale [Estados Unidos]",
+            "d": "1988",
+            "n": "7"
+        },
+        "245": {
+            "a": "Seventh Annual International Phoenix Conference on Computers and Communications",
+            "b": "1988 conference proceedings : March 16-18, 1988, SunBurst Resort Hotel & Conference Center, Scottsdale, Arizona",
+            "h": "Impresso",
+            "c": "International Phoenix Conference on Computers and Communications"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "IEEE Computer Society Press",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxi, 518",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Computadores",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Telecomunicações",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Rede de computador",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "710": [
+            {
+                "a": "IEEE Computer Society",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Institute of Electrical and Electronics Engineers",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

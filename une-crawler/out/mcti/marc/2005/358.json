@@ -1,0 +1,102 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000358",
+        "005": "20190808131747.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "041": {
+            "a": "por",
+            "b": "eng"
+        },
+        "090": {
+            "a": "004.31(81)(063)",
+            "b": "S612n",
+            "c": "1996"
+        },
+        "111": {
+            "a": "Simpósio Brasileiro de Concepção de Circuitos Integrados",
+            "c": "Recife, PE",
+            "d": "1996",
+            "n": "9"
+        },
+        "245": {
+            "a": "Anais do IX Simpósio Brasileiro de Concepção de Circuitos Integrados",
+            "b": "I workshop brasileiro de hardware/software codesign",
+            "c": "Manoel Eusebio de Lima (Coordenador Editorial); autor corporativo: Sociedade Brasileira de Computação, Departamento de Informática da Universidade Federal de Pernambuco e Universidade Federal de Pernambuco",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Recife",
+                "b": "Universidade Federal de Pernambuco",
+                "c": "1996"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "408",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Circuito integrado",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Software",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Hardware",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Rede de computador",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Lima, Manoel Eusébio de",
+                "e": "Coordenador"
+            }
+        ],
+        "710": [
+            {
+                "a": "Sociedade Brasileira de Computação",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Universidade Federal de Pernambuco. Departamento de Informática",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Universidade Federal de Pernambuco",
+                "e": "Corporativo"
+            }
+        ],
+        "711": [
+            {
+                "a": "Workshop Brasileiro de Hardware / Software Codesign",
+                "c": "Recife, PE",
+                "d": "1996",
+                "n": "1"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

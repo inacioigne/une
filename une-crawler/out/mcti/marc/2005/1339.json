@@ -1,0 +1,96 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001339",
+        "005": "20190729085219.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "510.2",
+            "b": "G192s",
+            "c": "2001"
+        },
+        "100": {
+            "a": "Gamerman, Dani"
+        },
+        "245": {
+            "a": "Space-varying regression models",
+            "b": "specifications and simulation",
+            "c": "Dani Gamerman, Ajax R.B. Moreira, Havard Rue",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "2001"
+            }
+        ],
+        "300": [
+            {
+                "a": "27 f.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Texto para discussão / IPEA",
+                "v": "809",
+                "x": "1415-4765"
+            }
+        ],
+        "520": {
+            "a": "Utiliza a abordagem bayesiana para estimar o modelo e o algoritmo do MCMC considerando diferentes esquemas de amostragem. Compara esses esquemas em termos da autocorrelação da cadeia de Markov, e em termos dos resultados obtidos. Discute diferentes especificações a priori que admitem estruturas espaciais semelhantes. Ilustra os resultados com dados simulados e com um conjunto real de informações."
+        },
+        "650": [
+            {
+                "a": "Algoritmos"
+            },
+            {
+                "a": "Modelos matemáticos"
+            },
+            {
+                "a": "Modelos econométricos"
+            },
+            {
+                "a": "Markov, Cadeias de"
+            },
+            {
+                "a": "Estatística",
+                "x": "Amostragem"
+            }
+        ],
+        "700": [
+            {
+                "a": "Moreira, Ajax R. Bello",
+                "q": "Ajax Reynaldo Bello",
+                "e": "Coautor"
+            },
+            {
+                "a": "Rue, Hávard",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "IPEA",
+            "u": "http://ipea.gov.br/portal/index.php?option=com_content&view=article&id=4065:td-0809-space-varying-regression-models-specifications-and-simulation&catid=313:2001&directory=1",
+            "z": "Acesso em: 29/07/2019"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

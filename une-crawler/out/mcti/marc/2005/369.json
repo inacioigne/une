@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000369",
+        "005": "20190808124844.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "090": {
+            "a": "004.032.26(81)(063)",
+            "b": "C749a",
+            "c": "1994"
+        },
+        "111": {
+            "a": "Congresso Brasileiro de Redes Neurais",
+            "c": "Itajubá, MG",
+            "d": "1994",
+            "n": "1"
+        },
+        "245": {
+            "a": "Anais do 1° Congresso Brasileiro de Redes Neurais",
+            "b": "Itajubá, 24 a 27 de outubro de 1994",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Itajubá",
+                "b": "Escola Federal de Engenharia de Itajubá",
+                "c": "1994"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "402",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede neural",
+                "x": "Biomedicina"
+            },
+            {
+                "a": "Inteligência artificial",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Processamento e detecção de sinais",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Processamento de imagem",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

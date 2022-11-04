@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002779",
+        "005": "20190802144217.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.8",
+            "b": "S699t",
+            "c": "1972"
+        },
+        "100": {
+            "a": "Sontag, Eduardo Daniel"
+        },
+        "245": {
+            "a": "Temas de inteligencia artificial",
+            "c": "por Eduardo Daniel Sontag con la colaboración de Jose Luis Tesoro",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Buenos Aires",
+                "b": "Prolam",
+                "c": "1972"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "189",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Inteligência artificial"
+            },
+            {
+                "a": "Simulação (Computadores)"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            },
+            {
+                "a": "Cibernética"
+            }
+        ],
+        "700": [
+            {
+                "a": "Tesoro, José Luis",
+                "e": "Colaborador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

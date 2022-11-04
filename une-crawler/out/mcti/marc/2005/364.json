@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000364",
+        "005": "20190808125444.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.651(81)(063)",
+            "b": "S612t",
+            "c": "1988"
+        },
+        "111": {
+            "a": "Simpósio Brasileiro de Banco de Dados",
+            "c": "Recife, PE",
+            "d": "1988",
+            "n": "3"
+        },
+        "245": {
+            "a": "Anais do 3° Simpósio Brasileiro de Banco de Dados",
+            "b": "Recife, 23 a 25 de março de 1988",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Recife",
+                "b": "Sociedade Brasileira de Computação",
+                "c": "1988"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "263",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Banco de dados",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Sistema de recuperação da informação",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Sistema de gerenciamento de banco de dados",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Sistema especialista",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

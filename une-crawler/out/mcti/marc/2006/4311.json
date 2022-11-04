@@ -1,0 +1,83 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004311",
+        "005": "20190809160541.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8588442442"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.2(063)",
+            "b": "E74a",
+            "c": "2003"
+        },
+        "111": {
+            "a": "Escola Regional de Alto Desempenho",
+            "c": "Santa Maria, RS",
+            "d": "2003",
+            "n": "3"
+        },
+        "245": {
+            "a": "Anais",
+            "b": "3ª Escola Regional de Alto Desempennho : ERAD 2003 : 14 a 18 de janeiro de 2003, Santa Maria, RS, Brasil",
+            "c": "edição, Gerson Geraldo Homrich Cavalheiro, Marcelo Pasin",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "ERAD 2003"
+            }
+        ],
+        "260": [
+            {
+                "a": "Porto Alegre",
+                "b": "Sociedade Brasileira de Computação",
+                "c": "2003"
+            }
+        ],
+        "300": [
+            {
+                "a": "288",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Processamento paralelo"
+            },
+            {
+                "a": "Processamento distribuído"
+            }
+        ],
+        "700": [
+            {
+                "a": "Cavalheiro, Gerson Geraldo Homrich",
+                "d": "1968-",
+                "e": "Editor"
+            },
+            {
+                "a": "Pasin, Marcelo",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Sociedade Brasileira de Computação",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

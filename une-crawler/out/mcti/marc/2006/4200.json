@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004200",
+        "005": "20190730112309.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.05",
+            "b": "Q1",
+            "c": "1996"
+        },
+        "245": {
+            "a": "Qualidade de software",
+            "b": "seleção de textos",
+            "c": "editores Ana Regina Cavalcanti da Rocha, Kival Chaves Weber",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Curitiba",
+                "b": "Centro Internacional de Tecnologia de Software",
+                "c": "1996"
+            }
+        ],
+        "300": [
+            {
+                "a": "136",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Software",
+                "x": "Controle de qualidade"
+            },
+            {
+                "a": "Software",
+                "x": "Desenvolvimento"
+            }
+        ],
+        "700": [
+            {
+                "a": "Rocha, Ana Regina Cavalcanti da",
+                "d": "1948-",
+                "e": "Editor"
+            },
+            {
+                "a": "Weber, Kival Chaves",
+                "d": "1946-",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Centro Internacional de Tecnologia de Software",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

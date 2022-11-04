@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004365",
+        "005": "20190801091124.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004(083.92)",
+            "b": "B823r",
+            "c": "1984"
+        },
+        "110": {
+            "a": "Brasil. Secretaria Especial de Informática"
+        },
+        "245": {
+            "a": "Roteiro para elaboração de Plano Diretor de Informática",
+            "c": "Secretaria Especial de Informática",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "[s.n.]",
+                "c": "1984"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "54",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "I -- Apresentação -- II -- Instruções gerais, III -- Instruções específicas -- Capítulo 1 - Introdução - 1.1 -- Descrição da organização, 1.2 -- Resumo gerencial -- Capítulo - 2. Situação atual da área de informática - 2.1 -- Histórico e evolução - 2.2. Recursos humanos -- 2.3. Equipamentos-hardware -- 2.4. Aplicações-software -- 2.5. Dispêndios -- Capítulo 3. Avaliação e considerações -- 3.1.Análise do previsto x realizado -- Capítulo 4. Base de planejamento -- 4.1. Políticas e diretrizes -- 4.2. Objetivos e metas -- 4.3. Ações visando melhor adequação do PNI -- Capítulo 5. Situação planejada da área de informática -- 5.1. Novas aplicações da informática na organização -- 5.3. Equipamentos-hardware -- 5.4. Aplicações-software -- 5.5. Dispêndios -- 5.6. Justificativas - Capítulo 6. Controle de processos e automação -- 6.1. Recursos humanos para CP-A -- 6.2. Aplicações em CP-A -- 6.3. Dispêndios em CP-A -- IV. Anexos."
+            }
+        ],
+        "520": {
+            "a": "Estrutura proposta pelo Grupo de Trabalho interno da Secretaria Especial de Informática - SEI, com ampla consulta aos órgãos coordenadores da atividade de informática no âmbito dos Ministérios e empresas públicas federaisl. A proposta introuz simplificações e aperfeiçoamentos visando garantir a consistência dos dados, mesmo considerando as particularidades de cada organização e, principalmente, que o documento possa ser efetivamente um instrumento de planejamento e de acompanhamento do setor de informática."
+        },
+        "650": [
+            {
+                "a": "Política Nacional de Informática"
+            },
+            {
+                "a": "Informática",
+                "x": "Planejamento"
+            },
+            {
+                "a": "Controle de processo"
+            },
+            {
+                "a": "Automação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

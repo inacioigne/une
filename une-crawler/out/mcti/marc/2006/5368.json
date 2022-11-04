@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005368",
+        "005": "20190801113058.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.056.55",
+            "b": "S446",
+            "c": "1982"
+        },
+        "245": {
+            "a": "Secure communications and asymetric cryptosystems",
+            "c": "edited by Gustavus J Simmons",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Boston, Estados Unidos",
+                "b": "American Association for the Advancement of Science",
+                "c": "c1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 338"
+            }
+        ],
+        "490": [
+            {
+                "a": "AAAS selected symposium",
+                "v": "69"
+            }
+        ],
+        "650": [
+            {
+                "a": "Criptografia"
+            },
+            {
+                "a": "Escrita em código"
+            },
+            {
+                "a": "Escrita secreta"
+            }
+        ],
+        "700": [
+            {
+                "a": "Simmons, Gustavus J",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

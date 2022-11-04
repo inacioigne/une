@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005737",
+        "005": "20190809185655.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7(81)(063)",
+            "b": "S612a",
+            "c": "1989"
+        },
+        "111": {
+            "a": "Simpósio Brasileiro de Redes de Computadores",
+            "c": "Porto Alegre, RS",
+            "d": "1989",
+            "n": "7"
+        },
+        "245": {
+            "a": "Anais do 7º Simpósio Brasileiro de Redes de Computadores",
+            "b": "(7º SBRC) 20a 22 de março de 1989, Porto Alegre - RS",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Porto Alegre",
+                "b": "Sociedade Brasileira de Computação",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "viii, 898 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência da computação",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Informática",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Rede de computador",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Programação de computador",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "710": [
+            {
+                "a": "Universidade Federal do Rio Grande do Sul",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

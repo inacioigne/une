@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002542",
+        "005": "20190801104944.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "4879732109"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "620.9:311(520)",
+            "b": "E56",
+            "c": "2000"
+        },
+        "245": {
+            "a": "EDMC, handbook of energy & economic statistics in Japan",
+            "h": "Impresso",
+            "c": "The Energy Data and Modelling Center (Japão), The Institute of Energy Economics (Japão)"
+        },
+        "260": [
+            {
+                "a": "Japão",
+                "b": "The Energy Conservation Center",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "315",
+                "b": "tabs"
+            }
+        ],
+        "650": [
+            {
+                "a": "Energia",
+                "x": "Indicadores",
+                "z": "Japão"
+            },
+            {
+                "a": "Economia",
+                "x": "Indicadores",
+                "z": "Japão"
+            }
+        ],
+        "710": [
+            {
+                "a": "The Energy Data and Modelling Center (Japão)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "The Institute of Energy Economics (Japão)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

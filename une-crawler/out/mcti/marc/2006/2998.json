@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002998",
+        "005": "20190809111326.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004",
+            "b": "J82p",
+            "c": "1972"
+        },
+        "100": {
+            "a": "Jorge, Michel Elias"
+        },
+        "245": {
+            "a": "Processamento de dados",
+            "b": "livro texto 1",
+            "c": "Michel E. J.",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Graphos",
+                "c": "1972"
+            }
+        ],
+        "300": [
+            {
+                "a": "109 p., [62] p. de lâms.",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Título retirado da capa"
+            }
+        ],
+        "650": [
+            {
+                "a": "Processamento de dados"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Ciência da computação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

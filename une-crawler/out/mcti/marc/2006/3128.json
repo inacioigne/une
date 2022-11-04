@@ -1,0 +1,74 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003128",
+        "005": "20190731104623.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "630*7",
+            "b": "D347d",
+            "c": "2002"
+        },
+        "100": {
+            "a": "Delespinasse, Bernard M"
+        },
+        "245": {
+            "a": "Diagnóstico da comercialização de produtos florestais",
+            "c": "Bernard M. Delespinasse, Roberto Bonse",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Ministério do Meio Ambiente",
+                "c": "2002"
+            }
+        ],
+        "300": [
+            {
+                "a": "205",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Produto florestal",
+                "x": "Comércio"
+            },
+            {
+                "a": "Florestas",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Bonse, Roberto",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Brasil. Ministério do Meio Ambiente",
+                "b": "Secretaria de Biodiversidade e Florestas",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Programa Nacional de Florestas (Brasil)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Programa Piloto para a Proteção das Florestas Tropicais do Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

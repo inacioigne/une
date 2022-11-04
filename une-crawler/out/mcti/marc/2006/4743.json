@@ -1,0 +1,73 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004743",
+        "005": "20190801114457.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "339(81+87)",
+            "b": "C579d",
+            "c": "1998"
+        },
+        "100": {
+            "a": "Cisneros, Imelda"
+        },
+        "245": {
+            "a": "El desarrollo del comercio y las inversiones entre Brasil y Venezuela",
+            "b": "síntesis ejecutiva",
+            "c": "[Imelda Cisneros, José Manuel Rodrigues, Abdon Suzzarin]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Fundação Alexandre de Gusmão",
+                "c": "1998"
+            }
+        ],
+        "300": [
+            {
+                "a": "262",
+                "b": "il., color",
+                "c": "27 cm"
+            }
+        ],
+        "651": [
+            {
+                "a": "Brasil",
+                "x": "Comércio",
+                "z": "Venezuela"
+            },
+            {
+                "a": "Venezuela",
+                "x": "Comércio",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Rodrigues, José Manuel",
+                "e": "Coautor"
+            },
+            {
+                "a": "Suzzarini, Abdon",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Fundação Alexandre de Gusmão",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

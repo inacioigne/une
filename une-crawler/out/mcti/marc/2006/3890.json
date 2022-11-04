@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003890",
+        "005": "20190805113805.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "0201144514"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "A769p",
+            "c": "1974"
+        },
+        "100": {
+            "a": "Aron, J. D.",
+            "q": "Joel D."
+        },
+        "245": {
+            "a": "The program development process",
+            "b": "part 1, the individual programmer",
+            "c": "J. D. Aron",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Reading, Massachusetts",
+                "b": "Addison-Wesley",
+                "c": "1974"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxii, 264",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "The Systems programming series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Técnica de programação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

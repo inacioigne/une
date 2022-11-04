@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001178",
+        "005": "20190726113615.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.039(047)",
+            "b": "I59r",
+            "c": "2005"
+        },
+        "110": {
+            "a": "Instituto de Radioproteção e Dosimetria (Brasil)"
+        },
+        "245": {
+            "a": "Relatório anual, 2004",
+            "b": "[IRD]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Instituto de Radioproteção e Dosimetria",
+                "c": "2005"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "67",
+                "b": "il., color."
+            }
+        ],
+        "650": [
+            {
+                "a": "Energia nuclear",
+                "x": "Relatórios"
+            },
+            {
+                "a": "Radiação ionizante",
+                "x": "Relatórios"
+            },
+            {
+                "a": "Radioproteção",
+                "x": "Relatórios"
+            },
+            {
+                "a": "Dosimetria",
+                "x": "Relatórios"
+            },
+            {
+                "a": "Política nuclear",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

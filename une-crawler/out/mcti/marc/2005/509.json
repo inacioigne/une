@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000509",
+        "005": "20190729124559.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.738:339(063)",
+            "b": "C748p",
+            "c": "2003"
+        },
+        "111": {
+            "a": "IFIP Conference on E-Commerce, E-Business and E-Government",
+            "c": "Guarujá, SP",
+            "d": "2003",
+            "n": "3"
+        },
+        "245": {
+            "a": "Proceedings",
+            "b": "3rd IFIP conference on e-commerce, e-business and e-government",
+            "c": "editors Reima Suomi ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Guarujá",
+                "b": "[s.n.]",
+                "c": "2003"
+            }
+        ],
+        "300": [
+            {
+                "a": "ix, 649",
+                "b": "il., + 1 CD-ROM"
+            }
+        ],
+        "650": [
+            {
+                "a": "Comércio eletrônico"
+            },
+            {
+                "a": "Governo eletrônico"
+            },
+            {
+                "a": "Automação"
+            },
+            {
+                "a": "Negócios",
+                "x": "Administração"
+            },
+            {
+                "a": "Rede de informação"
+            }
+        ],
+        "700": [
+            {
+                "a": "Suomi, Reima",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001888",
+        "005": "20190814185130.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "950139879x"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.651",
+            "b": "P945b",
+            "c": "1989"
+        },
+        "100": {
+            "a": "Price, Roberto Tom"
+        },
+        "245": {
+            "a": "Bancos de dados para aplicações não convencionais",
+            "c": "Roberto Tom Price, Lia Goldstein Golendziner",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Buenos Aires",
+                "b": "Kapelusz",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "165"
+            }
+        ],
+        "500": [
+            {
+                "a": "Versão preliminar apresentada na IV Escola Brasileiro-Argentina de Informática, Santiago del Estero, 1989"
+            }
+        ],
+        "650": [
+            {
+                "a": "Banco de dados"
+            },
+            {
+                "a": "Banco de dados distribuído"
+            },
+            {
+                "a": "Banco de dados orientado a objetos"
+            }
+        ],
+        "700": [
+            {
+                "a": "Golendziner, Lia Goldstein",
+                "e": "Coautor"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Santiago del Estero, Argentina",
+                "d": "1989",
+                "n": "4"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

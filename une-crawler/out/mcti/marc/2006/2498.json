@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002498",
+        "005": "20190730124137.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.658(038)",
+            "b": "L493d",
+            "c": "c1977"
+        },
+        "100": {
+            "a": "Lefkovits, Henry C"
+        },
+        "245": {
+            "a": "Data dictionary systems",
+            "c": "written by Henry C. Lefkovits ; foreword by Edgar H. Sibley ; editors, Edwin F. Kerr, Lawrence K. Grodman.",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Wellesley [Estados Unidos]",
+                "b": "Q.E.D. Information Sciences",
+                "c": "c1977"
+            }
+        ],
+        "300": [
+            {
+                "a": "ca. 500 p. em várias paginações",
+                "c": "28 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Gerenciamento de banco de dados"
+            },
+            {
+                "a": "Dicionários de dados"
+            }
+        ],
+        "700": [
+            {
+                "a": "Kerr, Edwin F",
+                "d": "1933-",
+                "e": "Editor"
+            },
+            {
+                "a": "Grodman, Lawrence K",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

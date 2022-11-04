@@ -1,0 +1,76 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002444",
+        "005": "20171219143252.0",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "14154765"
+        },
+        "022": {
+            "a": "14154765"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "339.13(81)",
+            "b": "L961a"
+        },
+        "100": {
+            "a": "Luna, Francisco Eduardo de"
+        },
+        "245": {
+            "a": "Aplicação da metodologia de componentes principais na análise da estrutura a termo de taxa de juros brasileira e no cálculo de valor de risco",
+            "c": "Francisco Eduardo Luna"
+        },
+        "260": [
+            {
+                "b": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "2006",
+                "a": "Rio de Janeiro"
+            }
+        ],
+        "300": [
+            {
+                "a": "33",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Texto para discussão / IPEA",
+                "v": "n. 1146"
+            }
+        ],
+        "505": [
+            {
+                "a": "Sinopse -- Abstract -- 1. Introdução -- 2. Dados -- 3. Aplicação de análise de componentes principais (ACP) no estudo do comportamento da estrutura a termo de taxa de juros (ETTJ) brasileira -- 4. Aplicação de ACP para o cálculo de valor em risco (VaR) -- 5. Conclusão -- Referências bibliográficas"
+            }
+        ],
+        "520": {
+            "a": "A identificação dos fatores mais relevantes que afetam títulos de renda fixa foi objeto deestudo de vários pesquisadores e participantes do mercado financeiro. Este trabalho aplicauma importante técnica de decomposição em fatores, chamada Análise de ComponentesPrincipais (ACP), em dois derivativos de renda fixa brasileiros, a saber: o Depósito Interfinanceiro(DI) Futuro e Swap DI x Pré. O objetivo é identificar os principais atributosque governam mudanças nos retornos dos títulos mencionados, fornecendo subsídios àmelhoria dos métodos de análise de risco associados a esse tipo de investimento.Como em estudos anteriores, três componentes principais são responsáveis pelaexplicação de parcela maior do que 95% da variação dos dados originais. Eles foramassociados a mudanças em nível, inclinação e curvatura da estrutura a termo de taxade juros brasileira.Com base nos resultados anteriores, o Valor em Risco (Value-at-Risk - VaR),para horizonte de tempo de um dia útil, e níveis de significância de 95%, 97,5%e 99%, foram calculados utilizando a combinação de ACP com a Simulação de MonteCarlo. Para fins de comparação dessa metodologia com aquela que é mais empregada,a Analítica ou Riskmetrics, os intervalos de confiança definidos pelo Teste deKupiec (1995) serviram de base. Ademais, foi empregado um índice geral de desempenhoque mostrou valores próximos, sendo que o melhor deles foi a ACP. Porém,uma vez que o desvio-padrão do índice foi alto e a diversidade de cenários não erasignificativa estatisticamente, os dados obtidos não foram conclusivos no sentido deapontar a superioridade de qualquer dos métodos. A alta sensibilidade dos percentuaisde falhas em relação ao tamanho da janela de testes torna necessária a realização deestudos complementares. The identification of the main factors affecting interest rate securities has been researchedby several academics and financial practitioners. This work applies an importanttechnique of factor decomposition, named Principal Component Analysis (PCA), intwo brazilian interest rate derivatives: DI Futuro and SWAP DI x Pré. Its objective isto identify the main attributes that govern changes in returns, giving subsidies to theimprovement of the assessment of the risk associated with such type of investment.Like previous studies, three principal components were responsible for more than95% of the variance of the original data. They were respectively associated withchanges in level, inclination and curvature of the brazilian interest rate term structure.Based on the previous results, the one-day Value-at-Risk (VaR), with significancelevels of 95%, 97.5% and 99%, were calculated using PCA in conjunction with MonteCarlo Simulation. For the purpose of comparing this method with the most famousone, named Riskmetrics, the confidence intervals defined by Kupiec (1995) wereused. Besides, a general performance measure was applied which showed close values,although PCA was slightly better. However, due to the high variance of this measure, wecame to the conclusion that no unambiguous conclusions have been identified. Theresults were very sensitive to the size of the test window what makes it necessary toapply further researches in the subject."
+        },
+        "650": [
+            {
+                "a": "Mercado financeiro",
+                "z": "Brasil"
+            },
+            {
+                "a": "Modelos econométricos"
+            },
+            {
+                "a": "Taxa de juros"
+            }
+        ],
+        "856": {
+            "y": "Texto completo (IPEA)",
+            "u": "http://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=4747"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

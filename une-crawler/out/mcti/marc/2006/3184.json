@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003184",
+        "005": "20190813130040.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "314(81)",
+            "b": "I59c",
+            "c": "2000"
+        },
+        "110": {
+            "a": "Instituto Brasileiro de Geografia e Estatística"
+        },
+        "245": {
+            "a": "Censo Demográfico 2000",
+            "b": "características da população e dos domicílios : resultados do universo",
+            "h": "Impresso",
+            "c": "Instituto Brasileiro de Geografia e Estatística"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Instituto Brasileiro de Geografia e Estatística",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "519",
+                "b": "il., tabs., grafs. + 1 CD-Rom"
+            }
+        ],
+        "500": [
+            {
+                "a": "Apresenta um anexo com a relação da população residente, segundo os municípios de origem em 2000 e os instalados em 2001, e um apêndice com a lista das 1052 tabelas de resultados incluídas no CD-ROM."
+            }
+        ],
+        "650": [
+            {
+                "a": "Censo demográfico",
+                "z": "Brasil",
+                "x": "2000"
+            },
+            {
+                "a": "População",
+                "x": "Estatísticas",
+                "z": "Brasil"
+            },
+            {
+                "a": "Domicílios",
+                "x": "Estatísticas",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005508",
+        "005": "20190731113519.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0080325548"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.382",
+            "b": "D574",
+            "c": "1986"
+        },
+        "245": {
+            "a": "Digital computer applications to process control",
+            "b": "proceedings of the 7th IFAC/IFIP/IMACS Conference, Vienna, Austria, 17-20 September 1985",
+            "c": "edited by M. Paul",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "1st ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Published for the International Federation of Automatic Control by Pergamon Press",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 607 p",
+                "b": "il., (algumas color)",
+                "c": "31 cm"
+            }
+        ],
+        "490": [
+            {
+                "a": "IFAC proceedings series",
+                "v": "1986, no. 6"
+            }
+        ],
+        "500": [
+            {
+                "a": "Proceedings of the 7th IFAC/IFIP/IMACS Conference on Digital Computer Applications to Process Control, organized by Austrian Centre for Productivity and Efficiency and sponsored by IFAC Committee on Applications and IFAC Committee on Computers."
+            }
+        ],
+        "650": [
+            {
+                "a": "Computador digital"
+            },
+            {
+                "a": "Controle de processo"
+            },
+            {
+                "a": "Processamento de dados"
+            }
+        ],
+        "700": [
+            {
+                "a": "Paul, Manfred",
+                "d": "1932-",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "International Association for Mathematics and Computers in Simulation",
+                "e": "Corporativo"
+            },
+            {
+                "a": "International Federation of Automatic Control. Technical Committee on Applications",
+                "e": "Corporativo"
+            },
+            {
+                "a": "International Federation of Automatic Control. Technical Committee on Computers",
+                "e": "Corporativo"
+            }
+        ],
+        "711": [
+            {
+                "a": "IFAC/IFIP/IMACS Conference on Digital Computer Applications to Process Control",
+                "c": "Vienna, Austria",
+                "d": "1985",
+                "n": "7"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

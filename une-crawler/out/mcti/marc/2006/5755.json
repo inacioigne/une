@@ -1,0 +1,84 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005755",
+        "005": "20190809175236.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.2(81)(063)",
+            "b": "S612s",
+            "c": "1987"
+        },
+        "111": {
+            "a": "Simpósio Brasileiro de Arquitetura de Computadores Processamento Paralelo",
+            "c": "Águas de Lindóia, SP",
+            "d": "1988",
+            "n": "2"
+        },
+        "245": {
+            "a": "Anais",
+            "b": "II Simpósio Brasileiro de Arquitetura de Computadores Processamento Paralelo",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "2º SBACC"
+            }
+        ],
+        "260": [
+            {
+                "a": "Águas de Lindóia",
+                "b": "Sociedade Brasileira de Computação",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Compilador",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Rede de computador",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Avaliação de desempenho",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Sociedade Brasileira de Computação",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

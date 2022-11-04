@@ -1,0 +1,90 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000441",
+        "005": "20220715143031.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "62:001.891(063)",
+            "b": "E56q",
+            "c": "1999"
+        },
+        "111": {
+            "a": "Encontro de Iniciação Científica e Pós-Graduação do ITA",
+            "c": "São José dos Campos, SP",
+            "d": "1999",
+            "n": "5"
+        },
+        "245": {
+            "a": "Anais",
+            "b": "V ENCITA : V Encontro de Iniciação Científica e Pós-Graduação do ITA, São José dos Campos, SP, 5 a 7 de outubro de 1999",
+            "c": "editor, Maryangela Geimbra de Lima",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São José dos Campos",
+                "b": "Instituto Tecnológico da Aeronáutica",
+                "c": "1999"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "170",
+                "b": "il."
+            }
+        ],
+        "610": [
+            {
+                "a": "Programa Institucional de Bolsas de Iniciação Científica",
+                "c": "Brasil"
+            }
+        ],
+        "650": [
+            {
+                "a": "Iniciação científica",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Pesquisa científica",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Engenharia",
+                "x": "Pesquisa",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Lima, Maryangela Geimba de",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

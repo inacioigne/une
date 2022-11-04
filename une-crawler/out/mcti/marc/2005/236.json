@@ -1,0 +1,88 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000236",
+        "005": "20190806191607.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "006:004(81)(063)",
+            "b": "S471t",
+            "c": "1987"
+        },
+        "111": {
+            "a": "Seminário de Normalização Técnica e Qualidade Industrial em Informática",
+            "c": "Petrópolis, RJ",
+            "d": "1987",
+            "n": "3"
+        },
+        "245": {
+            "a": "III Seminário de normalização técnica e qualidade industrial em informática",
+            "b": "1987 : Centro de Estudos e Desenvolvimento Avançado : CED/SERPRO : Petropólis, RJ, 19 a 21.10.87 : Anais (palestras selecionadas)",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "Anais (palestra selecionadas)"
+            }
+        ],
+        "260": [
+            {
+                "a": "Petrópolis",
+                "b": "Associação Brasileira de Normas Técnicas"
+            },
+            {
+                "b": "Comitê Brasileiro de Computadores e Processamento de Dados",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "231",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Capa como principal fonte de informação"
+            }
+        ],
+        "650": [
+            {
+                "a": "Normalização técnica",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Política de informática",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Produto manufaturado",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Tecnologia da informação",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Controle de qualidade",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "710": [
+            {
+                "a": "Comitê Brasileiro de Computadores e Processamentos de Dados",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

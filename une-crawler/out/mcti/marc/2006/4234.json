@@ -1,0 +1,83 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004234",
+        "005": "20190807191024.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "025.4.036",
+            "b": "P128a",
+            "c": "1978"
+        },
+        "100": {
+            "a": "Pagani, Antonio Luiz"
+        },
+        "245": {
+            "a": "Uma abordagem para o tratamento de informações regionais",
+            "c": "Antonio Luiz Pagani, Flávio Ferreira Marinho, Francisco Romero Feitosa",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[Brasília]",
+                "b": "[s.n.]",
+                "c": "1978"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (sem paginação)",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "2º Concurso Nacional de textos sobre processamento de dados"
+            }
+        ],
+        "500": [
+            {
+                "a": "Trabalho apresentado no 2. Concurso Nacional de textos sobre processamento de dados, promovido pela Comissção de Coordenação das Atividades de Processamento Eletrônico (CAPRE) e a Fundação Nacional de Material Escolar (FENAME)."
+            }
+        ],
+        "505": [
+            {
+                "a": "Seção I - Ambiente -- Considerações iniciais -- Consolidação de dados -- Compatibilização de dados -- Seção II - Modelo Proposto -- Introdução -- Diretrizes do modelo -- Requisitos funcionais do modelo -- Esquema geral do modelo -- Descrição dos módulos -- Seção III - Modelo implantado -- Aspectos gerais -- Descrição geral -- Implantação -- Bibliografia."
+            }
+        ],
+        "520": {
+            "a": "A necessidade revelada por uma comunidade de pesquisadores para atingir uma vasta massa de dados e daí selecionar o seu material de estudo para análises a níveis regionais, motivou a apresentação do modelo que é objeto deste trabalho. O modelo tem como maior característica realizar esta aproximação (usuário-dado) através do estabelecimento de um processo interativo no qual o usuário, a partir de consulta a um sistema de recuperação de textos, prossegue até o estágio final da análise. O trabalho se situa em um ambiente de gestão de dados estatísticos no qual é realizado um estudo de um caso particular de atendimento. Esta orientação visou o aproveitamento da infra-estrutura existente e conseqüente economia de recursos. O resultado é apresentado sob a forma de um modelo implantado e dos tipos de utilização previsto. Como suporte da implementação foram utilizados VSAM, CICS e STAIRS para recuperação do dado e SAS e SYMAP para análise."
+        },
+        "586": {
+            "a": "Mensão honrosa"
+        },
+        "650": [
+            {
+                "a": "Recuperação da informação",
+                "x": "Pesquisadores"
+            },
+            {
+                "a": "Sistema de informação"
+            }
+        ],
+        "700": [
+            {
+                "a": "Marinho, Flávio Ferreira",
+                "e": "Autor"
+            },
+            {
+                "a": "Freire, Francisco Romero Feitosa",
+                "e": "Autor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

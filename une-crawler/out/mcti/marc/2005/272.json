@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000272",
+        "005": "20190808164928.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "001-048.445",
+            "b": "C755a",
+            "d": "CNPq",
+            "c": "1984"
+        },
+        "110": {
+            "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)"
+        },
+        "245": {
+            "a": "Áreas do conhecimento",
+            "b": "classificação",
+            "c": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+                "c": "1984"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "v."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Classificação"
+            },
+            {
+                "a": "Tecnologia",
+                "x": "Classificação"
+            },
+            {
+                "a": "Classificação das ciências"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

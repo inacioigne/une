@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003045",
+        "005": "20190808135701.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4:35",
+            "b": "E79a",
+            "c": "1971"
+        },
+        "110": {
+            "a": "Estados Unidos. General Accounting Office"
+        },
+        "245": {
+            "a": "Acquisition and use of software products for automatic data processing systems in the Federal Government",
+            "b": "report to the Congress by the Comptroller General of the United States",
+            "h": "Impresso",
+            "c": "General Accounting Office"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "c": "1971",
+                "b": "[s.n]"
+            }
+        ],
+        "300": [
+            {
+                "a": "103"
+            }
+        ],
+        "650": [
+            {
+                "a": "Administração pública",
+                "x": "Processamento de dados"
+            },
+            {
+                "a": "Software",
+                "x": "Política e governo",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Indústria de computador",
+                "z": "Estados Unidos"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

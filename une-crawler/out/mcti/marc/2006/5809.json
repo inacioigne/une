@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005809",
+        "005": "20190802140728.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "331.101.5",
+            "b": "C331t",
+            "c": "1987"
+        },
+        "100": {
+            "a": "Carvalho, Ruy de Quadros"
+        },
+        "245": {
+            "a": "Tecnologia e trabalho industrial",
+            "b": "as implicações sociais da automação microeletrônica na indústria automobilística",
+            "c": "Ruy de Quadros de Carvalho",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Porto Alegre",
+                "b": "L&PM",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "237"
+            }
+        ],
+        "650": [
+            {
+                "a": "Automação",
+                "x": "Força de trabalho"
+            },
+            {
+                "a": "Trabalho"
+            },
+            {
+                "a": "Tecnologia"
+            },
+            {
+                "a": "Indústria automobilística",
+                "x": "Microeletrônica"
+            },
+            {
+                "a": "Inovação tecnológica"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

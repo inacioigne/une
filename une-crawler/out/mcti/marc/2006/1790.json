@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001790",
+        "005": "20190814175225.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "674.8",
+            "b": "V241a",
+            "c": "1993",
+            "d": "INPA"
+        },
+        "100": {
+            "a": "Slooten, Harry Jan van der"
+        },
+        "245": {
+            "a": "Avaliação das espécies madeireiras da Amazônia selecionadas para a manufatura de instrumentos musicais",
+            "c": "Harry Jan Van Der Slooten, Mário Rabelo de Souza",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "Evaluation of selected Amazonian wood species for musical instrument manufacture"
+            }
+        ],
+        "260": [
+            {
+                "a": "Manaus",
+                "b": "Instituto Nacional de Pesquisas da Amazônia",
+                "c": "1993"
+            }
+        ],
+        "300": [
+            {
+                "a": "40, [38] f."
+            }
+        ],
+        "500": [
+            {
+                "a": "Texto em português e inglês"
+            }
+        ],
+        "650": [
+            {
+                "a": "Instrumento musical",
+                "x": "Madeira"
+            },
+            {
+                "a": "Madeira",
+                "x": "Instrumento musical",
+                "z": "Amazônia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Souza, Mário Rabelo de",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

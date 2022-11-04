@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002333",
+        "005": "20190802114250.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "535(075.3)",
+            "b": "M845f",
+            "c": "1980"
+        },
+        "100": {
+            "a": "Moretto, Vasco Pedro",
+            "d": "1942-"
+        },
+        "245": {
+            "a": "Física em módulos de ensino",
+            "b": "óptica, ondas, calor : segundo grau",
+            "c": "Vasco Pedro Moretto",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Ática",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "480",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Física",
+                "x": "Estudo e ensino"
+            },
+            {
+                "a": "Ondas mecânicas"
+            },
+            {
+                "a": "Óptica"
+            },
+            {
+                "a": "Ondas eletromagnéticas"
+            },
+            {
+                "a": "Calor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003064",
+        "005": "20190806095426.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "3519020548"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "681.5",
+            "b": "E33u",
+            "c": "1974"
+        },
+        "245": {
+            "a": "Universal theory of automata",
+            "b": "a categorical approach",
+            "c": "by H. Ehrig ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Stuttgart [Alemanha]",
+                "b": "Teubner",
+                "c": "1974"
+            }
+        ],
+        "300": [
+            {
+                "a": "240",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Teubner Studienbücher : Informatik"
+            }
+        ],
+        "650": [
+            {
+                "a": "Máquinas"
+            },
+            {
+                "a": "Matemática aplicada"
+            }
+        ],
+        "700": [
+            {
+                "a": "Ehrig, Hartmut",
+                "e": "Coautor"
+            },
+            {
+                "a": "Kiermeier, K. D.",
+                "e": "Coautor"
+            },
+            {
+                "a": "Kreowski, H. J.",
+                "e": "Coautor"
+            },
+            {
+                "a": "Kühnel, W.",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

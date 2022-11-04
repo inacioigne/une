@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005745",
+        "005": "20190809110921.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0818607912"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.057.2(063)",
+            "b": "C738p",
+            "c": "1988"
+        },
+        "111": {
+            "a": "Computer Standards Conference",
+            "c": "Washington (Distrito de Colúmbia, Estados Unidos)",
+            "d": "1988",
+            "n": "2"
+        },
+        "245": {
+            "a": "Proceedings, Computer Standards Conference 1988",
+            "b": "Computer Standards evolution : impact and imperatives March 21-23, 1988, Sheraton National Washington, D.C. Area",
+            "h": "Impresso",
+            "c": "IEEE Computer Society"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "IEEE Computer Society Press",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 111"
+            }
+        ],
+        "650": [
+            {
+                "a": "Computadores",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Normalização"
+            },
+            {
+                "a": "Software"
+            }
+        ],
+        "710": [
+            {
+                "a": "IEEE Computer Society",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Institute of Electrical and Electronics Engineers",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

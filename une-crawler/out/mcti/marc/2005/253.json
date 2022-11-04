@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000253",
+        "005": "20190729142910.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "923102938X"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "001.31(100)",
+            "b": "I43",
+            "c": "1993"
+        },
+        "245": {
+            "a": "World science report",
+            "b": "1993",
+            "c": "[publicado por : United Nations Educational, Scientific and Cultural Organization]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "UNESCO",
+                "c": "1993"
+            }
+        ],
+        "300": [
+            {
+                "a": "278",
+                "b": "il., tab. (algumas color)"
+            }
+        ],
+        "520": {
+            "a": "The World Science Report series was launched by UNESCO in 1993. Each report in the series reviews the current state of science around the world, from an organizational and a substantive point of view. The World Science Report 1993 is made up of four major parts. The first part contains a collection of essays which together constitute an informative and thought-provoking review of the state of science and technology in various regions of the world. The second part describes how scientific R&D is organized - who carries it out, where, and with what means. International partnership and cooperation are discussed in Part 3, while the fourth part carries overviews of recent developments in the basic sciences. The Report concludes with an appendix of statistical tables on national and regional scientific activity and manpower. The World Science Report is both authoritative and readable. Written by authors recognized in their respective fields, the text is packed with facts, figures and discussion on present-day science. As a source of information, this work is a guide for all those with an interest in the shape of science and technology around the globe, be they decision makers, practitioners of science, active participants or observers."
+        },
+        "650": [
+            {
+                "a": "Ciência e tecnologia"
+            },
+            {
+                "a": "Ciência e Estado"
+            },
+            {
+                "a": "Desenvolvimento científico"
+            },
+            {
+                "a": "Ciência",
+                "x": "Estatísticas"
+            },
+            {
+                "a": "Pesquisa científica"
+            }
+        ],
+        "856": {
+            "y": "UNESCO",
+            "u": "http://unesdoc.unesco.org/images/0009/000956/095612eo.pdf",
+            "z": "Acesso em: 29/07/2019"
+        },
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

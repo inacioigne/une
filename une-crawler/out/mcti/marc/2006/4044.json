@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004044",
+        "005": "20180724122905.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0471262544"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.39:004.7",
+            "b": "F553f",
+            "c": "1978"
+        },
+        "100": {
+            "a": "FitzGerald, Jerry",
+            "d": "1936-"
+        },
+        "245": {
+            "a": "Fundamentals of data communications",
+            "c": "Jerry FitzGerald, Tom S. Eason",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Santa Barbara [Estados Unidos]",
+                "b": "Wiley",
+                "c": "1978"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 260 p.",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "Preface -- 1 Introduction to Data Cmmunications -- 2 Fundamental Communications Concepts -- 3 Data Communication Hardware -- 4 Network Configuration Concepts and Control Techniques -- 5 Error Detection and Correction -- 6 Data Communication Software -- 7 Common Carriers and Tariffs -- 8 Designing Communication Networks -- Glossary -- Bibliography -- Index."
+            }
+        ],
+        "650": [
+            {
+                "a": "Telecomunicações"
+            },
+            {
+                "a": "Sistema de transmissão de dados"
+            },
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Rede de telecomunicação"
+            }
+        ],
+        "700": [
+            {
+                "a": "Eason, Tom S",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

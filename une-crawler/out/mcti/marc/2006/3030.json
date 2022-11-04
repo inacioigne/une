@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003030",
+        "005": "20190807114050.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0201059681"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "519.61",
+            "b": "P927i",
+            "c": "c1973"
+        },
+        "100": {
+            "a": "Preparata, Franco P"
+        },
+        "245": {
+            "a": "Introduction to discrete structures for computer science and engineering",
+            "c": "Franco P. Preparata, Raymond T. Yeh",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Reading, Massachusetts",
+                "b": "Addison-Wesley",
+                "c": "c1973"
+            }
+        ],
+        "300": [
+            {
+                "a": "xi, 354 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Matemática"
+            },
+            {
+                "a": "Álgebra"
+            },
+            {
+                "a": "Álgebra booleana"
+            },
+            {
+                "a": "Estrutura algébrica"
+            }
+        ],
+        "700": [
+            {
+                "a": "Yeh, Raymond Tzuu-Yau",
+                "d": "1937-",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001975",
+        "005": "20190731090716.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4",
+            "b": "O48d",
+            "c": "1979",
+            "d": "CAPRE"
+        },
+        "100": {
+            "a": "Oliveira, João Carlos de Assis Ribeiro de",
+            "d": "1950-"
+        },
+        "245": {
+            "a": "Desenvolvimento de software de banco de dados",
+            "c": "João Carlos de Assis Ribeiro de Oliveira",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Edgard Blucher",
+                "c": "1979"
+            }
+        ],
+        "300": [
+            {
+                "a": "62",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Concurso Nacional de Monografias em Informática",
+                "v": "1"
+            }
+        ],
+        "500": [
+            {
+                "a": "O Programa Nacional de Treinamento em Computação (PNTC), foi criado com o objetivo de \"incentivar a formação de profissionais de processamento de dados em todos os níveis para suprir a demanda de mão-de-obra especializada no País, visando, ao mesmo tempo, a definição de uma filosofia geral do ensino especializado, com ênfase para a melhoria da qualidade\". Sua execução é coordenada pela CAPRE. De acordo com esses objetivos o PNTC vem promovendo incitavas que visam a incrementar tanto qualitativa como quantitativamente a formação de recursos humanos em informática no Brasil, de modo a garantir uma utilização eficaz e eficiente da computação pelas instituições públicas e privadas brasileiras de forma coerente com a necessidade do desenvolvimento do País."
+            }
+        ],
+        "505": [
+            {
+                "a": "1. Fundamentos teóricos de banco de dados -- 2. Sistemas de arquivos -- 3. O banco de dados hidrometeorológicos da Eletrobrás -- 4. Conclusão"
+            }
+        ],
+        "526": {
+            "a": "Publicado em convênio com a Fundação Nacional de Material Escolar, Ministério da Educação e Cultura e com a Comissão de Coordenação das Atividades de Processamento eletrónico, Secretaria do Planejamento da Presidência da Republica."
+        },
+        "650": [
+            {
+                "a": "Software",
+                "x": "Banco de dados"
+            },
+            {
+                "a": "Programas de computador"
+            },
+            {
+                "a": "Processamento de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

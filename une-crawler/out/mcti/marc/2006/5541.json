@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005541",
+        "005": "20190812184038.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8521606818"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.356.2",
+            "b": "D249a",
+            "c": "1989"
+        },
+        "100": {
+            "a": "David, Andrès"
+        },
+        "245": {
+            "a": "Aplicações de Desktop Publishing com Laser Desk",
+            "c": "Andres David, Hamilton Ziegler, David Javier",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Livros Técnicos e Científicos",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxi, 125 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Equipamento periférico",
+                "x": "Impressora"
+            },
+            {
+                "a": "Editor de texto",
+                "x": "Aplicação de computador"
+            },
+            {
+                "a": "Editoração eletrônica"
+            }
+        ],
+        "700": [
+            {
+                "a": "Ziegler, Hamilton de Magalhães",
+                "e": "Coautor"
+            },
+            {
+                "a": "Javier, David",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

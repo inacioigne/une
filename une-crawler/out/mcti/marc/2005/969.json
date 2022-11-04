@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000969",
+        "005": "20190807143802.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "336.531.2:5/6(85)",
+            "b": "I39",
+            "c": "2001"
+        },
+        "245": {
+            "a": "Indicadores de ciencia tecnología e innovación tecnológica",
+            "b": "década de los 90",
+            "h": "Impresso",
+            "c": "Consejo Nacional de Ciencia y Tecnología"
+        },
+        "260": [
+            {
+                "a": "Peru",
+                "b": "Consejo Nacional de Ciencia y Tecnología",
+                "c": "2001"
+            }
+        ],
+        "300": [
+            {
+                "a": "160",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Indicadores",
+                "z": "Peru"
+            },
+            {
+                "a": "Pesquisa científica",
+                "x": "Indicadores",
+                "z": "Peru"
+            },
+            {
+                "a": "Inovação tecnológica",
+                "x": "Indicadores",
+                "z": "Peru"
+            },
+            {
+                "a": "Ciência",
+                "x": "Indicadores",
+                "z": "Peru"
+            },
+            {
+                "a": "Tecnologia",
+                "x": "Indicadores",
+                "z": "Peru"
+            }
+        ],
+        "710": [
+            {
+                "a": "Consejo Nacional de Ciencia y Tecnología (Peru)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

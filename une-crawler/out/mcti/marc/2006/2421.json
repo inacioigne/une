@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002421",
+        "005": "20190809153302.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004(81)",
+            "b": "B823p",
+            "c": "1989"
+        },
+        "110": {
+            "a": "Brasil. Secretaria Especial de Informática"
+        },
+        "245": {
+            "a": "Programa de ensaios de conformidade em informática no Brasil",
+            "b": "PECI/BR",
+            "c": "Secretaria Especial de Informática",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "The Braszilian conformity testing in informatics program"
+            }
+        ],
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Secretaria Especial de Informática",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "23 f."
+            }
+        ],
+        "505": [
+            {
+                "a": "1. Objetivo -- 1.1. O que é PECI/BR -- 1.2. Porque o PECI/BR -- 2. Certificação de conformidade -- 2.1. Critérios de certificação -- 2.2. Normalização -- 2.3. Laboratórios/instituições de ensaio -- 3. Certificação OSI -- 3.1.Conformidade e interoperabilidade OSI -- 4. Gestão da qualidade empresarial -- 4.1. A adoção e a certificação e normas internacionais (de gestão) -- 5. Conclusão."
+            }
+        ],
+        "520": {
+            "a": "O Programa de Ensaios de Conformidade em Informática do Brasil - PECI/PR visa estabelecer as diretrizes básicas para a certificação de conformidade em informática. É, ainda, suporte essencial para a interoperabilidade e interconectividade de equipamentos, programas e sistemas de informática, levando em consideração os usuários e fabricantes brasileiros."
+        },
+        "546": {
+            "a": "Texto em português e inglês."
+        },
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Controle de qualidade"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004864",
+        "005": "20190809154814.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "630*9(81)",
+            "b": "P964",
+            "c": "2000"
+        },
+        "245": {
+            "a": "Programa Nacional de Florestas - PNF",
+            "h": "Impresso",
+            "c": "Programa Nacional de Florestas"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Ministério do Meio Ambiente",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "49 f."
+            }
+        ],
+        "650": [
+            {
+                "a": "Política florestal",
+                "z": "Brasil"
+            },
+            {
+                "a": "Florestas",
+                "x": "Exploração",
+                "z": "Brasil"
+            },
+            {
+                "a": "Produto florestal",
+                "z": "Brasil"
+            },
+            {
+                "a": "Meio ambiente",
+                "z": "Brasil"
+            },
+            {
+                "a": "Desenvolvimento sustentável",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Programa Nacional de Florestas (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

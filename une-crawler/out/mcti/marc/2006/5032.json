@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005032",
+        "005": "20190805131621.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "929",
+            "b": "S237h",
+            "c": "2005"
+        },
+        "100": {
+            "a": "Ribeiro, Beatriz C"
+        },
+        "245": {
+            "a": "Homem voa !",
+            "c": "Beatriz, Elizabeth e Ruyter C. Ribeiro ; ilustrações João Guilherme C. Ribeiro",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Zit",
+                "c": "2005"
+            }
+        ],
+        "300": [
+            {
+                "a": "32 f.",
+                "b": "il., color"
+            }
+        ],
+        "600": [
+            {
+                "a": "Santos-Dumont, Alberto",
+                "d": "1873-1932",
+                "x": "Biografia"
+            }
+        ],
+        "650": [
+            {
+                "a": "Literatura infanto-juvenil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Ribeiro, Elizabeth C",
+                "e": "Coautor"
+            },
+            {
+                "a": "Ribeiro, Ruyter C",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

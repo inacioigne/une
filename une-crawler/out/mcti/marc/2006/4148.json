@@ -1,0 +1,87 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004148",
+        "005": "20190801155224.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "332.145",
+            "b": "C331e",
+            "c": "2005"
+        },
+        "100": {
+            "a": "Carvalho, Alexandre"
+        },
+        "245": {
+            "a": "Estimation of multiequation cross-section models in the presence of spatial autocorrelation",
+            "c": "Alexandre Carvalho, Daniel da Mata, Kenneth M. Chomitz.",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "2005"
+            }
+        ],
+        "300": [
+            {
+                "a": "40 f.",
+                "b": "gráfs., tabs."
+            }
+        ],
+        "490": [
+            {
+                "a": "Texto para discussão / IPEA",
+                "v": "1111"
+            }
+        ],
+        "520": {
+            "a": "Descreve técnicas econométricas para tratar autocorrelação espacial em modelos multiequacionais, com dados em cross-section. Baseia-se no método de momentos generalizados espacial (GMM espacial) proposto em Conley (1999). Apresenta uma extensão para estimação com variáveis instrumentais com informação plena. Emprega simulações de Monte Carlo para verificar as propriedades assintóticas dos estimadores descritos. Apresenta uma aplicação, em que são estimadas equações de salário, para estudar crescimento e desenvolvimento regional nos municípios brasileiros, entre 1991 e 2000."
+        },
+        "650": [
+            {
+                "a": "Modelos econométricos",
+                "z": "Brasil"
+            },
+            {
+                "a": "Desenvolvimento rural",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Mata, Daniel da",
+                "d": "1982-",
+                "e": "Coautor"
+            },
+            {
+                "a": "Chomitz, Kenneth M.",
+                "d": "1953-",
+                "q": "Kenneth Mark",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "IPEA",
+            "u": "http://www.ipea.gov.br/portal/images/stories/PDFs/TDs/td_1111.pdf",
+            "z": "Acesso em: 01/08/2019"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

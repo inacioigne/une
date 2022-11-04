@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004313",
+        "005": "20190730125026.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.39:004.7(71)",
+            "b": "C212d",
+            "c": "1975"
+        },
+        "110": {
+            "a": "Canadian Telecommunications Carriers Association"
+        },
+        "245": {
+            "a": "Data telecommunications services and networks in Canada",
+            "c": "Canadian Telecommunications Carriers Association",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Ottawa",
+                "b": "Canadian Telecommunications Carriers Association",
+                "c": "1975"
+            }
+        ],
+        "300": [
+            {
+                "a": "115",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Telecomunicações",
+                "z": "Canadá"
+            },
+            {
+                "a": "Rede de telecomunicação"
+            },
+            {
+                "a": "Sistema de comunicação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

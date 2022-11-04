@@ -1,0 +1,53 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004577",
+        "005": "20190731084016.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "656",
+            "b": "R344",
+            "c": "2002"
+        },
+        "245": {
+            "a": "Regulation and finance of transnational transport projects",
+            "b": "working paper",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "Banco Interamericano de Desenvolvimento",
+                "c": "2002"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (paginação irregular)",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Transporte",
+                "x": "Gerência"
+            },
+            {
+                "a": "Engenharia de transporte"
+            },
+            {
+                "a": "Transporte urbano",
+                "x": "Planejamento"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

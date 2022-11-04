@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004528",
+        "005": "20190813121911.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "574(251.3)",
+            "b": "C417",
+            "c": "2001"
+        },
+        "245": {
+            "a": "Cerrado",
+            "b": "caracterização e recuperação de Matas de Galeria",
+            "c": "editores: José Felipe Ribeiro, Carlos Eduardo Lazarini da Fonseca, José Carlos Sousa-Silva",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Planaltina",
+                "b": "Empresa Brasileira de Pesquisa Agropecuária",
+                "c": "2001"
+            }
+        ],
+        "300": [
+            {
+                "a": "899",
+                "b": "il., mapas, grafs., tabs."
+            }
+        ],
+        "650": [
+            {
+                "a": "Cerrados",
+                "x": "Restauração"
+            },
+            {
+                "a": "Botânica"
+            }
+        ],
+        "700": [
+            {
+                "a": "Ribeiro, José Felipe",
+                "e": "Editor"
+            },
+            {
+                "a": "Fonseca, Carlos Eduardo Lazarini da",
+                "d": "1958-",
+                "e": "Editor"
+            },
+            {
+                "a": "Sousa-Silva, José Carlos",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

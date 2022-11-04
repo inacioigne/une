@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004004",
+        "005": "20190807152118.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.896",
+            "b": "L343a",
+            "c": "1982"
+        },
+        "100": {
+            "a": "Lasfargue, Yves"
+        },
+        "245": {
+            "a": "L'avenir de la robotique",
+            "b": "rapport et avis du Conseil économique et social",
+            "c": "Yves Lasfargue",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Éditions d'organisation",
+                "c": "1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "207",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Robótica"
+            },
+            {
+                "a": "Robo industrial"
+            },
+            {
+                "a": "Automação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

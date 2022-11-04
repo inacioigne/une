@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004042",
+        "005": "20190806103940.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0122341066"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.3.049.771.14",
+            "b": "V573",
+            "c": "1983"
+        },
+        "245": {
+            "a": "VLSI electronics microstructured science",
+            "c": "edited by Norman G. Einspruch, Graydon B. Larrabee",
+            "h": "Impresso",
+            "b": "Materials and process characterization"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Academic Press",
+                "c": "1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 601",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Circuito integrado"
+            },
+            {
+                "a": "Microeletrônica"
+            }
+        ],
+        "700": [
+            {
+                "a": "Einspruch, Norman G",
+                "e": "Editor"
+            },
+            {
+                "a": "Larrabee, Graydon B",
+                "d": "1932-",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

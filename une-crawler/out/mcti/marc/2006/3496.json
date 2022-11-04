@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003496",
+        "005": "20190809110604.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "681.5:007.5(81:43)(063)",
+            "b": "G373p",
+            "c": "2000",
+            "d": "CNPq"
+        },
+        "111": {
+            "a": "German-Brazilian Workshop on Information Technology",
+            "c": "Recife, PE",
+            "d": "2000",
+            "n": "6"
+        },
+        "245": {
+            "a": "Proceedings of the VI German-Bra[z]ilian Workshop on Information Technology",
+            "c": "edited by Daltro Nunes",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Recife",
+                "b": "Universidade Federal de Pernambuco",
+                "c": "[2000]"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v."
+            }
+        ],
+        "505": [
+            {
+                "a": "Prefce -- Agua -- Estimation Methods and Prototyping Support for the Open System C Initiative -- HIPA PC -- high Speed Processing on DSP and FPGA based accelerators for standard PCs -- PROOVE -- Pre Configuration Tool for Ves -- Extension and Application of a simulation Enviroment for therma; Systems -- GRAPHIT -- Graphical Support and Integration of formal and Semi formal Methods for software specification and development -- MONET -- Mobile Net Working Architecture -- Morpheme based documet indexing and Retrieval form medical Texts -- USEFIRST -- User Friendlu Statiscal tools for information retrieval in sar imagery -- Talloring Software Measurement to small companies -- SOCIAT -- Simulation of Social Agents in Traffic -- SNOW -- A Parallel Programmin Enviroment for clusters of workstations -- ADOORATA -- BRA inf RESE - Remote Education System using a coupled CAVE/ Workbench/ Monitor Enviroment -- BRA inf VESIV -- Virtual Enviroment for shared intercative visualitation -- CYCLOPS -- Ecpert System shell for the Development of Applications in the area of Medical Image Analysys. -- CONVIRA -- Conceptual Navigation in Virtual Reality Applications -- DINCAD -- Distributed IN ternet CAD Methods for future Complex Micro eletronic Systems."
+            }
+        ],
+        "520": {
+            "a": "These proceedings present the results of WTZ - the joint German/Brazilian initiative, organized and coordinated by the MCT/CNPq and the BMBF/IB - foster the cooperative development of research in the area of Information Technology. The proceedings summarize the activities of the Vith Workshop on Information Technology, organized in Brazil by the Federal University of Pernambuco (UFPE). Similar workshop take place every two years, alternately in Brazil and Germany. They offer a forum for the presentation of project results and new research topics as well as for the evaluation and monitoring of ongoing work. This year's workshop featured 27 presentations: final reports of projects, intermediate reports on ongoing projects and entirely new projects submitted for inclusion in the cooperation. An evaluation committee comprising the scientific advisors, funding agencies and external experts was set up to make recommendations about which new projects should be funded and which of the ongoing projects should be continued. This committee approved 18 projects in all. The projects are organized are organized on a 2+2 basis, each project involving one research institute and one industrial partner on each side. At the opening session, talks were given by the Brazilian and German authorities. For the Brazilian side, Professor Vanda Scartezini, Departament of Informatics Policy (MCT), and Dr. Manoel Montenegro, Coordinator of international Cooperation at MCT, represented the MCT view of the cooperation. The German Embassy, represented by Dr. Achim Zickler, gave a welcoming address on behalf of the German government. For the German side, Dr. Claudio Zettel outlined the expectations of BMBF/IB. A special guest from Argentina, Professor Marta Mejail, Universaty of Buenos Aires, gave a brief introductory talk on similar German/Argentinean cooperation efforts in Argentina. Finally, the scientific advisors of the cooperation initiative, Professor Dr. Dalto josé Nunes (Brazil) and Professor Dr. Stefan Jähnichen (Germany) presented their vision of and expectations for future cooperation. There has been German/Brazilian cooperation in the area of computer science since the early 1970s. This cooperation constitutes one of the most successful scientific collaborations between Germany and Brazil, involving more than 60 researchers in the two countries. Initially, the cooperation was based on interpersonal contacts; today it involves companies on both sides as well. The coordinators wish to thank Professor Judith Kelner for her excellent organization of the workshop."
+        },
+        "650": [
+            {
+                "a": "Tecnologia da informação",
+                "z": "Alemanha"
+            },
+            {
+                "a": "Transferência de tecnologia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Nunes, Daltro José",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)",
+                "e": "Realizador"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

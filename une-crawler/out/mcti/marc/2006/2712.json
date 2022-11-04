@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002712",
+        "005": "20190807102647.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "G292o",
+            "c": "=134.3 1980"
+        },
+        "100": {
+            "a": "Gear, C. William",
+            "d": "1935-",
+            "q": "Charles William"
+        },
+        "245": {
+            "a": "Organização e programação de computadores",
+            "c": "William C. Gear ; tradução de Ivan José de Albuquerque",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Guanabara Dois",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "400",
+                "b": "il."
+            }
+        ],
+        "534": {
+            "a": "Computer organization and programming"
+        },
+        "650": [
+            {
+                "a": "Computador digital"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

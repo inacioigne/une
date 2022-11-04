@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "am   nam  22      a 4500",
+        "001": "000002013",
+        "005": "20190814172559.0",
+        "007": "t",
+        "008": "por                                por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "VT004.896",
+            "b": "A939",
+            "c": "[199-?]"
+        },
+        "100": {
+            "a": "Pereira, Marcos"
+        },
+        "245": {
+            "a": "Autocad release 12 for windows",
+            "h": "gravação de vídeo",
+            "c": "Marcos Pereira"
+        },
+        "246": [
+            {
+                "a": "Vídeo-aula autocad r12 fo windows ( 2d )"
+            }
+        ],
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "MPO Vídeo",
+                "c": "[199-?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 fita de video (180 min)",
+                "b": "son., color."
+            }
+        ],
+        "490": [
+            {
+                "a": "Projeto Informática"
+            }
+        ],
+        "520": {
+            "a": "A proposta dessa vídeo aula é abordar os comandos necessários para a elaboração/edição de um desenho bidimensional (2D) no AutoCad R12 for Windows, a distribuição desses comandos nos seus respectivos menus, as diferentes formas de acesso à esses comandos, comandos de precisão e a utilização de coordenadas absolutas, relativas e polares de forma prática. Seria impossível estudarmos os comandos tridimensionais (3D) e a programação do AutoCad R12 for Windows em apenas uma aula, para isso seriam necessários cursos subsequentes a este, com estudos mais avançados, porém com essa fita você terá condições de atuar como projetista substituindo totalmente a prancheta pelo AutoCad."
+        },
+        "650": [
+            {
+                "a": "Projeto auxiliado por computador",
+                "x": "Estudo e ensino"
+            },
+            {
+                "a": "Computação gráfica"
+            }
+        ],
+        "990": {
+            "a": "Vídeos"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005450",
+        "005": "20190807112245.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.75",
+            "b": "L174i",
+            "c": "1986"
+        },
+        "100": {
+            "a": "Lages, Newton Alberto de Castilho"
+        },
+        "245": {
+            "a": "Introdução aos sistemas distribuidos",
+            "c": "Newton Alberto de Castilho Lages, Jose Marcos Silva Nogueira",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Campinas",
+                "b": "Universidade Estadual de Campinas",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "xv, 229 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Informática"
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema distribuído"
+            },
+            {
+                "a": "Rede de computador",
+                "x": "Protocolo de comunicação"
+            },
+            {
+                "a": "Análise de sistemas"
+            },
+            {
+                "a": "Sistemas operacionais (Computadores)"
+            }
+        ],
+        "700": [
+            {
+                "a": "Nogueira, José Marcos Silva",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

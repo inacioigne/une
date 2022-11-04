@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004470",
+        "005": "20190813162857.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6(81)",
+            "b": "B675b",
+            "c": "1998"
+        },
+        "100": {
+            "a": "Bogliolo, Anna Rosa"
+        },
+        "245": {
+            "a": "Brazil a science and technology profile",
+            "c": "Anna Rosa Bogliolo",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Manchester [Inglaterra]",
+                "b": "The British Council",
+                "c": "1998"
+            }
+        ],
+        "270": [
+            {
+                "d": "Inglaterra"
+            }
+        ],
+        "300": [
+            {
+                "a": "105",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e tecnologia",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

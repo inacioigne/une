@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001977",
+        "005": "20190802132551.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.415.2",
+            "b": "B879t",
+            "c": "1979"
+        },
+        "100": {
+            "a": "Brown, Marcelo Pardo"
+        },
+        "245": {
+            "a": "Técnicas de pesquisa em tabelas",
+            "c": "Marcelo Pardo Brown",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Edgard Blucher",
+                "c": "1979"
+            }
+        ],
+        "300": [
+            {
+                "a": "89",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Concurso Nacional de Monografias em Informática",
+                "v": "1"
+            }
+        ],
+        "505": [
+            {
+                "a": "1. Introdução -- 2. Estruturas de armazenamento -- 2.1. \"Arrays\" ou matrizes -- 2.2. Lista linear -- 2.3. Árvore binária -- 3. Técnicas de pesquisa -- 3.1. Procua serial -- 3.2. Ordenamento por freqüência -- 3.3. Seqüência -- 3.4. Pesquisa em árevore binária -- 3.5. Pesquisa direta -- 3.6. Hashing -- 4. Comparação das técnicas -- 4.1. Velocidade de resposta -- 4.2. Espaço de armazenamento -- 4.3. Manutenção e reestruturação."
+            }
+        ],
+        "520": {
+            "a": "O Programa Nacional de Treinamento em Computação (PNTC), foi criado com o objetivo de \"incentivar a formação de profissionais de processamento de dados em todos os níveis para suprir a demanda de mão-de-obra especializada no País, visando, ao mesmo tempo, a definição de uma filosofia geral do ensino especializado, com ênfase para a melhoria da qualidade\". Sua execução é coordenada pela CAPRE. De acordo com esses objetivos o PNTC vem promovendo incitavas que visam a incrementar tanto qualitativa como quantitativamente a formação de recursos humanos em informática no Brasil, de modo a garantir uma utilização eficaz e eficiente da computação pelas instituições públicas e privadas brasileiras de forma coerente com a necessidade do desenvolvimento do País."
+        },
+        "550": {
+            "a": "Publicado em convênio com a Fundação Nacional de Material Escolar, Ministério da Educação e Cultura e com a Comissão de Coordenação das Atividades de Processamento eletrónico, Secretaria do Planejamento da Presidência da Republica."
+        },
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Processamento de dados"
+            },
+            {
+                "a": "Armazenamento de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

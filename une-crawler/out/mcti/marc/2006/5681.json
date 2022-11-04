@@ -1,0 +1,77 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005681",
+        "005": "20190801135902.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "8122400000"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "620.91",
+            "b": "E56",
+            "c": "1988"
+        },
+        "245": {
+            "a": "Energy for a sustainable world",
+            "c": "José Goldemberg... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Wiley",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "vi, 517 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Recursos energéticos"
+            },
+            {
+                "a": "Politica energética"
+            },
+            {
+                "a": "Desenvolvimento energético"
+            },
+            {
+                "a": "Indústrias"
+            }
+        ],
+        "700": [
+            {
+                "a": "Goldemberg, José",
+                "d": "1928-",
+                "e": "Coautor"
+            },
+            {
+                "a": "Johansson, Thomas B.",
+                "d": "1943-",
+                "e": "Coautor"
+            },
+            {
+                "a": "Reddy, Amulya K. N",
+                "e": "Coautor"
+            },
+            {
+                "a": "Williams, Robert H",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005889",
+        "005": "20190805140943.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.3.049.77(81)(063)",
+            "b": "B827s",
+            "c": "1992"
+        },
+        "111": {
+            "a": "Brazilian Microelectronics School",
+            "c": "Gramado, RS",
+            "d": "1992",
+            "n": "2"
+        },
+        "245": {
+            "a": "II Brazilian Microeletronics School",
+            "b": "proceedings",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Porto Alegre",
+                "b": "Universidade Federal do Rio Grande do Sul",
+                "c": "1992"
+            }
+        ],
+        "300": [
+            {
+                "a": "411",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Microeletrônica",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Engenharia eletrônica",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

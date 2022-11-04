@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004274",
+        "005": "20190809181045.0",
+        "007": "t",
+        "008": "                                   mul"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.38",
+            "b": "W926a",
+            "c": "1996"
+        },
+        "111": {
+            "a": "Workshop Iberchip",
+            "c": "São Paulo, SP",
+            "d": "1996",
+            "n": "2"
+        },
+        "245": {
+            "a": "Anais",
+            "c": "coord. Wilhelmus Adrianus Maria Van Noije, Maria Teresa Osés",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Universidade de São Paulo",
+                "c": "1996"
+            }
+        ],
+        "300": [
+            {
+                "a": "42, 537 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Circuito integrado",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Microprocessador"
+            },
+            {
+                "a": "Microprogramação"
+            }
+        ],
+        "700": [
+            {
+                "a": "Van Noije, Wilhelmus Adrianus Maria",
+                "e": "Coordenador"
+            },
+            {
+                "a": "Osés, Maria Teresa",
+                "e": "Coordenador"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

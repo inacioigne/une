@@ -1,0 +1,83 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000918",
+        "005": "20190801190448.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "840008036X"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "008",
+            "b": "C968h",
+            "c": "2002"
+        },
+        "245": {
+            "a": "Cultural heritage",
+            "c": "[editors Angel Alique Palomar... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Madri (Espanha)",
+                "b": "Consejo Superior de Investigaciones Científicas"
+            },
+            {
+                "b": "Instituto de Automática Industrial",
+                "c": "2002"
+            }
+        ],
+        "300": [
+            {
+                "a": "180"
+            }
+        ],
+        "490": [
+            {
+                "a": "Workshops ALCUE science & technology",
+                "v": "v. 4"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e tecnologia"
+            },
+            {
+                "a": "Acordo de cooperação técnica"
+            },
+            {
+                "a": "Ciência e civilização"
+            },
+            {
+                "a": "Patrimônio cultural"
+            },
+            {
+                "a": "Cooperação científica e tecnológica"
+            }
+        ],
+        "700": [
+            {
+                "a": "Alique Palomar, Ángel",
+                "e": "Editor"
+            },
+            {
+                "a": "Ferreira, Clodeinir Ronei Peres",
+                "e": "Editor"
+            },
+            {
+                "a": "Guerra, Rodolfo Elias Haber",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

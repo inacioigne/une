@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004662",
+        "005": "20190809102100.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "681.5:007.5(81:43)(063)",
+            "b": "G373p",
+            "c": "1997"
+        },
+        "111": {
+            "a": "German-Brazilian Workshop on Information Technology",
+            "c": "Porto Alegre, RS",
+            "d": "1997",
+            "n": "4"
+        },
+        "245": {
+            "a": "Proceedings of the 4th German-Brazilian Workshop on Information Technology",
+            "b": "Porto Alegre, September 11th - 12th, 1997",
+            "c": "edited by Stefan Jahnichen, Daltro Nunes",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+                "c": "1997"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v."
+            }
+        ],
+        "650": [
+            {
+                "a": "Tecnologia da informação",
+                "z": "Alemanha"
+            },
+            {
+                "a": "Transferência de tecnologia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Nunes, Daltro José",
+                "e": "Editor"
+            },
+            {
+                "a": "Jähnichen, Stefan",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Alemanha. Federal Ministry for Research and Technology",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

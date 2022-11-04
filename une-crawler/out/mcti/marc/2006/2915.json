@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002915",
+        "005": "20190809111452.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451.7:658",
+            "b": "A964p",
+            "c": "=134.3 1975"
+        },
+        "100": {
+            "a": "Awad, Elias M"
+        },
+        "245": {
+            "a": "Processamento de dados nas empresas",
+            "c": "Elias M. Awad ; Tradução de Dayr Ramos Américo dos Reis",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Atlas",
+                "c": "1975"
+            }
+        ],
+        "300": [
+            {
+                "a": "542",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Processamento de dados"
+            },
+            {
+                "a": "Administração de empresas"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Computadores",
+                "x": "Organização"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

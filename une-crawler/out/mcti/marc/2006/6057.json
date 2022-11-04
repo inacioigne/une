@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000006057",
+        "005": "20190805133913.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "631.95(063)",
+            "b": "S612p",
+            "c": "1993"
+        },
+        "111": {
+            "a": "Simpósio de Agricultura Ecológica",
+            "c": "Campinas, SP",
+            "d": "1993",
+            "n": "1"
+        },
+        "245": {
+            "a": "I Simpósio de Agricultura Ecológica",
+            "b": "anais",
+            "h": "Impresso",
+            "c": "Instituto Agronômico de Campinas"
+        },
+        "260": [
+            {
+                "a": "Campinas",
+                "b": "Instituto Agronômico de Campinas",
+                "c": "1993"
+            }
+        ],
+        "300": [
+            {
+                "a": "260"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ecologia agrícola",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Agricultura"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto Agronômico de Campinas",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

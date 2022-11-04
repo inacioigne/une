@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002617",
+        "005": "20190807110606.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.65",
+            "b": "P222u",
+            "c": "1992"
+        },
+        "245": {
+            "a": "Paradox, version 4.0",
+            "b": "user's guide",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Scotts Valley, California",
+                "b": "Borland International",
+                "c": "1992"
+            }
+        ],
+        "300": [
+            {
+                "a": "xx, 832",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Cutter baseado no nome do programa, afim de reunir com as demais obras no acervo."
+            }
+        ],
+        "650": [
+            {
+                "a": "Programas de computador",
+                "x": "Paradox"
+            },
+            {
+                "a": "Gerenciamento de banco de dados"
+            },
+            {
+                "a": "Manual do usuário"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

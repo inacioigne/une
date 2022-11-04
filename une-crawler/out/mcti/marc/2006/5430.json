@@ -1,0 +1,76 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005430",
+        "005": "20190814155650.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0444875336"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.896(100)(063)",
+            "b": "I61a",
+            "c": "1984"
+        },
+        "111": {
+            "a": "International Conference on Artificial Intelligence and Information-Control Systems of Robots",
+            "c": "Smolenice, Eslováquia",
+            "d": "1984",
+            "n": "3"
+        },
+        "245": {
+            "a": "Artificial intelligence and information-control systems of robots",
+            "b": "proceedings of the Third International Conference on Artificial Intelligence and Information-Control Systems of Robots, Smolenice, Czechoslovakia, June 11-15, 1984",
+            "c": "edited by Ivan Plander",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Amsterdam",
+                "b": "North-Holland",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "xvi, 413 p",
+                "c": "23 cm",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "\"Sponsored by the Sciencetific Board for Artificial Intelligence of the Systems Analysis Committee of the Presidium of the Academy of Sciences of the USSR and the Institute of Technical Cybernetics of the Slovak Academy of Sciences.\""
+            }
+        ],
+        "650": [
+            {
+                "a": "Inteligência artificial",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Robótica",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Informática",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Plander, Ivan",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

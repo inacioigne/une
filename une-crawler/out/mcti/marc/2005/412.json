@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000412",
+        "005": "20190726094126.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "0852964714"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.3:025.43",
+            "b": "I59i",
+            "d": "R",
+            "c": "1987"
+        },
+        "110": {
+            "a": "Institution of Electrical Engineers"
+        },
+        "245": {
+            "a": "INSPEC thesaurus",
+            "b": "1987",
+            "h": "Impresso",
+            "c": "Institution of Electrical Engineers"
+        },
+        "260": [
+            {
+                "a": "Surrey [Reino Unido]",
+                "b": "The Institution of Electrical Engineers",
+                "c": "c1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v."
+            }
+        ],
+        "520": {
+            "a": "Tesauro com aproximadamente 11.700 termos, que cobrem as áreas de física, eletrônica, comunicação, engenharia elétrica, informação tecnológica e computadores."
+        },
+        "650": [
+            {
+                "a": "Engenharia elétrica",
+                "x": "Tesauro"
+            }
+        ],
+        "990": {
+            "a": "Tesauro"
+        }
+    }
+}

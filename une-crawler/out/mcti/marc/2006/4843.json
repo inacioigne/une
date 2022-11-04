@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004843",
+        "005": "20190807130838.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "336.531.2:5/6(81)(083.9)",
+            "b": "B823p",
+            "c": "1973-1974"
+        },
+        "110": {
+            "a": "Brasil. [Plano Básico de Desenvolvimento Científico e Tecnológico]"
+        },
+        "245": {
+            "a": "PBDCT",
+            "b": "Plano Básico de Desenvolvimento Científico e Tecnológico",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Presidência da República",
+                "c": "1973"
+            }
+        ],
+        "300": [
+            {
+                "a": "155"
+            }
+        ],
+        "650": [
+            {
+                "a": "Planejamento econômico",
+                "z": "Brasil"
+            },
+            {
+                "a": "Desenvolvimento econômico",
+                "z": "Brasil"
+            },
+            {
+                "a": "Tecnologia",
+                "z": "Brasil"
+            },
+            {
+                "a": "Desenvolvimento científico",
+                "z": "Brasil"
+            },
+            {
+                "a": "Desenvolvimento tecnológico",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

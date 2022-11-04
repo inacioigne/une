@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005552",
+        "005": "20190802130938.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0818606134"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004(100)(063)",
+            "b": "C737t",
+            "c": "1985"
+        },
+        "111": {
+            "a": "Computer Group Conference",
+            "c": "San Francisco, Estados Unidos",
+            "d": "1985",
+            "n": "30"
+        },
+        "245": {
+            "a": "Technological leverage, a competitive necessity",
+            "b": "digest of papers",
+            "c": "Compcon 85, February 25-28, spring, Thirtieth IEEE Computer Society International Conference, Cathedral Hill Hotel, San Francisco, California ; sponsored by the IEEE Computer Society",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": " COMPCON 85"
+            }
+        ],
+        "260": [
+            {
+                "a": "Los Alamitos",
+                "b": "IEEE Computer Society Press",
+                "c": "c1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "xv, 434",
+                "c": "28 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Computadores",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Informática",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "710": [
+            {
+                "a": "IEEE Computer Society",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

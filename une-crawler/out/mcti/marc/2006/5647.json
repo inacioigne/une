@@ -1,0 +1,74 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005647",
+        "005": "20190801115425.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.3.049.77",
+            "b": "F544e",
+            "c": "c1970"
+        },
+        "100": {
+            "a": "Fitchen, Franklin C"
+        },
+        "245": {
+            "a": "Electronic integrated circuits and systems",
+            "c": "Franklin C. Fitchen ; contributors, Virgil G. Ellerbruch, Aelred J. Kurtenbach, Duane E. Sander",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Van Nostrand Reinhold",
+                "c": "c1970"
+            }
+        ],
+        "300": [
+            {
+                "a": "xi, 420 p",
+                "c": "24 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Microelectronics series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Circuito integrado"
+            },
+            {
+                "a": "Transistor"
+            },
+            {
+                "a": "Diodo"
+            }
+        ],
+        "700": [
+            {
+                "a": "Ellerbruch, Virgil G",
+                "e": "Colaborador"
+            },
+            {
+                "a": "Kurtenbach, Aelred J",
+                "e": "Colaborador"
+            },
+            {
+                "a": "Sander, Duane E",
+                "e": "Colaborador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

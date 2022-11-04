@@ -1,0 +1,81 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005472",
+        "005": "20190809102017.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.032.85(100)(063)",
+            "b": "I61p",
+            "c": "1988"
+        },
+        "111": {
+            "a": "International Conference on Fifth Generation Computer Systems",
+            "c": "Tokyo, Japão",
+            "d": "1988"
+        },
+        "245": {
+            "a": "Proceedings of International Conference on Fifth Generation Computer Systems 1988",
+            "b": "Nov. 28 - Dec. 2, 1988, Tokyo, Japan",
+            "h": "Impresso",
+            "c": "Institute for New Generation Computer Technology"
+        },
+        "246": [
+            {
+                "a": "FGCS '88"
+            }
+        ],
+        "260": [
+            {
+                "a": "Tokyo",
+                "b": "Institute for New Generation Computer Technology",
+                "c": "c1988"
+            }
+        ],
+        "300": [
+            {
+                "c": "26 cm",
+                "b": "il.",
+                "a": "3 v."
+            }
+        ],
+        "505": [
+            {
+                "a": "v. 1. Plenary sessions -- Special session: progress and future plans of knowledge information processing -- ICOT research topics -- Technical panel discussion -- v. 2. Foundation software -- v. 3. Architecture applications."
+            }
+        ],
+        "650": [
+            {
+                "a": "Computador de quinta geração",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento"
+            },
+            {
+                "a": "Tecnologia da informação"
+            },
+            {
+                "a": "Software"
+            },
+            {
+                "a": "Arquitetura de computador"
+            }
+        ],
+        "710": [
+            {
+                "a": "Institute for New Generation Computer Technology (Japão)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005392",
+        "005": "20190807135335.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004",
+            "b": "C741p",
+            "c": "1984"
+        },
+        "100": {
+            "a": "Comtesse, Xavier"
+        },
+        "245": {
+            "a": "Place neuve à l'informatique",
+            "b": "vu sous le triple aspect de l'information des entreprises ...",
+            "c": "Xavier Comtesse, Philippe Cordey",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Genebra (Suiça)",
+                "b": "Editions Le Concept moderne",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "115",
+                "c": "21 cm"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Empresas"
+            },
+            {
+                "a": "Treinamento de pessoal"
+            },
+            {
+                "a": "Empregado"
+            }
+        ],
+        "700": [
+            {
+                "a": "Cordey, Philippe",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005632",
+        "005": "20190805133603.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.395(063)",
+            "b": "S471p",
+            "c": "1993"
+        },
+        "111": {
+            "a": "Seminário de Operação e Manutenção da Planta",
+            "c": "Brasília",
+            "d": "1993",
+            "n": "1"
+        },
+        "245": {
+            "a": "I Seminário de operação e manutenção da planta",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Telebras",
+                "c": "1993"
+            }
+        ],
+        "300": [
+            {
+                "a": "416",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Telecomunicações",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Telefonia",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Engenharia elétrica"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

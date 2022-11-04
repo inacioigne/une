@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000897",
+        "005": "20190729131203.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6(047)",
+            "b": "C755p",
+            "c": "[1991]"
+        },
+        "110": {
+            "a": "Consejo Nacional de Ciencia y Tecnología (México)"
+        },
+        "245": {
+            "a": "Programa de trabajo",
+            "b": "1991",
+            "h": "Impresso",
+            "c": "Consejo Nacional de Ciencia y Tecnología"
+        },
+        "260": [
+            {
+                "a": "[Mexico]",
+                "b": "Consejo Nacional de Ciencia y Tecnología",
+                "c": "[1991]"
+            }
+        ],
+        "300": [
+            {
+                "a": "41 f."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Pesquisa e desenvolvimento",
+                "z": "México"
+            },
+            {
+                "a": "Pesquisa científica",
+                "x": "Relatórios",
+                "z": "México"
+            },
+            {
+                "a": "Inovação tecnológica",
+                "x": "Relatórios",
+                "z": "México"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

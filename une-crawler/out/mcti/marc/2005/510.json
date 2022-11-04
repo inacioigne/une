@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000510",
+        "005": "20190806171239.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "006.91",
+            "b": "T377f",
+            "c": "1997"
+        },
+        "100": {
+            "a": "Theisen, Álvaro Medeiros de Farias"
+        },
+        "245": {
+            "a": "Fundamentos da metrologia industrial",
+            "b": "aplicação no processo de certificação ISO 9000",
+            "c": "Álvaro Medeiros de Farias Theisen",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Porto Alegre",
+                "b": "Gráfica EPECÊ",
+                "c": "1997"
+            }
+        ],
+        "300": [
+            {
+                "a": "204",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Metrologia"
+            },
+            {
+                "a": "Normalização industrial"
+            },
+            {
+                "a": "Controle de produção"
+            },
+            {
+                "a": "Controle de qualidade"
+            },
+            {
+                "a": "ISO 9000"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

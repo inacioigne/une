@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002964",
+        "005": "20190809142309.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "0471015954"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.31",
+            "b": "B581m",
+            "c": "c1977"
+        },
+        "100": {
+            "a": "Bibbero, Robert J"
+        },
+        "245": {
+            "a": "Microprocessors in instruments and control",
+            "c": "by Robert J. Bibbero",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Wiley",
+                "c": "c1977"
+            }
+        ],
+        "300": [
+            {
+                "a": "xv, 301 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Microprocessador"
+            },
+            {
+                "a": "Controle de processo",
+                "x": "Processamento de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

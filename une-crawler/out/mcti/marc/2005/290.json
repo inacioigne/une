@@ -1,0 +1,91 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000290",
+        "005": "20190808135046.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.2(063)",
+            "b": "S612o",
+            "c": "1996"
+        },
+        "111": {
+            "a": "Simpósio Brasileiro de Arquitetura de Computadores e Processamento de Alto Desempenho",
+            "c": "Recife, PE",
+            "d": "1996",
+            "n": "8"
+        },
+        "245": {
+            "a": "Anais do VIII Simpósio Brasileiro de Arquitetura de Computadores e Processamento de Alto Desempenho SBAC-PAD'96",
+            "b": "Recife-PE, 4 a 9 de agosto de 1996",
+            "c": "Editado por Márcia de Barros Correia; autor corporativo: Sociedade Brasileira de Computação",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Recife",
+                "b": "Secretaria Especial de Informática",
+                "c": "1996"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "245",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Compilador",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Rede de computador",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Avaliação de desempenho",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Correia, Márcia de Barros",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Sociedade Brasileira de Computação",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

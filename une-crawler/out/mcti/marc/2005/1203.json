@@ -1,0 +1,77 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001203",
+        "005": "20190806163525.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8590090647"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "551.588.6:339",
+            "b": "F566",
+            "c": "2004"
+        },
+        "245": {
+            "a": "Fixação de carbono",
+            "b": "atualidades, projetos e pesquisas",
+            "c": "Carlos Roberto Sanquetta, Rafaelo Balbinot, Marco Aurélio Bush Ziliotto, editores",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Curitiba",
+                "b": "Projeto Ecológico de Longa Duração",
+                "c": "2004"
+            }
+        ],
+        "300": [
+            {
+                "a": "205",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Dióxido de carbono"
+            },
+            {
+                "a": "Mudanças climáticas"
+            },
+            {
+                "a": "Efeito estufa (Atmosfera)"
+            },
+            {
+                "a": "Biodiesel"
+            },
+            {
+                "a": "Florestas",
+                "x": "Ecossistemas"
+            }
+        ],
+        "700": [
+            {
+                "a": "Sanquetta, Carlos Roberto",
+                "e": "Editor"
+            },
+            {
+                "a": "Balbinot, Rafaelo",
+                "e": "Editor"
+            },
+            {
+                "a": "Ziliotto, Marco Aurélio Bush",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

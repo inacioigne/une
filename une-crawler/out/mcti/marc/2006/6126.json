@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000006126",
+        "005": "20190809160333.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.039(81)(063)",
+            "b": "I59a",
+            "c": "1994"
+        },
+        "111": {
+            "a": "Semana de Integração do IPEN",
+            "c": "São Paulo, SP",
+            "d": "1994",
+            "n": "2"
+        },
+        "245": {
+            "a": "Anais",
+            "b": "2ª SIPEN : Semana de Integração do IPEN, 21 a 25 de novembro de 1994",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Instituto de Pesquisas Energéticas e Nucleares",
+                "c": "1994"
+            }
+        ],
+        "300": [
+            {
+                "a": "230"
+            }
+        ],
+        "650": [
+            {
+                "a": "Energia elétrica",
+                "z": "Brasil",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Politica energética",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pesquisa nuclear",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

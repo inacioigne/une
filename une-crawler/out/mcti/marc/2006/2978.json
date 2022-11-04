@@ -1,0 +1,52 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002978",
+        "005": "20190809140230.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0070491380"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.382.7",
+            "b": "P363m",
+            "c": "c1977"
+        },
+        "100": {
+            "a": "Peatman, John B"
+        },
+        "245": {
+            "a": "Microcomputer-based design",
+            "c": "John B. Peatman",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "McGraw-Hill",
+                "c": "c1977"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiii, 590 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Microcomputador",
+                "x": "Software"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

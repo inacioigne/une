@@ -1,0 +1,84 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003005",
+        "005": "20190813113152.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.391.6",
+            "b": "C741",
+            "c": "1981",
+            "d": "MCT"
+        },
+        "245": {
+            "a": "Comunicações ópticas",
+            "c": "editado por José Ellis Ripper Filho e Carlos Alberto Ribeiro",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Universidade Estadual de Campinas",
+                "c": "1981"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 306",
+                "b": "il."
+            }
+        ],
+        "504": [
+            {
+                "a": "Inclui bibliografia."
+            }
+        ],
+        "505": [
+            {
+                "a": "Introdução -- Fibras ópticas: introdução e conceitos básicos / Ramakant Srivastava -- Fabricação e preparo do vidro / José Mauro Leal Costa -- Fabricação, puxamento e revestimento / Edison Bittencourt -- Propriedades mecânicas das fibras ópticas / Ricardo Medrano -- Características de propagação em fibras ópiticas / Harish R. D. Sunak -- Caracterização ópitca de fibras / Francisco Martim Smolka -- Diodo laser e led: princípios físicos de operação / Navin B. Patel -- Led / Marcio Alberto Araujo Pudensi -- Propriedades específicas de lasers e led's ligadas a comunicações ópticas / Philippe Brosson -- Fotodetetor / Antonio Carlos G. Bordeaux Rego -- Fabricação e caracterização dos dispositivos opto eletrônicos dos compostos III-V / Francisco Carlos Prince -- Processamento / Douglas John Bull -- Microscopia eletrônica de varredura e microanálise / Carlos Alberto Ribeiro -- Equipamentos de linhas ópiticas / José Manuel Duarte Mendes -- Sistemas de comunicações ópticas / Claudio Aparecido Violato -- Aplicações militares / Regis Romero Pereira dos Santos -- Aplicações de fibras ópticas no setor elétrico / Nicholas Lionel Brooking -- O programa brasileiro de comunicações ópticas / José Ellies Ripper Filho."
+            }
+        ],
+        "520": {
+            "a": "Reúne um conjunto de trabalhos para seres usados como referência, acompanhando o curso de extensão universitária sobre Comunicações Ópticas, oferecido pelo Laboratório de Pesquisas em Dispositivos do Instituto de Física da Unicamp, em colaboração com o Centro de Pesquisas e Desenvolvimento da Telebrás. Visa o texto e o curso difundir conhecimentos à nova tecnologia, em particular para potenciais usuários, dentro do programa de implantação de comunicações ópticas no Brasil."
+        },
+        "650": [
+            {
+                "a": "Comunicação"
+            },
+            {
+                "a": "Fibras ópticas"
+            },
+            {
+                "a": "Diodos"
+            },
+            {
+                "a": "Dispositivo óptico"
+            }
+        ],
+        "700": [
+            {
+                "a": "Ripper Filho, José Ellis",
+                "e": "Editor"
+            },
+            {
+                "a": "Ribeiro, Carlos Alberto",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "TELEBRÁS",
+                "b": "Centro de Pesquisa e Desenvolvimento"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

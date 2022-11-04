@@ -1,0 +1,96 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000495",
+        "005": "20190726143711.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "005:061(063)",
+            "b": "S471s",
+            "c": "1997"
+        },
+        "111": {
+            "a": "Seminário Melhores Práticas de Gerenciamento de Instituições de Pesquisa Tecnológicas",
+            "c": "Rio de Janeiro, RJ",
+            "d": "1996"
+        },
+        "245": {
+            "a": "Seminário \"Melhores Práticas de Gerenciamento de Instituições de Pesquisa Tecnológica\"",
+            "b": "anais, 23 e 24 de setembro de 1996",
+            "h": "Impresso",
+            "c": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Associação Brasileira das Instituições de Pesquisa Tecnológica",
+                "c": "1997"
+            }
+        ],
+        "300": [
+            {
+                "a": "56",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Instituição de pesquisa",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Pesquisa tecnológica",
+                "z": "Brasil"
+            },
+            {
+                "a": "Desenvolvimento socio-econômico",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Serviço Brasileiro de Apoio às Micro e Pequenas Empresas",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Serviço Nacional de Aprendizagem Industrial",
+                "b": "Departamento Regional da Paraíba",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Saskatchewan Research Council",
+                "e": "Corporativo"
+            },
+            {
+                "a": "World Association of Industrial and Technological Research Organizations",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Associação Brasileira das Instituições de Pesquisa Tecnológica Industrial",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Instituto Nacional de Tecnologia (Brasil)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Fundação Oswaldo Cruz",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

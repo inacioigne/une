@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005536",
+        "005": "20190809105856.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "2040156046"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "519.6",
+            "b": "B245m",
+            "c": "=133.1",
+            "d": "1984"
+        },
+        "100": {
+            "a": "Barden, William T",
+            "d": "1940-"
+        },
+        "245": {
+            "a": "Mathématiques pour micro-informatique",
+            "h": "Impresso",
+            "c": "William T. Barden"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Dunod",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "114",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "MicroDunod"
+            }
+        ],
+        "534": {
+            "a": "Título original : Microcomputer math"
+        },
+        "650": [
+            {
+                "a": "Microprogramação"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "Basic (Linguagem de programação de computador)"
+            },
+            {
+                "a": "Programação matemática"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

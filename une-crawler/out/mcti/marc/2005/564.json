@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000564",
+        "005": "20190726131440.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "858563703X"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "025.45(035)",
+            "b": "S586m",
+            "c": "1994"
+        },
+        "100": {
+            "a": "Silva, Odilon Pereira da"
+        },
+        "245": {
+            "a": "Manual da CDU",
+            "c": "Odilon Pereira da Silva ; Fátima Ganim",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Briquet de Lemos",
+                "c": "1994"
+            }
+        ],
+        "300": [
+            {
+                "a": "86",
+                "c": "21"
+            }
+        ],
+        "650": [
+            {
+                "a": "Classificação Decimal Universal",
+                "x": "Manual do usuário"
+            },
+            {
+                "a": "Classificação",
+                "x": "Livros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Ganim, Fátima",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

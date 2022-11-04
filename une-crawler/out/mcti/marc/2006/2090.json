@@ -1,0 +1,76 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002090",
+        "005": "20190806110829.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0789708426"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451.54",
+            "b": "H772w",
+            "c": "1997"
+        },
+        "100": {
+            "a": "Honeycutt, Jerry"
+        },
+        "245": {
+            "a": "Windows 95 and NT 4.0 registry and customization handbook",
+            "c": "written by Jerry Honeycutt with Bernard Farrell ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Indianapolis",
+                "b": "Que Corp.",
+                "c": "c1997"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxvi, 465",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistemas operacionais (Computadores)",
+                "x": "Registro do Windows"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            },
+            {
+                "a": "Segurança de computador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Farrell, Bernard",
+                "e": "Coautor"
+            },
+            {
+                "a": "Kennelly, Rich",
+                "e": "Coautor"
+            },
+            {
+                "a": "Millsaps, Jerry",
+                "e": "Coautor"
+            },
+            {
+                "a": "Tidrow, Rob",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005775",
+        "005": "20190801115813.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.38:004",
+            "b": "I21e",
+            "c": "1989"
+        },
+        "100": {
+            "a": "Idoeta, Ivan V.",
+            "d": "1957-",
+            "q": "Ivan Valeije"
+        },
+        "245": {
+            "a": "Elementos de eletrônica digital",
+            "c": "Ivan V. Idoeta, Francisco G.Capuano",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "14. ed. rev., atual. e ampl."
+            }
+        ],
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Érica",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "350"
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia elétrica"
+            },
+            {
+                "a": "Engenharia eletrônica"
+            }
+        ],
+        "700": [
+            {
+                "a": "Capuano, Francisco G.",
+                "d": "1955-",
+                "q": "Francisco Gabriel",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

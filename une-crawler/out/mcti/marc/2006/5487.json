@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005487",
+        "005": "20190814185708.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.651",
+            "b": "G217b",
+            "c": "1985"
+        },
+        "100": {
+            "a": "Gardarin, G.",
+            "q": "Georges"
+        },
+        "245": {
+            "a": "Bases de données relationnelles",
+            "b": "analyse et comparaison des systèmes",
+            "c": "G. Gardarin et P. Valduriez",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Eyrolles",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "326",
+                "c": "24 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Architecture des systèmes d'informations"
+            }
+        ],
+        "650": [
+            {
+                "a": "Banco de dados",
+                "x": "Gestão"
+            },
+            {
+                "a": "Sistema de gerenciamento de banco de dados"
+            }
+        ],
+        "700": [
+            {
+                "a": "Valduriez, Patrick",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

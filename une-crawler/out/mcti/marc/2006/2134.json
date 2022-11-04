@@ -1,0 +1,54 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002134",
+        "005": "20190813130001.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.65dBASE",
+            "b": "C397",
+            "c": "1990"
+        },
+        "245": {
+            "a": "Central de controle dBase IV",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Datalógica",
+                "c": "1990"
+            }
+        ],
+        "300": [
+            {
+                "a": "86",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Cutter baseado no nome do programa a fim de reunir com as demais obras no acervo"
+            }
+        ],
+        "650": [
+            {
+                "a": "Banco de dados",
+                "x": "Linguagem de programação (Computadores)"
+            },
+            {
+                "a": "Programas de computador",
+                "x": "dBase"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

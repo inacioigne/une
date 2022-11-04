@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002854",
+        "005": "20190730142020.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.39:004.7",
+            "b": "T191r",
+            "c": "1977"
+        },
+        "100": {
+            "a": "Tarouco, Liane Margarida Rockenbach"
+        },
+        "245": {
+            "a": "Redes de comunicação de dados",
+            "c": "Liane Margarida Rockenbach Tarouco",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Livros Técnicos e Científicos",
+                "c": "1977"
+            }
+        ],
+        "300": [
+            {
+                "a": "176",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Aplicações de computadores"
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Rede de telecomunicação"
+            },
+            {
+                "a": "Comunicação de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

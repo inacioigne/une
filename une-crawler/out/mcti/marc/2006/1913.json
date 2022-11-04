@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001913",
+        "005": "20190807145600.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "681.5",
+            "b": "L123",
+            "c": "1988"
+        },
+        "245": {
+            "a": "Laboratório de automação industrial",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[Curitiba]",
+                "b": "Escola Brasileiro-Argentina de Informática",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "127",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Automação industrial"
+            },
+            {
+                "a": "Meios auxiliares de ensino"
+            },
+            {
+                "a": "Modelo de simulação"
+            },
+            {
+                "a": "Tecnologia industrial"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Curitiba, PR",
+                "d": "1988",
+                "n": "3"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001331",
+        "005": "20190805181740.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "336.5(81)",
+            "b": "A485e",
+            "c": "1994"
+        },
+        "100": {
+            "a": "Amaral Sobrinho, José"
+        },
+        "245": {
+            "a": "Ensino fundamental",
+            "b": "gastos da União e do MEC em 1991 tendências",
+            "c": "Jose Amaral Sobrinho",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "1994"
+            }
+        ],
+        "300": [
+            {
+                "a": "8 f.",
+                "e": "+ anexos"
+            }
+        ],
+        "490": [
+            {
+                "a": "Texto para discussão / IPEA",
+                "v": "331",
+                "x": "1415-4765"
+            }
+        ],
+        "520": {
+            "a": "Analisa as despesas da União e do Ministério da Educação e do Desporto com o ensino fundamental em 1991, e, com base em dados levantados em anos anteriores, mostra as tendências na aplicação dos recursos"
+        },
+        "650": [
+            {
+                "a": "Despesa pública",
+                "z": "Brasil"
+            },
+            {
+                "a": "Investimentos em educação",
+                "z": "Brasil"
+            },
+            {
+                "a": "Política educacional",
+                "z": "Brasil"
+            },
+            {
+                "a": "Ensino primário",
+                "x": "Despesa pública",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "Texto completo",
+            "u": "http://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=3427",
+            "z": "Acesso em: 2005"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

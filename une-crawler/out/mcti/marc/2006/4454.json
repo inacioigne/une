@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004454",
+        "005": "20190808095300.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "204015499x"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.438ADA(035)",
+            "b": "L661l",
+            "c": "1982"
+        },
+        "100": {
+            "a": "Le Verrand, Dominique"
+        },
+        "245": {
+            "a": "Le langage ADA",
+            "b": "manuel d'évaluation",
+            "c": "par Dominique Le Verrand",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Dunod",
+                "c": "1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "266"
+            }
+        ],
+        "490": [
+            {
+                "a": "Dunod informatique"
+            }
+        ],
+        "500": [
+            {
+                "a": "publié sous l'égide de l'AFCET avec le concours de l'Agence de l'Informatique"
+            }
+        ],
+        "650": [
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "ADA"
+            },
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Técnica de programação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

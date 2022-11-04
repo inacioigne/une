@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004028",
+        "005": "20190802134958.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0333272870"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451",
+            "b": "L773f",
+            "c": "1979"
+        },
+        "100": {
+            "a": "Lister, A.",
+            "d": "1945-",
+            "q": "Andrew"
+        },
+        "245": {
+            "a": "Fundamentals of operating systems",
+            "c": "A. M. Lister",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Londres (Inglaterra)",
+                "b": "Macmillan Company",
+                "c": "1979"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 161 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "MacMillan computer science series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistemas operacionais (Computadores)"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

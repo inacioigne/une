@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002156",
+        "005": "20190812181901.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0072222824"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7.056",
+            "b": "J76a",
+            "c": "2000"
+        },
+        "100": {
+            "a": "Jones, Keith John"
+        },
+        "245": {
+            "a": "Anti-hacker tool kit",
+            "c": "Keith J. Jones, Mike Shema, Bradley C. Johnson",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "McGraw-Hill",
+                "c": "c2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxiii, 711 p.",
+                "b": "il., + 1 CD-ROM"
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede de computador",
+                "x": "Protocolo de comunicação"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Shema, Mike",
+                "e": "Coautor"
+            },
+            {
+                "a": "Johnson, Bradley C",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003774",
+        "005": "20190802150017.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8524401850"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "514.124",
+            "b": "L628g",
+            "c": "2001"
+        },
+        "100": {
+            "a": "Lima, Elon Lages",
+            "d": "1929-"
+        },
+        "245": {
+            "a": "Geometria analítica e álgebra linear",
+            "c": "Elon Lages Lima",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Instituto Nacional de Matemática Pura e Aplicada",
+                "c": "2001"
+            }
+        ],
+        "300": [
+            {
+                "a": "305"
+            }
+        ],
+        "490": [
+            {
+                "a": "Coleção Matemática Universitária"
+            }
+        ],
+        "505": [
+            {
+                "a": "Introdução -- 1.Coordenadas na reta -- 2. Coordenadas no plano -- 3. Segmentos de reta no plano -- 4. A distância entre dois pontos -- 5. Escolhendo o sistema de coordenadas -- 6. Outros tipos de coordenadas -- 7. As equações da reta -- 8. Ângulo entre duas retas -- 9. Distância de um ponto a uma reta -- 10. Área de um triângulo -- 11. Desigualdades lineares -- 12. Equação da circunferência -- 13. Reconhecimento da equação da circunferência -- 14. Vetores no plano -- 15. Operações com vetores -- 16. Equação da elipse -- 17. Equação da hipérbole -- 18. Equação da parábola -- 19. Mudança de coordenadas -- 20. Formas quadráticas -- 21. A equação geral do segundo grau -- 22. O sinal de uma forma quadrática -- 23. Transformações lineares -- 24. Coordenadas no espaço -- 25. As equações paramétricas de uma reta -- 26. Distância entre dois pontos no espaço -- 27. Segmentos de reta no espaço -- 28. Vetores no espaço -- 29. Equação do plano -- 30. Sistemas de equações lineares com duas incógnitas -- 31. Duas equações lineares com três incógnitas -- 32. Três equações lineares com três incógnitas -- 33. Escalonamento (eliminação gaussiana) -- 34. Operações com matrizes -- 35. Determinantes -- 36. A regra de Cramer -- 37. O determinante do produto de duas matrizes -- 38. Áreas, volumes e a matriz de Gram -- 39. Caracterização das matrizes invertíveis -- 40. O produto vetorial -- 41. Mudança de coordenadas no espaço -- 42. Formas quadráticas em R3 -- 43. As quádricas centrais -- 44. Completando quadrados em R3 -- 45. A equação geral do segundo grau em R3 -- 46. Matrizes e formas quadráticas -- 47. Transformações lineares em R3 -- Bibliografia -- -- --"
+            }
+        ],
+        "520": {
+            "a": "Trata-se essencialmente de um livro de Geometria Analítica, plana e espacial. Isto significa, por um lado, o estudo da Geometria por meio da introduçãoi de coordenadas e, por outro lado, o método de olhar para problemas de Álgebra (e de Análise) sob o ponto de vista da Geometria. Os vetores ocorrem inicialmente como instrumento para desenvolver a Geometria Analítica: muito úteis no caso do plano e indispensáveis no espaço. Em seguida percebe-se que a noção de dependência (e independência) linear de vetores é a chave para analisar o comportamento dos sistemas de equações lineares e a linguagem adequada para exprimir seus resultados. Neste ponto, estamos fazendo um pouco de Álgebra Linear. A fim de identificar as cônicas e as superfícies quádricas precisamos estudar as formas quadráticas a duas e três variáveis. Somos então levados naturalmente a considerar matrizes simétricas 2x2 ou 3x3 seus autovalores e autovetores. Isto é Álgebra Linear. Matrizes e determinantes ocorrem ainda na fórmula de Gram para a área de um paralelogramo ou o volume de um paralelepípedo. E, finalmente, transformações lineares são brevemente estudadas, no plano e no espaço tridimensional, dando-se vários exemplos e mostrando-se como um sistema de substituição lineares transforma uma circunferência numa elipse e um esfera num elipsóide. Assim se mostra neste livro como o estudo da Geometria Analítica a duas e três dimensões conduz a noções básicas como dependência linear, matrizes, formas quadráticas, autovalores, transformações lineares, etc. Estes conceitos serão mais tarde sistemalizados na Álgebra Linear, a qual terá su aprendizagem suavizada e tornada natural para os estudantes que já possuam uma experiência prévia correspondente ao conteúdo do presente livro. Independente disso, é claro, a Geometria Analítica faz parte da cultura mínima necessária para estudos posteriores (ou simultâneos) de Cálculo, Análise, Equações Diferenciais, etc. Os leitores aos quais este livro se destina são os alunos do primeiro ano da Universidade. Vários dos temas nele tratados constam, de uma forma mais superficial, do programa do Ensino Médio mas este fato não é levadoem conta aqui, ou seja, não admitimos que o leitor possua conhecimento anterior sobre o assunto."
+        },
+        "650": [
+            {
+                "a": "Matemática"
+            },
+            {
+                "a": "Álgebra linear"
+            },
+            {
+                "a": "Geometria analítica"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Matemática Pura e Aplicada (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

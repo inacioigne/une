@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005494",
+        "005": "20190806112602.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.891:025.5",
+            "b": "N975i",
+            "c": "c1986"
+        },
+        "100": {
+            "a": "Nussbaumer, Henri J",
+            "d": "1931-"
+        },
+        "245": {
+            "a": "Informatique industrielle",
+            "c": "Henri Nussbaumer",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Lausanne",
+                "b": "Presses polytechniques romandes",
+                "c": "c1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "4 v.",
+                "c": "24 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Informatique"
+            }
+        ],
+        "500": [
+            {
+                "a": "A Biblioteca só possui o v. 1"
+            }
+        ],
+        "505": [
+            {
+                "a": "v. 1. Représentation et traitement de l'information - c1986 -- v. 2. Introduction à l'informatique de temps réel. - c1986 -- v. 3. Automates programmables, commande et réglage, capteurs - c1987 -- v. 4. Commande numérique, téléinformatique, sécurité, sûreté, fiabilité. - c1987"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Indústria"
+            },
+            {
+                "a": "Sistema de informação"
+            },
+            {
+                "a": "Tecnologia industrial"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002918",
+        "005": "20190806110809.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0884050505"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.891",
+            "b": "E37i",
+            "c": "1974"
+        },
+        "100": {
+            "a": "Eldin, Hamed Kamal",
+            "d": "1924-"
+        },
+        "245": {
+            "a": "Information systems",
+            "b": "a management science approach",
+            "c": "Hamed Kamal Eldin and F. Max Croft",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Petrocelli Books",
+                "c": "1974"
+            }
+        ],
+        "300": [
+            {
+                "a": "viii, 267 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema de Gerenciamento de Informações"
+            },
+            {
+                "a": "Informática"
+            }
+        ],
+        "700": [
+            {
+                "a": "Croft, F. Max",
+                "d": "1935-",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

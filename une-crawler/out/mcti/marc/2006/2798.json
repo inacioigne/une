@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002798",
+        "005": "20190813143329.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "517",
+            "b": "R931c",
+            "c": "1988"
+        },
+        "100": {
+            "a": "Ruggiero, Marcia A. Gomes"
+        },
+        "245": {
+            "a": "Cálculo numérico",
+            "b": "aspectos teoóricos e computacionais",
+            "c": "Marcia A. Gomes Ruggiero, Vera Lucia da Rocha Lopes",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "McGraw-Hill",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "295",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Matemática",
+                "x": "Programa de computador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Lopes, Vera Lúcia da Rocha",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

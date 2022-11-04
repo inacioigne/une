@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004011",
+        "005": "20190808125246.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0080285813"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.39:004.7",
+            "b": "D232",
+            "c": "1983"
+        },
+        "245": {
+            "a": "Local area networks",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Berkshire, [Inglaterra]",
+                "b": "Pergamon Infotech",
+                "c": "1983"
+            }
+        ],
+        "270": [
+            {
+                "d": "Inglaterra"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 211 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "State of the art report",
+                "v": "11:8ii"
+            }
+        ],
+        "500": [
+            {
+                "a": "Volume pertecente a \"Data communications\", v. 2. ; ISBN : 0080285791 ; Cutter baseado no nome do título do todo."
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede local"
+            },
+            {
+                "a": "Rede de telecomunicação"
+            },
+            {
+                "a": "Rede de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

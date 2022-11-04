@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000006052",
+        "005": "20190801084432.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "378:001.891(063)",
+            "b": "E56r",
+            "c": "1993"
+        },
+        "111": {
+            "a": "Encontro de Jovens Pesquisadores da UCS",
+            "c": "Caxias do Sul (RS)",
+            "d": "1993",
+            "n": "1"
+        },
+        "245": {
+            "a": "Resumos dos trabalhos",
+            "h": "Impresso",
+            "c": "Encontro de Jovens Pesquisadores da UCS"
+        },
+        "260": [
+            {
+                "a": "Caxias do Sul (RS)",
+                "b": "Universidade de Caxias do Sul",
+                "c": "1993"
+            }
+        ],
+        "300": [
+            {
+                "a": "83"
+            }
+        ],
+        "650": [
+            {
+                "a": "Pesquisadores"
+            },
+            {
+                "a": "Pesquisa científica",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Metodologia científica"
+            },
+            {
+                "a": "Ensino superior",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "710": [
+            {
+                "a": "Universidade de Caxias do Sul",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

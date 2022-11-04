@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002613",
+        "005": "20190813113531.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0471330051"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.382.4",
+            "b": "G888c",
+            "c": "1973"
+        },
+        "100": {
+            "a": "Gruenberger, Fred Joseph",
+            "d": "1918-"
+        },
+        "245": {
+            "a": "Computing with mini computers",
+            "c": "Fred Gruenberger, David Babcock",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Los Angeles",
+                "b": "Melville Pub. Co.",
+                "c": "c1973"
+            }
+        ],
+        "300": [
+            {
+                "a": "xv, 288",
+                "c": "24 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Computer science series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Minicomputador",
+                "x": "Programação de computador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Babcock, David",
+                "q": "David John",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000472",
+        "005": "20190729093153.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.3",
+            "b": "E55p",
+            "c": "1982"
+        },
+        "110": {
+            "a": "Empresa Digital Brasileira"
+        },
+        "245": {
+            "a": "Panorama da indústria nacional",
+            "b": "computadores e periféricos [1983]",
+            "h": "Impresso",
+            "c": "Empresa Digital Brasileira"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Empresa Digital Brasileira",
+                "c": "1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "109",
+                "b": "il., tab."
+            }
+        ],
+        "505": [
+            {
+                "a": "I - Idade e capital -- II - Faturamento das empresas -- III - Distribuição do faturamento por tipo de cliente e forma de comercialização -- IV - Distribuição geográfica do faturamento -- V - Canais de distribuição -- VI - Recursos humanos -- VII - Produção industrial e P&D -- VIII - Software -- IX - Hardware - sistemas -- X - Hardware - periféricos e outros dispositivos -- XI - Principais problemas."
+            }
+        ],
+        "520": {
+            "a": "Este documento compila os resultados de pesquisa realizada diretamente com as empresas do setor, cujos projetos de fabricação tenham sido aprovados pela SEI. À época da divulgação dos questionários, 83 empresas nacionais tinham projetos aprovados na SEI e todas estas foram consultadas. Apenas 54 responderam e, dentre estas, fomos levados a eliminar 8 firmas por haverem fornecido informações incompletas e insuficientes para fins de análise. Deste modo, esta edição 1982 do panorama abrangeu 46 empresas nacionais, representando mais de 80% do capital e do faturamento do setor de fabricação nacional no seu total. Todas as grandes empresas montadoras estão presentes nesta pesquisa, o mesmo podendo-se dizer a respeito das principais produtoras de periféricos e microcomputadores. De modo que a amostra analisada é representativa do universo de empresas nacionais de fabricação de equipamentos."
+        },
+        "650": [
+            {
+                "a": "Indústria de computador",
+                "x": "Indicadores",
+                "z": "Brasil"
+            },
+            {
+                "a": "Equipamento periférico",
+                "x": "Indústria",
+                "z": "Brasil"
+            },
+            {
+                "a": "Software",
+                "x": "Indicadores",
+                "z": "Brasil"
+            },
+            {
+                "a": "Hardware",
+                "x": "Indicadores",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002157",
+        "005": "20190805130430.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.45",
+            "b": "H483",
+            "c": "c1993"
+        },
+        "245": {
+            "a": "Help compiler guide",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Redmont, Washington",
+                "b": "Microsoft Press",
+                "c": "c1993"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiii, 171 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistemas operacionais (Computadores)",
+                "x": "Help do Windows"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

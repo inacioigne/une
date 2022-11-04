@@ -1,0 +1,74 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002375",
+        "005": "20190802090149.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004",
+            "b": "C755e",
+            "c": "[1988]",
+            "d": "SECT"
+        },
+        "110": {
+            "a": "Conselho Nacional de Informática e Automação",
+            "c": "Brasil"
+        },
+        "245": {
+            "a": "Exame suscinto dos segmentos de informática",
+            "h": "Impresso",
+            "c": "Conselho Nacional de Informática e Automação"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Conselho Nacional de Informática e Automação",
+                "c": "[1988]"
+            }
+        ],
+        "300": [
+            {
+                "a": "52",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "Apresentação -- Uso da informática -- 1. Exame de diretrizes relevantes -- 2. Conclusões -- Produção de bens e serviços de informática, diretrizes gerais -- 1. Exame de diretrizes relevantes -- 2. Conclusões -- Microeletrônica -- 1. Subsídios para exame das diretrizes relevantes -- 2. Conclusões -- Microeletrônica -- 1. Exame de diretrizes relevantes -- 2. Conclusões -- Software -- 1. Exame de diretrizes relevantes -- 2. Conclusões -- Equipamentos para processamento eletrônico de dados e seus periféricos -- 1. Exame de diretrizes relevantes -- 2. Conclusões -- Automação industrial -- 1. Exame de diretrizes relevantes -- 2. Conclusões -- Instrumentação digital -- 1. Exame de diretrizes relevantes -- 2. Conclusões -- Teleinformática -- 1. Exame de diretrizes relevantes -- 2. Conclusões -- Automação de serviços bancários, comerciais e de escritório -- 1. Exame de diretrizes relevantes -- 2. Conclusões -- Prestação de serviços técnicos de informática. 1. Exame de diretrizes relevantes -- Pesquisa e desenvolvimento (P&D) -- 1. Exame de diretrizes relevantes -- Formação e desenvolvimento de recursos humanos - RH -- 1. Exame de diretrizes relevantes -- 2. Conclusões. Aplicação dos incentivos -- Normalização e certificação de conformidade. 1. Exame de diretrizes relevantes -- 2. Conclusões."
+            }
+        ],
+        "520": {
+            "a": "Os dados e informações apresentados constitui-se em potente conjunto sobre o setor de informática, e alcança todos os seus segmentos. O trabalho consta de três capítulos, cada um representando um conjunto: Exame sucinto de cada segmento do setor de informática, quadros e tabelas representando indicadores, e o conjunto de diretrizes, consideradas relevantes, em pesquisa no âmbito da SEI, com a descrição do objeto de suas preocupações (funções) e os atributos (indicadores) correspondentes."
+        },
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Serviços"
+            },
+            {
+                "a": "Tecnologia industrial"
+            },
+            {
+                "a": "Microeletrônica"
+            },
+            {
+                "a": "Software"
+            },
+            {
+                "a": "Instrumentação de sistemas"
+            },
+            {
+                "a": "Telemática"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

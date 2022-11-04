@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004732",
+        "005": "20190813132820.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "622.333",
+            "b": "R896c",
+            "c": "1988"
+        },
+        "100": {
+            "a": "Rubio, Jorge"
+        },
+        "245": {
+            "a": "Carvão mineral",
+            "b": "caracterização e beneficiamento",
+            "c": "Jorge Rubio",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Porto Alegre",
+                "b": "Nova Linha Artes Graficas",
+                "c": "1988"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "240",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia",
+                "x": "Mina"
+            },
+            {
+                "a": "Mineração"
+            },
+            {
+                "a": "Beneficiamento de minério"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

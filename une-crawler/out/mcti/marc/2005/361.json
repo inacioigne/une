@@ -1,0 +1,80 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000361",
+        "005": "20190808125022.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7(81)(063)",
+            "b": "S612d",
+            "c": "1995"
+        },
+        "111": {
+            "a": "Simpósio Brasileiro de Redes de Computadores",
+            "c": "Belo Horizonte, MG",
+            "d": "1995",
+            "n": "13"
+        },
+        "245": {
+            "a": "Anais do 13° Simpósio Brasileiro de Redes de Computadores",
+            "b": "SBRC 95, Belo Horizonte, Minas Gerais, 22 a 26 de maio de 1995",
+            "c": "editado por José Marcos Silva Nogueira",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Belo Horizonte",
+                "b": "Universidade Federal de Minas Gerais",
+                "c": "1995"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "655",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Comunicação de dados",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Rede de computador",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Rede local",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Gerenciamento de banco de dados",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Protocolo de comunicação",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Nogueira, José Marcos Silva",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

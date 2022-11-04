@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002311",
+        "005": "20190802095045.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502.2(213.56:811)",
+            "b": "E96",
+            "c": "1996"
+        },
+        "245": {
+            "a": "O experimento de grande escala da biosfera-atmosfera na Amazônia (LBA)",
+            "b": "plano experimental conciso",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "Experimento de grande escala biosfera-atmosfera en la Amazonía (LBA): plan experimental conciso. Português"
+            }
+        ],
+        "260": [
+            {
+                "a": "Cachoeira Paulista",
+                "b": "Large Scale Biosphere-Atmosphere Experiment in Amazonia",
+                "c": "1996"
+            }
+        ],
+        "300": [
+            {
+                "a": "48 f.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Grupo de Planejamento Científico do LBA"
+            }
+        ],
+        "650": [
+            {
+                "a": "Meteorologia",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Satélite meteorológico"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

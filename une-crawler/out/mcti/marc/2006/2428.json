@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002428",
+        "005": "20190813131935.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:378.4(036)",
+            "b": "B823c",
+            "c": "1989",
+            "d": "SEI"
+        },
+        "110": {
+            "a": "Brasil. Secretaria Especial de Informática"
+        },
+        "245": {
+            "a": "Catálogo das instituições de ensino superior",
+            "b": "1989",
+            "c": "Secretaria Especial de Informática",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Secretaria Especial de Informática",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "48 f.",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "I - Tecnólogo -- Quadro demonstrativo da distribuição dos cursos por região -- Localização geográfica dos Cursos de Tecnólogo em Processamento de Dados -- Relação das Instituições de Ensino Superior - I.E.S. que mantêm curso de Tecnólogo em Processamento de Dados -- Relação das I.E.S. que mantém Curso de Tecnólogo em Técnicas Digitais e Manutenção de Computadores -- II - Bacharelado -- Quadro demonstrativo da distribuição dos Cursos por região -- Localização geográfica dos Cursos de Bacharel em Ciência da Computação -- Relação das Instituições de Ensino Superior que mantêm Cursos em Ciência da Computação -- III - Engenharia - Localização geográfica dos cursos de engenharia com ênfase em computação e/ou eletrônica -- Relação das I. E. S. que mantêm Cursos de Engenharia com ênfase em Análise de Sistemas -- IV - Administração -- Relação das I. E. S. que mantêm Cursos de Administração com ênfase em Sistema de Informação -- V - Matemática -- Relação das I.E.S. que mantêm Cursos de Matemática com ênfase em Análise de Sistemas -- VI - Pós-graduação -- Localização geográfica dos Cursos de Pós-Graduação existentes no país na área de informática -- Relação das I.E.S. que mantêm cursos de Pós-Graduação e suas áreas de concentração."
+            }
+        ],
+        "520": {
+            "a": "Neste Catálogo estão agrupadas informações quanto à distribuição geográfica, variedade dos Cursos, número de vagas e endereços das Instituições de Ensino que oferecem os Custos. As informações básicas aqui apresentadas têm o objetivo de facilitar ao leitor a busca de outros dados segundo suas necessidades. Apresenta também, a relação dos Cursos de nível superior de Graduação e Pós-Graduação em campos específicos da Informática elaborado a partir da informações disponíveis até novembro de 1988 do Conselho Federal de Educação, Secretaria de Ensino Superior e Ensino Superior e Coordenação de Aperfeiçoamento de Pessoal de Nível Superior do MEC e do Departamento de Recursos Humanos/SEI."
+        },
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Ensino superior",
+                "z": "Brasil"
+            },
+            {
+                "a": "Ensino superior",
+                "x": "Cadastros",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

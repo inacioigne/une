@@ -1,0 +1,74 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002621",
+        "005": "20190807104552.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004",
+            "b": "S318s",
+            "c": "=134.3",
+            "d": "1975"
+        },
+        "100": {
+            "a": "Scheid, Francis J"
+        },
+        "245": {
+            "a": "Introdução à ciência dos computadores",
+            "b": "resumo da teoria, 300 problemas resolvidos, 299 problemas propostos",
+            "c": "Francis Scheid ; tradução de Orlando Agueda",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "McGraw-Hill do Brasil",
+                "c": "1975"
+            }
+        ],
+        "300": [
+            {
+                "a": "404",
+                "c": "23 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Coleção Schaum"
+            }
+        ],
+        "505": [
+            {
+                "a": "1. Processamento de dados -- 2. Álgebra booleana -- 3. Máquinas booleanas para aplicações epeciais -- 4. Projeto de comutadores -- 5. A linguagem da máquina -- 6. As linguagens de programação -- 7. Introdução à linguagem Fortran -- 8. Conjuntos -- 9. Separação -- 10. Classificação -- 11. Arrolamento -- 12. Subprogramas -- 13. Computações lógicas -- 14. Pensamento, aprendizado, e inteligência -- Apêndice - I. Complementos à linguagem Fortran -- Apêndice - II. Biblioteca de Suprogramas -- Apêndice - III. Bibliografia"
+            }
+        ],
+        "534": {
+            "a": "Schaum's outline of theory and problems of computer"
+        },
+        "650": [
+            {
+                "a": "Ciência da computação"
+            },
+            {
+                "a": "Processamento de dados"
+            },
+            {
+                "a": "Álgebra booleana"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "FORTRAN"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

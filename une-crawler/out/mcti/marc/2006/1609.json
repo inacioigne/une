@@ -1,0 +1,88 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001609",
+        "005": "20190802132558.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8570980485"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "581.47(811)",
+            "b": "C376f",
+            "c": "MPEG"
+        },
+        "100": {
+            "a": "Cavalcante, Paulo B.",
+            "q": "Paulo Bezerra"
+        },
+        "245": {
+            "a": "Frutas comestíveis da Amazônia",
+            "c": "Paulo B. Cavalcante",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "6. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Belém",
+                "b": "Museu Paraense Emílio Goeldi",
+                "c": "1996"
+            }
+        ],
+        "300": [
+            {
+                "a": "279",
+                "b": "il., (algumas color.)"
+            }
+        ],
+        "490": [
+            {
+                "a": "Coleção Adolpho Ducke"
+            }
+        ],
+        "505": [
+            {
+                "a": "Apresentação -- Prefácio -- Introdução -- Tratamento das espécies -- Glossário -- Bibliografia geral -- Índice dos nomes científicos -- Índice dos nomes populares e famílias -- Fotos"
+            }
+        ],
+        "650": [
+            {
+                "a": "Frutas",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Produto florestal",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Planta comestível",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Noz",
+                "z": "Amazônia"
+            }
+        ],
+        "710": [
+            {
+                "a": "Museu Paraense Emilio Goeldi",
+                "c": "Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

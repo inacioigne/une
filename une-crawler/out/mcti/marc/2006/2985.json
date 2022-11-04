@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002985",
+        "005": "20190807114338.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0471050512"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.382.7",
+            "b": "B259i",
+            "c": "c1976"
+        },
+        "100": {
+            "a": "Barna, Arpad"
+        },
+        "245": {
+            "a": "Introduction to microcomputers and microprocessors",
+            "c": "Arpad Barna, Dan I. Porat",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Wiley-Interscience",
+                "c": "c1976"
+            }
+        ],
+        "300": [
+            {
+                "a": "xi, 108 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Microcomputador"
+            },
+            {
+                "a": "Microprocessador"
+            },
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Porat, Dan I",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

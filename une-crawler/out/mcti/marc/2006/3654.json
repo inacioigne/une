@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003654",
+        "005": "20190813114458.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4",
+            "b": "C738",
+            "c": "1990"
+        },
+        "245": {
+            "a": "Computers & software",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[S.l.]",
+                "b": "Baker & McKenzie",
+                "c": "1990"
+            }
+        ],
+        "300": [
+            {
+                "a": "419"
+            }
+        ],
+        "650": [
+            {
+                "a": "Computadores"
+            },
+            {
+                "a": "Software"
+            },
+            {
+                "a": "Hardware"
+            },
+            {
+                "a": "Propriedade intelectual"
+            },
+            {
+                "a": "Segurança de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

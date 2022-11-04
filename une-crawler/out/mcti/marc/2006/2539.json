@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002539",
+        "005": "20190808152430.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "008(81)(084.4)",
+            "b": "B823m",
+            "c": "1980"
+        },
+        "110": {
+            "a": "Brasil. Ministério da Educação"
+        },
+        "245": {
+            "a": "Mapa cultural",
+            "b": "artesanato, folclore, patrimônio ecológico, patrimônio histórico : v. 1 Acre - MInas Gerais",
+            "h": "Impresso",
+            "c": "Ministério da Educação"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Fundação Movimento Brasileiro de Alfabetização",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "544",
+                "b": "il., mapas"
+            }
+        ],
+        "650": [
+            {
+                "a": "Patrimônio cultural",
+                "x": "Noção de Conservação",
+                "z": "Brasil"
+            },
+            {
+                "a": "Artesanato",
+                "z": "Brasil"
+            },
+            {
+                "a": "Folclore",
+                "z": "Brasil"
+            },
+            {
+                "a": "Conservação da natureza",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Fundação Movimento Brasileiro de Alfabetização",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

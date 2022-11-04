@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002056",
+        "005": "20190809151831.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451.9",
+            "b": "M626i",
+            "c": "c1994"
+        },
+        "245": {
+            "a": "Microsoft Windows NT server",
+            "b": "version 3.5",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Redmont, Washington",
+                "b": "Microsoft Press",
+                "c": "c1994"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxi, 192 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Installation Guide"
+            }
+        ],
+        "500": [
+            {
+                "a": "Acompanhado de um encarte: Microsoft Windows NT Version 3.5, hardware compatibility list."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistemas operacionais (Computadores)",
+                "x": "Windows NT (Sistema operacional de computador)"
+            },
+            {
+                "a": "Comunicação de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

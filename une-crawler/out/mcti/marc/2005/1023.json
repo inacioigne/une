@@ -1,0 +1,92 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001023",
+        "005": "20190813143846.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "852850042X"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "551.583",
+            "b": "C758",
+            "c": "[2000]"
+        },
+        "245": {
+            "a": "Consumo de energia e aquecimento do planeta",
+            "b": "análise do Mecanismo de Desenvolvimento Limpo - MDL - do Protocolo de Quioto - estudos de caso",
+            "c": "autores: Maria Silvia Muylaert (coordenação) ... [et al.] ; supervisores: Luiz Pinguelli Rosa, Marcos Aurélio V. de Freitas, José Domingos G. Miguez",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Universidade Federal do Rio de Janeiro, Coordenação dos Programas de Pós-graduação de Engenharia",
+                "c": "[2000]"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "247"
+            }
+        ],
+        "650": [
+            {
+                "a": "Energia",
+                "x": "Consumo (Economia)"
+            },
+            {
+                "a": "Aquecimento global"
+            },
+            {
+                "a": "Mecanismo de desenvolvimento limpo"
+            },
+            {
+                "a": "Protocolo de Quioto"
+            },
+            {
+                "a": "Setor elétrico",
+                "z": "Brasil"
+            },
+            {
+                "a": "Energia elétrica",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Muylaert, Maria Silvia",
+                "e": "Coordenador"
+            },
+            {
+                "a": "Rosa, Luiz Pinguelli",
+                "d": "1942-",
+                "e": "Supervisor"
+            },
+            {
+                "a": "Freitas, Marcos Aurélio Vasconcelos de",
+                "e": "Supervisor"
+            },
+            {
+                "a": "Gonzalez Miguez, José Domingos",
+                "d": "1953-",
+                "e": "Supervisor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001571",
+        "005": "20190807135546.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8522400938"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.414.2",
+            "b": "H669p",
+            "c": "1987"
+        },
+        "100": {
+            "a": "Hirschfeld, Henrique",
+            "d": "1927-"
+        },
+        "245": {
+            "a": "Planejamento com PERT-CPM e análise do desempenho",
+            "b": "método manual e por computadores eletrônicos aplicados a todos os fins : contruções civis, marketing etc",
+            "c": "Henrique Hirschfeld",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "9. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Atlas",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "335",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "9 edição, revista e ampliada."
+            }
+        ],
+        "650": [
+            {
+                "a": "Aplicativo de tecnologia",
+                "x": "PERT-CPM"
+            },
+            {
+                "a": "Análise de redes (Planejamento)",
+                "x": "PERT-CPM"
+            },
+            {
+                "a": "Análise de sistemas"
+            },
+            {
+                "a": "Modelos matemáticos"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

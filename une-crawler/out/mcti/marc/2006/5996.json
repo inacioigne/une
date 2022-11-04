@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005996",
+        "005": "20190802111537.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "681.5:007.5(73)",
+            "b": "E79f",
+            "c": "1986"
+        },
+        "110": {
+            "a": "Estados Unidos. Congress. Office of Technology Assessment"
+        },
+        "245": {
+            "a": "Federal government information technology",
+            "b": "management, security, and congressional oversight",
+            "h": "Impresso",
+            "c": "Estados Unidos. Congress. Office of Technology Assessment"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "Congress of the U.S., Office of Technology Assessment",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "viii, 190 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Governo",
+                "x": "Informação",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Legislação"
+            },
+            {
+                "a": "Informação tecnológica",
+                "z": "Estados Unidos"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

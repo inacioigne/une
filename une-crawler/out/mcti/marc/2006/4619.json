@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004619",
+        "005": "20190805124205.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5-047.37(1-773)(036)",
+            "b": "C734g",
+            "c": "1999"
+        },
+        "110": {
+            "a": "Comissão Suiça para a Parceria Científica com os Países em Desenvolvimento"
+        },
+        "245": {
+            "a": "Guia para a parceria científica com os países em desenvolvimento",
+            "b": "11 princípios",
+            "h": "Impresso",
+            "c": "Comissão Suiça para a Parceria Científica com os Países em Desenvolvimento"
+        },
+        "260": [
+            {
+                "a": "Berna, Suiça",
+                "b": "Comissão Suiça para a Parceria Científica com os Países em Desenvolvimento",
+                "c": "1999"
+            }
+        ],
+        "300": [
+            {
+                "a": "56"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Cooperação científica e tecnológica"
+            },
+            {
+                "a": "Pesquisa científica"
+            },
+            {
+                "a": "Pesquisa cooperativa"
+            }
+        ],
+        "856": {
+            "y": "KFPE",
+            "u": "http://www.kfpe.ch/download/guidelines_port.pdf",
+            "z": "Acesso em: 05/08/2019"
+        },
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

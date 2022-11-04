@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005673",
+        "005": "20190814173415.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "005.591.6",
+            "b": "A939",
+            "c": "1988"
+        },
+        "245": {
+            "a": "Automação, competitividade e trabalho a experiência internacional",
+            "c": "Hubert Schmitz, Ruy de Quadros Carvalho, organizadores",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Hucitec",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "284"
+            }
+        ],
+        "650": [
+            {
+                "a": "Automação industrial"
+            },
+            {
+                "a": "Indústrias",
+                "x": "Automação"
+            },
+            {
+                "a": "Tecnologia industrial"
+            }
+        ],
+        "700": [
+            {
+                "a": "Schmitz, Hubert",
+                "e": "Organizador"
+            },
+            {
+                "a": "Carvalho, Ruy de Quadros",
+                "e": "Organizador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

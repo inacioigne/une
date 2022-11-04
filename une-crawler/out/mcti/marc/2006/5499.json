@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005499",
+        "005": "20190809131908.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "M612m",
+            "c": "1984"
+        },
+        "100": {
+            "a": "Meyer, Bertrand",
+            "d": "1950-"
+        },
+        "245": {
+            "a": "Méthodes de programmation",
+            "c": "Bertrand Meyer, Claude Baudoin",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "3e. éd. rev. et corr."
+            }
+        ],
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Eyrolles",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxiv, 661 p.",
+                "c": "24 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Collection de la Direction des études et recherches d'Électricité de France"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Algoritmos"
+            },
+            {
+                "a": "Matemática aplicada a informática"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)"
+            }
+        ],
+        "700": [
+            {
+                "a": "Baudoin, Claude",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

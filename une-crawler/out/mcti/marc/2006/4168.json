@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004168",
+        "005": "20190801101556.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "1881054004"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6(73)",
+            "b": "S416",
+            "c": "1993"
+        },
+        "245": {
+            "a": "Science and technology in U.S. international affairs",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[New York]",
+                "b": "Carnegie Commission on Science, Technology, and Government",
+                "c": "1993"
+            }
+        ],
+        "300": [
+            {
+                "a": "125",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e Estado",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Tecnologia e Estado",
+                "z": "Estados Unidos"
+            }
+        ],
+        "651": [
+            {
+                "a": "Estados Unidos",
+                "x": "Relações exteriores"
+            }
+        ],
+        "710": [
+            {
+                "a": "Carnegie Commission on Science, Technology, and Government",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

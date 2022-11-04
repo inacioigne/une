@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004076",
+        "005": "20190809155736.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.75(043.3)",
+            "b": "Q3m",
+            "c": "1984"
+        },
+        "100": {
+            "a": "Queiróz, José Antônio Monteiro de"
+        },
+        "245": {
+            "a": "Um modelo de sistema distribuido e proposta de kernel para a redurgs",
+            "c": "José Antônio Monteiro de Queiróz",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "c": "1984",
+                "a": "Rio Grande do Sul"
+            }
+        ],
+        "300": [
+            {
+                "a": "171",
+                "b": "il."
+            }
+        ],
+        "502": [
+            {
+                "a": "Dissertação (Mestrado) - Universidade Federal do Rio Grande do Sul. Curso de Pós-Graduação em Ciência da Computação,Porto Alegre, BR-RS, 1984."
+            }
+        ],
+        "650": [
+            {
+                "a": "Comunicação de dados"
+            },
+            {
+                "a": "Processamento distribuído"
+            },
+            {
+                "a": "Sistema distribuído"
+            },
+            {
+                "a": "Rede local"
+            }
+        ],
+        "990": {
+            "a": "Dissertações/Teses/TCC"
+        }
+    }
+}

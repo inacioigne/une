@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002638",
+        "005": "20190812184435.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "025.85",
+            "b": "C977a",
+            "c": "2004"
+        },
+        "111": {
+            "a": "Curso de Segurança de Acervos Culturais",
+            "c": "Rio de Janeiro, RJ",
+            "d": "2004",
+            "n": "2"
+        },
+        "245": {
+            "a": "Apostila do II curso de segurança de acervos culturais, 24 a 28 maio 2004",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Museu de Astronomia e Ciências Afins",
+                "c": "2004"
+            }
+        ],
+        "300": [
+            {
+                "a": "73"
+            }
+        ],
+        "650": [
+            {
+                "a": "Acervo",
+                "x": "Segurança"
+            },
+            {
+                "a": "Bibliotecas",
+                "x": "Acervo"
+            },
+            {
+                "a": "Arquivo",
+                "x": "Acervo"
+            },
+            {
+                "a": "Museus",
+                "x": "Acervo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

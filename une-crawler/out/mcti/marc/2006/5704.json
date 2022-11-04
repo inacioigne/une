@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005704",
+        "005": "20190808134416.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0135477387"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4(035)",
+            "b": "P935m",
+            "c": "1988"
+        },
+        "100": {
+            "a": "Pressman, Roger S.",
+            "d": "1947-"
+        },
+        "245": {
+            "a": "Making software engineering happen",
+            "b": "a guide for instituting the technology",
+            "c": "Roger S. Pressman",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiii, 258 p."
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia de software"
+            },
+            {
+                "a": "Software",
+                "x": "Desenvolvimento"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

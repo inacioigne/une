@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003671",
+        "005": "20190801114929.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "020": {
+            "a": "0770328520"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502.17(261.683)",
+            "b": "R586",
+            "c": "1998"
+        },
+        "245": {
+            "a": "El Río de la Plata",
+            "b": "una revision ambiental : un informe de antecedentes del Proyecto EcoPlata",
+            "c": "P.G. Wells y G.R. Daborn, editores",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "The Río de la Plata : an environmental overview : an EcoPlata Project background report"
+            }
+        ],
+        "260": [
+            {
+                "a": "Halifax, Canadá",
+                "b": "Universidad de Dalhousie",
+                "c": "1998"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxiv, 256 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ecologia",
+                "z": "Rio da Prata"
+            }
+        ],
+        "651": [
+            {
+                "a": "Rio da Prata",
+                "z": "Argentina"
+            }
+        ],
+        "700": [
+            {
+                "a": "Daborn, Graham R.",
+                "q": "Graham Richard",
+                "e": "Editor"
+            },
+            {
+                "a": "Wells, P. G",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

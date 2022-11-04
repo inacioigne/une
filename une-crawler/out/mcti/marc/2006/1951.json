@@ -1,0 +1,81 @@
+{
+    "controfield": {
+        "000": "     nas  22      a 4500",
+        "001": "000001951",
+        "005": "20170120150352.0",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6(05)"
+        },
+        "245": {
+            "a": "Capre",
+            "b": "boletim informativo",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Comissão de Coordenação das Atividades de Processamento de Dados",
+                "c": "1973-1979"
+            }
+        ],
+        "300": [
+            {
+                "b": "v"
+            }
+        ],
+        "310": {
+            "a": "Irregular"
+        },
+        "410": {
+            "a": "Brasil. Secretaria de Planejamento",
+            "b": "Comissão das Atividades de Processamento Eletrônico"
+        },
+        "500": [
+            {
+                "a": "Publicação interrompida de 1977 a 1979"
+            }
+        ],
+        "505": [
+            {
+                "a": "Publica notícias das atividades da CAPRE e informações julgadas de valor para usuários e profissionais de processamento de dados. Criação da Capre - Pronunciamento do Presidente da CAPRE, Dr. Henrique Flanzer, (v 1, n. 1, abr./jun. 1973)"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Periódico",
+                "z": "Brasil"
+            },
+            {
+                "a": "Legislação",
+                "x": "Periódico"
+            },
+            {
+                "a": "Processamento de dados",
+                "x": "Periódico",
+                "z": "Brasil"
+            },
+            {
+                "a": "Computadores",
+                "x": "Periódico",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Comissão de Coordenação das Atividades de Processamento Eletrônico",
+                "c": "Brasil",
+                "e": "Indefinida"
+            }
+        ],
+        "990": {
+            "a": "Periódicos"
+        }
+    }
+}

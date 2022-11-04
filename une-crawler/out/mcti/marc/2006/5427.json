@@ -1,0 +1,77 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005427",
+        "005": "20190809102152.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "044487626X"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.896(100)(063)",
+            "b": "I61p",
+            "c": "1984"
+        },
+        "111": {
+            "a": "International Conference on Robot Vision and Sensory Controls",
+            "c": "Londres (Inglaterra)",
+            "d": "1984",
+            "n": "4"
+        },
+        "245": {
+            "a": "Proceedings of the 4th International Conference on Robot Vision and Sensory Controls, 9-11 October 1984, London, U.K.",
+            "c": "edited by A. Pugh ; organised by IFS (Conferences), Ltd, UK ; sponsored by the Fraunhofer Institut für Produktionstechnik und Automatisierung (IPA), W. Germany ... [et al.].",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Kempston, Bedford, Inglaterra",
+                "b": "IFS Publications"
+            },
+            {
+                "a": "Nova Iorque",
+                "b": "Elsevier Science Publishers",
+                "c": "c1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "viii, 500",
+                "c": "31 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Robótica",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Automação industrial",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Pugh, A.",
+                "q": "Alan",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Fraunhofer-Institut für Produktionstechnik und Automatisierung",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

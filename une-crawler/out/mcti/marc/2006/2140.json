@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002140",
+        "005": "20190812163500.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "37.018.8:004(063)",
+            "b": "S471a",
+            "c": "1982",
+            "d": "SEI"
+        },
+        "111": {
+            "a": "Seminários Nacionais de Informática na Educação",
+            "c": "Brasília, DF",
+            "d": "1982",
+            "n": "1 e 2"
+        },
+        "245": {
+            "a": "Anais do Seminários nacionais de informática na educação",
+            "b": "Brasília, DF, 25 a 27 de agosto de 1981 e 26 a 28 de agosto de 1982",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "I e II Seminários Nacionais de Informática na Educação"
+            }
+        ],
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Secretaria Especial de Informática",
+                "c": "1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "164",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática na educação",
+                "x": "Aspectos políticos"
+            },
+            {
+                "a": "Computadores",
+                "x": "Aspectos políticos"
+            },
+            {
+                "a": "Países em desenvolvimento"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

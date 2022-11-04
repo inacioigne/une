@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003224",
+        "005": "20190808152228.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "669(520:81)(063)",
+            "b": "J35p",
+            "c": "2000"
+        },
+        "111": {
+            "a": "Japan-Brazil Symposium on Dust Processing-Energy-Environment in Metallurgical Industries",
+            "c": "São Paulo, SP",
+            "d": "2000",
+            "n": "2"
+        },
+        "245": {
+            "a": "Proceedings",
+            "c": "ed. J. Yagi, C. Takano",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Universidade de São Paulo",
+                "c": "2001"
+            }
+        ],
+        "300": [
+            {
+                "a": "191",
+                "b": "il., tabs., grafs."
+            }
+        ],
+        "650": [
+            {
+                "a": "Metalurgia",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Indústria metalurgica",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Metalurgia do pó",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Yagi, Jun-ichiro",
+                "e": "Editor"
+            },
+            {
+                "a": "Takano, Cyro",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

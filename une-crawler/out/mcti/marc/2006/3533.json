@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003533",
+        "005": "20190813172530.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4(81)",
+            "b": "R788c",
+            "c": "2000"
+        },
+        "100": {
+            "a": "Rosa, Newton Braga"
+        },
+        "245": {
+            "a": "COMDEX spring 96 Chicago",
+            "b": "diretrizes para participação brasileira em futuras edições",
+            "c": "Newton Braga Rosa, Arnaldo Mendoza Ayala",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Campinas",
+                "b": "Sociedade Brasileira para Promoção da Exportação de Software",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "67",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "z": "Brasil"
+            },
+            {
+                "a": "Software",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Mendoza Ayala, Arnaldo",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

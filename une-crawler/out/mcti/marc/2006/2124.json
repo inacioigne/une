@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002124",
+        "005": "20190806101321.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.3:338.45(81)",
+            "b": "B823i",
+            "c": "1979-1980",
+            "d": "SEI"
+        },
+        "110": {
+            "a": "Brasil. Secretaria Especial de Informática"
+        },
+        "245": {
+            "a": "Indústria brasileira de hardware",
+            "b": "situação atual e tendências (1979-1980)",
+            "c": "Secretaria Especial de Informática",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Secretaria Especial de Informática",
+                "c": "1981"
+            }
+        ],
+        "300": [
+            {
+                "b": "il.",
+                "a": "1 v."
+            }
+        ],
+        "500": [
+            {
+                "a": "O objetivo do trabalho é realizar, de maneira sistemática, estudos sobre o setor industrial e elaborar relatórios periódicos a respeito (diagnóstico da situação corrente e avaliação prospectiva). Para este 1º relatório, a intenção inicial era trabalhar apenas com dados existentes na Subsecretaria Industrial (Coordenação de Projetos Industriais).Porém, como aqueles dados não são coletados de forma ordenada e sistemática, nem sempre são os mais atualizados (e, inclusive, para o nosso estudo monstraram-se insuficiente), tivemos que recorrer aos serviços da SERASA e ao levantamento de dados junto às empresas do setor. As empresas selecionadas foram aquelas incluídas na relação oficial da SEI e que efetivamente, no período 1979-1980, tenham fabricado e comercializado algum tipo de produto que pela nossa classificação seria enquadrados nos segmentos de sistemas de computação, periféricos e telecomunicações."
+            },
+            {
+                "a": "Elaboração: Fevereiro/Março de 1981"
+            }
+        ],
+        "505": [
+            {
+                "a": "v. 1 (relatório) -- I. Introdução -- II. Situação econômico fincanceira -- 1. Sistemas de computação -- 2. Discos magnéticos -- 3. Fitas mangéticas -- 4. Impressoras -- 5. Entrada de dados (tipo \"Stand alone\") -- 6. Terminais -- 7. Modems -- 8. Outras -- III. Situação técnica e mercadológica -- 1. Sistemas de computação -- 2. Discos magnéticos -- 3. Fitas mangéticas -- 4. Impressoras -- 5. Entrada de dados (tipo \"Stand alone\") -- 6. Terminais -- 7. Modems -- 8. Outras -- IV. Análise global -- V. Conclusões. / v. 2 (anexos) -- I. Correspondências às empresas fabricantes -- II. Relação das empresas fabricantes -- III. Relação das empresas que não responderam ao questinário -- IV. Análise individual das empresas: resumo econômico-financeiro -- V. Análise individual das empresas: resumos técnico industrial -- VI. Evolução do mercado internacional de computadores."
+            }
+        ],
+        "650": [
+            {
+                "a": "Indústria de computador",
+                "x": "1979-1980",
+                "z": "Brasil"
+            },
+            {
+                "a": "Empresas",
+                "x": "1979-1980",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

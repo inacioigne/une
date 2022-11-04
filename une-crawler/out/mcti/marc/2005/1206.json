@@ -1,0 +1,77 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001206",
+        "005": "20190801192338.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "35.075.52(047)INB",
+            "b": "I42i",
+            "c": "2002",
+            "d": "INB"
+        },
+        "110": {
+            "a": "Indústrias Nucleares do Brasil"
+        },
+        "245": {
+            "a": "Demonstrações financeiras, 2002",
+            "h": "Impresso",
+            "c": "Indústrias Nucleares do Brasil"
+        },
+        "246": [
+            {
+                "a": "Financial report"
+            }
+        ],
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Indústrias Nucleares do Brasil",
+                "c": "2003"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "20 f.",
+                "b": "il., tab."
+            }
+        ],
+        "500": [
+            {
+                "a": "Texto em inglês e português"
+            }
+        ],
+        "650": [
+            {
+                "a": "Pesquisa nuclear",
+                "x": "Pesquisa e desenvolvimento",
+                "z": "Brasil"
+            },
+            {
+                "a": "Demonstração financeira",
+                "x": "Relatórios",
+                "z": "Brasil"
+            },
+            {
+                "a": "Tecnologia nuclear",
+                "x": "Política e governo",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

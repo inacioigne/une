@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001906",
+        "005": "20190730142339.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "020": {
+            "a": "9501398692"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.725.5",
+            "b": "S237r",
+            "c": "1989"
+        },
+        "100": {
+            "a": "Santos, Jorge"
+        },
+        "245": {
+            "a": "Redes locales",
+            "c": "Jorge Santos",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Buenos Aires",
+                "b": "Kapelusz",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "124",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Versão preliminar apresentada na IV Escola Brasileiro-Argentina de Informática, Santiago del Estero, 1989."
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Rede local"
+            },
+            {
+                "a": "Comunicação de dados"
+            },
+            {
+                "a": "Protocolo de comunicação"
+            },
+            {
+                "a": "Telemática"
+            },
+            {
+                "a": "Rede de telecomunicação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

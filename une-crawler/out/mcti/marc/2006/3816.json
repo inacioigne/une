@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003816",
+        "005": "20190807092252.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8524401249"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "511",
+            "b": "C871n",
+            "c": "2000"
+        },
+        "100": {
+            "a": "Coutinho, S. C"
+        },
+        "245": {
+            "a": "Números inteiros e criptografia RSA",
+            "c": "S. C. Coutinho",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Instituto Nacional de Matemática Pura e Aplicada",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "213",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Série de Computação e Matemática"
+            }
+        ],
+        "650": [
+            {
+                "a": "Matemática"
+            },
+            {
+                "a": "Criptografia"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Matemática Pura e Aplicada (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

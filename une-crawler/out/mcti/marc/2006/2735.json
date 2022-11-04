@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002735",
+        "005": "20190805114014.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0070710481"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.8",
+            "b": "P974",
+            "c": "1975"
+        },
+        "245": {
+            "a": "The psychology of computer vision",
+            "c": "Patrick Henry Winston, editor ; with contributions from Berthold Horn ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "McGraw-Hill",
+                "c": "c1975"
+            }
+        ],
+        "300": [
+            {
+                "a": "vi, 282",
+                "c": "25 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "McGraw-Hill computer science series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Visão por computador"
+            },
+            {
+                "a": "Inteligência artificial"
+            }
+        ],
+        "700": [
+            {
+                "a": "Winston, Patrick Henry",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

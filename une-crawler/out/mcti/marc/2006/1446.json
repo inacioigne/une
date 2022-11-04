@@ -1,0 +1,97 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001446",
+        "005": "20190802143719.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "330.567.2(81)",
+            "b": "G256",
+            "c": "2002"
+        },
+        "245": {
+            "a": "Gastos alimentares nas grandes regiões urbanas do Brasil",
+            "b": "aplicação do modelo AID aos microdados da POF 1995-1996 IBGE",
+            "c": "Tatiane Menezes ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "2002"
+            }
+        ],
+        "300": [
+            {
+                "a": "21 f.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Texto para discussão / IPEA",
+                "v": "896",
+                "x": "1415-4765"
+            }
+        ],
+        "520": {
+            "a": "Estima a elasticidade para 39 produtos alimentares a partir do modelo AID (Almost Ideal Demand System) com expansão quadrática para gastos familiares per capita. Utiliza a base de dados da Pesquisa de Orçamentos Familiares (POF) de 1995/1996 do IBGE."
+        },
+        "650": [
+            {
+                "a": "Renda familiar",
+                "z": "Brasil"
+            },
+            {
+                "a": "Alimentos",
+                "x": "Gastos"
+            }
+        ],
+        "700": [
+            {
+                "a": "Menezes, Tatiane",
+                "e": "Coautor"
+            },
+            {
+                "a": "Silveira, Fernando Gaiger",
+                "d": "1964-",
+                "e": "Coautor"
+            },
+            {
+                "a": "Magalhães, Luís Carlos G. de",
+                "e": "Coautor"
+            },
+            {
+                "a": "Tomich, Frederico Andrade",
+                "e": "Coautor"
+            },
+            {
+                "a": "Vianna, Salvador Werneck",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "IPEA",
+            "u": "http://www.ipea.gov.br/portal/images/stories/PDFs/TDs/td_0896.pdf",
+            "z": "Acesso em: 02/08/2019"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

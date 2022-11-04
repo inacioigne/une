@@ -1,0 +1,51 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004520",
+        "005": "20190731120301.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7(4)",
+            "b": "R432",
+            "c": "2003"
+        },
+        "245": {
+            "a": "Research networking in Europe",
+            "b": "striving for global leadership, september 2002",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Bélgica",
+                "b": "Comunidade Européia",
+                "c": "2003"
+            }
+        ],
+        "300": [
+            {
+                "a": "82",
+                "b": "il., color"
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Tecnologia da informação e da comunicação"
+            },
+            {
+                "a": "Sociedade da informação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

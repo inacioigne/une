@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005506",
+        "005": "20190808095946.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "2880740924"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.01",
+            "b": "S921m",
+            "c": "1986"
+        },
+        "100": {
+            "a": "Strohmeier, Alfred"
+        },
+        "245": {
+            "a": "Le matériel informatique",
+            "b": "concepts et principes",
+            "c": "Alfred Strohmeier",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Lausanne",
+                "b": "Presses polytechniques romandes",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxii, 750 p."
+            }
+        ],
+        "490": [
+            {
+                "a": "Collection informatique"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

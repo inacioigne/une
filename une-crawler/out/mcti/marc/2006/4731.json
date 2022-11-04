@@ -1,0 +1,76 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004731",
+        "005": "20220120103401.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "60(81+82)",
+            "b": "C397c",
+            "c": "2004",
+            "d": "MCT"
+        },
+        "110": {
+            "a": "Centro Brasileiro Argentino de Biotecnologia"
+        },
+        "245": {
+            "a": "Centro Brasileiro Argentino de Biotecnologia",
+            "b": "16 anos de atuação : 1987 - 2002",
+            "c": "Maria Carlota de Souza Paula (coordenadora), Isabel Teresa Gama Alves, Celina Roitman",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Ministério da Ciência e Tecnologia",
+                "c": "2004"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "90",
+                "b": "il., grafs., tabs"
+            }
+        ],
+        "650": [
+            {
+                "a": "Biotecnologia",
+                "x": "Relatórios",
+                "z": "Argentina"
+            },
+            {
+                "a": "Cooperação internacional",
+                "x": "Relatórios",
+                "z": "Argentina"
+            }
+        ],
+        "700": [
+            {
+                "a": "Paula, Maria Carlota de Souza",
+                "e": "Coordenador"
+            },
+            {
+                "a": "Alves, Isabel Teresa Gama",
+                "e": "Coautor"
+            },
+            {
+                "a": "Roitman, Celina",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

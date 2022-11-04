@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005771",
+        "005": "20190802092026.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0138232040"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4:005.6",
+            "b": "D486s",
+            "c": "1988"
+        },
+        "100": {
+            "a": "Deutsch, Michael S"
+        },
+        "245": {
+            "a": "Software quality engineering",
+            "b": "a total technical and management approach",
+            "c": "Michael S. Deutsch, Ronald R. Willis",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "c1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiii, 317",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Prentice-Hall series in software engineering"
+            }
+        ],
+        "650": [
+            {
+                "a": "Software",
+                "x": "Controle de qualidade"
+            },
+            {
+                "a": "Software",
+                "x": "Desenvolvimento"
+            }
+        ],
+        "700": [
+            {
+                "a": "Willis, Ronald R",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005050",
+        "005": "20190729150757.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "665.6/.7:336.714(81)",
+            "b": "P964",
+            "c": "2003",
+            "d": "INT"
+        },
+        "110": {
+            "a": "Brasil. Ministério da Ciência e Tecnologia"
+        },
+        "245": {
+            "a": "Projeto CTPETRO",
+            "b": "tendências tecnológicas",
+            "h": "Impresso",
+            "c": "Ministério da Ciência e Tecnologia"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Instituto Nacional de Tecnologia",
+                "c": "2003"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v."
+            }
+        ],
+        "505": [
+            {
+                "a": "v. 1. Desafios e temas tecnológicos: relatório preliminar -- v. 2. Projeto e tendências: resultados e proposta de ações (documento elaborado para reunião do CTPETRO, 15 de outubro de 2003) -- v. 3. Tendências tecnológicas para o setor de petróleo e gás natural: coletânea de resumos executivos."
+            }
+        ],
+        "520": {
+            "a": "Aponta as principais carências e desafios de P&D&I e RH no Setor Mineral brasileiro e sugere diretrizes estratégicas e linhas prioritárias de ação para a implantação da fase inicial do Fundo Setorial Mineral (CT-Mineral)."
+        },
+        "650": [
+            {
+                "a": "Petróleo",
+                "x": "Fundos setoriais",
+                "z": "Brasil"
+            },
+            {
+                "a": "Fundo Setorial de Petróleo e Gás Natural",
+                "z": "Brasil"
+            },
+            {
+                "a": "Gás natural",
+                "x": "Fundos setoriais",
+                "z": "Brasil"
+            },
+            {
+                "a": "Setor de petróleo e gás natural",
+                "z": "Brasil",
+                "x": "Pesquisa e desenvolvimento"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto Nacional de Tecnologia (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

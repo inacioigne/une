@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003335",
+        "005": "20190805115425.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8575182331"
+        },
+        "090": {
+            "a": "331.54",
+            "b": "G943",
+            "d": "R",
+            "c": "2005"
+        },
+        "245": {
+            "a": "Guia de profissões",
+            "h": "Impresso",
+            "c": "Barsa Planeta"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro, RJ",
+                "b": "Encyclopaedia Britannica do Brasil",
+                "c": "2005"
+            }
+        ],
+        "300": [
+            {
+                "a": "148",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Orientação profissional"
+            },
+            {
+                "a": "Profissão"
+            }
+        ],
+        "710": [
+            {
+                "a": "Barsa Planeta",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

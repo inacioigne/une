@@ -1,0 +1,76 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002092",
+        "005": "20190801091107.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8534608257"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451.9",
+            "b": "M626d",
+            "c": "=134.3",
+            "d": "1997"
+        },
+        "100": {
+            "a": "Minasi, Mark",
+            "d": "1959-"
+        },
+        "245": {
+            "a": "Dominando o Windows NT server 4",
+            "c": "Mark Minasi, Christa Anderson e Elizabeth ; tradução João Eduardo Nóbrega Tortello ; revisão técnica Mario Magyar Franco",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Makron Books",
+                "c": "1997"
+            }
+        ],
+        "300": [
+            {
+                "a": "xlii, 801 p.",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Cutter baseado no nome da empresa afim de reunir com as demais obras no acervo."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistemas operacionais (Computadores)",
+                "x": "Windows NT (Sistema operacional de computador)"
+            },
+            {
+                "a": "Rede de computador",
+                "x": "Gerência de sistema"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Anderson, Christa",
+                "e": "Coautor"
+            },
+            {
+                "a": "Creegan, Elizabeth",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

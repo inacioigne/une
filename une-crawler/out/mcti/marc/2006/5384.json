@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005384",
+        "005": "20190805100641.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "331.101.5",
+            "b": "L586f",
+            "c": "1986"
+        },
+        "100": {
+            "a": "Leontief, Wassily W.",
+            "d": "1906-"
+        },
+        "245": {
+            "a": "The future impact of automation on workers",
+            "c": "Wassily Leontief, Faye Duchin",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Oxford University Press",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiii,170",
+                "c": "25 cm"
+            }
+        ],
+        "650": [
+            {
+                "a": "Força de trabalho",
+                "x": "Modelos matemáticos",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Emprego",
+                "x": "Modelos matemáticos",
+                "z": "Estados Unidos"
+            }
+        ],
+        "700": [
+            {
+                "a": "Duchin, Faye",
+                "d": "1944-",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

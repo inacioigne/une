@@ -1,0 +1,79 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005978",
+        "005": "20190808143053.0",
+        "007": "t",
+        "008": "                                   mul"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "666.1(81)(063)",
+            "b": "S612p",
+            "c": "1995"
+        },
+        "111": {
+            "a": "Simpósio Nacional de Vidros",
+            "c": "Águas de Lindóia, SP",
+            "d": "1995",
+            "n": "1"
+        },
+        "245": {
+            "a": "Primeiro Simpósio Nacional de Vidros",
+            "b": "Águas de Lindóia, 3 a 5 de março de 1995",
+            "c": "organização, Academia de Ciências do Estado de São Paulo, Academia Brasileira de Ciências",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Academia de Ciências do Estado de São Paulo",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "245",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Texto em inglês e português"
+            }
+        ],
+        "650": [
+            {
+                "a": "Indústria do vidro",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Tecnologia do vidro",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Fabricação do vidro",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Academia de Ciências do Estado de São Paulo",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Academia Brasileira de Ciências",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

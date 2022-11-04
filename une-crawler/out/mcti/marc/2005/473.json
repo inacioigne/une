@@ -1,0 +1,81 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000473",
+        "005": "20190726113925.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "2110006455"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004(44)",
+            "b": "C543",
+            "c": "1980"
+        },
+        "100": {
+            "a": "Dalloz, Xavier"
+        },
+        "245": {
+            "a": "Les chiffres-clés de l'informatisation",
+            "c": "par Xavier Dalloz et Patrick Grandperret",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Ministère de l'industrie",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "105",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Informatisation et société",
+                "v": "7"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Estatísticas",
+                "z": "França"
+            },
+            {
+                "a": "Informática",
+                "x": "Estatísticas",
+                "z": "França"
+            },
+            {
+                "a": "Aplicativo de tecnologia",
+                "x": "Indicadores",
+                "z": "França"
+            }
+        ],
+        "700": [
+            {
+                "a": "Grandperret, Patrick",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003049",
+        "005": "20190730141039.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7",
+            "b": "S411r",
+            "c": "1978"
+        },
+        "100": {
+            "a": "Schwarz, Gerhard"
+        },
+        "245": {
+            "a": "Rede de computadores",
+            "b": "uma análise qualitativa",
+            "c": "Gerhard Schwarz",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Universidade Federal do Rio de Janeiro",
+                "c": "1978"
+            }
+        ],
+        "300": [
+            {
+                "a": "115",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Publicação Didática / COPPE / UFRJ",
+                "v": "11"
+            }
+        ],
+        "500": [
+            {
+                "a": "Programa de Engenharia de sistemas e computação"
+            }
+        ],
+        "650": [
+            {
+                "a": "Computadores"
+            },
+            {
+                "a": "Software"
+            },
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Arquitetura de rede de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

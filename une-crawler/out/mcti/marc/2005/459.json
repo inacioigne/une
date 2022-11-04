@@ -1,0 +1,108 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000459",
+        "005": "20190726091428.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004(81)(063)",
+            "b": "W926p",
+            "c": "1999"
+        },
+        "111": {
+            "a": "Workshop of International Evaluation of the ProTeM-CC Program",
+            "c": "Rio de Janeiro, RJ",
+            "d": "1999",
+            "n": "2"
+        },
+        "245": {
+            "a": "ProTeM-CC'99",
+            "b": "ProTeM-CC Conference - Projects Phase III, Rio de Janeiro, 5-7 May 1999",
+            "c": "edited by Virgílio A. F. Almeida, Celso D. Costa, Rosa M. Viccari",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "ProTeM - CC'99 : project evaluation workshop : fase III : proceedings : Rio de Janeiro - Brasil"
+            }
+        ],
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+                "c": "1999"
+            }
+        ],
+        "300": [
+            {
+                "a": "382",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Banco de dados",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Circuito integrado",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Engenharia de programação",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Multimídia",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Rede de computador",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Rede neural",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Teoria da computação",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Almeida, Virgilio A. F.",
+                "q": "Virgilio Augusto Fernandes",
+                "e": "Editor"
+            },
+            {
+                "a": "Costa, Celso D",
+                "e": "Editor"
+            },
+            {
+                "a": "Viccari, Rosa M",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

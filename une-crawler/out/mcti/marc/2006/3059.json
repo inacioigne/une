@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003059",
+        "005": "20190806101651.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.3:338.45(81)(043)",
+            "b": "T568i",
+            "c": "1978"
+        },
+        "100": {
+            "a": "Tigre, Paulo Bastos"
+        },
+        "245": {
+            "a": "Indústria de computadores e dependência tecnológica no Brasil",
+            "c": "Paulo Bastos Tigre",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "c": "1978",
+                "a": "Rio de Janeiro, RJ"
+            }
+        ],
+        "300": [
+            {
+                "a": "160",
+                "b": "il."
+            }
+        ],
+        "502": [
+            {
+                "a": "Dissertação (mestrado) - Universidade Federal do Rio de Janeiro. Coordenação dos Programas de Pós-Graduação em Engenharia, Rio de Janeiro, 1978."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "z": "Brasil"
+            },
+            {
+                "a": "Indústria de computador",
+                "z": "Brasil"
+            },
+            {
+                "a": "Transferência de tecnologia",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Dissertações/Teses/TCC"
+        }
+    }
+}

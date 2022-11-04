@@ -1,0 +1,89 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000006118",
+        "005": "20190802112144.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.1.01(73:81)(047)",
+            "b": "U58f",
+            "c": "1994"
+        },
+        "111": {
+            "a": "USA / Brazil Joint Workshop on Thermal Sciences Research",
+            "c": "Rio de Janeiro, RJ",
+            "d": "1994"
+        },
+        "245": {
+            "a": "Final technical report, \"USA / Brazil Joint Workshop on Thermal Sciences\"",
+            "b": "Rio de Janeiro, Brazil, December 1994",
+            "c": "coordinators: James P. Hartnett, Renato M. Cotta",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "[s.n.]",
+                "c": "1994"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e tecnologia",
+                "z": "Estados Unidos",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Pesquisa científica",
+                "z": "Estados Unidos",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Pesquisa tecnológica",
+                "z": "Estados Unidos",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Hartnett, J. P.",
+                "q": "James P.",
+                "e": "Coordenador"
+            },
+            {
+                "a": "Cotta, Renato M.",
+                "q": "Renato Machado",
+                "e": "Coordenador"
+            }
+        ],
+        "710": [
+            {
+                "a": "National Science Foundation (Estados Unidos)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

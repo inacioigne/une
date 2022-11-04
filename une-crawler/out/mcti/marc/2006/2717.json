@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002717",
+        "005": "20190807110206.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "C899i",
+            "c": "=134.3",
+            "d": "1974"
+        },
+        "100": {
+            "a": "Crawford, Rudd A"
+        },
+        "245": {
+            "a": "Introdução a programação de computadores",
+            "c": "Rudd A. Crawford, Jr., David H. Copp ; Albert E. Meder, Jr., consultor editorial ; tradução de Luiz Ignácio Pio de Almeida",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Porto Alegre",
+                "b": "Globo",
+                "c": "1974"
+            }
+        ],
+        "300": [
+            {
+                "a": "155",
+                "b": "il."
+            }
+        ],
+        "534": {
+            "a": "Introduction to computer programming"
+        },
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Programação matemática"
+            },
+            {
+                "a": "Programação linear"
+            }
+        ],
+        "700": [
+            {
+                "a": "Meder, Albert E",
+                "e": "Consultor"
+            },
+            {
+                "a": "Copp, David H",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

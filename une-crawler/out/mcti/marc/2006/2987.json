@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002987",
+        "005": "20190808143018.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:002(035)",
+            "b": "M294",
+            "c": "1973"
+        },
+        "245": {
+            "a": "Manual da documentação operacional de sistemas",
+            "h": "Impresso",
+            "c": "Serviço Federal de Processamento de Dados. Divisão de Normas Técnicas"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Serviço Federal de Processamento de Dados",
+                "c": "1973"
+            }
+        ],
+        "300": [
+            {
+                "a": "147",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Documentação de sistemas"
+            },
+            {
+                "a": "Documentação"
+            },
+            {
+                "a": "Fluxograma"
+            },
+            {
+                "a": "Manual"
+            }
+        ],
+        "710": [
+            {
+                "a": "Serviço Federal de Processamento de Dados. Divisão de Normas Técnicas",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

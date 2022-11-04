@@ -1,0 +1,78 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005518",
+        "005": "20190801160243.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8521603533"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.75",
+            "b": "S896s",
+            "c": "1984"
+        },
+        "100": {
+            "a": "Strack, Jair"
+        },
+        "245": {
+            "a": "Sistemas de processamento distribuído",
+            "c": "Jair Strack",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Livros Técnicos e Científicos",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "84",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "1° prêmio do 1° Concurso nacional de Informática, categoria textos de aplicação e pesquisa na área de modelagem, prmovido pelo conselho nacional de desenvolvimento cinentífico e tecnológico - CNPq e SEcretaria Especial de Informática - SEI."
+            }
+        ],
+        "505": [
+            {
+                "a": "Introdução -- Sistemas distribuídos -- Introdução -- Evolução histórica dos sistemas computacionais -- Computadores -- Formas operacionais -- Aplicações -- Alternativas de execução do processamento -- Ambiente tecnológico -- Processamento eletrônico de dados -- Telecomunicação -- Teleinformática -- Caracterização de sistemas distribuídos -- Sistemas distribuídos - Microdistribuição -- Macrodistribuição -- Classificação -- Vantagens e desvantagens -- Projeto de sistemas distribuídos -- Considerações gerais -- Metodologia -- Aspectos gerenciais -- Estudos de desempenho -- Fundamentos -- Considerações sobre a carga de trabalho -- Considerações sobre SMD -- Modelos e simulações de sistemas computacionais -- Modelagem de sistemas computacionais -- Modelos de simulação para SMDs -- Objetivos - Modelos para sistemas de grande porte -- Modelo para minicomputadores -- Implementação do modelo para simulação -- Estudos de SMDs -- Simulação de desempenho -- Definição dos parâmetros de entrada -- Execução dos modelos -- Análise e validação dos resultados -- Modelo do sistema de grande porte -- Modelo de minicomputadores -- Análise de sensibilidade -- Avaliação de custos -- Custos de processamento -- Custos de transmissão de dados -- Relação de custos entre distribuição e centralização -- SMDH1 -- SMDHJ -- SMDVC -- SMDVS -- Análise dos resultados -- Conclusão -- Referência Bibliográfica."
+            }
+        ],
+        "650": [
+            {
+                "a": "Processamento distribuído"
+            },
+            {
+                "a": "Sistema distribuído"
+            },
+            {
+                "a": "Sistema de informação",
+                "x": "Armazenagem da informação"
+            }
+        ],
+        "710": [
+            {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Brasil. Secretaria Especial de Informática",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

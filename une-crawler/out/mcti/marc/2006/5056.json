@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005056",
+        "005": "20190812170218.0",
+        "007": "t",
+        "008": "                                   mul"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "378.4:658(063)",
+            "b": "S471a",
+            "c": "1989"
+        },
+        "111": {
+            "a": "Seminário Universidade Empresa",
+            "c": "Rio de Janeiro",
+            "d": "1989"
+        },
+        "245": {
+            "a": "Anais/Proceedings do Seminário Universidade Empresa",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Universidade Federal do Rio de Janeiro",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "540",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Universidade"
+            },
+            {
+                "a": "Empresas"
+            },
+            {
+                "a": "Pesquisa universitária"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

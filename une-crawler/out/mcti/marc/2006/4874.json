@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004874",
+        "005": "20190806085757.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "628.16",
+            "b": "T776a",
+            "c": "1999"
+        },
+        "245": {
+            "a": "Tratamento de águas de abastecimento por filtração em múltiplas etapas",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Associação Brasileira de Engenharia Sanitária e Ambiental",
+                "c": "1999"
+            }
+        ],
+        "300": [
+            {
+                "a": "114",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Água",
+                "x": "Purificação"
+            },
+            {
+                "a": "Saneamento básico"
+            },
+            {
+                "a": "Tratamento de água"
+            }
+        ],
+        "710": [
+            {
+                "a": "Programa de Pesquisa em Saneamento Básico (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

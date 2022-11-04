@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002399",
+        "005": "20190813131754.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4(036)",
+            "b": "B823c",
+            "c": "t. 3",
+            "d": "1983 SEI"
+        },
+        "110": {
+            "a": "Brasil. Secretaria Especial de Informática"
+        },
+        "245": {
+            "a": "Catálogo de software",
+            "b": "supridores profissionais, aplicação técnico-científico, industrial e relação dos supridores",
+            "c": "Secretaria Especial de Informática",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Secretaria Especial de Informática",
+                "c": "1983"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "v.",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "Tomo1 -- Índice geral em ordem alfabética -- Índice por tipo de software -- Índice por tipo de software e aplicação -- Índice por aplicação e tipo de software -- Software básico -- Software de suporte."
+            }
+        ],
+        "520": {
+            "a": "Este tomo do catálogo de software contém os produtos de aplicação técnico-científica, aplicação industrial e a relação dos supridores. Os produtos de aplicação técnico-científica-dedicados á apuração de resultado dessas áreas do conhecimento-foram divididos segundo o campo de aplicação em: arquitetura e artes, ciências humanas e sociais, economia, educação, engenharia, estatística, matemática e física, medicina e biologia, PAC- projetos assistidos por computador, pesquisa operacional, reconhecimento de padrões e processamento de imagens, simulação e modelagem e outros. Os produtos de aplicação industrial- destinados A apuração de resultados em tempo real, voltados ao controle de processos industriais ou monitoração de serviços técnicos- foram divididos segundo o campo de aplicação em: aquisição de dados, controle digital direto (DDC), controle numérico, controle programável, controle supervisionado, FAC- fabricação assistida por computador, registro de eventos, robotização, teste-diagnóstico, automático e outros. Os índices para acesso a estes produtos estão no tomo 1 deste catálogo. A relação dos supridores contém os principais dados sobre os fornecedores dos softwares contidos neste catálogo e está classificada em ordem alfabética segundo a sua razão social."
+        },
+        "650": [
+            {
+                "a": "Software",
+                "x": "Catálogo"
+            },
+            {
+                "a": "Programas de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

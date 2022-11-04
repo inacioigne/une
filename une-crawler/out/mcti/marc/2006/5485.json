@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005485",
+        "005": "20190729141112.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.421",
+            "b": "B777p",
+            "c": "1985"
+        },
+        "100": {
+            "a": "Boussard, Jean-Marc"
+        },
+        "245": {
+            "a": "Programmation avancée",
+            "b": "algorithmique et structures de données",
+            "c": "par Jean-Claude Boussard et Robert Mahl",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "3. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Eyrolles",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "viii, 235",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Algoritmos"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Mahl, Robert",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

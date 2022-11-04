@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005916",
+        "005": "20190812144810.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "1402074832"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "574.1(1-773)",
+            "b": "C755",
+            "c": "2003"
+        },
+        "245": {
+            "a": "Conserving biodiversity in arid regions",
+            "b": "best practices in developing nations",
+            "c": "edited by John Lemons, Reginald Victor, Daniel Schaffer",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Boston",
+                "b": "Kluwer Academic Publishers",
+                "c": "c2003"
+            }
+        ],
+        "300": [
+            {
+                "a": "493",
+                "c": "24 cm",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Case studies from a project of the Third World Network of Scientific Organizations and Global Environment Facility Third World Network of Scientific Organisations Global Environment Facility"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ecologia de regiões áridas",
+                "x": "Países em desenvolvimento"
+            },
+            {
+                "a": "Biodiversidade",
+                "x": "Países em desenvolvimento"
+            }
+        ],
+        "700": [
+            {
+                "a": "Lemons, John",
+                "e": "Editor"
+            },
+            {
+                "a": "Victor, Reginald",
+                "e": "Editor"
+            },
+            {
+                "a": "Schaffer, Daniel",
+                "d": "1950-",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

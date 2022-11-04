@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002836",
+        "005": "20190805124945.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0471582433"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.438COBOL",
+            "b": "M132g",
+            "c": "c1970"
+        },
+        "100": {
+            "a": "McCracken, Daniel D",
+            "d": "1930-"
+        },
+        "245": {
+            "a": "A guide to COBOL programming",
+            "c": "Daniel D. McCracken, Umberto Garbassi",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Wiley-Interscience",
+                "c": "c1970"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 209 p",
+                "c": "29 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "COBOL"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Garbassi, Umberto",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005570",
+        "005": "20190813182951.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "020": {
+            "a": "9501398579"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.2",
+            "b": "B675a",
+            "c": "1987"
+        },
+        "100": {
+            "a": "Bogni, Carlos J"
+        },
+        "245": {
+            "a": "Arquitecturas no convencionales",
+            "c": "Carlos J. Bogni, Gustavo A. Del Pino, Luis A. Marrone",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Buenos Aires",
+                "b": "Kapelusz",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "157",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Edicion preliminar apresentada na I Escola Brasileiro-Argentina de Informática (I EBAI), Campinas, SP, 1986"
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Engenharia de computação"
+            },
+            {
+                "a": "Processamento paralelo"
+            }
+        ],
+        "700": [
+            {
+                "a": "Marrone, Luis A",
+                "e": "Coautor"
+            },
+            {
+                "a": "Pino, Gustavo A. del",
+                "e": "Coautor"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Campinas, SP",
+                "d": "1986",
+                "n": "1"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

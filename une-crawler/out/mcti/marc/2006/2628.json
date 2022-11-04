@@ -1,0 +1,49 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002628",
+        "005": "20190805100509.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.382(035)",
+            "b": "F981",
+            "c": "1972"
+        },
+        "245": {
+            "a": "The fundamentals of office computers",
+            "b": "a handbook of programmed instruction",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "West Germany",
+                "b": "EDWE Eiserfeld",
+                "c": "1972"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (várias paginações)",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Computadores",
+                "x": "Estudo e ensino"
+            },
+            {
+                "a": "Processamento de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003683",
+        "005": "20190807093441.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "551.509",
+            "b": "I61",
+            "c": "1992"
+        },
+        "110": {
+            "a": "The Task Group"
+        },
+        "245": {
+            "a": "International Research Institute for Climate Prediction",
+            "b": "a proposal",
+            "c": "by The Task Group, A.D. Moura (Chairman) ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Silver Spring, Estados Unidos",
+                "b": "IRICP Task Group",
+                "c": "1992"
+            }
+        ],
+        "300": [
+            {
+                "a": "ix, 51, [14] p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Climatologia",
+                "x": "Pesquisa",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Meteorologia"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

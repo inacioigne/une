@@ -1,0 +1,83 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005845",
+        "005": "20190807184553.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "005.591.6(81)(063)",
+            "b": "C749q",
+            "c": "1990"
+        },
+        "111": {
+            "a": "Congresso Nacional de Automação Industrial",
+            "c": "São Paulo, SP",
+            "d": "1990",
+            "n": "4"
+        },
+        "245": {
+            "a": "4. Congresso Nacional de Automacao Industrial",
+            "b": "CONAI",
+            "h": "Impresso",
+            "c": "organizadores Selma Shin Shimizu Melnikoff, Marcio Rillo"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "[s.n.]",
+                "c": "1990"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v.",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "v. 1 - Tecnologia Emergentes : sessões técnicas : anais --- v. 2 - Tutoriais e surveys"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência da computação",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Processamento de dados"
+            },
+            {
+                "a": "Engenharia de produção"
+            },
+            {
+                "a": "Análise de sistemas"
+            }
+        ],
+        "700": [
+            {
+                "a": "Melnikoff, Selma Shin Shimizu",
+                "e": "Editor"
+            },
+            {
+                "a": "Rillo, Marcio",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Sociedade dos Usuários de Computadores e Equipamentos Subsidiários (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

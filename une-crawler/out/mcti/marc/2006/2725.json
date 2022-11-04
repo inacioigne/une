@@ -1,0 +1,77 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002725",
+        "005": "20190802100529.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0122005503"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "D131d",
+            "c": "1972"
+        },
+        "100": {
+            "a": "Dahl, Ole-Johan",
+            "d": "1931-"
+        },
+        "245": {
+            "a": "Structured programming",
+            "c": "O.-J. Dahl, E. W. Dijkstra, C. A. R. Hoare",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Londres (Inglaterra)",
+                "b": "Academic Press",
+                "c": "1972"
+            }
+        ],
+        "300": [
+            {
+                "a": "viii, 220",
+                "c": "24 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "A.P.I.C. studies in data processing",
+                "v": "no. 8"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação estruturada"
+            },
+            {
+                "a": "Análise estruturada"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Dijkstra, Edsger Wybe",
+                "e": "Coautor"
+            },
+            {
+                "a": "Hoare, C. A. R.",
+                "d": "1934-",
+                "q": "Charles Antony Richard",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

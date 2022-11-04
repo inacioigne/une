@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002490",
+        "005": "20190807104436.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "85700010672"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.43",
+            "b": "C331i",
+            "c": "1981"
+        },
+        "100": {
+            "a": "Carvalho, Sérgio E. R. de",
+            "d": "1936-",
+            "q": "Sérgio Eduardo Rodrigues de"
+        },
+        "245": {
+            "a": "Introdução à ciência da computação",
+            "b": "com WATFIV e FORTRAN",
+            "c": "Sergio E. R. de Carvalho",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Campus",
+                "c": "1981"
+            }
+        ],
+        "300": [
+            {
+                "a": "183",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência da computação"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "WATFIV"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

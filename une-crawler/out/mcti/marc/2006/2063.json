@@ -1,0 +1,49 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002063",
+        "005": "20190730125258.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.65dBASE",
+            "b": "D277",
+            "c": "[199-?]"
+        },
+        "245": {
+            "a": "dBase IV Sampler",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Datalógica",
+                "c": "[199-?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (paginação irregular)",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Programas de computador",
+                "x": "dBase"
+            },
+            {
+                "a": "Banco de dados",
+                "x": "Linguagem de programação (Computadores)"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001415",
+        "005": "20190807105933.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "331.25(81)",
+            "b": "P654p",
+            "c": "1997"
+        },
+        "100": {
+            "a": "Pinheiro, Maurício Mota Saboya"
+        },
+        "245": {
+            "a": "O papel dos fundos parafiscais no fomento",
+            "b": "FGTS e FAT",
+            "c": "Maurício Mota Saboya Pinheiro",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "1997"
+            }
+        ],
+        "300": [
+            {
+                "a": "37 f.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Texto para discussão / IPEA",
+                "v": "485",
+                "x": "1415-4765"
+            }
+        ],
+        "520": {
+            "a": "Define uma variável: o fluxo de disponibilidades para aplicação, a fim de medir a capacidade de investimento dos principais fundos públicos parafiscais brasileiros (FGTS e FAT). Avalia seu comportamento no período 1990-1996 e estima sua trajetória no período 1997-2005."
+        },
+        "610": [
+            {
+                "a": "Fundo de Amparo ao Trabalhador"
+            },
+            {
+                "a": "Fundo de Garantia do Tempo de Serviço (Brasil)"
+            }
+        ],
+        "650": [
+            {
+                "a": "Tempo de serviço",
+                "x": "Direito do trabalho",
+                "z": "Brasil"
+            },
+            {
+                "a": "Contribuição parafiscal",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "Texto completo",
+            "u": "http://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=3702",
+            "z": "07/08/2019"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

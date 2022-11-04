@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004287",
+        "005": "20190805093618.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.384(7/8)",
+            "b": "B267d",
+            "c": "1974"
+        },
+        "100": {
+            "a": "Barquín, Ramón C",
+            "d": "1942-"
+        },
+        "245": {
+            "a": "The degree of penetration of computer technology in Latin America",
+            "b": "a survey",
+            "c": "Ramon C. Barquin",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Cambridge (Estados Unidos)",
+                "b": "Massachusetts Institute of Technology",
+                "c": "1974"
+            }
+        ],
+        "300": [
+            {
+                "a": "120"
+            }
+        ],
+        "490": [
+            {
+                "a": "Working paper (Sloan School of Management)",
+                "v": "702-74"
+            }
+        ],
+        "650": [
+            {
+                "a": "Indústria de computador",
+                "z": "América Latina"
+            },
+            {
+                "a": "Desenvolvimento tecnológico"
+            },
+            {
+                "a": "Computadores"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

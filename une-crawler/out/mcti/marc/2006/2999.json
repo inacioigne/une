@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002999",
+        "005": "20190808125544.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "9264213783"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "377:004",
+            "b": "P769",
+            "c": "1975"
+        },
+        "245": {
+            "a": "Politiques de formation des spécialistes et des utilisateurs de l'informatique",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Organization de cooperation et de developpement economiques",
+                "c": "1975"
+            }
+        ],
+        "300": [
+            {
+                "a": "189",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "OCDE - Études d'informatique",
+                "v": "9"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Treinamento de pessoal"
+            },
+            {
+                "a": "Informática",
+                "x": "Estudo e ensino"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

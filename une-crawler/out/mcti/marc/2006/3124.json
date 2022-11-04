@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "am   nam  22      a 4500",
+        "001": "000003124",
+        "005": "20190807134701.0",
+        "007": "t",
+        "008": "por                                por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "338.432",
+            "b": "P474",
+            "c": "2003"
+        },
+        "245": {
+            "a": "Pesquisa, desenvolvimento e inovação para o agronegócio brasileiro",
+            "b": "cenários 2002-2012",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Embrapa, Informação Tecnológica",
+                "c": "2003"
+            }
+        ],
+        "300": [
+            {
+                "a": "91",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Agroindústria",
+                "x": "Pesquisa",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pesquisa agrícola"
+            }
+        ],
+        "710": [
+            {
+                "a": "Empresa Brasileira de Pesquisa Agropecuária",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

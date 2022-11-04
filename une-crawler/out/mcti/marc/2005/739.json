@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000739",
+        "005": "20190726133216.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "339(73)",
+            "b": "M554",
+            "c": "1999"
+        },
+        "245": {
+            "a": "Merchants and guardians",
+            "b": "balancing U.S. interests in global space commerce",
+            "c": "John M. Logsdon and Russell J. Acker, editors",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "Elliot School of International Affairs",
+                "c": "1999"
+            }
+        ],
+        "300": [
+            {
+                "a": "209"
+            }
+        ],
+        "611": [
+            {
+                "a": "International Space Policy Forum",
+                "c": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "d": "1999"
+            }
+        ],
+        "650": [
+            {
+                "a": "Comércio",
+                "x": "Programa espacial",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Exploração espacial",
+                "x": "Orçamento",
+                "z": "Estados Unidos"
+            }
+        ],
+        "700": [
+            {
+                "a": "Logsdon, John M.",
+                "d": "1937-",
+                "e": "Editor"
+            },
+            {
+                "a": "Acker, Russell J",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003139",
+        "005": "20190730112440.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8587918540"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.05",
+            "b": "Q1r",
+            "c": "2001"
+        },
+        "245": {
+            "a": "Qualidade de software",
+            "b": "teoria e prática",
+            "c": "organizadores Ana Regina Cavalcanti da Rocha, José Carlos Maldonado, Kival Chaves Weber",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Prentice-Hall",
+                "c": "2001"
+            }
+        ],
+        "300": [
+            {
+                "a": "xvi, 303",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Software",
+                "x": "Qualidade"
+            },
+            {
+                "a": "Controle de qualidade"
+            }
+        ],
+        "700": [
+            {
+                "a": "Rocha, Ana Regina Cavalcanti da",
+                "d": "1948-",
+                "e": "Organizador"
+            },
+            {
+                "a": "Maldonado, José Carlos",
+                "d": "1954-",
+                "e": "Organizador"
+            },
+            {
+                "a": "Weber, Kival Chaves",
+                "d": "1946-",
+                "e": "Organizador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

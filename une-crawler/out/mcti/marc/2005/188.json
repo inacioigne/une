@@ -1,0 +1,106 @@
+{
+    "controfield": {
+        "000": "01040cam  2200289 i 4500",
+        "001": "000000188",
+        "005": "20190726145247.0",
+        "007": "t",
+        "008": "770929s1976    enk      b    001 0 eng"
+    },
+    "datafield": {
+        "010": {
+            "a": "77365832"
+        },
+        "015": {
+            "a": "GB77-10035"
+        },
+        "020": {
+            "a": "0850121698",
+            "c": "£19.00"
+        },
+        "035": {
+            "a": "4617405"
+        },
+        "040": {
+            "a": "DLC",
+            "c": "DLC",
+            "d": "DLC"
+        },
+        "050": {
+            "a": "Z695.1.E4",
+            "b": "N37 1976"
+        },
+        "082": {
+            "a": "025.3/3001/64"
+        },
+        "090": {
+            "a": "004:025.43",
+            "b": "N271",
+            "d": "R",
+            "c": "1976"
+        },
+        "110": {
+            "a": "National Computing Centre Limited"
+        },
+        "245": {
+            "a": "NCC thesaurus of computing terms",
+            "c": "[National Computing Centre].",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "8th ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Manchester [Inglaterra]",
+                "b": "[Distributed by Dent]",
+                "c": "1976"
+            }
+        ],
+        "300": [
+            {
+                "a": "[17], 147, 147",
+                "c": "30"
+            }
+        ],
+        "650": [
+            {
+                "a": "Cabeçalhos de assunto",
+                "x": "Informática"
+            },
+            {
+                "a": "Informática",
+                "x": "Língua inglesa"
+            },
+            {
+                "a": "Ciência da computação",
+                "x": "Língua inglesa"
+            }
+        ],
+        "740": [
+            {
+                "a": "Thesaurus of computing terms."
+            }
+        ],
+        "906": {
+            "a": "7",
+            "b": "cbc",
+            "c": "orignew",
+            "d": "3",
+            "e": "ncip",
+            "f": "19",
+            "g": "y-gencatlg"
+        },
+        "990": {
+            "a": "Monografia"
+        },
+        "991": {
+            "b": "r-CatRef",
+            "h": "Z695.1.E4",
+            "i": "N37 1976",
+            "m": "TechASCD (LM551)",
+            "w": "GenBib bi 95-017341"
+        }
+    }
+}

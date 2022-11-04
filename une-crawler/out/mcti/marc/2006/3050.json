@@ -1,0 +1,82 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003050",
+        "005": "20190814163544.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "A838",
+            "c": "1979"
+        },
+        "245": {
+            "a": "Aspectos teóricos da computação",
+            "c": "Cláudio L. Lucchesi ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Instituto Nacional de Matemática Pura e Aplicada",
+                "c": "1979"
+            }
+        ],
+        "300": [
+            {
+                "a": "291",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Projeto Euclides",
+                "v": "8"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência da computação"
+            },
+            {
+                "a": "Programação de computador",
+                "x": "Grafos"
+            },
+            {
+                "a": "Teoria da computação"
+            }
+        ],
+        "700": [
+            {
+                "a": "Lucchesi, Claudio Leonardo",
+                "e": "Coautor"
+            },
+            {
+                "a": "Simon, Imre",
+                "d": "1943-",
+                "e": "Coautor"
+            },
+            {
+                "a": "Simon, Istvan",
+                "e": "Coautor"
+            },
+            {
+                "a": "Simon, János",
+                "e": "Coautor"
+            },
+            {
+                "a": "Kowaltowski, Tomasz",
+                "d": "1942-",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

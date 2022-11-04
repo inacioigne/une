@@ -1,0 +1,48 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004254",
+        "005": "20190801164136.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.057.4",
+            "b": "E82",
+            "c": "[198-?]"
+        },
+        "245": {
+            "a": "Estudo sobre desenvolvimento e padronização de protocolos de alto nível",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[S.l.",
+                "b": "s.n.",
+                "c": "198-?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (paginação irregular)",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Protocolo de comunicação",
+                "x": "Projeto de desenvolvimento"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

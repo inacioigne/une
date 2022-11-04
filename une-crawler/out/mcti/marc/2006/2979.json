@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002979",
+        "005": "20190809122501.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "085012154x"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.2",
+            "b": "L412p",
+            "c": "1976"
+        },
+        "100": {
+            "a": "Lavington, S. H.",
+            "d": "1939-",
+            "q": "Simon Hugh"
+        },
+        "245": {
+            "a": "Processor architecture",
+            "c": "by S. H. Lavington",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Manchester [Inglaterra]",
+                "b": "NCC Publications",
+                "c": "1976"
+            }
+        ],
+        "300": [
+            {
+                "a": "126",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Computador digital"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

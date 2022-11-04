@@ -1,0 +1,74 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005746",
+        "005": "20190805135951.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0818608331"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7:007(063)",
+            "b": "I61i",
+            "c": "1988"
+        },
+        "111": {
+            "a": "IEEE INFOCOM",
+            "c": "New Orleans, Estados Unidos",
+            "d": "1988",
+            "n": "7"
+        },
+        "245": {
+            "a": "IEEE INFOCOM '88",
+            "b": "the Conference on Computer Communications : proceedings : seventh annual joint conference of the IEEE Computer and Communications Societies : networks, evolution or revolution?",
+            "h": "Impresso",
+            "c": "IEEE Communications Society, IEEE Computer Society, Institute of Electrical and Electronics Engineers"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Institute of Electrical and Electronics Engineers",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "xvi, 1139 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema de transmissão de dados",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Rede de computador",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "710": [
+            {
+                "a": "IEEE Communications Society",
+                "e": "Corporativo"
+            },
+            {
+                "a": "IEEE Computer Society",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Institute of Electrical and Electronics Engineers",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

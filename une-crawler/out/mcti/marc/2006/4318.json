@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004318",
+        "005": "20190730142216.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.725.5",
+            "b": "R247",
+            "c": "1986"
+        },
+        "245": {
+            "a": "Redes locais de computadores",
+            "b": "protocolos de alto nivel e avaliação de desempenho",
+            "c": "Jose Antão Beltrão Moura ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "McGraw-Hill",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "454",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede local",
+                "x": "Avaliação de desempenho"
+            },
+            {
+                "a": "Rede de computador",
+                "x": "Avaliação de desempenho"
+            }
+        ],
+        "700": [
+            {
+                "a": "Moura, José Antão Beltrão",
+                "e": "Coautor"
+            },
+            {
+                "a": "Sauvé, Jacques Philippe",
+                "e": "Coautor"
+            },
+            {
+                "a": "Giozza, William Ferreira",
+                "e": "Coautor"
+            },
+            {
+                "a": "Araújo, José Fábio Marinho de",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

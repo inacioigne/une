@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002049",
+        "005": "20190809150812.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8535200061"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451.9",
+            "b": "M626r",
+            "c": "=134.3",
+            "d": "1995"
+        },
+        "245": {
+            "a": "Microsoft windows 95 : resource kit",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Campus",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxxvi, 1363 p.",
+                "b": "il., + 3 disquetes (3 1/2)"
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistemas operacionais (Computadores)",
+                "x": "Windows 95 (Sistema operacional de computador)"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Programas de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

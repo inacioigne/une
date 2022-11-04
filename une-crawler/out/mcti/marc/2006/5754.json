@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005754",
+        "005": "20190806113456.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.932",
+            "b": "P348i",
+            "c": "1988"
+        },
+        "100": {
+            "a": "Paz, Eduardo peixoto"
+        },
+        "245": {
+            "a": "Iniciação ao processamento digital de imagens",
+            "c": "Eduardo Peixoto Paz, Tarcisio Neves da Cunha",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Universidade Federal do Rio de Janeiro",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "55",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Processamento de imagem"
+            },
+            {
+                "a": "Informática"
+            }
+        ],
+        "700": [
+            {
+                "a": "Cunha, Tarcisio Neves da",
+                "e": "Coautor"
+            }
+        ],
+        "711": [
+            {
+                "a": "Congresso da Sociedade Brasileira de Computação",
+                "c": "Rio de Janeiro, RJ",
+                "d": "1988",
+                "n": "8"
+            },
+            {
+                "a": "Jornada de Atualização em Informática",
+                "c": "Rio de Janeiro, RJ",
+                "d": "1988",
+                "n": "7"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

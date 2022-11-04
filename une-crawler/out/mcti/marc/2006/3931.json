@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003931",
+        "005": "20190802092102.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0471627658"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.056",
+            "b": "M996s",
+            "c": "1976"
+        },
+        "100": {
+            "a": "Myers, Glenford J.",
+            "d": "1946-"
+        },
+        "245": {
+            "a": "Software reliability",
+            "b": "principles and practices",
+            "c": "Glenford J. Myers",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Wiley-Interscience",
+                "c": "c1976"
+            }
+        ],
+        "300": [
+            {
+                "a": "xv, 360",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Business data processing, a Wiley series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Software",
+                "x": "Segurança"
+            },
+            {
+                "a": "Segurança de computador"
+            },
+            {
+                "a": "Proteção de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

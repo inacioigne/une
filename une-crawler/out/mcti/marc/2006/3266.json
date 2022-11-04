@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003266",
+        "005": "20190812110200.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "005.521(81)",
+            "b": "P853c",
+            "c": "1996"
+        },
+        "100": {
+            "a": "Porto, Claudio",
+            "d": "1949-"
+        },
+        "245": {
+            "a": "Construção de cenários e prospecção de futuros",
+            "b": "texto para treinamento conceitual operativo",
+            "h": "Impresso",
+            "c": "Claudio Porto"
+        },
+        "260": [
+            {
+                "a": "[Rio de Janeiro]",
+                "b": "Macroplan",
+                "c": "1996"
+            }
+        ],
+        "300": [
+            {
+                "a": "156",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Administração"
+            },
+            {
+                "a": "Planejamento"
+            },
+            {
+                "a": "Sistema de informação"
+            }
+        ],
+        "710": [
+            {
+                "a": "Empresa Brasileira de Telecomunicações. Departamento de Planejamento Empresarial",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005210",
+        "005": "20190806112028.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "551.588.74",
+            "b": "I61w",
+            "c": "2000"
+        },
+        "110": {
+            "a": "International Greenhouse Partnerships (Austrália)"
+        },
+        "245": {
+            "a": "Workbook for greenhouse gas reduction from energy efficiency",
+            "h": "Impresso",
+            "c": "International Greenhouse Partnerships"
+        },
+        "260": [
+            {
+                "a": "Camberra",
+                "b": "International Greenhouse Partnerships Office",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "5 v.",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "v. 1 : Energy Efficiency in commercial buildings -- v. 2 : Energy Efficiency in industrial applications -- v. 3 : Electricity and heat generation from fossil fuels -- v. 4 : Electricity / heat generation from renewables -- v. 5 : Reducing Fugitive emissions from primary energy production, transmission and distribution."
+            }
+        ],
+        "650": [
+            {
+                "a": "Emissão de gases"
+            },
+            {
+                "a": "Efeito estufa (Atmosfera)"
+            },
+            {
+                "a": "Atmosfera"
+            },
+            {
+                "a": "Energia elétrica",
+                "z": "Brasil"
+            },
+            {
+                "a": "Energia de combustível fóssil"
+            },
+            {
+                "a": "Proteção ambiental"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002141",
+        "005": "20190807112833.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.382",
+            "b": "B823p",
+            "c": "1982"
+        },
+        "110": {
+            "a": "Brasil. Secretaria Especial de Informática"
+        },
+        "245": {
+            "a": "O parque brasileiro de equipamentos de processamento de dados",
+            "c": "Secretaria Especial de Informática; Luiz de Freitas Bueno [et. al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Secretaria Especial de Informática",
+                "c": "1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "503",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Apresenta a visão retrospectiva do parque brasileiro de equipamentos de processamento de dados, no período de 1973-1980, reunindo informações publicadas pela CAPRE e SEI."
+            }
+        ],
+        "505": [
+            {
+                "a": "Apresentação -- Introdução -- 1ª Parte: Composição do parque de equipamentos por ano -- 2ª Parte: Evolução do parque de equipamentos e participação de mercado -- Anexo I - Classificação dos equipamentos -- Anexo II - Comparação dos totais por classe, considerando a nova classificação."
+            }
+        ],
+        "650": [
+            {
+                "a": "Processamento de dados",
+                "x": "1973-1980"
+            },
+            {
+                "a": "Informática"
+            }
+        ],
+        "700": [
+            {
+                "a": "Bueno, Luiz de Freitas",
+                "d": "1919-",
+                "e": "Organizador"
+            },
+            {
+                "a": "Caroli, Antonio Paschoal de",
+                "e": "Organizador"
+            },
+            {
+                "a": "Souccar, Victor",
+                "e": "Organizador"
+            },
+            {
+                "a": "Nestarez, Antonio Carlos Bueno",
+                "e": "Organizador"
+            },
+            {
+                "a": "Nunes, Arthur Pereira",
+                "e": "Organizador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002766",
+        "005": "20190807143000.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004(091)",
+            "b": "U58p",
+            "c": "1989"
+        },
+        "110": {
+            "a": "Universidade de São Paulo",
+            "b": "Estação Ciência"
+        },
+        "245": {
+            "a": "Plataforma informática",
+            "h": "Impresso",
+            "c": "Universidade de São Paulo. Estação Ciência"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Fundação para o Desenvolvimento da Educação",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "[32] f.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Matemática"
+            },
+            {
+                "a": "Computadores"
+            }
+        ],
+        "710": [
+            {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

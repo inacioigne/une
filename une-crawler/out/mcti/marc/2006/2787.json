@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002787",
+        "005": "20190731115457.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502.3",
+            "b": "I61r",
+            "c": "1993"
+        },
+        "110": {
+            "a": "Instituto Interamericano para Pesquisa em Mudanças Globais"
+        },
+        "245": {
+            "a": "Report on the IAI workshop on high latitude processes",
+            "h": "Impresso",
+            "c": "Instituto Interamericano para Pesquisa em Mudanças Globais"
+        },
+        "260": [
+            {
+                "a": "Buenos Aires, Argentina",
+                "b": "Inter-American Institute for Global Change Research",
+                "c": "1993"
+            }
+        ],
+        "300": [
+            {
+                "a": "39 f."
+            }
+        ],
+        "490": [
+            {
+                "a": "IAI:OES",
+                "v": "5.DD/April 1995"
+            }
+        ],
+        "650": [
+            {
+                "a": "Atmosfera"
+            },
+            {
+                "a": "Ozônio"
+            },
+            {
+                "a": "Climatologia"
+            },
+            {
+                "a": "Corrosão atmosférica"
+            },
+            {
+                "a": "Radiação ultravioleta"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

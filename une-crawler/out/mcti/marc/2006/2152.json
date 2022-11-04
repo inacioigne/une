@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002152",
+        "005": "20190808125057.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8534603111"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451.9",
+            "b": "M939wo",
+            "c": "=134.3",
+            "d": "1994"
+        },
+        "100": {
+            "a": "Woodcock, Joanne",
+            "d": "1944-"
+        },
+        "245": {
+            "a": "O livro definitivo e consagrado MS-DOS",
+            "b": "versões 6 e 6.2",
+            "c": "Joanne Woodcock ; tradução Kátia A. Roque ; revisão técnica Márcio Magyar Franco",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Makron Books",
+                "c": "1994"
+            }
+        ],
+        "300": [
+            {
+                "a": "xv, 492",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Cutter baseado no nome do programa afim de reunir com as demais obras no acervo."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistemas operacionais (Computadores)",
+                "x": "MS-DOS (Sistema operacional de computador)"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

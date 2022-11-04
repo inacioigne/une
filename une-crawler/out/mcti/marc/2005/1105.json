@@ -1,0 +1,82 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001105",
+        "005": "20190812121141.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "608.3(094)",
+            "b": "C122",
+            "c": "2000"
+        },
+        "245": {
+            "a": "Cadernos de biossegurança",
+            "b": "legislação",
+            "h": "Impresso",
+            "c": "autor corporativo: Comissão Técnica Nacional de Biossegurança"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Comissão Técnica Nacional de Biossegurança",
+                "c": "2000"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "230"
+            }
+        ],
+        "500": [
+            {
+                "a": "Versão especial para o \"Curso de capacitação para ações interdisciplinares no campo de biossegurança: interface com os campos da biodiversidade, da bioética e do biodireito\""
+            }
+        ],
+        "520": {
+            "a": "Traz todos os textos legais referentes à Biossegurança no Brasil: Leis e Decretos Federais, Resoluções Ministeriais, além das Instruções Normativas da CTNBio"
+        },
+        "650": [
+            {
+                "a": "Biossegurança",
+                "x": "Legislação",
+                "z": "Brasil"
+            },
+            {
+                "a": "Bioética",
+                "x": "Legislação",
+                "z": "Brasil"
+            },
+            {
+                "a": "Direito e biologia",
+                "x": "Legislação",
+                "z": "Brasil"
+            },
+            {
+                "a": "Melhoramento genético",
+                "x": "Legislação",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Comissão Técnica Nacional de Biossegurança (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

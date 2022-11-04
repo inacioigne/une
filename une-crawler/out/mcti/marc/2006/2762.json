@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002762",
+        "005": "20190729140313.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "W799p",
+            "c": "=134.3 1978"
+        },
+        "100": {
+            "a": "Wirth, Niklaus",
+            "d": "1934-"
+        },
+        "245": {
+            "a": "Programação sistemática",
+            "c": "Niklaus Wirth ; tradução, Paulo A. S. Veloso",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Campus",
+                "c": "1978"
+            }
+        ],
+        "300": [
+            {
+                "a": "197",
+                "c": "23 cm",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "Finitude de programas -- Notação seqüencial e linguagens de programação -- Tipos de dados -- Estrutura de dados arquivo e o tipo \"file\" -- Estrutura de dados vetor e o tipo \"array\" -- Subprogramas: rotinas e funções."
+            }
+        ],
+        "534": {
+            "a": "Systematisches programmieren."
+        },
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Estrutura de dados"
+            },
+            {
+                "a": "Editor de texto"
+            },
+            {
+                "a": "Desenvolvimento de programa"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "ASCII"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

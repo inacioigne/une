@@ -1,0 +1,101 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000448",
+        "005": "20190726144928.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502.2(811.3)(063)",
+            "b": "S471s",
+            "c": "2000",
+            "d": "INPA"
+        },
+        "111": {
+            "a": "Seminário da Amazônia",
+            "c": "Manaus, AM",
+            "d": "1999"
+        },
+        "245": {
+            "a": "Seminário da Amazônia",
+            "b": "resumos das palestras apresentadas ano ano de 1999",
+            "c": "Organizadores: Carlos Roberto Bueno e Walllace Costa Paixão",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Manaus",
+                "b": "Instituto Nacional de Pesquisas da Amazônia",
+                "c": "2000"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "34 f."
+            }
+        ],
+        "490": [
+            {
+                "v": "6",
+                "a": "Série documentos"
+            }
+        ],
+        "610": [
+            {
+                "a": "Instituto Nacional de Pesquisas da Amazônia (Brasil)",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "650": [
+            {
+                "a": "Biodiversidade",
+                "x": "Congressos, eventos, encontros",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento",
+                "x": "Congressos, eventos, encontros",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Pesquisa científica",
+                "x": "Congressos, eventos, encontros",
+                "z": "Amazônia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Bueno, Carlos Roberto",
+                "e": "Organizador"
+            },
+            {
+                "a": "Paixão, Wallace Costa",
+                "e": "Organizador"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto Nacional de Pesquisas da Amazônia (Brasil)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Programa Piloto para a Proteção das Florestas Tropicais do Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

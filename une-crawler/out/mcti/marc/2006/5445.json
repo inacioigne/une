@@ -1,0 +1,50 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005445",
+        "005": "20190802103159.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4:339.564",
+            "b": "E96",
+            "c": "[200-?]"
+        },
+        "245": {
+            "a": "Exportação de programas de computação",
+            "b": "como fica o Brasil?",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[S.l.]",
+                "b": "CPM",
+                "c": "[200-?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "15 f.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Software",
+                "x": "Exportação",
+                "z": "Brasil"
+            },
+            {
+                "a": "Indústria de software"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003820",
+        "005": "20190801115716.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8524401907"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "512",
+            "b": "G216e",
+            "c": "2002"
+        },
+        "100": {
+            "a": "Garcia, Arnaldo"
+        },
+        "245": {
+            "a": "Elementos de álgebra",
+            "c": "Arnaldo Garcia, Yves Lequain",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Instituto Nacional de Matemática Pura e Aplicada",
+                "c": "2002"
+            }
+        ],
+        "300": [
+            {
+                "a": "326",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Projeto Euclides"
+            }
+        ],
+        "650": [
+            {
+                "a": "Álgebra"
+            },
+            {
+                "a": "Matemática"
+            }
+        ],
+        "700": [
+            {
+                "a": "Lequain, Yves Abert Emile",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Matemática Pura e Aplicada (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

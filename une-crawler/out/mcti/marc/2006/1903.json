@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001903",
+        "005": "20190813183047.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "020": {
+            "a": "9501398714"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.231.3",
+            "b": "P657a",
+            "c": "1988"
+        },
+        "100": {
+            "a": "Pino, Gustavo A. del"
+        },
+        "245": {
+            "a": "Arquitecturas risc",
+            "c": "Gustavo A. Del Pino, Luis A. Marrone",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Buenos Aires",
+                "b": "Kapelusz",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "137"
+            }
+        ],
+        "500": [
+            {
+                "a": "Versão preliminar apresentada na IV Escola Brasileiro-Argentina de Informática, Santiago del Estero, 1989."
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Microprocessador"
+            },
+            {
+                "a": "Engenharia de computação"
+            }
+        ],
+        "700": [
+            {
+                "a": "Marrone, Luis A",
+                "e": "Coautor"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Santiago del Estero, Argentina",
+                "d": "1989",
+                "n": "4"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

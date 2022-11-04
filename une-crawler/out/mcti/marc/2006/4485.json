@@ -1,0 +1,73 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004485",
+        "005": "20190731083312.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8535209239"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "573:004",
+            "b": "G437d",
+            "c": "=134.3",
+            "d": "2001"
+        },
+        "100": {
+            "a": "Gibas, Cynthia"
+        },
+        "245": {
+            "a": "Desenvolvendo bioinformática",
+            "c": "Cynthia Gibas and Per Jambeck; revisão técnica de Antônio Basílio de Miranda; tradução de Cristina de Amorim Machado",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "Desenvolvendo bioinformática : ferramentas de software para aplicações em biologia"
+            }
+        ],
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Campus",
+                "c": "2001"
+            }
+        ],
+        "300": [
+            {
+                "a": "xvii, 440 p.",
+                "b": "il."
+            }
+        ],
+        "534": {
+            "a": "Título original : Developing bioinformatics computer skills"
+        },
+        "650": [
+            {
+                "a": "Biologia",
+                "x": "Aplicação de computador"
+            },
+            {
+                "a": "Biologia computacional"
+            },
+            {
+                "a": "Informática"
+            }
+        ],
+        "700": [
+            {
+                "a": "Jambeck, Per",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

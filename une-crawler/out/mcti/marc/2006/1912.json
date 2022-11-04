@@ -1,0 +1,77 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001912",
+        "005": "20190808151438.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.3.049.77",
+            "b": "M294",
+            "c": "1988"
+        },
+        "245": {
+            "a": "Manual do aluno",
+            "c": "Carlos Ignácio Zamitti Mammana ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[Curitiba]",
+                "b": "Escola Brasileiro-Argentina de Informática",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "174",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Microeletrônica"
+            },
+            {
+                "a": "Circuito integrado"
+            },
+            {
+                "a": "Engenharia eletrônica"
+            }
+        ],
+        "700": [
+            {
+                "a": "Pannain, Ricardo",
+                "e": "Coautor"
+            },
+            {
+                "a": "Taveira, José Geraldo Mendes",
+                "e": "Coautor"
+            },
+            {
+                "a": "Kuniyoshi, Ana Maria Punder",
+                "e": "Coautor"
+            },
+            {
+                "a": "Mammana, Carlos Ignácio Zamitti",
+                "e": "Coautor"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Curitiba, PR",
+                "d": "1988",
+                "n": "3"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

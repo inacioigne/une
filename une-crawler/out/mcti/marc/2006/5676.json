@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005676",
+        "005": "20190731084856.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "339.56(81:73)",
+            "b": "I59r",
+            "c": "1985"
+        },
+        "245": {
+            "a": "Relações comerciais entre o Brasil e os Estados Unidos",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Nações Unidas, Comissão Econômica para América Latina e Caribe",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "198"
+            }
+        ],
+        "650": [
+            {
+                "a": "Comércio exterior",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Política comercial",
+                "z": "Estados Unidos"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "Brasil",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Nações Unidas",
+                "b": "Comissão Econômica para a América Latina e Caribe",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

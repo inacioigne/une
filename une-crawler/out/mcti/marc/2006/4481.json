@@ -1,0 +1,76 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004481",
+        "005": "20190809150429.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0309053471"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6:336",
+            "b": "N277a",
+            "c": "1995"
+        },
+        "110": {
+            "a": "National Research Council (Estados Unidos). Committee on Criteria for Federal Support of Research and Development"
+        },
+        "245": {
+            "a": "Allocating federal funds for science and technology",
+            "h": "Impresso",
+            "c": "National Research Council (Estados Unidos). Committee on Criteria for Federal Support of Research and Development"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "National Academy Press",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "ix, 95 p."
+            }
+        ],
+        "650": [
+            {
+                "a": "Financiamento governamental",
+                "x": "Pesquisa"
+            },
+            {
+                "a": "Ciência e tecnologia"
+            },
+            {
+                "a": "Instituição de pesquisa",
+                "z": "Estados Unidos"
+            }
+        ],
+        "710": [
+            {
+                "a": "National Academy of Sciences (Estados Unidos)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "National Academy of Engineering (Estados Unidos)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Institute of Medicine (Estados Unidos)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "National Research Council (Estados Unidos)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

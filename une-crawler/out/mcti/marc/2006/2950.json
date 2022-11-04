@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002950",
+        "005": "20190807102555.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "005:64.044.3:004",
+            "b": "W824o",
+            "c": "=134.3 1976"
+        },
+        "100": {
+            "a": "Withington, Frederic G"
+        },
+        "245": {
+            "a": "A organização da função de processamento de dados",
+            "c": "Frederic G. Withington ; tradução e adaptação de Fernando Augusto Ferreira Braga",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Livros Técnicos e Científicos",
+                "c": "1976"
+            }
+        ],
+        "300": [
+            {
+                "a": "111",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Aplicações de computadores"
+            }
+        ],
+        "650": [
+            {
+                "a": "Processamento de dados"
+            },
+            {
+                "a": "Centros de processamento de dados",
+                "x": "Administração"
+            },
+            {
+                "a": "Desenvolvimento de sistemas"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

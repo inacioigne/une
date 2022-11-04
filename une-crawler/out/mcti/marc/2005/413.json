@@ -1,0 +1,74 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000413",
+        "005": "20190726134059.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8587090593"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502/504:025.43",
+            "b": "M626",
+            "d": "R",
+            "c": "1999"
+        },
+        "245": {
+            "a": "Microtesauro",
+            "b": "ciências ambientais",
+            "c": "Organização Wanda Lúcia Schmidt",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Serviço Nacional de Aprendizagem Industrial, Departamento Nacional",
+                "c": "1999"
+            }
+        ],
+        "300": [
+            {
+                "a": "103"
+            }
+        ],
+        "650": [
+            {
+                "a": "Cabeçalhos de assunto",
+                "x": "Alimentos"
+            },
+            {
+                "a": "Alimentos",
+                "x": "Noção de Conservação"
+            },
+            {
+                "a": "Ecologia"
+            },
+            {
+                "a": "Tesauro"
+            }
+        ],
+        "700": [
+            {
+                "a": "Schmidt, Wanda Lúcia",
+                "e": "Organizador"
+            }
+        ],
+        "710": [
+            {
+                "a": "Confederação Nacional da Indústria",
+                "c": "Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Tesauro"
+        }
+    }
+}

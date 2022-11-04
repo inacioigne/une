@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005736",
+        "005": "20190801115827.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:613(81)(063)",
+            "b": "S471s",
+            "c": "1987"
+        },
+        "111": {
+            "a": "Seminário de Informática em Saúde",
+            "c": "Porto Alegre, RS",
+            "d": "1987"
+        },
+        "245": {
+            "a": "Seminário de Informática em Saúde",
+            "b": "SIS 87, 19 a 23 de outubro de 1987, Porto Alegre, Rio Grande do Sul, Brasil, Anais",
+            "h": "Impresso",
+            "c": "Beatriz de Faria Leão, Mariza Kluck Stumpf"
+        },
+        "260": [
+            {
+                "a": "Porto Alegre",
+                "b": "Sociedade Brasileira de Informática em Saúde",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "224",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática médica",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Saúde"
+            },
+            {
+                "a": "Tecnologia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Leão, Beatriz de Faria",
+                "e": "Editor"
+            },
+            {
+                "a": "Stumpf, Mariza Kluck",
+                "e": "Editor"
+            },
+            {
+                "a": "Gus, Jairo",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

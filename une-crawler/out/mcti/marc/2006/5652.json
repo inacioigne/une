@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005652",
+        "005": "20190812115650.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7",
+            "b": "W423n",
+            "c": "1962"
+        },
+        "100": {
+            "a": "Weinberg, Louis",
+            "d": "1919-"
+        },
+        "245": {
+            "a": "Network analysis and synthesis",
+            "c": "Louis Weinberg",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "McGraw-Hill",
+                "c": "1962"
+            }
+        ],
+        "300": [
+            {
+                "a": "692"
+            }
+        ],
+        "490": [
+            {
+                "a": "McGraw-Hill electrical and electronic engineering series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Arquitetura de rede de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

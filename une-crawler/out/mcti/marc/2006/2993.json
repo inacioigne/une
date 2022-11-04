@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002993",
+        "005": "20190807114215.0",
+        "007": "t",
+        "008": "                                   eng  "
+    },
+    "datafield": {
+        "020": {
+            "a": "0134862333"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.891:005.94'21",
+            "b": "M974i",
+            "c": "c1977"
+        },
+        "100": {
+            "a": "Murdick, Robert G"
+        },
+        "245": {
+            "a": "Introduction to management information systems",
+            "c": "Robert G. Murdick, Joele E. Ross",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "c1977"
+            }
+        ],
+        "300": [
+            {
+                "a": "329",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema de Gerenciamento de Informações"
+            },
+            {
+                "a": "Sistema de informação"
+            },
+            {
+                "a": "Processamento de dados"
+            }
+        ],
+        "700": [
+            {
+                "a": "Ross, Joel E",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

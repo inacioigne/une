@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004855",
+        "005": "20190807133807.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "006.91:005.966.1",
+            "b": "P474",
+            "c": "1998"
+        },
+        "245": {
+            "a": "Pesquisa",
+            "b": "demanda de recursos humanos em laboratório de calibração e de ensaios",
+            "c": "Maurício Nogueira Frota, José Tasso Aires de Alencar Filho, Pierre Ohayon",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Qualitymark",
+                "c": "1998"
+            }
+        ],
+        "300": [
+            {
+                "a": "184",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Programa RH metrologia"
+            }
+        ],
+        "650": [
+            {
+                "a": "Calibração",
+                "x": "Demanda"
+            },
+            {
+                "a": "Recursos humanos",
+                "x": "Demanda"
+            },
+            {
+                "a": "Metrologia",
+                "x": "Treinamento de pessoal"
+            }
+        ],
+        "700": [
+            {
+                "a": "Frota, Maurício Nogueira",
+                "d": "1945-",
+                "e": "Coautor"
+            },
+            {
+                "a": "Alencar Filho, José Tasso Aires de",
+                "e": "Coautor"
+            },
+            {
+                "a": "Ohayon, Pierre",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

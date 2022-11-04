@@ -1,0 +1,102 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002605",
+        "005": "20190628122503.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502.2(213.56:811)(063)",
+            "b": "L432a",
+            "c": "2000"
+        },
+        "111": {
+            "a": "LBA Scientific Conference",
+            "c": "Belém, PA",
+            "d": "2000",
+            "n": "1"
+        },
+        "245": {
+            "a": "Abstracts of the first LBA Scientific Conference",
+            "h": "Impresso",
+            "c": "general editors, Paulo Artaxo, Michael Keller ; colaboradores, Instituto Nacional de Pesquisa Espaciais, National Aeronautics and Space Administration, Alterra Green World Foundation"
+        },
+        "260": [
+            {
+                "a": "Belém",
+                "c": "2000",
+                "b": "Large Scale Biosphere-Atmosphere Experiment in Amazonia"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "295"
+            }
+        ],
+        "500": [
+            {
+                "a": "Na capa: Book of abstracts."
+            }
+        ],
+        "650": [
+            {
+                "a": "Meteorologia"
+            },
+            {
+                "a": "Conservação da natureza"
+            },
+            {
+                "a": "Bacias hidrográficas"
+            },
+            {
+                "a": "Recursos florestais"
+            },
+            {
+                "a": "Congressos, eventos, encontros"
+            }
+        ],
+        "651": [
+            {
+                "a": "Amazônia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Artaxo, Paulo",
+                "e": "Editor"
+            },
+            {
+                "a": "Keller, Michael",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto Nacional de Pesquisas Espaciais (Brasil)",
+                "e": "Colaborador"
+            },
+            {
+                "a": "Estados Unidos. National Aeronautics and Space Administration",
+                "b": "National Aeronautics and Space Administration",
+                "e": "Colaborador"
+            },
+            {
+                "a": "Alterra Green World Foundation",
+                "e": "Colaborador"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

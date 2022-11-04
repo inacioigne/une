@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003465",
+        "005": "20190807131808.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "373.546",
+            "b": "P438",
+            "c": "[19--?]"
+        },
+        "245": {
+            "a": "Perfil da Politécnica",
+            "b": "atualidade e vanguarda",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Hacker",
+                "c": "[19--?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "112",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia",
+                "x": "História"
+            },
+            {
+                "a": "Instituição de ensino"
+            }
+        ],
+        "710": [
+            {
+                "a": "Universidade de São Paulo. Escola Politécnica",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

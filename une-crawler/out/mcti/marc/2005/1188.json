@@ -1,0 +1,83 @@
+{
+    "controfield": {
+        "000": "00810nam  2200205 a 4500",
+        "001": "000001188",
+        "005": "20190726134550.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "35:62:005",
+            "b": "M327m",
+            "c": "2000"
+        },
+        "100": {
+            "a": "Margarido, Maria Jose Ferreira Foregatto"
+        },
+        "245": {
+            "a": "Modelo para informatização das administrações públicas municipais",
+            "c": "Maria Jose Ferreira Foregatto Margarido",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Escola Nacional de Administração Pública",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "20 f."
+            }
+        ],
+        "490": [
+            {
+                "a": "Texto para discussão / ENAP",
+                "v": "35"
+            }
+        ],
+        "505": [
+            {
+                "a": "I. Introdução -- II. Resumo dos resultados -- III. Modelo proposto -- Referências bibliográficas"
+            }
+        ],
+        "520": {
+            "a": "O presente trabalho é resultado de um estudo onde observamos planos diretores de informática e, considerando sua lógica, verificamos que eles, na forma como são propostos para empresas do setor privado, não se aplicam ao setor público (Reinhard, 1990 e Iglesias, 1980). Em primeiro lugar, buscamos saber o que se entende como Plano Diretor de Informática (PDI) e identificamos alguns pontos que pareciam diferenciar sua aplicação no setor privado e no público. Encontramos a definição de PDI como um plano cuja finalidade é a de administrar os recursos de informática dentro da empresa. Mesmo quando não é tratado como tal, mas como planejamento de informática, as observações e recomendações são mantidas (Torres, 1994). Tais recomendações dizem respeito aos aspectos, não só nos PDIs, mas também no uso de tecnologia da informação, que devem ser levados em conta quando de sua elaboração, de maneira que se possa ter sucesso no que se pretende. Dentre esses aspectos e, em conformidade com Rockart e Scott Morton, 1987; Young, 1989 e Albertin, 1996, destacamos aqueles que julgamos fundamentais: objetivos, recursos financeiros e planejamento. A função do planejamento em informática é organizar o uso das tecnologias de informação, de maneira que essas possam auxiliar a empresa a atingir seus objetivos e posicioná-la de maneira competitiva no mercado (Ackoff, 1989 e Ferreira, 1986). Para tanto, é necessário que a empresa defina claramente os seus objetivos. Esses objetivos devem estar de acordo com a estratégia global pretendida, e o planejamento deve contemplá-los como ponto de partida. Além disso, a empresa deve avaliar bem os recursos financeiros e humanos de que dispõe e de que irá precisar para poder elaborar um cronograma que oriente essas ações (Cassarro, 1988; Dias, 1985; Torres, 1994; Meirelles, 1994 e Villaça, 1991)."
+        },
+        "650": [
+            {
+                "a": "Gestão tecnológica"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Administração pública"
+            },
+            {
+                "a": "Planejamento",
+                "x": "Informática"
+            }
+        ],
+        "710": [
+            {
+                "a": "Escola Nacional de Administração Pública (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "u": "https://repositorio.enap.gov.br/bitstream/1/685/1/Modelo%20para%20informatiza%C3%A7%C3%A3o%20das%20Administra%C3%A7%C3%B5es%20P%C3%BAblicas%20Municipais.pdf",
+            "y": "Texto completo (ENAP) Acesso",
+            "z": "em: 17/09/2014"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

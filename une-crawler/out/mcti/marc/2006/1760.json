@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001760",
+        "005": "20190807140102.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4-027.564:354(81)",
+            "b": "P712",
+            "d": "INT",
+            "c": "2003"
+        },
+        "245": {
+            "a": "Planejamento estratégico 2003-2004",
+            "b": "diretrizes, objetivos e ações prioritárias : Comitê técnico de implementação do software livre",
+            "h": "Impresso"
+        },
+        "247": [
+            {
+                "a": "Comitê técnico de implementação do software livre"
+            }
+        ],
+        "260": [
+            {
+                "a": "Brasília",
+                "c": "2003",
+                "b": "Ministério da Saúde"
+            }
+        ],
+        "300": [
+            {
+                "a": "22 f.",
+                "c": "21 cm"
+            }
+        ],
+        "490": [
+            {
+                "a": "Série C. projetos, programas e relatórios"
+            }
+        ],
+        "520": {
+            "a": "Relatório com os resultados da Oficina de planejamento estratégico para a implementação do software livre no governo federal, debatidos e aprovados pelo Comitê Técnico de Implementação do Software Livre, coordenado pelo Instituto Nacional de Tecnologia da Informação (ITI) da Casa Civil da Presidência da República."
+        },
+        "650": [
+            {
+                "a": "Software livre",
+                "x": "Indicadores",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto Nacional de Tecnologia da Informação (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "Texto completo",
+            "u": "http://bvsms.saude.gov.br/bvs/publicacoes/planejamento_estrategico_2003.pdf",
+            "z": "Acesso em: 07/08/2019"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

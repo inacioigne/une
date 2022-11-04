@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002935",
+        "005": "20190809134428.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0850121604"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "658.56",
+            "b": "H726p",
+            "c": "1976"
+        },
+        "100": {
+            "a": "Holden, G. K.",
+            "q": "George Keith"
+        },
+        "245": {
+            "a": "Production control packages and services",
+            "b": "a survey of computer application packages and services for production control in the UK",
+            "c": "by G. K. Holden",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Manchester [Inglaterra]",
+                "b": "NCC Publications",
+                "c": "1976"
+            }
+        ],
+        "300": [
+            {
+                "a": "155"
+            }
+        ],
+        "490": [
+            {
+                "a": "Factfinder",
+                "v": "13"
+            }
+        ],
+        "650": [
+            {
+                "a": "Controle de produção",
+                "x": "Processamento de dados"
+            },
+            {
+                "a": "Administração"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

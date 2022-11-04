@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001175",
+        "005": "20190726112543.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "930.25(094)",
+            "b": "L514",
+            "c": "2000"
+        },
+        "245": {
+            "a": "Legislação brasileira de arquivos",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Conselho Nacional de Arquivos",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "53"
+            }
+        ],
+        "520": {
+            "a": "Reune a legislação em vigor que trata da matéria arquivística e de outras áreas que interagem com os arquivos, com ênfase à legislação federal, incluindo as Resoluções do Conselho Nacional de Arquivos - CONARQ."
+        },
+        "650": [
+            {
+                "a": "Arquivo",
+                "x": "Política e governo",
+                "z": "Brasil"
+            },
+            {
+                "a": "Documentos",
+                "x": "Legislação",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Conselho Nacional de Arquivos (Brasil)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Arquivo Nacional",
+                "c": "Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

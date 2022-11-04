@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005320",
+        "005": "20190809183547.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.3.049.77(81)(063)",
+            "b": "O32a",
+            "c": "1979"
+        },
+        "111": {
+            "a": "Oficina Brasileira de Microeletrônica",
+            "c": "Campinas, SP",
+            "d": "1979",
+            "n": "1"
+        },
+        "245": {
+            "a": "Anais da primeira oficina brasileira de microeletrônica",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Campinas, SP",
+                "b": "Universidade Estadual de Campinas",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (paginação irregular)",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Microeletrônica",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Física"
+            },
+            {
+                "a": "Circuito integrado"
+            }
+        ],
+        "710": [
+            {
+                "a": "Universidade Estadual de Campinas. Instituto de Economia",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

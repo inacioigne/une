@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005860",
+        "005": "20190807091520.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "2709109182"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.382.7",
+            "b": "L728i",
+            "c": "1983"
+        },
+        "100": {
+            "a": "Lilen, Henri"
+        },
+        "245": {
+            "a": "Interfaces pour microprocesseurs et micro-ordinateurs",
+            "b": "pratique, circuits, applications",
+            "c": "Henri Lilen",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Éditions Radio",
+                "c": "1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "350",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Microprocessador"
+            },
+            {
+                "a": "Computadores"
+            },
+            {
+                "a": "Circuito eletrônico"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

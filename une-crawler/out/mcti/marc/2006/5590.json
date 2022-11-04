@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005590",
+        "005": "20190801152138.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "0074502085"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.651",
+            "b": "K85s",
+            "c": "=134.3 1989"
+        },
+        "100": {
+            "a": "Korth, Henry F."
+        },
+        "245": {
+            "a": "Sistema de bancos de dados",
+            "c": "Henry F. Korth e Abraham Silberschatz",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Makron Books",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "xv, 582"
+            }
+        ],
+        "650": [
+            {
+                "a": "Banco de dados"
+            },
+            {
+                "a": "Gerenciamento de banco de dados"
+            },
+            {
+                "a": "Armazenamento de dados"
+            }
+        ],
+        "700": [
+            {
+                "a": "Silberschatz, Abraham",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002127",
+        "005": "20190805124630.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.71",
+            "b": "S979",
+            "c": "1998"
+        },
+        "245": {
+            "a": "The switching book",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Calabasas, California",
+                "b": "Xylan",
+                "c": "1998"
+            }
+        ],
+        "300": [
+            {
+                "a": "199",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede de computador",
+                "x": "Rede local"
+            },
+            {
+                "a": "Telecomunicações"
+            },
+            {
+                "a": "Arquitetura de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

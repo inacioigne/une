@@ -1,0 +1,79 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005542",
+        "005": "20190809175754.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.651(81)(063)",
+            "b": "S612a",
+            "c": "1987"
+        },
+        "111": {
+            "a": "Simpósio Brasileiro de Banco de Dados",
+            "c": "Porto Alegre, RS",
+            "d": "1987",
+            "n": "2"
+        },
+        "245": {
+            "a": "Anais",
+            "b": "II Simpósio Brasileiro de Banco de Dados, porto Alegre, Brasil, 7 a 8 de maio de 1987",
+            "c": "editores, José Palazzo M. de Oliveira, José Mauro V. Castilho, Carlos E. Rech",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Porto Alegre",
+                "b": "Universidade Federal do Rio Grande do Sul, Curso de Pós-Graduação em Ciência da Computação",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "173",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Banco de dados",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Sistema de recuperação da informação",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Sistema de gerenciamento de banco de dados",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Sistema especialista",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Oliveira, José Palazzo Moreira de",
+                "e": "Editor"
+            },
+            {
+                "a": "Castilho, José Mauro Volkmer de",
+                "e": "Editor"
+            },
+            {
+                "a": "Rech, Carlos Ernesto",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

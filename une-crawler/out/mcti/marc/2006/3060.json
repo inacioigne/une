@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003060",
+        "005": "20190805125125.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "013881466x"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.414.2",
+            "b": "C284s",
+            "c": "1973"
+        },
+        "100": {
+            "a": "Carlsen, Robert D",
+            "d": "1925-"
+        },
+        "245": {
+            "a": "The systems analysis workbook",
+            "b": "a complete guide to project implementation and control",
+            "c": "Robert D. Carlsen and James A. Lewis. Graphics by Donald L. Vest",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "c1973"
+            }
+        ],
+        "300": [
+            {
+                "a": "242",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Análise de sistemas"
+            },
+            {
+                "a": "Planejamento"
+            },
+            {
+                "a": "Manual"
+            },
+            {
+                "a": "Documentação de sistemas"
+            }
+        ],
+        "700": [
+            {
+                "a": "Lewis, James A",
+                "d": "1926-",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

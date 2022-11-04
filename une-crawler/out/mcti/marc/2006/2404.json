@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "00798cam  2200265 i 4500",
+        "001": "000002404",
+        "005": "20190802100723.0",
+        "007": "t",
+        "008": "781012s1977    nyua     b    001 0 eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0917072065"
+        },
+        "035": {
+            "a": "4141277"
+        },
+        "040": {
+            "a": "DLC",
+            "c": "DLC",
+            "d": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "O75s",
+            "c": "1997"
+        },
+        "100": {
+            "a": "Orr, Ken"
+        },
+        "245": {
+            "a": "Structured systems development",
+            "c": "by Kenneth T. Orr ; preface by J. D. Warnier.",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Yourdon Press",
+                "c": "c1977"
+            }
+        ],
+        "300": [
+            {
+                "a": "xviii, 170",
+                "c": "24 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Análise de sistemas"
+            },
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Sistema de computador"
+            },
+            {
+                "a": "Estrutura de dados"
+            },
+            {
+                "a": "Programação estruturada"
+            },
+            {
+                "a": "Análise estruturada"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

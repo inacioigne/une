@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002253",
+        "005": "20190801155340.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004-051",
+            "b": "B823e",
+            "c": "[1985?]",
+            "d": "SEI"
+        },
+        "110": {
+            "a": "Brasil. Secretaria Especial de Informática"
+        },
+        "245": {
+            "a": "Estimativa de profissionais da área de serviços técnicos de informática, até 1985",
+            "c": "Secretaria Especial de Informática",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Secretaria Especial de Informática",
+                "c": "[1985?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (sem paginação)",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "Apresentação -Recursos computacionais no Brasil - 1981(valores ajustados) - Função: Analista - Função: Programador - Função: Operador - Função: Digitador - Função: Fitotecário - Função: Preparador de dados - Estimativa Brasil por funções - Unidades da Federação - Sinopse: Estimativa de necessidades de analistas período 1985/1990 - Demanda quantitativa: estimativas."
+            }
+        ],
+        "520": {
+            "a": "Contém estimativas de profissionais da área de Serviços Técnicos de Informática, no Brasil, em Brasil, em 1984 e 1985. Essas estimativas foram agregadas por função, unidade de federação e país, tendo como fonte a Pesquisa SEI 1980/81, o Boletim nº 08/SEI julho/agosto/setembro de 82 e Relatório da Comissão Especial nº10 de junho 83."
+        },
+        "650": [
+            {
+                "a": "Recursos humanos",
+                "x": "Informática"
+            },
+            {
+                "a": "Política Nacional de Informática"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

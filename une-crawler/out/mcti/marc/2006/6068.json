@@ -1,0 +1,73 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000006068",
+        "005": "20190801135527.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "327(063)",
+            "b": "S471",
+            "c": "1989"
+        },
+        "245": {
+            "a": "Seminarios do IPRI 1987 a 1989",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Fundação Alexandre de Gusmão, Instituto de Pesquisa de Relações Internacionais",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "60"
+            }
+        ],
+        "490": [
+            {
+                "a": "Cadernos do IPRI",
+                "v": "1"
+            }
+        ],
+        "650": [
+            {
+                "a": "Relações internacionais",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Política externa",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Relações econômicas",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Relações culturais",
+                "z": "Brasil"
+            },
+            {
+                "a": "Integração",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Pesquisa de Relações Internacionais (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

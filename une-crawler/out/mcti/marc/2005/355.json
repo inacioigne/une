@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000355",
+        "005": "20190808125236.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "025.6(81)(063)",
+            "b": "S471a",
+            "c": "1995"
+        },
+        "111": {
+            "a": "Seminário Nacional de Comutação Bibliográfica",
+            "c": "Campinas, SP",
+            "d": "1994",
+            "n": "2"
+        },
+        "245": {
+            "a": "Anais do 2° Seminário Nacional de Comutação Bibliográfica",
+            "b": "Campinas, 10 de novembro de 1994",
+            "h": "Impresso",
+            "c": "autor corporativo: Programa de Comutação Bibliográfica"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto Brasileiro de Informação em Ciência e Tecnologia",
+                "c": "1995"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "59"
+            }
+        ],
+        "650": [
+            {
+                "a": "Intercâmbio de informação",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Bibliotecas",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Recuperação da informação",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Acesso à informação",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "710": [
+            {
+                "a": "Programa de Comutação Bibliográfica (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

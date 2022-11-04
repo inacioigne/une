@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000006085",
+        "005": "20190813164724.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "349.6(81)",
+            "b": "B823c",
+            "c": "1990"
+        },
+        "110": {
+            "a": "Brasil. [Leis etc.]"
+        },
+        "245": {
+            "a": "Coletânea de legislação ambiental",
+            "b": "federal, estadual (atualizada até setembro/90)",
+            "c": "compilada por Geraldo Luiz Farias e Marcia Cristina Lima",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Curitiba",
+                "b": "Coordenadoria de Estudos e Defesa do Meio Ambiente",
+                "c": "1990"
+            }
+        ],
+        "300": [
+            {
+                "a": "536"
+            }
+        ],
+        "650": [
+            {
+                "a": "Meio ambiente",
+                "x": "Legislação",
+                "z": "Brasil"
+            },
+            {
+                "a": "Política ambiental",
+                "x": "Legislação",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Farias, Geraldo Luiz",
+                "e": "Compilador"
+            },
+            {
+                "a": "Lima, Marcia Cristina",
+                "e": "Compilador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

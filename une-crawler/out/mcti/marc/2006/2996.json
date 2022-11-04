@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002996",
+        "005": "20190802105526.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0138812195"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.414.2",
+            "b": "T435s",
+            "c": "1975"
+        },
+        "100": {
+            "a": "Thierauf, Robert J"
+        },
+        "245": {
+            "a": "Systems analysis and design of real-time management information systems",
+            "c": "Robert J. Thierauf",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "c1975"
+            }
+        ],
+        "300": [
+            {
+                "a": "xi, 607",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema de Gerenciamento de Informações"
+            },
+            {
+                "a": "Análise de sistemas"
+            },
+            {
+                "a": "Tempo real"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

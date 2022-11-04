@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003932",
+        "005": "20190802095729.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.3.049.77",
+            "b": "I61",
+            "c": "1982"
+        },
+        "110": {
+            "a": "Integrated Circuit Engineering Corporation"
+        },
+        "245": {
+            "a": "Status' 82",
+            "b": "a report on the integrated circuit industry",
+            "c": "Edited by Mel H. Eklund, William L. Strauss",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Scottsdale [Estados Unidos]",
+                "b": "Integrated Circuit Engineering Corporation",
+                "c": "1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 118",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Periódico tratado como livro (ISSN : 0195-9190)"
+            }
+        ],
+        "650": [
+            {
+                "a": "Circuito integrado",
+                "x": "Estatísticas"
+            },
+            {
+                "a": "Semicondutores",
+                "x": "Estatísticas"
+            }
+        ],
+        "700": [
+            {
+                "a": "Eklund, Mel H",
+                "e": "Editor"
+            },
+            {
+                "a": "Strauss, William I",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

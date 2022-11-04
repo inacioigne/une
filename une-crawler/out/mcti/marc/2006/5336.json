@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005336",
+        "005": "20190814183202.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "539.1",
+            "b": "A946",
+            "c": "1993"
+        },
+        "245": {
+            "a": "Avanços tecnológicos na área de geração nucleoelétrica",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[S.l.]",
+                "b": "NUCLEBRÁS",
+                "c": "1993"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (paginação irregular)",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Física nuclear"
+            },
+            {
+                "a": "Energia nuclear"
+            },
+            {
+                "a": "Tecnologia nuclear"
+            },
+            {
+                "a": "Indústria nuclear"
+            }
+        ],
+        "710": [
+            {
+                "a": "ELETROBRAS",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Instituto de Engenharia Nuclear (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

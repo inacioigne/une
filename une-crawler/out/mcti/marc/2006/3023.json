@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003023",
+        "005": "20190730113257.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "517",
+            "b": "S237c",
+            "c": "1972"
+        },
+        "100": {
+            "a": "Ruas, Vitoriano",
+            "d": "1946-"
+        },
+        "245": {
+            "a": "Curso de cálculo numérico",
+            "c": "Vitoriano Ruas de Barros Santos ; revisão de Emmanuel Piseces Lopes Passos",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Ao Livro Técnico",
+                "c": "1972"
+            }
+        ],
+        "300": [
+            {
+                "a": "256",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Ciência da computação"
+            }
+        ],
+        "650": [
+            {
+                "a": "Matemática"
+            },
+            {
+                "a": "Cálculo numérico"
+            },
+            {
+                "a": "Análise matemática"
+            },
+            {
+                "a": "Equações"
+            }
+        ],
+        "700": [
+            {
+                "a": "Passos, Emmanuel Lopes",
+                "e": "Revisor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a",
+        "001": "000001162",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "020": {
+            "a": "8573830085"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "60",
+            "b": "G195b"
+        },
+        "100": {
+            "a": "Gander, Eugen S"
+        },
+        "245": {
+            "a": "Biotecnología para peatones",
+            "c": "Eugen S. Gander, Lucilia H. Marcelino, Pidi Zumstein."
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Empresa Brasileira de Pesquisa Agropecuária",
+                "c": "1997"
+            }
+        ],
+        "300": [
+            {
+                "a": "66",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Biotecnologia",
+                "x": "História"
+            },
+            {
+                "a": "Engenharia genética"
+            },
+            {
+                "a": "Genética"
+            }
+        ],
+        "700": [
+            {
+                "a": "Marcellino, Lucilia H",
+                "e": "Coautor"
+            },
+            {
+                "a": "Zumstein, Pidi",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Empresa Brasileira de Pesquisa Agropecuária",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

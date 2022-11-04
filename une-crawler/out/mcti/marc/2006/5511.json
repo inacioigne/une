@@ -1,0 +1,113 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005511",
+        "005": "20190801090006.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0080334466"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.896(063)",
+            "b": "S989r",
+            "c": "1985"
+        },
+        "111": {
+            "a": "SYROCO '85",
+            "c": "Barcelona, Espanha",
+            "d": "1985"
+        },
+        "245": {
+            "a": "Robot control (SYROCO '85)",
+            "b": "proceedings of the 1st IFAC symposium, Barcelona, Spain, 6-8 November 1985",
+            "c": "edited by L. Basañez, G. Ferraté, and G.N. Saridis",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "1 ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Oxford [Inglaterra]"
+            },
+            {
+                "a": "Nova Iorque",
+                "b": "Published for the International Federation of Automatic Control by Pergamon Press",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiii, 561",
+                "c": "31 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "IFAC proceedings series",
+                "v": "1986, no. 9"
+            }
+        ],
+        "500": [
+            {
+                "a": "Organized by Comité Español of IFAC and the Institut de Cibernètica; sponsored by various committees of IFAC, with the cooperation of IEEE Robotics and Automation Council."
+            }
+        ],
+        "650": [
+            {
+                "a": "Robótica"
+            },
+            {
+                "a": "Robo industrial"
+            },
+            {
+                "a": "Automação industrial"
+            },
+            {
+                "a": "Processamento de dados"
+            }
+        ],
+        "700": [
+            {
+                "a": "Basañez, L",
+                "e": "Editor"
+            },
+            {
+                "a": "Ferraté, Gabriel A",
+                "d": "1932-",
+                "e": "Editor"
+            },
+            {
+                "a": "Saridis, George N.",
+                "d": "1931-",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "International Federation of Automatic Control",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Institut de Cibernètica (Espanha)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "IEEE Robotics and Automation Council",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

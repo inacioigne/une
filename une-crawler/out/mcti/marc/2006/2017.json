@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002017",
+        "005": "20190812111628.0",
+        "007": "c",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "VT004.451.9",
+            "b": "M939",
+            "c": "[199-?]"
+        },
+        "100": {
+            "a": "Silva Júnior, Rubens Pereira"
+        },
+        "245": {
+            "a": "Ms-dos 6 avançado",
+            "h": "gravação de vídeo",
+            "c": "Rubens Pereira Silva Júnior"
+        },
+        "246": [
+            {
+                "a": "Vídeo-aula MS-Dos 6 avançado"
+            }
+        ],
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "MPO Vídeo",
+                "c": "[199-?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 fita de video (105min)",
+                "b": "son., color."
+            }
+        ],
+        "490": [
+            {
+                "a": "Projeto Informática"
+            }
+        ],
+        "520": {
+            "a": "Esta vídeo-aula é destinada aos usuários que já possuem alguma noção de DOS. Neste curso são mostrados vários comandos BATCH como: PAUSE, IF, GOTO e FOR entre outros, permitindo ao usuário criar vários arquivos BAT que automatizam as tarefas rotineiras. São mostrados também as canalizações de entrada e saída, como criar e ajustar o arquivo CONFIG.SYS para diversas configurações (inclusive com menu), como instalar drivers de dispositivo (como mouse por exemplo) além de como utilizar memória expandida e extendida através dos gerenciadores de memória que vem com o DOS6."
+        },
+        "650": [
+            {
+                "a": "MS-DOS (Sistema operacional de computador)",
+                "x": "Estudo e ensino"
+            }
+        ],
+        "990": {
+            "a": "Vídeos"
+        }
+    }
+}

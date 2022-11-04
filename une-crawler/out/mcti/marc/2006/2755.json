@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002755",
+        "005": "20190807112322.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.422.63",
+            "b": "L935i",
+            "c": "1970"
+        },
+        "100": {
+            "a": "Lucena, Carlos J. P.",
+            "q": "Carlos José Pereira"
+        },
+        "245": {
+            "a": "Introdução às estruturas de informação",
+            "c": "Carlos José Pereira de Lucena",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Ao Livro Técnico",
+                "c": "1970"
+            }
+        ],
+        "300": [
+            {
+                "a": "86",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Estrutura de dados"
+            },
+            {
+                "a": "Algoritmos"
+            },
+            {
+                "a": "Programação matemática"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

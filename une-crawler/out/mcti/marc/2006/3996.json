@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003996",
+        "005": "20190809184351.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.01:355.21(81)",
+            "b": "S471a",
+            "c": "1981"
+        },
+        "111": {
+            "a": "Seminário de Informática das Forças Armadas",
+            "c": "Brasília, DF",
+            "d": "1981",
+            "n": "1"
+        },
+        "245": {
+            "a": "Anais do 1. seminário de informática das forças armadas",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Secretaria Especial de Informática",
+                "c": "1981"
+            }
+        ],
+        "300": [
+            {
+                "a": "60",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Forças armadas",
+                "z": "Brasil"
+            },
+            {
+                "a": "Processamento de dados",
+                "x": "Forças armadas"
+            },
+            {
+                "a": "Segurança nacional",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "710": [
+            {
+                "a": "Conselho de Segurança Nacional (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

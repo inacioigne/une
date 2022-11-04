@@ -1,0 +1,79 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002706",
+        "005": "20190809142033.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0444195653"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4",
+            "b": "B877p",
+            "c": "1973"
+        },
+        "100": {
+            "a": "Brown, A. R.",
+            "d": "1945-",
+            "q": "Arthur Robert"
+        },
+        "245": {
+            "a": "Program debugging",
+            "b": "the prevention and cure of program errors",
+            "c": "A. R. Brown and W. A. Sampson",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Londres (Inglaterra)",
+                "b": "Macdonald"
+            },
+            {
+                "a": "Nova Iorque",
+                "b": "American Elsevier",
+                "c": "1973"
+            }
+        ],
+        "300": [
+            {
+                "a": "[10], 166",
+                "c": "23 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Computer monographs"
+            }
+        ],
+        "650": [
+            {
+                "a": "Depuração de dados"
+            },
+            {
+                "a": "Depuração de dados"
+            },
+            {
+                "a": "Administração de dados"
+            },
+            {
+                "a": "Processamento de dados"
+            }
+        ],
+        "700": [
+            {
+                "a": "Sampson, W. A",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

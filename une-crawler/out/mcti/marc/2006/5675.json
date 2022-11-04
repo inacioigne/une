@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005675",
+        "005": "20190805095012.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:339.564",
+            "b": "C734g",
+            "c": "1988"
+        },
+        "110": {
+            "a": "Committee to Study International Developments in Computer Science and Technology"
+        },
+        "245": {
+            "a": "Global trends in computer technology and their impact on export control",
+            "h": "Impresso",
+            "c": "Committee to Study International Developments in Computer Science and Technology"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "National Academy Press",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "xvii, 288 p.",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Commission on Physical Sciences, Mathematics, and Resources, National Research Council"
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Transferência de tecnologia",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Exportação",
+                "x": "Controle",
+                "z": "Estados Unidos"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

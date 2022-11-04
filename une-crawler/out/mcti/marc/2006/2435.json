@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002435",
+        "005": "20190730104729.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8525600474"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "37.057(81)",
+            "b": "R852c",
+            "c": "2005"
+        },
+        "100": {
+            "a": "Rouanet, Sérgio Paulo",
+            "d": "1934-"
+        },
+        "245": {
+            "a": "Criação no Brasil de uma Escola Superior de Administração Pública",
+            "c": "Sergio Paulo Rouanet",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Escola Nacional de Administração Pública",
+                "c": "2005"
+            }
+        ],
+        "300": [
+            {
+                "a": "94"
+            }
+        ],
+        "650": [
+            {
+                "a": "Instituição de ensino"
+            },
+            {
+                "a": "Administração pública",
+                "x": "Estudo e ensino"
+            },
+            {
+                "a": "Formação profissional"
+            }
+        ],
+        "856": {
+            "y": "ENAP",
+            "u": "http://antigo.enap.gov.br/downloads/livro_rouanet.pdf",
+            "z": "Acesso em: 30/07/2019"
+        },
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

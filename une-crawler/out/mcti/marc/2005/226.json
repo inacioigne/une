@@ -1,0 +1,78 @@
+{
+    "controfield": {
+        "000": "01173nam  22002657  4500",
+        "001": "000000226",
+        "005": "20190805161936.0",
+        "007": "t",
+        "008": "870119s1985    au            000 0 eng c"
+    },
+    "datafield": {
+        "040": {
+            "a": "R",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "002:004(058.7)(1-773)",
+            "b": "I42d",
+            "d": "R",
+            "c": "1985"
+        },
+        "245": {
+            "a": "Directory of industrial information services and systems in developing countries",
+            "c": "prepared for INTIB - The Industrial and Technological Information Bank, by the Industrial Information Section, UNIDO Technology Programme",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Vienna",
+                "b": "Organização das Nações Unidas para o Desenvolvimento Industrial",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "131"
+            }
+        ],
+        "500": [
+            {
+                "a": "\"UNIDO/IS.205/Rev.1\""
+            }
+        ],
+        "650": [
+            {
+                "a": "Fonte de informação",
+                "x": "Países em desenvolvimento"
+            },
+            {
+                "a": "Sistema de informação",
+                "x": "Países em desenvolvimento"
+            },
+            {
+                "a": "Serviço de informação",
+                "x": "Países em desenvolvimento"
+            },
+            {
+                "a": "Informação tecnológica",
+                "x": "Países em desenvolvimento"
+            },
+            {
+                "a": "Indústrias",
+                "x": "Países em desenvolvimento"
+            }
+        ],
+        "710": [
+            {
+                "a": "Industrial and Technological Information Bank",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Organização das Nações Unidas para o Desenvolvimento Industrial",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

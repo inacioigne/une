@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003940",
+        "005": "20190807152218.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8570011091"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "W285l",
+            "c": "=134.3",
+            "d": "1982"
+        },
+        "100": {
+            "a": "Warnier, Jean-Dominique",
+            "d": "1920-"
+        },
+        "245": {
+            "a": "LCP, Lógica de construção de programas",
+            "b": "um método de programação estruturada",
+            "c": "Jean-Dominique Warnier ; tradução Luiz Paulo Bastos Abrahão ; revisão Cristina Deorsola Xavier",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Campus",
+                "c": "1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "xx, 183 p.",
+                "b": "il."
+            }
+        ],
+        "534": {
+            "a": "Título original : Les procedures de traitement et leurs donnees (LCP)"
+        },
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Programação lógica"
+            },
+            {
+                "a": "Programação estruturada"
+            },
+            {
+                "a": "Fluxograma"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000954",
+        "005": "20190806192058.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "62:314.15-051(73)",
+            "b": "I33",
+            "c": "1995"
+        },
+        "245": {
+            "a": "Immigrant scientists, engineers, and technicians",
+            "b": "1991-92 : detailed statistical tables",
+            "c": "Joanne P. Streeter, project officer",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Arlington [Estados Unidos]",
+                "b": "VPS International Science Publisher",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "vii, 163 p.",
+                "b": "tabs."
+            }
+        ],
+        "500": [
+            {
+                "a": "\"NSF 95-310\""
+            }
+        ],
+        "650": [
+            {
+                "a": "Cientistas",
+                "x": "Indicadores",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Engenheiros",
+                "x": "Indicadores",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Técnico",
+                "x": "Indicadores",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Pesquisadores",
+                "x": "Indicadores",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento",
+                "x": "Política e governo",
+                "z": "Estados Unidos"
+            }
+        ],
+        "700": [
+            {
+                "a": "Streeter, Joanne P",
+                "e": "Organizador"
+            }
+        ],
+        "710": [
+            {
+                "a": "National Science Foundation (Estados Unidos). Directorate for Social, Behavioral, and Economic Sciences",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

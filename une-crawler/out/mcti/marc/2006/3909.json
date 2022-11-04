@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003909",
+        "005": "20190802095937.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "551.509(73)",
+            "b": "S898",
+            "c": "1993"
+        },
+        "245": {
+            "a": "A strategic plan for a coastal forecast system"
+        },
+        "260": [
+            {
+                "a": "[Washington (Distrito de Colúmbia, Estados Unidos)]",
+                "b": "U.S. Dept. of Commerce, National Oceanic and Atmospheric Administration",
+                "c": "1993"
+            }
+        ],
+        "300": [
+            {
+                "a": "31 f.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ecologia",
+                "z": "Estados Unidos",
+                "x": "Previsão"
+            },
+            {
+                "a": "Previsão do tempo",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Proteção ambiental",
+                "x": "Pesquisa",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Meteorologia",
+                "z": "Estados Unidos"
+            }
+        ],
+        "710": [
+            {
+                "a": "Estados Unidos. National Oceanic and Atmospheric Administration",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\3909 - A strategic plan for a coastal forecast system.pdf",
+            "y": "Texto completo",
+            "z": "Acesso em: 02/08/2019"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

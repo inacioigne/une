@@ -1,0 +1,88 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001347",
+        "005": "20190813141633.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "332.145(816.5)",
+            "b": "F652r",
+            "c": "2003"
+        },
+        "100": {
+            "a": "Fochezatto, Adelar",
+            "d": "1961-"
+        },
+        "245": {
+            "a": "Construção de um modelo de equilíbrio geral computável regional",
+            "b": "aplicação ao Rio Grande do Sul",
+            "c": "Adelar Fochezatto; autor corporativo: Instituto de Pesquisa Econômica Aplicada",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "2003"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "25",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Texto para discussão / IPEA",
+                "v": "944",
+                "x": "1415-4765"
+            }
+        ],
+        "520": {
+            "a": "Apresenta um modelo de Equilíbrio Geral Computável (EGC) regional que foi construído para analisar políticas econômicas nacionais e regionais. Para avaliar sua robustez, o modelo foi aplicado com vistas a verificar os impactos econômicos de uma política tributária proposta pelo governo estadual do Rio Grande do Sul. Para isso, adequou-se o modelo para que este contemple os aspectos relevantes da estrutura produtiva da economia regional, bem como as relações econômicas desse estado com o resto do Brasil e do mundo. A política tributária analisada constitui a restruturação da matriz tributária proposta recentemente pelo governo do estado. O modelo produz resultados coerentes com a teoria econômcia e com outros estudos similares, o que estimula sua utilização na análise de impactos de mudança de políticas econômcias nacionais e regionais."
+        },
+        "650": [
+            {
+                "a": "Política econômica"
+            },
+            {
+                "a": "Economia regional",
+                "z": "Rio Grande do Sul"
+            },
+            {
+                "a": "Política fiscal",
+                "z": "Rio Grande do Sul"
+            },
+            {
+                "a": "Modelo econômico"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "u": "www.ipea.gov.br/pub/td/2003/td_0944.pdf",
+            "y": "Texto completo"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

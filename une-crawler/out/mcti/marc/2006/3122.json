@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003122",
+        "005": "20190802085735.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8589385019"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "316.3:001.102",
+            "b": "S678",
+            "c": "2002"
+        },
+        "245": {
+            "a": "A sociedade da informação no Brasil",
+            "b": "presente e perspectivas",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Telefônica",
+                "c": "2002"
+            }
+        ],
+        "300": [
+            {
+                "a": "241",
+                "b": "il., + 1 CD-ROM"
+            }
+        ],
+        "650": [
+            {
+                "a": "Internet"
+            },
+            {
+                "a": "Sociedade da informação",
+                "z": "Brasil"
+            },
+            {
+                "a": "Informação tecnológica",
+                "z": "Brasil"
+            },
+            {
+                "a": "Informação",
+                "z": "Brasil"
+            },
+            {
+                "a": "Comunicação",
+                "z": "Brasil"
+            },
+            {
+                "a": "Telefonia",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

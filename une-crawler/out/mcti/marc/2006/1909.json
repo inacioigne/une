@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001909",
+        "005": "20190808105701.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.3",
+            "b": "G538l",
+            "c": "1988"
+        },
+        "100": {
+            "a": "Giusti, Armando E. de"
+        },
+        "245": {
+            "a": "Lenguajes de descripcion de hardware",
+            "c": "Armando E. de Giusti, Claudia I. Nugent, Alejandro Martinez",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[Curitiba]",
+                "b": "Escola Brasileiro-Argentina de Informática",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (paginação irregular)",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Hardware"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)"
+            },
+            {
+                "a": "Engenharia elétrica"
+            }
+        ],
+        "700": [
+            {
+                "a": "Nugent, Claudia I",
+                "e": "Coautor"
+            },
+            {
+                "a": "Martinez, Alejandro",
+                "e": "Coautor"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Curitiba, PR",
+                "d": "1988",
+                "n": "3"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

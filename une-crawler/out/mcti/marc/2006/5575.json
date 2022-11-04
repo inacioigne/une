@@ -1,0 +1,53 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005575",
+        "005": "20190806102021.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "338.45:004(81)",
+            "b": "I42",
+            "c": "1989"
+        },
+        "245": {
+            "a": "A indústria de informática",
+            "b": "tendências e oportunidades",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Tama",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "140",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Indústria de computador"
+            },
+            {
+                "a": "Informática",
+                "x": "Indústria",
+                "z": "Brasil"
+            },
+            {
+                "a": "Automação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

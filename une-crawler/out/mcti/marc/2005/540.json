@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000540",
+        "005": "20190801190404.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "008:316.3(44:81)",
+            "b": "C968",
+            "c": "1997"
+        },
+        "245": {
+            "a": "Cultura, estado e sociedade",
+            "b": "França e Brasil",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Ministério da Cultura"
+            },
+            {
+                "a": "[Paris]",
+                "b": "Ministère de la Culture de France, Département des Affaires Internationales",
+                "c": "1997"
+            }
+        ],
+        "300": [
+            {
+                "a": "220"
+            }
+        ],
+        "490": [
+            {
+                "a": "Encontros Malraux"
+            }
+        ],
+        "650": [
+            {
+                "a": "Cultura",
+                "x": "Financiamento",
+                "z": "França"
+            },
+            {
+                "a": "Política e cultura",
+                "z": "França"
+            }
+        ],
+        "710": [
+            {
+                "a": "França. Ministère de la Culture de France. Département des Affaires Internationales",
+                "b": "Département des Affaires Internationales",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Brasil. Ministério da Cultura",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

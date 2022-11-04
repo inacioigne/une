@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002180",
+        "005": "20190731093356.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "37(047)",
+            "b": "B823re",
+            "c": "1981"
+        },
+        "110": {
+            "a": "Brasil. Secretaria Especial de Informática"
+        },
+        "245": {
+            "a": "Relatório da comissão especial de educação",
+            "c": "Secretária Especial de Informática",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Secretaria Especial de Informática",
+                "c": "1981"
+            }
+        ],
+        "300": [
+            {
+                "a": "21 f."
+            }
+        ],
+        "500": [
+            {
+                "a": "Constituída com o objetivo de assessorar o Ministério da Educação e Cultura no estabelecimento de política e diretrizes para a educação na área de Informática, com vista a formulação do planejamento educacional na área."
+            }
+        ],
+        "505": [
+            {
+                "a": "Constituição e metodologia de trabalho da comissão -- Recomendações -- Voto do Professor Luiz de Freitas Bueno."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Educação"
+            },
+            {
+                "a": "Política e governo",
+                "x": "Planejamento"
+            },
+            {
+                "a": "Recursos humanos",
+                "x": "Formação profissional"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

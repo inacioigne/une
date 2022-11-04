@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005521",
+        "005": "20190809132007.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.223",
+            "b": "M625m",
+            "c": "1984"
+        },
+        "100": {
+            "a": "Miclet, Laurent"
+        },
+        "245": {
+            "a": "Méthodes structurelles pour la reconnaissance des formes",
+            "c": "par Laurent Miclet ; préface de Jean-Paul Haton",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Eyrolles",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxiv, 184 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Collection technique et scientifique des télécommunications"
+            }
+        ],
+        "650": [
+            {
+                "a": "Algoritmos"
+            },
+            {
+                "a": "Reconhecimento de caracteres"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

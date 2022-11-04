@@ -1,0 +1,74 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000836",
+        "005": "20190808173307.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "351.72:001.891",
+            "b": "S586a",
+            "c": "2004"
+        },
+        "100": {
+            "a": "Silva, Alberto Carvalho da"
+        },
+        "245": {
+            "a": "Atividades de fomento à pesquisa e formação de recursos humanos desenvolvidas pela FAPESP entre 1962 e 2001",
+            "c": "Alberto Carvalho da Silva",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Fundação de Amparo à Pesquisa do Estado de São Paulo",
+                "c": "2004"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "59",
+                "b": "il., tab."
+            }
+        ],
+        "650": [
+            {
+                "a": "Pesquisa",
+                "x": "Política e governo",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pesquisa científica",
+                "x": "Relatórios",
+                "z": "São Paulo"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento",
+                "z": "Brasil"
+            },
+            {
+                "a": "Recursos humanos",
+                "z": "Brasil"
+            }
+        ],
+        "856": {
+            "u": "http://www.fapesp.br/publicacoes/alberto.pdf",
+            "y": "Texto completo (FAPESP)",
+            "z": "Acesso em: 16/09/2014"
+        },
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

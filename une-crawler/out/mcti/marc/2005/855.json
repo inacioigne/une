@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000855",
+        "005": "20190729123926.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "378.4:658",
+            "b": "C957u",
+            "c": "[2003]"
+        },
+        "100": {
+            "a": "Cruz, Carlos Henrique de Brito"
+        },
+        "245": {
+            "a": "A universidade, a empresa e a pesquisa",
+            "c": "Carlos H. de Brito Cruz.",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[Campinas, SP",
+                "b": "Universidade Estadual de Campinas",
+                "c": "2003]"
+            }
+        ],
+        "300": [
+            {
+                "a": "29 f."
+            }
+        ],
+        "500": [
+            {
+                "a": "Versão atualizada e ampliada do artigo do mesmo título publicado na Revista Humanidades, 45 pp. 15-29 (UnB, 1999)."
+            }
+        ],
+        "520": {
+            "a": "Analisa as atividades de Pesquisa e Desenvolvimento (P&D) realizadas no Brasil, focalizando a atenção no papel de cada uma das instituições: universidade, empresas e governo."
+        },
+        "650": [
+            {
+                "a": "Universidade",
+                "x": "Pesquisa e desenvolvimento",
+                "z": "Brasil"
+            },
+            {
+                "a": "Política e governo",
+                "x": "Pesquisa e desenvolvimento",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

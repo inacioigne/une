@@ -1,0 +1,86 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000216",
+        "005": "20190726091828.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "020": {
+            "a": "968164871"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "001.891(7/8=13)",
+            "b": "P976",
+            "c": "1995"
+        },
+        "245": {
+            "a": "Publicaciones científicas en América Latina",
+            "c": "Ana María Cetto, Kai-Inge Hillerud (compiladores)",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "Scientific publications in Latin America"
+            }
+        ],
+        "250": [
+            {
+                "a": "1. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "México",
+                "b": "Fondo de Cultura Económica",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "305",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Publicação científica",
+                "z": "América Latina"
+            },
+            {
+                "a": "Pesquisa científica",
+                "z": "América Latina"
+            },
+            {
+                "a": "Periódico científico",
+                "z": "América Latina"
+            },
+            {
+                "a": "Divulgação científica",
+                "z": "América Latina"
+            }
+        ],
+        "700": [
+            {
+                "a": "Cetto, Ana Maria",
+                "e": "Compilador"
+            },
+            {
+                "a": "Hillerud, Kai-Inge",
+                "e": "Compilador"
+            }
+        ],
+        "856": {
+            "u": "http://books.google.com/books?id=kjMikWAyI0QC&printsec=frontcover&hl=pt-BR&source=gbs_ViewAPI#v=onepage&q=&f=false",
+            "y": "Google Books",
+            "z": "Acesso em: 26/07/2019"
+        },
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

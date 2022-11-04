@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003037",
+        "005": "20190808130212.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:615.478.1",
+            "b": "B214o",
+            "c": "1971"
+        },
+        "100": {
+            "a": "Bandelier, René"
+        },
+        "245": {
+            "a": "L'ordinateur a l'hopital",
+            "b": "Pourquoi? Comment?",
+            "c": "René Bandelier",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Éditions d'organisation",
+                "c": "1971"
+            }
+        ],
+        "300": [
+            {
+                "a": "174",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Administração hospitalar",
+                "x": "Processamento de dados"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Hospital"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

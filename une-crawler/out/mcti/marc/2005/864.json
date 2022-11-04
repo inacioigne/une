@@ -1,0 +1,77 @@
+{
+    "controfield": {
+        "000": "am   nam  22      a 4500",
+        "001": "000000864",
+        "005": "20190806185432.0",
+        "007": "t",
+        "008": "eng                                eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6:005.96(4)",
+            "b": "J68h",
+            "c": "1996"
+        },
+        "100": {
+            "a": "Johnson, Jean M"
+        },
+        "245": {
+            "a": "Human resources for science & technology",
+            "b": "the European region",
+            "c": "Jean M. Johnson",
+            "h": "Recurso Eletrônico"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "National Science Foundation",
+                "c": "1996"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiv, 143 p.",
+                "b": "tabs., grafs."
+            }
+        ],
+        "490": [
+            {
+                "a": "Surveys of science resources series"
+            }
+        ],
+        "500": [
+            {
+                "a": "'NSF 96-316\""
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Pesquisa e desenvolvimento",
+                "z": "Europa"
+            },
+            {
+                "a": "Engenharia",
+                "x": "Recursos humanos",
+                "z": "Europa"
+            }
+        ],
+        "710": [
+            {
+                "a": "National Science Foundation (Estados Unidos)",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "u": "http://www.nsf.gov/statistics/nsf96316/pdfstart.htm",
+            "y": "Texto completo"
+        },
+        "990": {
+            "a": "E-Book"
+        }
+    }
+}

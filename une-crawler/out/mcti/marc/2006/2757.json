@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002757",
+        "005": "20190812103022.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0884050181"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.422.833",
+            "b": "M471m",
+            "c": "1972"
+        },
+        "100": {
+            "a": "Maynard, Jeff"
+        },
+        "245": {
+            "a": "Modular programming",
+            "c": "Jeff Maynard",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "1st ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Petrocelli Books",
+                "c": "1972"
+            }
+        ],
+        "300": [
+            {
+                "a": "100",
+                "c": "23 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação modular"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

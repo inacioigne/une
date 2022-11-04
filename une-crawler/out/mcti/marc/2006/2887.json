@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002887",
+        "005": "20190813114416.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004",
+            "b": "C463c",
+            "c": "1971"
+        },
+        "100": {
+            "a": "Chapin, Ned"
+        },
+        "245": {
+            "a": "Computers",
+            "b": "a systems approach",
+            "c": "Ned Chapin",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Van Nostrand Reinhold",
+                "c": "c1971"
+            }
+        ],
+        "300": [
+            {
+                "a": "685",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Computer science series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Computadores"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            },
+            {
+                "a": "Sistema de computador"
+            },
+            {
+                "a": "Hardware"
+            },
+            {
+                "a": "Software"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

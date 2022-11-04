@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000467",
+        "005": "20190729130356.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4",
+            "b": "U89",
+            "c": "[1998?]"
+        },
+        "245": {
+            "a": "Utilizando melhor os recursos do MS-OFFICE",
+            "h": "Impresso",
+            "c": "Universidade de Brasília. Centro de Informática"
+        },
+        "260": [
+            {
+                "a": "[Brasília]",
+                "b": "Universidade de Brasília, Centro de Informática",
+                "c": "[1998?]"
+            }
+        ],
+        "300": [
+            {
+                "b": "il.",
+                "a": "93"
+            }
+        ],
+        "500": [
+            {
+                "a": "\"Contrato MCT/UnB-EMP\""
+            }
+        ],
+        "650": [
+            {
+                "a": "Programas de computador",
+                "x": "Excel, Microsoft"
+            },
+            {
+                "a": "Informática",
+                "x": "Treinamento de pessoal"
+            }
+        ],
+        "710": [
+            {
+                "a": "Universidade de Brasília. Centro de Informática",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002303",
+        "005": "20190801100148.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "614",
+            "b": "S255",
+            "c": "1996"
+        },
+        "245": {
+            "a": "Saúde da população",
+            "b": "controle de endemias",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+                "c": "1996"
+            }
+        ],
+        "300": [
+            {
+                "a": "74",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Saúde pública"
+            },
+            {
+                "a": "Prêmio Jovem Cientista"
+            },
+            {
+                "a": "Doenças tropicais"
+            },
+            {
+                "a": "Doença endêmica"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

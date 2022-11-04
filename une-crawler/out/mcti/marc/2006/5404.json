@@ -1,0 +1,53 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005404",
+        "005": "20190807113800.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.651",
+            "b": "P894i",
+            "c": "1985"
+        },
+        "100": {
+            "a": "Pépin"
+        },
+        "245": {
+            "a": "Introduction aux systèmes de gestion de bases de données",
+            "c": "Pepin",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Eyrolles",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "247",
+                "c": "24",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Banco de dados",
+                "x": "Gestão"
+            },
+            {
+                "a": "Sistema de gerenciamento de banco de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

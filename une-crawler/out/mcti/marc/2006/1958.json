@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001958",
+        "005": "20190802150719.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.65",
+            "b": "M141g",
+            "c": "1981"
+        },
+        "100": {
+            "a": "Macedo, Lucas Tofolo de"
+        },
+        "245": {
+            "a": "Gerência de desempenho",
+            "b": "como controlar a expansão de um CPD",
+            "c": "Lucas Tofolo de Macedo",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[Brasília",
+                "b": "s.n.]",
+                "c": "1981"
+            }
+        ],
+        "300": [
+            {
+                "a": "62",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Trabalho apresentado no 1. Concurso Nacional de Monografias em Informática, promovido pela Secretaria Especial de Informática (SEI) e pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq). teve como objetivo principal estimular a produção brasileira de literatura técnica no setor, tanto no que se refere a textos didáticos e de pesquisa como a aplicações de informática nos mais diversos aspectos da vida nacional."
+            }
+        ],
+        "505": [
+            {
+                "a": "I. Introdução -- II. Considerações preliminares -- II.1. Ganhar em desempenho -- II.2. Reduzir custos -- II.3. Ganhar em capacidade adicional -- III. Gerência de desempenho: o que é? -- IV. Quando iniciar? -- IV. 1. Iniciação (estágio um) -- VI.2. Contágio (Estágio dois) -- IV. 3. Consolidação (Estágio três) -- IV.4. Maturidade (Estágio quatro) -- V. Como fazer -- V.1. Premissas -- V.2. Conceitos e facilidades -- V.3 Descrição operacional -- V.4. Implentação -- V.5 Considerações finais -- Anexo - Bibliografia"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Gerência"
+            },
+            {
+                "a": "Computadores"
+            }
+        ],
+        "711": [
+            {
+                "a": "Concurso Nacional de Monografias sobre Informática",
+                "c": "Brasília, DF",
+                "d": "1981",
+                "n": "1"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000636",
+        "005": "20190805150907.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "32(81)(042)",
+            "b": "C268d",
+            "c": "1997"
+        },
+        "100": {
+            "a": "Cardoso, Fernando Henrique",
+            "d": "1931-"
+        },
+        "245": {
+            "a": "Desenvolvimento sustentavel, mudança social e emprego",
+            "c": "Fernando Henrique Cardoso",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Presidência da República",
+                "c": "1997"
+            }
+        ],
+        "300": [
+            {
+                "a": "61"
+            }
+        ],
+        "490": [
+            {
+                "a": "Documentos da Presidência da República"
+            }
+        ],
+        "500": [
+            {
+                "a": "Entrevista e discursos do Presidente Fernando Henrique Cardoso, no periodo de março a junho de 1997."
+            }
+        ],
+        "650": [
+            {
+                "a": "Presidente",
+                "x": "Entrevistas",
+                "z": "Brasil"
+            },
+            {
+                "a": "Economia",
+                "z": "Brasil"
+            },
+            {
+                "a": "Meio ambiente",
+                "z": "Brasil"
+            },
+            {
+                "a": "Desenvolvimento sustentável",
+                "z": "Brasil"
+            },
+            {
+                "a": "Emprego",
+                "z": "Brasil"
+            },
+            {
+                "a": "Mudança social",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

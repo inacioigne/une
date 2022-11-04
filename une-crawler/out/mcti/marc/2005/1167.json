@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001167",
+        "005": "20190729094814.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "020": {
+            "a": "0953290581"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.39",
+            "b": "T267",
+            "c": "c1999"
+        },
+        "245": {
+            "a": "Telecomunicaciones en acción",
+            "h": "Impresso",
+            "c": "Lynne Gallagher, George Turnbull (consultor)"
+        },
+        "260": [
+            {
+                "a": "Londres (Inglaterra)",
+                "b": "Unión Internacional de Telecomunicaciones",
+                "c": "c1999"
+            }
+        ],
+        "300": [
+            {
+                "a": "32 f.",
+                "b": "il., color."
+            }
+        ],
+        "650": [
+            {
+                "a": "Telecomunicações",
+                "x": "Desenvolvimento agrícola"
+            }
+        ],
+        "700": [
+            {
+                "a": "Gallagher, Lynne",
+                "e": "Autor"
+            },
+            {
+                "a": "Turnbull, George",
+                "e": "Consultor"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

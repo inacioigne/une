@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002989",
+        "005": "20190731131452.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0814454577"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.75",
+            "b": "B842d",
+            "c": "c1978"
+        },
+        "100": {
+            "a": "Breslin, Jud"
+        },
+        "245": {
+            "a": "Distributed processing systems",
+            "b": "end of the mainframe era?",
+            "c": "Judson Breslin and C. Bradley Tashenberg",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "AMACOM",
+                "c": "c1978"
+            }
+        ],
+        "300": [
+            {
+                "a": "228",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Empresas",
+                "x": "Processamento de dados"
+            },
+            {
+                "a": "Gerência",
+                "x": "Processamento de dados"
+            },
+            {
+                "a": "Informática",
+                "x": "Sistema distribuído"
+            },
+            {
+                "a": "Microcomputador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Tashenberg, C. Bradley",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

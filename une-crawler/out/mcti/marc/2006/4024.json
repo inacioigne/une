@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004024",
+        "005": "20190730141643.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8570011504"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7",
+            "b": "M535r",
+            "c": "1984"
+        },
+        "100": {
+            "a": "Menascé, Daniel Alberto"
+        },
+        "245": {
+            "a": "Redes de computadores",
+            "b": "aspectos técnicos e operacionais",
+            "c": "Daniel A. Menascé, Daniel Schwabe",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Campus",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "160",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Arquitetura de rede de computador"
+            },
+            {
+                "a": "Protocolo de comunicação"
+            }
+        ],
+        "700": [
+            {
+                "a": "Schwabe, Daniel",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

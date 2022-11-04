@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005543",
+        "005": "20190808105257.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "321:004(81)",
+            "b": "P769",
+            "c": "1985"
+        },
+        "110": {
+            "a": "Brasil. Presidência da República"
+        },
+        "245": {
+            "a": "Política Nacional de Informática",
+            "c": "organização do Senador Virgílio Távora",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "c": "1985",
+                "b": "Senado Federal"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Política"
+            },
+            {
+                "a": "Política e governo"
+            },
+            {
+                "a": "Política de informática",
+                "x": "Legislação",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Távora, Virgílio",
+                "d": "1919-",
+                "e": "Organizador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

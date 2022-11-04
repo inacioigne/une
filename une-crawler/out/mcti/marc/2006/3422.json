@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003422",
+        "005": "20190730114524.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "338.28-048.87(7/4=13)",
+            "b": "P964c",
+            "c": "2002-2003"
+        },
+        "110": {
+            "a": "Programa Iberoamericano de Ciência e Tecnologia para o Desenvolvimento"
+        },
+        "245": {
+            "a": "CYTED, memoria, 2002-2003",
+            "b": "Programa Iberoamericano de Ciencia y Tecnología para el Desarrollo",
+            "h": "Impresso",
+            "c": "Programa Iberoamericano de Ciência e Tecnologia para o Desenvolvimento"
+        },
+        "260": [
+            {
+                "a": "Espanha",
+                "b": "Programa Iberoamericano de Ciência e Tecnologia para o Desenvolvimento",
+                "c": "2004"
+            }
+        ],
+        "300": [
+            {
+                "a": "304 p. + CD-Rom",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Acompanha CD-ROM"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e tecnologia",
+                "z": "Ibero-americano"
+            },
+            {
+                "a": "Desenvolvimento tecnológico",
+                "z": "Ibero-americano"
+            },
+            {
+                "a": "Desenvolvimento científico",
+                "z": "Ibero-americano"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

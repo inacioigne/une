@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002906",
+        "005": "20190801105031.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.6:657.6",
+            "b": "B877e",
+            "c": "c1968"
+        },
+        "100": {
+            "a": "Brown, Harry L"
+        },
+        "245": {
+            "a": "EDP for auditors",
+            "c": "Harry L. Brown",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Wiley",
+                "c": "c1968"
+            }
+        ],
+        "300": [
+            {
+                "a": "ix, 195 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Processamento de dados",
+                "x": "Auditoria"
+            },
+            {
+                "a": "Informática",
+                "x": "Auditoria"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Administração"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

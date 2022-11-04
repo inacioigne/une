@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "am   nam  22      a 4500",
+        "001": "000000401",
+        "005": "20190729091614.0",
+        "007": "t",
+        "008": "por                                por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "001.89:06.5(81)(058)",
+            "b": "O65",
+            "c": "1994"
+        },
+        "110": {
+            "a": "Ordem Nacional do Mérito Científico (Brasil)"
+        },
+        "245": {
+            "a": "Ordem nacional do mérito científico",
+            "h": "Impresso",
+            "c": "Ordem Nacional do Mérito Científico"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "c": "[1994]",
+                "b": "Ministério da Ciência e Tecnologia"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "22 f."
+            }
+        ],
+        "505": [
+            {
+                "a": "Decreto de criação da Ordem Nacional do Mérito Científico -- Decreto de Nomeação -- Biografias -- Solenidade de condecoração."
+            }
+        ],
+        "520": {
+            "a": "Traz o decreto de criação da Ordem Nacional do Mérito Científico (Decreto nº 772, de 16 de março de 1993."
+        },
+        "610": [
+            {
+                "a": "Ordem Nacional do Mérito Científico (Brasil)",
+                "x": "Biografia",
+                "z": "Brasil"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência e tecnologia",
+                "z": "Brasil",
+                "x": "Biografia"
+            }
+        ],
+        "856": {
+            "y": "Texto completo",
+            "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\401_Ordem_Nacional_Merito_Cientifico.pdf",
+            "z": "Acesso em: 29/07/2019"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

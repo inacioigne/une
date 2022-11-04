@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005447",
+        "005": "20190807145232.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7",
+            "b": "P979t",
+            "c": "1982"
+        },
+        "100": {
+            "a": "Pujolle, G.",
+            "d": "1949-"
+        },
+        "245": {
+            "a": "La télématique",
+            "b": "réseaux et applications",
+            "c": "par Guy Pujolle",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "5. éd. rev. et corr."
+            }
+        ],
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Eyrolles",
+                "c": "1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "ix, 157 p.",
+                "c": "25 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Telemática"
+            },
+            {
+                "a": "Comunicação de dados"
+            },
+            {
+                "a": "Rede de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002938",
+        "005": "20190808102232.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.05",
+            "b": "D985e",
+            "c": "c1971"
+        },
+        "100": {
+            "a": "Duverger, Lucien"
+        },
+        "245": {
+            "a": "L'efficacité des systèmes informatiques",
+            "b": "dix critères d'appréciation",
+            "c": "Lucien Duverger",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "França",
+                "b": "Éditions Hommes et techniques",
+                "c": "c1971"
+            }
+        ],
+        "300": [
+            {
+                "a": "286",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema de informação"
+            },
+            {
+                "a": "Gerência de sistema"
+            },
+            {
+                "a": "Informática"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

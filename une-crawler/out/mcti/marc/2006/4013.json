@@ -1,0 +1,73 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004013",
+        "005": "20190807132237.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0080285910"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.382.7",
+            "b": "P467",
+            "c": "1984"
+        },
+        "245": {
+            "a": "Personal computer",
+            "b": "state of art report 12:6",
+            "c": "[B. Jackson and W. Balthazor, editors]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Berkshire, [Inglaterra]",
+                "b": "Pergamon Infotech",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "ix, 234",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "State of the art report"
+            }
+        ],
+        "650": [
+            {
+                "a": "Computador pessoal"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Jackson, B. (Brian)",
+                "e": "Editor"
+            },
+            {
+                "a": "Balthazor, W.",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

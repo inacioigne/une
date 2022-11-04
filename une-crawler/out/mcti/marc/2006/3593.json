@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003593",
+        "005": "20190809185504.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7(81)(063)",
+            "b": "S612a",
+            "c": "1986"
+        },
+        "111": {
+            "a": "Simpósio Brasileiro de Redes de Computadores",
+            "c": "Recife, PE",
+            "d": "1986",
+            "n": "4"
+        },
+        "245": {
+            "a": "Anais do 4º Simpósio Brasileiro de Redes de Computadores",
+            "b": "(4º SBRC) 24 a 26 de março de 1986, Recife - Pernambuco",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Recife",
+                "b": "Sociedade Brasileira de Computação",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "491",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência da computação",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Informática",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Rede de computador",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Programação de computador",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

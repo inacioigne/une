@@ -1,0 +1,74 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003983",
+        "005": "20190813144331.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0444863206"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.896",
+            "b": "I23c",
+            "c": "c1981"
+        },
+        "111": {
+            "a": "IFIP WG 5.2 Working Conference on CAD/CAM as a Basis for the Development of Technology in Developing Nations",
+            "c": "São Paulo, SP",
+            "d": "1981"
+        },
+        "245": {
+            "a": "CAD/CAM as a basis for the development of technology in developing nations",
+            "b": "proceedings of the IFIP WG 5.2 Working Conference on CAD/CAM as a Basis for the Development of Technology in Developing Nations, São Paulo, Brazil, October 21-23, 1981",
+            "c": "edited by José L. Encarnação, Oswaldo F.F. Tôrres, and Ernest A. Warman",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Amsterdam",
+                "b": "North-Holland",
+                "c": "c1981"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 437 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Inteligência artificial",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Tecnologia",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Encarnação, José Luis",
+                "e": "Editor"
+            },
+            {
+                "a": "Tôrres, Oswaldo Fadigas Fontes",
+                "e": "Editor"
+            },
+            {
+                "a": "Warman, Ernest",
+                "d": "1935-",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

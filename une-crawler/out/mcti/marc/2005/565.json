@@ -1,0 +1,88 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000565",
+        "005": "20190726091800.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "007(44)",
+            "b": "F814i",
+            "c": "1979"
+        },
+        "110": {
+            "a": "França. Ministère de l'industrie",
+            "b": "Ministère de l'industrie",
+            "y": "(1978-1982)"
+        },
+        "245": {
+            "a": "Informatique et société",
+            "b": "premier plan",
+            "c": "Ministère de l'industrie, [Direction des industries électroniques et de l'informatique ; Mission à l'informatique]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Ministère de l'industrie",
+                "c": "1979"
+            }
+        ],
+        "300": [
+            {
+                "a": "67",
+                "c": "24",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Política industrial",
+                "x": "Pesquisa e desenvolvimento",
+                "z": "França"
+            },
+            {
+                "a": "Aplicativo de tecnologia",
+                "x": "Aspectos sociais",
+                "z": "França"
+            },
+            {
+                "a": "Telemática",
+                "z": "França"
+            },
+            {
+                "a": "Tecnologia industrial",
+                "z": "França"
+            },
+            {
+                "a": "Pesquisa industrial",
+                "z": "França"
+            },
+            {
+                "a": "Banco de dados"
+            },
+            {
+                "a": "Automação",
+                "x": "Aspectos sociais",
+                "z": "França"
+            },
+            {
+                "a": "Circuito integrado",
+                "z": "França"
+            },
+            {
+                "a": "Operação financeira",
+                "z": "França"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002879",
+        "005": "20190813113812.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "0070546401"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451.7:658",
+            "b": "S215c",
+            "c": "1975"
+        },
+        "100": {
+            "a": "Sanders, Donald H"
+        },
+        "245": {
+            "a": "Computers in business",
+            "b": "an introduction",
+            "c": "Donald H. Sanders",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "3. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "McGraw-Hill",
+                "c": "1975"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 634",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Empresas",
+                "x": "Processamento de dados"
+            },
+            {
+                "a": "Computadores"
+            },
+            {
+                "a": "Administração de empresas"
+            },
+            {
+                "a": "Ciência da computação"
+            },
+            {
+                "a": "Sistema de informação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

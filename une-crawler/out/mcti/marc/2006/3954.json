@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003954",
+        "005": "20190812171316.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.65(043.2)",
+            "b": "N763a",
+            "c": "1978"
+        },
+        "100": {
+            "a": "Noé, Gerson Oscar"
+        },
+        "245": {
+            "a": "Uma análise de sistemas de gerência de base de dados",
+            "c": "Gerson Oscar Noé",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "c": "1978",
+                "a": "Porto Alegre",
+                "b": "Universidade Federal do Rio Grande do Sul"
+            }
+        ],
+        "300": [
+            {
+                "a": "141 f.",
+                "b": "il."
+            }
+        ],
+        "502": [
+            {
+                "a": "Tese (Mestrado) - Universidade Federal do Rio Grande do Sul, Porto Alegre, 1978."
+            }
+        ],
+        "650": [
+            {
+                "a": "Gerenciamento de banco de dados"
+            },
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Banco de dados"
+            }
+        ],
+        "990": {
+            "a": "Dissertações/Teses/TCC"
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000492",
+        "005": "20190808134758.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.41(81)(063)",
+            "b": "S612a",
+            "c": "1991"
+        },
+        "111": {
+            "a": "Simpósio Brasileiro de Engenharia de Software",
+            "c": "Ouro Preto, MG",
+            "d": "1991",
+            "n": "5"
+        },
+        "245": {
+            "a": "Anais do V simpósio brasileiro de engenharia de software",
+            "b": "Ouro Preto - MG, 23 a 25 de Outubro de 1991",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Ouro Preto",
+                "b": "Sociedade Brasileira de Computação",
+                "c": "1991"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "256",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia de software"
+            },
+            {
+                "a": "Rede de computador",
+                "x": "Petri"
+            },
+            {
+                "a": "Software",
+                "x": "Hipertexto"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

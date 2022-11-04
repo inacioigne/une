@@ -1,0 +1,97 @@
+{
+    "controfield": {
+        "000": "01553cam  2200349 a 4500",
+        "001": "000001837",
+        "005": "20190807140355.0",
+        "007": "t",
+        "008": "900809s1990    enka     b   i000 0 spa"
+    },
+    "datafield": {
+        "020": {
+            "a": "0521407206 (paperback)"
+        },
+        "035": {
+            "a": "1999158"
+        },
+        "040": {
+            "a": "DLC",
+            "c": "DLC",
+            "d": "BR-BrMCT"
+        },
+        "090": {
+            "a": "551.583",
+            "b": "G892a",
+            "c": "c1999"
+        },
+        "110": {
+            "a": "Grupo Intergubernamental de Expertos sobre el Cambio Climático"
+        },
+        "245": {
+            "a": "La aviación y la atmósfera global",
+            "b": "resumen para responsables de políticas",
+            "c": "Editado por Joyce E. Penner ... [et al.].",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Cambridge",
+                "b": "Cambridge University Press",
+                "c": "c1999"
+            }
+        ],
+        "300": [
+            {
+                "a": "13 f.",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "\"Published for the Intergovernmental Panel on Climate Change.\""
+            }
+        ],
+        "534": {
+            "a": "Título original: Aviation and the Global Atmosphere: A Special Report of IPCC Working Groups I and III in collaboration with the Scientific Assessment Panel to the Montreal Protocol on Substances that Deplete the Ozone Layer."
+        },
+        "650": [
+            {
+                "a": "Climatologia"
+            },
+            {
+                "a": "Emissão de gases",
+                "x": "Aspectos ambientais"
+            }
+        ],
+        "700": [
+            {
+                "a": "Penner, Joyce E",
+                "d": "1941-",
+                "e": "Editor"
+            },
+            {
+                "a": "Lister, David H",
+                "e": "Editor"
+            },
+            {
+                "a": "Griggs, David J",
+                "e": "Editor"
+            },
+            {
+                "a": "Dokken, David Jon",
+                "e": "Editor"
+            },
+            {
+                "a": "McFarland, Mack",
+                "e": "Editor"
+            }
+        ],
+        "856": {
+            "u": "https://archive.ipcc.ch/pdf/special-reports/spm/av-sp.pdf",
+            "y": "IPCC",
+            "z": "Acesso em: 07/08/2019"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002888",
+        "005": "20190812095718.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "V331p",
+            "c": "1974"
+        },
+        "100": {
+            "a": "Vasconcellos, Augusto de"
+        },
+        "245": {
+            "a": "Programação e processamento computadores eletrônicos",
+            "c": "Augusto de Vasconcellos",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "5. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Livros Técnicos e Científicos",
+                "c": "1974"
+            }
+        ],
+        "300": [
+            {
+                "a": "148",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Processamento de dados na empresa. Série LTC/LTD"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Processamento de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

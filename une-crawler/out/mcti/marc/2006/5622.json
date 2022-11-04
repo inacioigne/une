@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005622",
+        "005": "20190807104743.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004",
+            "b": "T757p",
+            "c": "1986"
+        },
+        "100": {
+            "a": "Tozzi, Clésio Luis"
+        },
+        "245": {
+            "a": "PAC, Projeto Auxiliado por Computador",
+            "c": "Clésio Luiz Tozzi",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Campinas",
+                "b": "Universidade Estadual de Campinas",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "168",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Este livro faz parte de uma coleção de livros-texto escritos para apoiar a I Escola Brasileiro-Argentina de Informática (I EBAI), Campinas, SP, de 17 de fevereiro a 01 de março de 1986"
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Engenharia de computação"
+            },
+            {
+                "a": "Hardware"
+            },
+            {
+                "a": "Software"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Campinas, SP",
+                "d": "1986",
+                "n": "1"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

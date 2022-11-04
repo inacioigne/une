@@ -1,0 +1,101 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004143",
+        "005": "20190802093245.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "331.5",
+            "b": "S738",
+            "c": "2005"
+        },
+        "245": {
+            "a": "Spatial dynamics of labor markets in Brazil",
+            "c": "Alexandre carvalho ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "2005"
+            }
+        ],
+        "300": [
+            {
+                "a": "46 f.",
+                "b": "gráfs., mapas, tabs."
+            }
+        ],
+        "490": [
+            {
+                "a": "Texto para discussão / IPEA",
+                "v": "1110"
+            }
+        ],
+        "520": {
+            "a": "Analisa o mercado de trabalho brasileiro, que apresentou uma dinâmica espacial diversa durante a década de 1990. Estima um modelo espacial de demanda e oferta por trabalho no qual descreve as mudanças no nível de salários e empregos dos municípios. Utiliza o método GMM espacial desenvolvido por Conley (1999)."
+        },
+        "650": [
+            {
+                "a": "Mercado de trabalho",
+                "z": "Brasil"
+            },
+            {
+                "a": "Emprego",
+                "z": "Brasil"
+            },
+            {
+                "a": "Modelos econométricos"
+            },
+            {
+                "a": "Oferta e demanda",
+                "x": "Emprego",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Carvalho, Alexandre",
+                "e": "Coautor"
+            },
+            {
+                "a": "Mata, Daniel da",
+                "d": "1982-",
+                "e": "Coautor"
+            },
+            {
+                "a": "Magalhães, João Carlos Ramos",
+                "d": "1972-",
+                "e": "Coautor"
+            },
+            {
+                "a": "Chomitz, Kenneth M.",
+                "d": "1953-",
+                "q": "Kenneth Mark",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "Texto completo",
+            "u": "http://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=4286",
+            "z": "Acesso em: 02/08/2019"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

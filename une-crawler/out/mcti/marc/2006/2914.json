@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002914",
+        "005": "20190730124931.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0877691002"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:005",
+            "b": "C639d",
+            "c": "1971"
+        },
+        "100": {
+            "a": "Clifton, H. D.",
+            "d": "1927-",
+            "q": "Harold Dennis"
+        },
+        "245": {
+            "a": "Data processing systems design",
+            "b": "case studies from the application of computers to business",
+            "c": "H. D. Clifton",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Princeton [Estados Unidos]",
+                "b": "Auerbach",
+                "c": "1971"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 154 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia industrial",
+                "x": "Estudo de casos"
+            },
+            {
+                "a": "Negócios",
+                "x": "Estudo de casos"
+            },
+            {
+                "a": "Administração"
+            },
+            {
+                "a": "Informática"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

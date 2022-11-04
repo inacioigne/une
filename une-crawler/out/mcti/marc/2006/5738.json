@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005738",
+        "005": "20190807132201.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.355.083.7",
+            "b": "C973p",
+            "c": "1987"
+        },
+        "100": {
+            "a": "Cuocolo, Raimondo",
+            "d": "1945-"
+        },
+        "245": {
+            "a": "Periféricos",
+            "b": "magnéticos para computadores",
+            "c": "Raimondo Cuocolo",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Érica",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "195"
+            }
+        ],
+        "650": [
+            {
+                "a": "Computadores"
+            },
+            {
+                "a": "Equipamento periférico"
+            },
+            {
+                "a": "Processamento de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

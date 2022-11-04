@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004870",
+        "005": "20190809122539.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "628.16",
+            "b": "P963",
+            "c": "2001"
+        },
+        "245": {
+            "a": "Processos de desinfecção e desinfetantes alternativos na produção de água potável",
+            "c": "Luiz Antonio Daniel (coordenador)",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Carlos, SP",
+                "b": "Associação Brasileira de Engenharia Sanitária e Ambiental",
+                "c": "2001"
+            }
+        ],
+        "300": [
+            {
+                "a": "xvi, 139",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Água",
+                "x": "Purificação"
+            },
+            {
+                "a": "Águas residuais",
+                "x": "Purificação"
+            }
+        ],
+        "700": [
+            {
+                "a": "Daniel, Luiz Antônio",
+                "e": "Coordenador"
+            }
+        ],
+        "710": [
+            {
+                "a": "Programa de Pesquisa em Saneamento Básico (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

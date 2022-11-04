@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003092",
+        "005": "20190809113935.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8575290673"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "613.281",
+            "b": "T583p",
+            "c": "2002"
+        },
+        "100": {
+            "a": "Timbó, Maria Olinda de Paiva"
+        },
+        "245": {
+            "a": "Processamento de pescado",
+            "c": "Maria Olinda de Paiva Timbó",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Fortaleza",
+                "b": "Instituto Centro de Ensino Tecnológico",
+                "c": "2002"
+            }
+        ],
+        "300": [
+            {
+                "a": "32 f.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Cadernos tecnológicos"
+            }
+        ],
+        "650": [
+            {
+                "a": "Pesca"
+            },
+            {
+                "a": "Peixe"
+            },
+            {
+                "a": "Processamento de pescado"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

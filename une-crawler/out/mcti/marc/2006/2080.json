@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002080",
+        "005": "20190808140416.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "1565923782"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451.54",
+            "b": "R654m",
+            "c": "1998"
+        },
+        "100": {
+            "a": "Robichaux, Paul E"
+        },
+        "245": {
+            "a": "Managing the Windows NT registry",
+            "c": "Paul E. Robichaux",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Sebastopol, California",
+                "b": "O'Reilly",
+                "c": "1998"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 360 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistemas operacionais (Computadores)",
+                "x": "Registro do Windows"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

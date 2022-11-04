@@ -1,0 +1,65 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004021",
+        "005": "20190802100253.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0138544891"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.2",
+            "b": "T164s",
+            "c": "1984"
+        },
+        "100": {
+            "a": "Tanenbaum, Andrew S"
+        },
+        "245": {
+            "a": "Structured computer organization",
+            "c": "Andrew S. Tanenbaum",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiii, 465",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Hardware"
+            },
+            {
+                "a": "Sistema de computador"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

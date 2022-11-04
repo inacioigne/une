@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005540",
+        "005": "20190813115446.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7:32:025.5",
+            "b": "C738",
+            "c": "1981"
+        },
+        "245": {
+            "a": "Computer-based national information systems",
+            "b": "technology and public policy issues",
+            "h": "Impresso",
+            "c": "Congress. Office of Technology Assessment"
+        },
+        "260": [
+            {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos)",
+                "b": "Congress of the U.S., Office of Technology Assessment",
+                "c": "1981"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 166",
+                "c": "26 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Política de informação",
+                "z": "Estados Unidos"
+            }
+        ],
+        "710": [
+            {
+                "a": "Estados Unidos. Congress. Office of Technology Assessment",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

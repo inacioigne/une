@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002902",
+        "005": "20190730124850.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0442253095"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.6:658",
+            "b": "G468d",
+            "c": "1974"
+        },
+        "100": {
+            "a": "Gildersleeve, Thomas Robert"
+        },
+        "245": {
+            "a": "Data processing project management",
+            "c": "Thomas R. Gildersleeve",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Van Nostrand Reinhold",
+                "c": "1974"
+            }
+        ],
+        "300": [
+            {
+                "a": "viii, 321 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Administração"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Processamento de dados",
+                "x": "Administração"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

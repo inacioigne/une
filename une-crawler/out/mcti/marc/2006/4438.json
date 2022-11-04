@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004438",
+        "005": "20190808142336.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "996899510x"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "632.954:633.18",
+            "b": "V215p",
+            "c": "2000"
+        },
+        "100": {
+            "a": "Valverde, Bernal E"
+        },
+        "245": {
+            "a": "Prevention and management of herbicide resistant weeds in rice",
+            "b": "experiences from Central America with echinochloa colona",
+            "c": "Bernal E. Valverde, Charles R. Riches, John C. Casely",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Costa Rica",
+                "b": "Camara dos Insumos Agropecuarios",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "123",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Pesquisa agropecuária"
+            },
+            {
+                "a": "Herbicida",
+                "x": "Pesquisa"
+            }
+        ],
+        "700": [
+            {
+                "a": "Riches, Charles R",
+                "e": "Coautor"
+            },
+            {
+                "a": "Caseley, John C",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

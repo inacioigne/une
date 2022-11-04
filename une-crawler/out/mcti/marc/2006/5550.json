@@ -1,0 +1,53 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005550",
+        "005": "20190807143832.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.65dBASE",
+            "b": "G958p",
+            "c": "1986"
+        },
+        "100": {
+            "a": "Guillemot, Jean-Claude"
+        },
+        "245": {
+            "a": "La pratique de dBase II",
+            "c": "Jean-Claude Guillemot",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Eyrolles",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "193"
+            }
+        ],
+        "650": [
+            {
+                "a": "Banco de dados",
+                "x": "dBase"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

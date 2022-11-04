@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004455",
+        "005": "20190730141614.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.738.5",
+            "b": "R314ra",
+            "c": "[1997?]"
+        },
+        "110": {
+            "a": "Rede Nacional de Pesquisa (Brasil)"
+        },
+        "245": {
+            "a": "Redes acadêmicas de alta velocidade no Brasil",
+            "h": "Impresso",
+            "c": "Rede Nacional de Pesquisa"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Rede Nacional de Pesquisa",
+                "c": "[1997?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "[5] f"
+            }
+        ],
+        "650": [
+            {
+                "a": "Internet",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento",
+                "z": "Brasil"
+            },
+            {
+                "a": "Política e governo",
+                "x": "Internet",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

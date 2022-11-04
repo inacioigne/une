@@ -1,0 +1,78 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001899",
+        "005": "20190730152327.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.3",
+            "b": "G538d",
+            "c": "1991"
+        },
+        "100": {
+            "a": "Giusti, Armando E. de"
+        },
+        "245": {
+            "a": "Descripcion y validacion de hardware",
+            "b": "aplicaciones de tiempo real",
+            "c": "Armando E. de Giusti",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Escola Brasileiro-Argentina de Informática",
+                "c": "1991"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (paginação irregular)",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Versão preliminar publicada para a V Escola Brasileiro-Argentina de Informática, Rio de Janeiro - Janeiro de 1991"
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Hardware"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)"
+            }
+        ],
+        "700": [
+            {
+                "a": "Naiouf, Ricardo Marcelo",
+                "e": "Colaborador"
+            },
+            {
+                "a": "Torres, Hector Fabian",
+                "e": "Colaborador"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Nova Friburgo, RJ",
+                "d": "1991",
+                "n": "5"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

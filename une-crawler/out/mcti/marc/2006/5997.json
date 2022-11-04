@@ -1,0 +1,77 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005997",
+        "005": "20190807174736.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0882830511"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004(73)(063)",
+            "b": "N277m",
+            "c": "1987"
+        },
+        "111": {
+            "a": "National Computer Conference",
+            "c": "Chicago, Estados Unidos",
+            "d": "1987"
+        },
+        "245": {
+            "a": "1987 National Computer Conference",
+            "b": "June 15-18, 1987, Chicago, Illinois",
+            "c": "Margaret K. Butler, program chair ; John M. Brown, conference chair",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Reston [Estados Unidos]",
+                "b": "American Federation of Information Processing Societies",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 827 p.",
+                "b": "il., graf."
+            }
+        ],
+        "490": [
+            {
+                "a": "AFIPS conference proceedings",
+                "v": "v. 56"
+            }
+        ],
+        "650": [
+            {
+                "a": "Computadores",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Informática",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Butler, Margaret K",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "American Federation of Information Processing Societies",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

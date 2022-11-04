@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001952",
+        "005": "20190802140828.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.2",
+            "b": "Z94f",
+            "c": "1978",
+            "d": "CAPRE"
+        },
+        "100": {
+            "a": "Zuffo, João Antonio",
+            "d": "1939-"
+        },
+        "245": {
+            "a": "Fundamentos da arquitetura e organização dos microprocessadores",
+            "c": "João Antonio Zuffo",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "c": "1978",
+                "b": "Edgard Blucher"
+            }
+        ],
+        "300": [
+            {
+                "b": "il.",
+                "a": "2 v."
+            }
+        ],
+        "490": [
+            {
+                "a": "Microprocessadores",
+                "v": "2"
+            }
+        ],
+        "505": [
+            {
+                "a": "Prolegômenos IX/XII - 1. Elementos básicos de um processador -- 2. Conceitos básicos relacionados com a unidade de controle - 3. Detalhes da organização dos microprocessadores monolíticos -- 4. Pastilhas periféricas à UCP monolíticas -- 5. Microprocessadores por segmentação de bits -- Glossário de termos."
+            }
+        ],
+        "550": {
+            "a": "Publicado em convênio com a Fundação Nacional de Material Escolar, Ministério da Educação e Cultura e com a Comissão de Coordenação das Atividades de Processamento eletrónico, Secretaria do Planejamento da Presidência da Republica."
+        },
+        "650": [
+            {
+                "a": "Microprocessador"
+            },
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Engenharia eletrônica"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005559",
+        "005": "20190809161418.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7(81)(063)",
+            "b": "S612a",
+            "c": "1987"
+        },
+        "111": {
+            "a": "Simpósio Brasileiro de Redes de Computadores",
+            "c": "São Paulo, SP",
+            "d": "1987",
+            "n": "5"
+        },
+        "245": {
+            "a": "Anais",
+            "b": "5º Simpósio Brasileiro de Redes de Computadores, São Paulo, 13 a 15 de abril de 1987",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Sociedade Brasileira de Computação",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "546",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência da computação",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Informática",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Rede de computador",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Programação de computador",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

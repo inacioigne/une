@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005815",
+        "005": "20190802141352.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "005.2",
+            "b": "A226f",
+            "c": "=134.3",
+            "d": "1973"
+        },
+        "100": {
+            "a": "Addison, Michael E"
+        },
+        "245": {
+            "a": "Fundamentos de organização e métodos",
+            "c": "Michael e. Addison ; tradução de Eduardo de Almeida ; revisão técnica de Emanuel Rottenberg",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Jorge Zahar",
+                "c": "1973"
+            }
+        ],
+        "300": [
+            {
+                "a": "245",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Biblioteca de Ciências da Administração"
+            }
+        ],
+        "534": {
+            "a": "Titulo original: 'essentials of organization and methods', c1971"
+        },
+        "650": [
+            {
+                "a": "Organização e métodos"
+            },
+            {
+                "a": "Administração",
+                "x": "Organização"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

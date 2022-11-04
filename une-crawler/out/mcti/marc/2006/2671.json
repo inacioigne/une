@@ -1,0 +1,82 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002671",
+        "005": "20190731093941.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "8572270132"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "669",
+            "b": "V726d",
+            "c": "1991",
+            "d": "CETEM"
+        },
+        "100": {
+            "a": "Villas Boas, Roberto C.",
+            "q": "Roberto Cerrini"
+        },
+        "245": {
+            "a": "Design of experiments in planning metallurgical tests",
+            "c": "Roberto C. Villas Bôas",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Centro de Tecnologia Mineral",
+                "c": "1991"
+            }
+        ],
+        "300": [
+            {
+                "a": "17 f.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Tecnologia mineral / CETEM",
+                "v": "50",
+                "x": "0103-7382"
+            }
+        ],
+        "505": [
+            {
+                "a": "Resumo --- Abstract --- 1. Introduction --- 2. designing experiments --- 3. statistical design of experiments in metallurgy --- 4. Final remarks --- References"
+            }
+        ],
+        "520": {
+            "a": "Este trabalho apresenta algumas noções básicas do planejamento estatístico de experimentos e faz uma revisão da aplicação desta técnica à metalurgia, com as referências respectivas."
+        },
+        "650": [
+            {
+                "a": "Planejamento experimental"
+            },
+            {
+                "a": "Metalurgia"
+            }
+        ],
+        "710": [
+            {
+                "a": "Centro de Tecnologia Mineral",
+                "c": "Brasil",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

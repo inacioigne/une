@@ -1,0 +1,53 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004901",
+        "005": "20190807105055.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8571930120"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "66.0",
+            "b": "B823i",
+            "c": "1999"
+        },
+        "100": {
+            "a": "Brasil, Nilo Índio do"
+        },
+        "245": {
+            "a": "Introdução à engenharia química",
+            "c": "Nilo Indio do Brasil",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Interciência",
+                "c": "1999"
+            }
+        ],
+        "300": [
+            {
+                "a": "361"
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia química"
+            },
+            {
+                "a": "Química"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

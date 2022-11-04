@@ -1,0 +1,79 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000240",
+        "005": "20190808125731.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "087.7(81)(063)",
+            "b": "S471a",
+            "c": "1981"
+        },
+        "111": {
+            "a": "Seminário sobre Publicações Oficiais Brasileiras",
+            "c": "Brasília, DF",
+            "d": "1981",
+            "n": "4"
+        },
+        "245": {
+            "a": "Anais do 4º seminário sobre publicações oficiais brasileiras",
+            "b": "Brasília, de 27 a 31 de julho de 1981",
+            "h": "Impresso",
+            "c": "autores corporativos: Subsecretaria de Edições Técnicas do Senado Federal, Comissão de Publicações Oficiais Brasileiras, Associação dos Bibliotecários do Distrito Federal"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Senado Federal, Subsecretaria de Edições Técnicas",
+                "c": "1981"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "234",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Publicações oficiais",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            },
+            {
+                "a": "Transferência de informação",
+                "x": "Congressos, eventos, encontros",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Brasil. Congresso Nacional. Senado Federal.",
+                "b": "Subsecretaria de Edições Técnicas",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Comissão de Publicações Oficiais Brasileiras",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Associação dos Bibliotecários do Distrito Federal",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002884",
+        "005": "20190813120040.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "070043574"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.2",
+            "b": "B433c",
+            "c": "1971"
+        },
+        "100": {
+            "a": "Bell, C. Gordon"
+        },
+        "245": {
+            "a": "Computer structures",
+            "b": "readings and examples",
+            "c": "C. Gordon Bell, Allen Newell",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "McGraw-Hill",
+                "c": "1971"
+            }
+        ],
+        "300": [
+            {
+                "a": "xx, 668",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "McGraw-Hill computer science series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Hardware"
+            },
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Programação de computador"
+            }
+        ],
+        "700": [
+            {
+                "a": "Newell, Allen",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

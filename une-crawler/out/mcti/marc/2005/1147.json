@@ -1,0 +1,84 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001147",
+        "005": "20190806185744.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8588442353"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "573:004(063)",
+            "b": "W926p",
+            "c": "2002"
+        },
+        "111": {
+            "a": "Workshop Brasileiro de Bioinformática",
+            "c": "Gramado, RS",
+            "d": "2002",
+            "n": "1"
+        },
+        "245": {
+            "a": "I Workshop Brasileiro de Bioinformática",
+            "b": "Anais , 18 de outubro de 2002, Gramado, Rio Grande do Sul, Brasil",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Porto Alegre",
+                "b": "Instituto de Informática, Universidade Federal do Rio grande do Sul",
+                "c": "2002"
+            }
+        ],
+        "300": [
+            {
+                "a": "107",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Conhecido também como WOB 2002."
+            }
+        ],
+        "650": [
+            {
+                "a": "Biologia computacional"
+            },
+            {
+                "a": "Genoma"
+            },
+            {
+                "a": "Aprendizagem",
+                "x": "Máquina"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            },
+            {
+                "a": "Algoritmos",
+                "x": "Genética"
+            }
+        ],
+        "700": [
+            {
+                "a": "Bazzan, Ana Lucia Cetertich",
+                "e": "Editor"
+            },
+            {
+                "a": "Carvalho, André Carlos Ponce de Leon Ferreira de",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

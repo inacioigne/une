@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002678",
+        "005": "20190807103850.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.414.2",
+            "b": "H114i",
+            "c": "1974"
+        },
+        "100": {
+            "a": "Haberkorn, Ernesto",
+            "d": "1943-"
+        },
+        "245": {
+            "a": "Introdução à análise de sistemas",
+            "c": "Ernesto Mário Haberkorn",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed., rev. e ampl."
+            }
+        ],
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Atlas",
+                "c": "1974"
+            }
+        ],
+        "300": [
+            {
+                "a": "316",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Análise de sistemas"
+            },
+            {
+                "a": "Desenvolvimento de sistemas"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

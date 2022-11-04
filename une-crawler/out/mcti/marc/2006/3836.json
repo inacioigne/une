@@ -1,0 +1,102 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003836",
+        "005": "20190813180913.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "022": {
+            "a": "1808-1983"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "31:308(81)",
+            "b": "I59b",
+            "c": "2001"
+        },
+        "245": {
+            "a": "Brasil em números",
+            "b": "2001",
+            "h": "Impresso",
+            "c": "autor corporativo: Instituto Brasileiro de Geografia e Estatística"
+        },
+        "246": [
+            {
+                "a": "Brazil in figures"
+            }
+        ],
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Instituto Brasileiro de Geografia e Estatística",
+                "c": "2001"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "346",
+                "b": "il., color."
+            }
+        ],
+        "500": [
+            {
+                "a": "Periódico tratado como livro (ISSN: 0103-9288)"
+            },
+            {
+                "a": "autor retirado do autor corporativo"
+            }
+        ],
+        "501": [
+            {
+                "a": "Acompanhado de um encarte contendo 4 mapas (Unidades climáticas do Brasil ; Unidades de relevo do Brasil ; Sistemas de fusos horários do Brasil ; Mapa político)"
+            }
+        ],
+        "650": [
+            {
+                "a": "Educação",
+                "x": "Estatísticas",
+                "z": "Brasil"
+            },
+            {
+                "a": "Ciências sociais",
+                "x": "Estatísticas",
+                "z": "Brasil"
+            },
+            {
+                "a": "Demografia",
+                "z": "Brasil"
+            },
+            {
+                "a": "História do Brasil"
+            },
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Estatísticas",
+                "z": "Brasil"
+            },
+            {
+                "a": "Comércio exterior",
+                "x": "Estatísticas",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto Brasileiro de Geografia e Estatística",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

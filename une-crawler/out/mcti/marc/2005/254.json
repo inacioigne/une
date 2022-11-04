@@ -1,0 +1,78 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000254",
+        "005": "20190808133012.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "b": "por"
+        },
+        "090": {
+            "a": "005.6(063)",
+            "b": "S471s",
+            "c": "1993"
+        },
+        "111": {
+            "a": "Seminário Panamericano Tecnologia II Qualidade Total",
+            "c": "Rio de Janeiro, RJ",
+            "d": "1993"
+        },
+        "245": {
+            "a": "Anais do Seminário Panamericano Tecnologia II Qualidade Total",
+            "b": "16 a 19 de agosto de 1993, Hotel Glória, Rio de Janeiro, Brasil",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "Panamerican Seminar on Technology and Total Quality (Proceedings)"
+            }
+        ],
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "União Panamericana de Associações de Engenheiros",
+                "c": "1993"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Gestão da qualidade",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Controle de qualidade",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Qualidade total",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Administração de empresas",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Tecnologia",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

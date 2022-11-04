@@ -1,0 +1,78 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002612",
+        "005": "20190812184817.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0850120764"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.414.2(063)",
+            "b": "N277a",
+            "c": "1973"
+        },
+        "111": {
+            "a": "NCC Workshop on Approaches to Systems Design",
+            "c": "Englefield Green, Inglaterra",
+            "d": "1972"
+        },
+        "245": {
+            "a": "Approaches to systems design",
+            "c": "edited by R. Boot",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Manchester [Inglaterra]",
+                "b": "NCC Publications",
+                "c": "c1973"
+            }
+        ],
+        "300": [
+            {
+                "a": "165",
+                "c": "31 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Computers and the professional"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Análise de sistemas",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Computador digital",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Arquitetura de computador",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Boot, R",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

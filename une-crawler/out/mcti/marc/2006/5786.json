@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005786",
+        "005": "20190731092724.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.423.43",
+            "b": "M386d",
+            "c": "1988"
+        },
+        "100": {
+            "a": "Martins, Raul Cesar Baptista"
+        },
+        "245": {
+            "a": "Desenvolvimento sistemático de programas corretos",
+            "b": "a abordagem denotacional",
+            "c": "Raul Cesar Baptista Martins, Arnaldo Vieira Moura",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Campinas",
+                "b": "Universidade Estadual de Campinas",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "xv, 385 p.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Engenharia de software"
+            },
+            {
+                "a": "Semântica"
+            }
+        ],
+        "700": [
+            {
+                "a": "Moura, Arnaldo Vieira",
+                "d": "1950-",
+                "e": "Coautor"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola de Computação",
+                "c": "Campinas, SP",
+                "d": "1988",
+                "n": "6"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

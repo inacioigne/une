@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004452",
+        "005": "20190730141243.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.738.5",
+            "b": "R314re",
+            "c": "[200-?]"
+        },
+        "110": {
+            "a": "Rede Nacional de Pesquisa (Brasil)"
+        },
+        "245": {
+            "a": "Rede Nacional de Ensino e Pesquisa, RNP 2",
+            "h": "Impresso",
+            "c": "Rede Nacional de Pesquisa"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Rede Nacional de Pesquisa",
+                "c": "[200-?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "[7] f",
+                "b": "il., graf., mapa."
+            }
+        ],
+        "650": [
+            {
+                "a": "Internet",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento",
+                "z": "Brasil"
+            },
+            {
+                "a": "Política e governo",
+                "x": "Internet",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

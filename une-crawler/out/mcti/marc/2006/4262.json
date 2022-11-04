@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004262",
+        "005": "20190809131210.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.35(043.3)",
+            "b": "P965m",
+            "c": "1983"
+        },
+        "100": {
+            "a": "Prondzynski, Paulo Roberto"
+        },
+        "245": {
+            "a": "Mesa digitalizadora de alta resolução",
+            "c": "Paulo Roberto Prondzynski",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "c": "1983",
+                "a": "Rio Grande do Sul"
+            }
+        ],
+        "300": [
+            {
+                "a": "198",
+                "b": "il."
+            }
+        ],
+        "502": [
+            {
+                "a": "Dissertação (Mestrado) - Universidade Federal do Rio Grande do Sul. Curso de Pós-Graduação em Ciência da Computação, Porto Alegre, 1983"
+            }
+        ],
+        "650": [
+            {
+                "a": "Aplicativo de tecnologia"
+            },
+            {
+                "a": "Computação gráfica"
+            },
+            {
+                "a": "Equipamento de entrada de dados",
+                "x": "Computação gráfica"
+            },
+            {
+                "a": "Mesa digitalizadora",
+                "x": "Computação gráfica"
+            }
+        ],
+        "990": {
+            "a": "Dissertações/Teses/TCC"
+        }
+    }
+}

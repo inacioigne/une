@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004335",
+        "005": "20190730114742.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "556.55(7/8)",
+            "b": "D232",
+            "c": "1995"
+        },
+        "245": {
+            "a": "Data book of world lake environments",
+            "b": "a survey of the state of world lakes, 3. the americas",
+            "c": "Editor Tatuo Kira",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Kusatsu, Japão",
+                "b": "International Lake Environment Committee",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "868",
+                "b": "il., tabs., grafs., fotos, mapas"
+            }
+        ],
+        "650": [
+            {
+                "a": "Lago",
+                "x": "Ecologia"
+            },
+            {
+                "a": "Proteção ambiental"
+            },
+            {
+                "a": "Meio ambiente"
+            }
+        ],
+        "700": [
+            {
+                "a": "Kira, Tatsuo",
+                "d": "1919-",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Programa das Nações Unidas para o Meio Ambiente",
+                "e": "Corporativo"
+            },
+            {
+                "a": "International Lake Environment Committee",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

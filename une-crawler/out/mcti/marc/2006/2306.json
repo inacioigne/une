@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002306",
+        "005": "20190808141124.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "614",
+            "b": "P925",
+            "c": "2000"
+        },
+        "245": {
+            "a": "Prêmio Jovem Cientista",
+            "b": "saúde da população : controle da infecção hospitalar : contaminação pela água",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Porto Alegre",
+                "b": "Fundação Roberto Marinho",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "204",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Prêmio jovem cientista 2000, publicação resumida dos trabalhos vencedores."
+            }
+        ],
+        "650": [
+            {
+                "a": "Prêmio Jovem Cientista"
+            },
+            {
+                "a": "Prêmio Jovem Cientista do Futuro"
+            },
+            {
+                "a": "Saúde pública"
+            },
+            {
+                "a": "Infecção hospitalar",
+                "x": "Prevenção"
+            },
+            {
+                "a": "Água",
+                "x": "Educação ambiental"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

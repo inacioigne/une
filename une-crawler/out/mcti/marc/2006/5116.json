@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005116",
+        "005": "20190812120825.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0444897917"
+        },
+        "040": {
+            "a": "BR-BMCT"
+        },
+        "090": {
+            "a": "620.1(100)(063)",
+            "b": "W927n",
+            "c": "1992"
+        },
+        "111": {
+            "a": "World Conference on Non-Destructive Testing",
+            "c": "São Paulo, SP",
+            "d": "1992",
+            "n": "13"
+        },
+        "245": {
+            "a": "Non-destructive testing 92",
+            "b": "proceedings of the 13th World Conference on Non-Destructive Testing, São Paulo, Brazil, 18-23 October 1992",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque, Estados Unidos",
+                "b": "Elsevier",
+                "c": "1992"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Teste não-destrutivo",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Radiografia industrial"
+            },
+            {
+                "a": "Teste de ultra-som"
+            },
+            {
+                "a": "Teste de emissão acústica"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

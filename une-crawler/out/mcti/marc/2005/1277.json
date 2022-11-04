@@ -1,0 +1,79 @@
+{
+    "controfield": {
+        "000": "am   nam  22      a 4500",
+        "001": "000001277",
+        "005": "20190729102237.0",
+        "007": "t",
+        "008": "por                                por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "62-027.15:338.45(81)",
+            "b": "P474p",
+            "c": "2000"
+        },
+        "245": {
+            "a": "Pesquisa industrial inovação tecnológica 2000",
+            "b": "[análise dos resultados]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Instituto Brasileiro de Geografia e Estatística",
+                "c": "2002"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "19 f.",
+                "b": "il., graf., tab."
+            }
+        ],
+        "650": [
+            {
+                "a": "Pesquisa industrial"
+            },
+            {
+                "a": "Inovação tecnológica",
+                "x": "Indicadores",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento",
+                "x": "Indicadores",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto Brasileiro de Geografia e Estatística",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Financiadora de Estudos e Projetos (Brasil)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Brasil. Ministério da Ciência e Tecnologia",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Brasil. Ministério do Planejamento, Orçamento e Gestão",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

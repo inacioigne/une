@@ -1,0 +1,76 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002622",
+        "005": "20190802125831.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.414.2",
+            "b": "F723",
+            "c": "=134.3",
+            "d": "1974"
+        },
+        "245": {
+            "a": "Formação básica em análise de sistemas",
+            "c": "editado por Alan Daniels e Donald Yeates ; tradução, LTD/Datamec",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Livros Técnicos e Científicos",
+                "c": "1974"
+            }
+        ],
+        "300": [
+            {
+                "a": "230",
+                "c": "21 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Processamento de dados na empresa. Série LTC/LTD"
+            }
+        ],
+        "505": [
+            {
+                "a": "Investigação de sistemas -- Projeto da entrada, da saída, de arquivos -- Projeto e documentação -- Teste do projeto -- Comunicação -- Justificativa do sistema -- Implementação -- Controles e segurança -- A máquina -- Programas e rotinas"
+            }
+        ],
+        "534": {
+            "a": "Basic training in systems analysis"
+        },
+        "650": [
+            {
+                "a": "Análise de sistemas"
+            },
+            {
+                "a": "Documentação de sistemas"
+            },
+            {
+                "a": "Processamento de dados"
+            }
+        ],
+        "700": [
+            {
+                "a": "Daniels, Alan",
+                "e": "Editor"
+            },
+            {
+                "a": "Yeates, Donald",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

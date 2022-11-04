@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003902",
+        "005": "20190809105107.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "020114462x"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "519.6",
+            "b": "B397m",
+            "c": "1980"
+        },
+        "100": {
+            "a": "Beckman, Frank S"
+        },
+        "245": {
+            "a": "Mathematical foundations of programming",
+            "c": "Frank S. Beckman",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Reading, Massachusetts",
+                "b": "Addison-Wesley",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "xviii, 443 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "The Systems programming series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação matemática"
+            },
+            {
+                "a": "Lógica matemática"
+            },
+            {
+                "a": "Linguagem"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

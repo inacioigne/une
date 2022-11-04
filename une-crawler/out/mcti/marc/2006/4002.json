@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004002",
+        "005": "20190806093026.0",
+        "007": "t",
+        "008": "                                   mul"
+    },
+    "datafield": {
+        "020": {
+            "a": "2880740223"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.3.049.77",
+            "b": "J86d",
+            "c": "1983"
+        },
+        "111": {
+            "a": "Journées D'Électronique",
+            "c": "Lausanne, Suiça",
+            "d": "1983"
+        },
+        "245": {
+            "a": "Un défi, le test des circuits intégrés complexes comptes rendus des Journées d'électronique 1983",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "Testing complex integrated circuits, a challenge : proceedings of Journées d'électronique 1983"
+            }
+        ],
+        "260": [
+            {
+                "a": "Lausanne [Suiça]",
+                "b": "Presses polytechniques romandes",
+                "c": "1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 338",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia eletrônica",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Circuito integrado"
+            }
+        ],
+        "710": [
+            {
+                "a": "École polytechnique fédérale de Lausanne",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Association of Swiss Electrotechnicians",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

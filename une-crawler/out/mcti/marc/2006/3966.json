@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003966",
+        "005": "20190730101052.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.415.2.043",
+            "b": "Z82p",
+            "c": "1986"
+        },
+        "100": {
+            "a": "Ziviani, Nivio",
+            "d": "1946-"
+        },
+        "245": {
+            "a": "Projetos de algoritmos e estruturas de dados",
+            "c": "Nivio Ziviani",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Campinas",
+                "b": "Universidade Estadual de Campinas",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "153",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação estruturada"
+            },
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Algoritmos"
+            },
+            {
+                "a": "Estrutura de dados"
+            },
+            {
+                "a": "Banco de dados"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Campinas, SP",
+                "d": "1986",
+                "n": "1"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

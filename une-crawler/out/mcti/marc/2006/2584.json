@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002584",
+        "005": "20190801142314.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6:37",
+            "b": "N277s",
+            "c": "1996"
+        },
+        "110": {
+            "a": "National Science Foundation (Estados Unidos). Directorate for Social, Behavioral, and Economic Sciences"
+        },
+        "245": {
+            "a": "Shaping the future",
+            "b": "new expectations for undergraduate education in science, mathematics, engineering, and technology : a report on its review of undergraduate education",
+            "c": "by the Advisory Committee to the National Science Foundation, Directorate for Education and Human Resources",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Arlington [Estados Unidos]",
+                "b": "National Science Foundation",
+                "c": "1996"
+            }
+        ],
+        "300": [
+            {
+                "a": "76"
+            }
+        ],
+        "490": [
+            {
+                "a": "NSF",
+                "v": "96-139"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ciência",
+                "x": "Estudo e ensino",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Matemática",
+                "x": "Estudo e ensino",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Engenharia",
+                "x": "Estudo e ensino",
+                "z": "Estados Unidos"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

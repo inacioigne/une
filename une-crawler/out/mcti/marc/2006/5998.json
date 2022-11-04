@@ -1,0 +1,77 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005998",
+        "005": "20190807174500.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "088283049X"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004(73)(063)",
+            "b": "N277m",
+            "c": "1986"
+        },
+        "111": {
+            "a": "National Computer Conference",
+            "c": "Las Vegas, Estados Unidos",
+            "d": "1986"
+        },
+        "245": {
+            "a": "1986 National Computer Conference",
+            "b": "June 16-19, 1986, Las Vegas, Nevada",
+            "c": "Addie Mattox, editor and program chair ; Mary L. Rich, conference chair",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Reston [Estados Unidos]",
+                "b": "American Federation of Information Processing Societies",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiv, 566 p.",
+                "b": "il., graf."
+            }
+        ],
+        "490": [
+            {
+                "a": "AFIPS conference proceedings",
+                "v": "v. 55"
+            }
+        ],
+        "650": [
+            {
+                "a": "Computadores",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Informática",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Mattox, Addie",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "American Federation of Information Processing Societies",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

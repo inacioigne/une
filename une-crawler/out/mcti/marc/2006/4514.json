@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004514",
+        "005": "20190802085435.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "336.144.31(81)",
+            "b": "B823e",
+            "c": "2000"
+        },
+        "110": {
+            "a": "Brasil. Ministério do Planejamento, Orçamento e Gestão"
+        },
+        "245": {
+            "a": "A evolução recente do planejamento no governo federal",
+            "h": "Impresso",
+            "c": "Ministério do Planejamento, Orçamento e Gestão"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Ministério do Planejamento, Orçamento e Gestão",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "65",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Desenvolvimento econômico",
+                "x": "Planejamento"
+            },
+            {
+                "a": "Políticas públicas"
+            },
+            {
+                "a": "Desenvolvimento social"
+            },
+            {
+                "a": "Desenvolvimento tecnológico"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

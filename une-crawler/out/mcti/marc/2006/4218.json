@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004218",
+        "005": "20190809133335.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.891'051(043.3)",
+            "b": "G867m",
+            "c": "1982"
+        },
+        "100": {
+            "a": "Grings, Luis Carlos"
+        },
+        "245": {
+            "a": "Metodologia para avaliação de desempenho de sistemas de computação através de simulação",
+            "c": "Luis Carlos Grings",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "c": "1982",
+                "a": "Rio Grande do Sul"
+            }
+        ],
+        "300": [
+            {
+                "a": "171",
+                "b": "il."
+            }
+        ],
+        "502": [
+            {
+                "a": "Dissertação (Mestrado) - Universidade Federal do Rio Grande do Sul. Curso de Pós-Graduação em Ciência da Computação,Porto Alegre, 1982"
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Simulação (Computadores)",
+                "x": "Avaliação de desempenho"
+            }
+        ],
+        "990": {
+            "a": "Dissertações/Teses/TCC"
+        }
+    }
+}

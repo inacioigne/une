@@ -1,0 +1,82 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000917",
+        "005": "20190801185832.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "8400080386"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6:339.9",
+            "b": "C951",
+            "c": "2002"
+        },
+        "245": {
+            "a": "Cross cutting issues",
+            "c": "[editors Angel Alique Palomar... et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Madri (Espanha)",
+                "b": "Consejo Superior de Investigaciones Científicas"
+            },
+            {
+                "b": "Instituto de Automática Industrial",
+                "c": "2002"
+            }
+        ],
+        "300": [
+            {
+                "a": "152",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Workshops ALCUE science & technology",
+                "v": "v. 6"
+            }
+        ],
+        "650": [
+            {
+                "a": "Desenvolvimento sustentável"
+            },
+            {
+                "a": "Urbanização"
+            },
+            {
+                "a": "Meio ambiente",
+                "x": "Competitividade"
+            },
+            {
+                "a": "Recursos humanos",
+                "x": "Educação"
+            },
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Universidade"
+            },
+            {
+                "a": "Transferência de tecnologia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Alique Palomar, Ángel",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

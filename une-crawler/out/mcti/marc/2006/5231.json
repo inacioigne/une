@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005231",
+        "005": "20190805125441.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "005.6",
+            "b": "H117",
+            "c": "2000"
+        },
+        "245": {
+            "a": "HACCP",
+            "b": "a vitória do controle e da prevenção",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Montandon & Dias",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "10 f.",
+                "b": "principalmente ilustrada"
+            }
+        ],
+        "490": [
+            {
+                "a": "Qualidade em quadrinhos"
+            }
+        ],
+        "650": [
+            {
+                "a": "Produção de alimento",
+                "x": "Prevenção"
+            },
+            {
+                "a": "Alimentos",
+                "x": "Controle de qualidade"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

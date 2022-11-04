@@ -1,0 +1,76 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004457",
+        "005": "20190808105857.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "2040180742"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "681.5:004.4",
+            "b": "M623a",
+            "c": "1979"
+        },
+        "100": {
+            "a": "Michel, Gilles"
+        },
+        "245": {
+            "a": "Les automates programmables industriels",
+            "h": "Impresso",
+            "c": "Gilles Michel, Bernard Espiau, Claude Laurgeau"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Dunod",
+                "c": "1979"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxi, 273 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Dunod technique"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Máquinas de calcular"
+            },
+            {
+                "a": "Controle de processo",
+                "x": "Processamento de dados"
+            },
+            {
+                "a": "Automação industrial"
+            }
+        ],
+        "700": [
+            {
+                "a": "Espiau, Bernard",
+                "e": "Coautor"
+            },
+            {
+                "a": "Laurgeau, Claude",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

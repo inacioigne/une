@@ -1,0 +1,79 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001098",
+        "005": "20190809152027.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8574933422"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "608.3:641",
+            "b": "B616or",
+            "c": "2003"
+        },
+        "245": {
+            "a": "Biossegurança de OGM",
+            "b": "saúde humana e ambiental",
+            "c": "organizadores, Maria de Fátima Barrozo da Costa, Marco Antonio F. da Costa; autor corporativo: Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Papel virtual",
+                "c": "2003"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "163"
+            }
+        ],
+        "650": [
+            {
+                "a": "Biossegurança",
+                "x": "Saúde pública"
+            },
+            {
+                "a": "Melhoramento genético",
+                "x": "Biossegurança"
+            },
+            {
+                "a": "Biotecnologia"
+            }
+        ],
+        "700": [
+            {
+                "a": "Costa, Maria de Fátima Barrozo da",
+                "e": "Organizador"
+            },
+            {
+                "a": "Costa, Marco Antonio F. da",
+                "q": "Marco Antonio Ferreira da",
+                "e": "Organizador"
+            }
+        ],
+        "710": [
+            {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

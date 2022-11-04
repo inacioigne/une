@@ -1,0 +1,64 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002101",
+        "005": "20190809145614.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8534608741"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4:005.8",
+            "b": "P964pa",
+            "c": "=134.3",
+            "d": "1998"
+        },
+        "245": {
+            "a": "Microsoft Project 98",
+            "b": "passo a passo",
+            "c": "Catapult, Inc. ; tradução João Eduardo Nóbrega Tortello ; revisão técnica Mário Mgyar Franco",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Makron Books",
+                "c": "1998"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxxii, 305 p.",
+                "b": "il., + 1 CD-Rom"
+            }
+        ],
+        "500": [
+            {
+                "a": "Cutter baseado no nome do programa afim de reunir com as demais obras no acervo."
+            }
+        ],
+        "501": [
+            {
+                "a": "Acompanhado de 1 CD-Rom"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programas de computador",
+                "x": "Project, Windows"
+            },
+            {
+                "a": "Gestão de projetos"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

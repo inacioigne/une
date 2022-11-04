@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001803",
+        "005": "20190809140602.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0275927989"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "005.591.6",
+            "b": "H699m",
+            "c": "1988"
+        },
+        "100": {
+            "a": "Hoffman, Kurt"
+        },
+        "245": {
+            "a": "Micro-electronics and clothing",
+            "b": "the impact of technical change on a global industry",
+            "c": "Kurt Hoffman and Howard Rush",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Praeger",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxxii, 253 p."
+            }
+        ],
+        "650": [
+            {
+                "a": "Vestuário",
+                "x": "Indústria"
+            },
+            {
+                "a": "Automação industrial"
+            }
+        ],
+        "700": [
+            {
+                "a": "Rush, Howard",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

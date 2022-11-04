@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004298",
+        "005": "20190807130237.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "300011727X"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "316.3:001.102(4)",
+            "b": "I64",
+            "c": "2003"
+        },
+        "245": {
+            "a": "IPv6 cluster",
+            "b": "moving to IPv6 in Europe",
+            "h": "Impresso",
+            "c": "Comissão Européia"
+        },
+        "260": [
+            {
+                "a": "[S.l.",
+                "b": "s.n.]",
+                "c": "2003"
+            }
+        ],
+        "300": [
+            {
+                "a": "91"
+            }
+        ],
+        "490": [
+            {
+                "a": "6LINK European IPv6 research and development series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Sociedade da informação",
+                "z": "Europa"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento",
+                "z": "Europa"
+            },
+            {
+                "a": "Rede de computador",
+                "z": "Europa"
+            },
+            {
+                "a": "Tecnologia da informação",
+                "z": "Europa"
+            }
+        ],
+        "710": [
+            {
+                "a": "Comissão Européia",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

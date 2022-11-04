@@ -1,0 +1,81 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004388",
+        "005": "20190807150628.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "551.583",
+            "b": "L253",
+            "c": "1995"
+        },
+        "245": {
+            "a": "Land-use and land-cover change",
+            "b": "science/research plan",
+            "c": "B.L. Turner II ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Stockholm, Suécia",
+                "b": "International Geosphere-Biosphere Programme",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "132",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "IGBP Report = IGBP Rapport = IGBP Informe",
+                "v": "n. 35"
+            }
+        ],
+        "500": [
+            {
+                "a": "HDP report no. 7"
+            }
+        ],
+        "650": [
+            {
+                "a": "Uso do solo"
+            },
+            {
+                "a": "Mudanças climáticas"
+            }
+        ],
+        "700": [
+            {
+                "a": "Turner, B. L.",
+                "q": "Billie Lee",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Human Dimensions of Global Environmental Change Programme",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Programa Internacional da Geosfera-Biosfera",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Conselho Internacional das Uniões Científicas",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001138",
+        "005": "20190726151109.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502.13(7/8=13)",
+            "b": "N897",
+            "c": "[199-?]"
+        },
+        "245": {
+            "a": "Nossa própria agenda",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[New York]",
+                "b": "Programa das Nações Unidas para o Desenvolvimento",
+                "c": "[199-?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "241",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "\"Comissão de Desenvolvimento e Meio Ambiente da América Latina e do Caribe\""
+            }
+        ],
+        "650": [
+            {
+                "a": "Ecologia"
+            },
+            {
+                "a": "Meio ambiente"
+            },
+            {
+                "a": "Desenvolvimento sustentável"
+            },
+            {
+                "a": "Recursos naturais"
+            },
+            {
+                "a": "Ciência e tecnologia",
+                "x": "Desenvolvimento sustentável"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

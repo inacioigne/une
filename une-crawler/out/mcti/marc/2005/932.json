@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000932",
+        "005": "20190806190113.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "336.531.2:5/6(81)(083.9)",
+            "b": "B823p",
+            "c": "1975-1977"
+        },
+        "110": {
+            "a": "Brasil. [Plano Básico de Desenvolvimento Científico e Tecnológico, 2]"
+        },
+        "245": {
+            "a": "II PBDCT",
+            "b": "II Basic Plan for Scientific and Technological Development",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "II PBDCT : II Basic Plan for Scientific and Technological Development"
+            },
+            {
+                "a": "II Plano Básico de Desenvolvimento Científico e Tecnológico"
+            }
+        ],
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Instituto Brasileiro de Geografia e Estatística",
+                "c": "[1977]"
+            }
+        ],
+        "300": [
+            {
+                "a": "186"
+            }
+        ],
+        "650": [
+            {
+                "a": "Planejamento econômico",
+                "z": "Brasil"
+            },
+            {
+                "a": "Desenvolvimento econômico",
+                "z": "Brasil"
+            },
+            {
+                "a": "Tecnologia",
+                "z": "Brasil"
+            },
+            {
+                "a": "Desenvolvimento tecnológico",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

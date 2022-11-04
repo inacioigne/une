@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003705",
+        "005": "20190808145436.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "332.025.28(81)",
+            "b": "P961",
+            "c": "=111 1999"
+        },
+        "245": {
+            "a": "Privatisation in Brazil",
+            "b": "the case of public utilities",
+            "c": "edited by Armando Castelar Pinheiro and Kiichiro Fukasaku",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Banco Nacional de Desenvolvimento Econômico e Social",
+                "c": "1999"
+            }
+        ],
+        "300": [
+            {
+                "a": "218",
+                "b": "il., tabs., grafs."
+            }
+        ],
+        "534": {
+            "a": "A privatização no Brasil : o caso dos serviços de utilidade pública."
+        },
+        "650": [
+            {
+                "a": "Privatização",
+                "z": "Brasil"
+            },
+            {
+                "a": "Serviço público",
+                "x": "Privatização",
+                "z": "Brasil"
+            },
+            {
+                "a": "Serviço de utilidade pública",
+                "x": "Privatização",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Pinheiro, Armando Castelar",
+                "e": "Editor"
+            },
+            {
+                "a": "Fukasaku, Kiichiro",
+                "e": "Editor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

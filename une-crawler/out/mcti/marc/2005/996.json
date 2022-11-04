@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000996",
+        "005": "20190809162055.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502.131.1(81)",
+            "b": "F745",
+            "c": "2002"
+        },
+        "110": {
+            "a": "Fórum Brasileiro de ONGs e Movimentos Sociais para o Meio Ambiente e o Desenvolvimento"
+        },
+        "245": {
+            "a": "Brasil 2002",
+            "b": "a sustentabilidade que queremos",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Fase",
+                "c": "2002"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "200"
+            }
+        ],
+        "650": [
+            {
+                "a": "Meio ambiente",
+                "z": "Brasil"
+            },
+            {
+                "a": "Desenvolvimento sustentável",
+                "z": "Amazônia"
+            },
+            {
+                "a": "Biodiversidade",
+                "x": "Aspectos sociais",
+                "z": "Brasil"
+            },
+            {
+                "a": "Agricultura de subsistência",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

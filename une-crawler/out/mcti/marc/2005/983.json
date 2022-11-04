@@ -1,0 +1,86 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000983",
+        "005": "20190806172156.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "531:004.021",
+            "b": "C355g",
+            "c": "2000"
+        },
+        "100": {
+            "a": "Castro, Rodrigo E."
+        },
+        "245": {
+            "a": "A genetic algorithm for multiobjective structural optimization",
+            "c": "Rodrigo E. Castro, Helio Jose C. Barbosa",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Petrópolis",
+                "b": "Laboratório Nacional de Computação Científica",
+                "c": "2000"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "12 f.",
+                "b": "il., grav."
+            }
+        ],
+        "490": [
+            {
+                "a": "Relatórios de pesquisa e desenvolvimento",
+                "v": "n. 34/2000"
+            }
+        ],
+        "500": [
+            {
+                "a": "Periódico tratado como livro (ISSN: 0101-6113)"
+            }
+        ],
+        "505": [
+            {
+                "a": "1. Introduction -- 2. Pareto multiobjetive genetic algorithm -- 3. Applications -- 4. Conclusions"
+            }
+        ],
+        "520": {
+            "a": "A genetic algorithm for multiobjective optimization is presented which tries to evolve an evenly distributed set of solutions belonging to the Pareto set by: (i) ranking the population according to nondomination properties; (ii) defining a filter to retain Pareto set solutions and (iii) using adequate operators: exclusion, addition and single-objective operator which improves the individuals from the current filter in order to achieve a better distribution of solutions along the Pareto set. Numerical experiments are presented in order to illustrate the performance of the proposed algorithm when applied to multiobjective optimization problems in structural mechanics."
+        },
+        "650": [
+            {
+                "a": "Algoritmos",
+                "x": "Genética"
+            },
+            {
+                "a": "Ciência da computação"
+            },
+            {
+                "a": "Seleção natural"
+            }
+        ],
+        "700": [
+            {
+                "a": "Barbosa, Helio Jose Corrêa",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

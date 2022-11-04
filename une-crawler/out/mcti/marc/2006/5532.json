@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005532",
+        "005": "20190729144258.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0137299966"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.31",
+            "b": "A568p",
+            "c": "1982"
+        },
+        "100": {
+            "a": "Andrews, Michael"
+        },
+        "245": {
+            "a": "Programming microprocessor interfaces for control and instrumentation",
+            "c": "Michael Andrews",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "xviii, 361",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Microprocessador",
+                "x": "Programação de computador"
+            },
+            {
+                "a": "Interação homem-computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

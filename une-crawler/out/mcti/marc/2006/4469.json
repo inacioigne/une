@@ -1,0 +1,71 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004469",
+        "005": "20190807134130.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4",
+            "b": "P474",
+            "c": "2000"
+        },
+        "245": {
+            "a": "Pesquisa de satisfação SOFTEX",
+            "b": "ano 2000",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Sociedade Brasileira para Promoção da Exportação de Software",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "36 f.",
+                "b": "il., color"
+            }
+        ],
+        "650": [
+            {
+                "a": "Software",
+                "x": "Política e governo",
+                "z": "Brasil"
+            },
+            {
+                "a": "Indústria de software",
+                "z": "Brasil"
+            },
+            {
+                "a": "Exportação",
+                "x": "Política e governo",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Sociedade Brasileira para Promoção da Exportação de Software",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Brasil. Ministério da Ciência e Tecnologia",
+                "b": "Secretaria de Política de Informática e Automação",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

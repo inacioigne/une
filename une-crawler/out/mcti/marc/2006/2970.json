@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002970",
+        "005": "20190730143554.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "338.22",
+            "b": "S491d",
+            "c": "=134.3",
+            "d": "1980"
+        },
+        "100": {
+            "a": "Servan-Schreiber, Jean-Jacques",
+            "d": "1924-"
+        },
+        "245": {
+            "a": "O desafio mundial",
+            "c": "Jean-Jacques Servan-Schreiber ; tradução de Raul de Sá Barbosa",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Nova Fronteira",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "490"
+            }
+        ],
+        "534": {
+            "a": "Titulo original: Le defi mondial"
+        },
+        "650": [
+            {
+                "a": "Tecnologia",
+                "x": "Aspectos sociais"
+            },
+            {
+                "a": "Política econômica"
+            },
+            {
+                "a": "Indústria petrolífera",
+                "x": "Aspectos economicos"
+            },
+            {
+                "a": "Petróleo",
+                "x": "Aspectos economicos"
+            },
+            {
+                "a": "Relações econômicas internacionais"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "controfield": {
+        "000": "am   nam  22      a 4500",
+        "001": "000000452",
+        "005": "20190805163451.0",
+        "007": "t",
+        "008": "por                                por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "017:001.891-059.2(81)",
+            "b": "C755d",
+            "c": "1993",
+            "d": "CNPq"
+        },
+        "110": {
+            "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)"
+        },
+        "245": {
+            "a": "Diretório dos grupos de pesquisa no Brasil",
+            "b": "ano de referência: 1993",
+            "h": "Impresso",
+            "c": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+                "c": "1994"
+            }
+        ],
+        "300": [
+            {
+                "a": "8 v."
+            }
+        ],
+        "505": [
+            {
+                "a": "v.1. Tabulações básicas - v.2. Índices -v.3. Ciências agrárias - v.4. Ciências biológicas - v.5. Ciêcias da saúde - v.6. Ciências exatas e da terra - v.7. Engenharias e ciência da computação - v.8. Ciências humanas e sociais."
+            }
+        ],
+        "650": [
+            {
+                "a": "Instituição de pesquisa",
+                "z": "Brasil"
+            },
+            {
+                "a": "Sistema de informação",
+                "x": "Pesquisa",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pesquisa tecnológica"
+            }
+        ],
+        "710": [
+            {
+                "a": "Brasil. Ministério da Ciência e Tecnologia",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

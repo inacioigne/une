@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001901",
+        "005": "20190814172900.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "9501398757"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "005.591.6:005.912",
+            "b": "O48a",
+            "c": "1989"
+        },
+        "100": {
+            "a": "Oliveira, José Palazzo Moreira de"
+        },
+        "245": {
+            "a": "Automação de escritórios",
+            "c": "José Palazzo Moreira de Oliveira",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Buenos Aires",
+                "b": "Kapelusz",
+                "c": "1989"
+            }
+        ],
+        "300": [
+            {
+                "a": "145"
+            }
+        ],
+        "500": [
+            {
+                "a": "Versão preliminar apresentada na IV Escola Brasileiro-Argentina de Informática, Santiago del Estero, 1989"
+            }
+        ],
+        "650": [
+            {
+                "a": "Automação de escritório"
+            },
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Software"
+            }
+        ],
+        "711": [
+            {
+                "a": "Escola Brasileiro-Argentina de Informática",
+                "c": "Santiago del Estero, Argentina",
+                "d": "1989",
+                "n": "4"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

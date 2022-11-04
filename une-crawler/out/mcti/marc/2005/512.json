@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000512",
+        "005": "20190726133717.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8585360909"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "006.91(81)",
+            "b": "F316m",
+            "c": "1995"
+        },
+        "100": {
+            "a": "Felix, Júlio C"
+        },
+        "245": {
+            "a": "A metrologia no Brasil",
+            "c": "Júlio C. Felix",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Qualitymark",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "xii, 186",
+                "c": "23"
+            }
+        ],
+        "650": [
+            {
+                "a": "Metrologia",
+                "x": "Legislação",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pesos e medidas",
+                "x": "Legislação",
+                "z": "Brasil"
+            },
+            {
+                "a": "Sistema métrico",
+                "x": "Legislação",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

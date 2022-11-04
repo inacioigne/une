@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005896",
+        "005": "20190802092249.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "9264127550"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.4",
+            "b": "S681",
+            "c": "1985"
+        },
+        "245": {
+            "a": "Software, an emerging industry",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Organisation for Economic Co-operation and Development",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "203",
+                "c": "23 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Information, computer, communications policy",
+                "v": "9"
+            }
+        ],
+        "500": [
+            {
+                "a": "Report prepared for the Committee for Information, Computer, and Communications Policy."
+            }
+        ],
+        "650": [
+            {
+                "a": "Software",
+                "x": "Indústria"
+            },
+            {
+                "a": "Processamento de dados"
+            },
+            {
+                "a": "Automação"
+            }
+        ],
+        "710": [
+            {
+                "a": "Organização de Cooperação e Desenvolvimento Econômico",
+                "e": "Indefinida"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

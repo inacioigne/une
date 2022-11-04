@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004926",
+        "005": "20190807135152.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "630*4(81:213.56)",
+            "b": "P964pp",
+            "c": "[199-]"
+        },
+        "110": {
+            "a": "Programa Piloto para a Proteção das Florestas Tropicais do Brasil"
+        },
+        "245": {
+            "a": "Pilot Program to Conserve the Brazilian Rain Forests",
+            "h": "Impresso",
+            "c": "Programa Piloto para a Proteção das Florestas Tropicais do Brasil"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Banco Mundial",
+                "c": "[199-]"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 porta-fólio [12 f.]"
+            }
+        ],
+        "650": [
+            {
+                "a": "Florestas tropicais",
+                "z": "Brasil"
+            },
+            {
+                "a": "Ecologia florestal",
+                "z": "Brasil"
+            },
+            {
+                "a": "Proteção ambiental",
+                "z": "Brasil"
+            },
+            {
+                "a": "Conservação da natureza"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

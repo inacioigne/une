@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002674",
+        "005": "20190805131501.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.5",
+            "b": "K31h",
+            "c": "=134.3",
+            "d": "1974"
+        },
+        "100": {
+            "a": "Kemeny, John G.",
+            "d": "1926-"
+        },
+        "245": {
+            "a": "O homem e o computador",
+            "c": "John G. Kemeny ; tradução de Gastão Jacinto Gomes",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Gráfica Lux",
+                "c": "1974"
+            }
+        ],
+        "300": [
+            {
+                "a": "150",
+                "c": "21 cm"
+            }
+        ],
+        "650": [
+            {
+                "a": "Computadores",
+                "x": "História"
+            },
+            {
+                "a": "Tecnologia"
+            },
+            {
+                "a": "Automação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

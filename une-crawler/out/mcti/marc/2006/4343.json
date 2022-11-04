@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004343",
+        "005": "20190814184807.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.651",
+            "b": "C559b",
+            "c": "1983"
+        },
+        "100": {
+            "a": "Chu, Shao Yong",
+            "d": "1943-"
+        },
+        "245": {
+            "a": "Banco de dados",
+            "b": "organização, sistemas e administração",
+            "c": "Chu Shao Yong",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Atlas",
+                "c": "1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "398",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Banco de dados",
+                "x": "Organização"
+            },
+            {
+                "a": "Gerenciamento de banco de dados"
+            },
+            {
+                "a": "Sistema de gerenciamento de banco de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

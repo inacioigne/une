@@ -1,0 +1,52 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004182",
+        "005": "20190730134949.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.056:34(44)",
+            "b": "R221",
+            "c": "1975"
+        },
+        "245": {
+            "a": "Rapport de la commission, informatique et libertés",
+            "b": "(décret n. 74.938 du 8 novembre 1974)",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "La Documentation Française",
+                "c": "1975"
+            }
+        ],
+        "300": [
+            {
+                "a": "106"
+            }
+        ],
+        "650": [
+            {
+                "a": "Segurança de computador",
+                "x": "Aspectos legais"
+            },
+            {
+                "a": "Privacidade",
+                "x": "Aspectos legais"
+            },
+            {
+                "a": "Acesso à informação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

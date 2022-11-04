@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005174",
+        "005": "20190808152042.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.01(063)",
+            "b": "S989p",
+            "c": "1995"
+        },
+        "111": {
+            "a": "Symposium on Dynamic Problems of Mechanics",
+            "c": "Caxambu, MG",
+            "d": "1995",
+            "n": "6"
+        },
+        "245": {
+            "a": "Proceedings [of] VI Symposium on Dynamic Problems of Mechanics",
+            "h": "Impresso",
+            "c": "Universidade Federal de Uberlândia"
+        },
+        "260": [
+            {
+                "a": "Caxambu, MG",
+                "b": "[s.n.]",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "321",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Mecânica",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Engenharia mecânica",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "710": [
+            {
+                "a": "Universidade Federal de Uberlândia",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Associação Brasileira de Ciências Mecânicas",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

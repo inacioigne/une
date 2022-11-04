@@ -1,0 +1,73 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005568",
+        "005": "20190805132346.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0070721203"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "W964h",
+            "c": "c1981"
+        },
+        "100": {
+            "a": "Wulf, William Allan"
+        },
+        "245": {
+            "a": "HYDRA/C.mmp, an experimental computer system",
+            "c": "William A. Wulf, Roy Levin, Samuel P. Harbison",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "McGraw-Hill",
+                "c": "c1981"
+            }
+        ],
+        "300": [
+            {
+                "a": "xviii, 297 p",
+                "c": "25 cm",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "McGraw-Hill advanced computer science series"
+            }
+        ],
+        "650": [
+            {
+                "a": "HYDRA/C.mmp (Sistema de computador)"
+            },
+            {
+                "a": "Hardware"
+            },
+            {
+                "a": "Sistemas operacionais (Computadores)"
+            }
+        ],
+        "700": [
+            {
+                "a": "Levin, Roy",
+                "e": "Coautor"
+            },
+            {
+                "a": "Harbison, Samuel P",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005469",
+        "005": "20190802091210.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0138217378"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.41",
+            "b": "P784s",
+            "c": "1984"
+        },
+        "100": {
+            "a": "Pomberger, Gustav",
+            "d": "1949-"
+        },
+        "245": {
+            "a": "Software engineering and modula-2",
+            "c": "Gustav Pomberger",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "c1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiii, 264",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "International series in computer science"
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia de software"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "Modula-2"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005988",
+        "005": "20190812164815.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004(81)(063)",
+            "b": "C749a",
+            "c": "1987"
+        },
+        "111": {
+            "a": "Sociedade Brasileira de Computação. Congresso",
+            "c": "Salvador, BA",
+            "d": "1987",
+            "n": "7"
+        },
+        "245": {
+            "a": "Anais do VII Congresso da Sociedade Brasileira de Computação",
+            "c": "editado por Geovane Cayres Magalhães",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Salvador",
+                "b": "Universidade Federal da Bahia",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "ix, 613 p.",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Inclui trabalhos apresentados no XV Seminario Integrado de Software e Hardware, VII Concurso de Trabalhos de Iniciação Cientifica, I Concurso de Teses e Dissertações."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Ciência da computação",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Magalhães, Geovane Cayres",
+                "e": "Editor"
+            }
+        ],
+        "711": [
+            {
+                "a": "Seminário Integrado de Software e Hardware",
+                "c": "Rio de Janeiro",
+                "d": "1988",
+                "n": "15"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

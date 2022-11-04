@@ -1,0 +1,82 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000001319",
+        "005": "20190725151050.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "35.077CNEN/IEN(062.535)",
+            "b": "I59p",
+            "c": "2001-2002",
+            "d": "IEN"
+        },
+        "110": {
+            "a": "Instituto de Engenharia Nuclear (Brasil)"
+        },
+        "245": {
+            "a": "Progress report, 2001-2002",
+            "h": "Impresso",
+            "b": "[CNEN/IEN]",
+            "c": "Instituto de Engenharia Nuclear (Brasil)"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Instituto de Engenharia Nuclear",
+                "c": "2002"
+            }
+        ],
+        "300": [
+            {
+                "a": "150",
+                "b": "il., (algumas color.)"
+            }
+        ],
+        "505": [
+            {
+                "a": "I. Radiopharmaceuticals -- II. Reactors -- III. Nuclear chemistry -- IV. Instrumentation and human reliabiblity -- V. Safety and radiation protection"
+            }
+        ],
+        "650": [
+            {
+                "a": "Energia nuclear",
+                "x": "Relatórios",
+                "z": "Brasil"
+            },
+            {
+                "a": "Indústria nuclear",
+                "x": "Relatórios",
+                "z": "Brasil"
+            },
+            {
+                "a": "Tecnologia nuclear",
+                "x": "Relatórios",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Brasil. Ministério da Ciência e Tecnologia",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Comissão Nacional de Energia Nuclear (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "u": "http://www.ien.gov.br/images/publicacoes/progrep/progressreport20012002comp.pdf",
+            "y": "IEN",
+            "z": "Acesso em: 25/07/2019"
+        },
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

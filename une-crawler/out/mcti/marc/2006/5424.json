@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005424",
+        "005": "20190806105125.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8570014503"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004",
+            "b": "V441i",
+            "c": "1987"
+        },
+        "100": {
+            "a": "Velloso, Fernando de Castro"
+        },
+        "245": {
+            "a": "Informática",
+            "b": "uma introdução",
+            "c": "Fernando de Castro Velloso",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Campus",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "261",
+                "c": "24 cm",
+                "b": "il."
+            }
+        ],
+        "505": [
+            {
+                "a": "1. Fundamentos -- 2. A memória do computador -- 3. Unidade central de processamento -- 4. Unidades de entrada e saída -- 5. Codificação -- 6. Organização da informação -- 7. Funcionamento do computador -- 8. Noções sumárias de Cobol -- 9. Noções sumárias Fortran"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática"
+            },
+            {
+                "a": "Computadores"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

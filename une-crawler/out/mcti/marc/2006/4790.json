@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004790",
+        "005": "20190731120444.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "35.077CNEN/IPEN(062.535)",
+            "b": "R432",
+            "c": "1999-2000"
+        },
+        "245": {
+            "a": "Research reactor center",
+            "b": "progress report 1999-2000",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Instituto de Pesquisas Energéticas e Nucleares",
+                "c": "[2001?]"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "127",
+                "b": "il."
+            }
+        ],
+        "520": {
+            "a": "Apresenta os principais resultados do Instituto de Pesquisas Energéticas e Nucleares - IPEN em pesquisas nas áreas de saúde, indústria, energia, materiais e meio ambiente, engenharia, tecnologia e ciências nucleares, segurança radiológica, ensino e informação científica e tecnológica, gestão e por fim ações de cidadania."
+        },
+        "650": [
+            {
+                "a": "Pesquisa nuclear"
+            },
+            {
+                "a": "Energia nuclear",
+                "x": "Pesquisa e desenvolvimento"
+            },
+            {
+                "a": "Pesquisa científica"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Pesquisas Energéticas e Nucleares",
+                "c": "SP",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

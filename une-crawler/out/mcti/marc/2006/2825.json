@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002825",
+        "005": "20190813121326.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "F634c",
+            "c": "1965"
+        },
+        "100": {
+            "a": "Flores, Ivan"
+        },
+        "245": {
+            "a": "Computer sofware",
+            "b": "programming systems for digital computers",
+            "c": "Ivan Flores",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Englewood Cliffs",
+                "b": "Prentice-Hall",
+                "c": "c1965"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 493",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Prentice-Hall series in applied mathematics"
+            }
+        ],
+        "650": [
+            {
+                "a": "Software"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "Assembler (Linguagem de programação de computador)"
+            },
+            {
+                "a": "Programação estruturada"
+            },
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Informática"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

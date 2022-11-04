@@ -1,0 +1,83 @@
+{
+    "controfield": {
+        "000": "01006nam  2200217 a 4500",
+        "001": "000001235",
+        "005": "20190729093925.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "681.5:007.5(81)",
+            "b": "S259t",
+            "c": "1996"
+        },
+        "100": {
+            "a": "Saur, Ricardo Adolfo de Campos"
+        },
+        "245": {
+            "a": "A tecnologia da informação na reforma do estado",
+            "b": "uma reflexão sobre os dilemas e perspectivas para as grandes empresas de processamento de dados da área pública",
+            "c": "Ricardo Adolfo de Campos Saur",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Escola Nacional de Administração Pública",
+                "c": "1996"
+            }
+        ],
+        "300": [
+            {
+                "a": "20 f."
+            }
+        ],
+        "490": [
+            {
+                "a": "Texto para discussão / ENAP",
+                "v": "6"
+            }
+        ],
+        "650": [
+            {
+                "a": "Política de informação",
+                "z": "Brasil"
+            },
+            {
+                "a": "Administração pública",
+                "z": "Brasil"
+            },
+            {
+                "a": "Reforma política",
+                "z": "Brasil"
+            },
+            {
+                "a": "Tecnologia da informação",
+                "z": "Brasil"
+            },
+            {
+                "a": "Política e governo",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Escola Nacional de Administração Pública (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "ENAP",
+            "u": "https://repositorio.enap.gov.br/bitstream/1/579/1/6%20texto.pdf",
+            "z": "Acesso em: 29/07/2019"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

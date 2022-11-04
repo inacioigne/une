@@ -1,0 +1,83 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004398",
+        "005": "20190805094144.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "502.13:551.583",
+            "b": "G562",
+            "c": "1991"
+        },
+        "245": {
+            "a": "Global change system for analysis, research and training (START)",
+            "b": "report of a meeting at Bellagio December 3-7, 1990",
+            "c": "edited by J.A. Eddy ... [et al.]",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Boston, Estados Unidos",
+                "b": "International Geosphere-Biosphere Programme",
+                "c": "1991"
+            }
+        ],
+        "300": [
+            {
+                "a": "viii, 39 f.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "IGBP Report = IGBP Rapport = IGBP Informe",
+                "v": "n. 15"
+            }
+        ],
+        "610": [
+            {
+                "a": "Programa Internacional da Geosfera-Biosfera",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "650": [
+            {
+                "a": "Mudanças climáticas",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Eddy, John A",
+                "e": "Editor"
+            },
+            {
+                "a": "Malone, T. F",
+                "e": "Editor"
+            },
+            {
+                "a": "McCarthy, James J",
+                "e": "Editor"
+            },
+            {
+                "a": "Rosswall, T",
+                "e": "Editor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Programa Internacional da Geosfera-Biosfera",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

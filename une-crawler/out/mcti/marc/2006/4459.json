@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004459",
+        "005": "20190807143450.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "B763m",
+            "c": "1971"
+        },
+        "100": {
+            "a": "Boulaye, Guy G"
+        },
+        "245": {
+            "a": "La microprogrammation",
+            "b": "maîtrise d'informatique",
+            "c": "par Guy G. Boulaye",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Dunod",
+                "c": "1971"
+            }
+        ],
+        "300": [
+            {
+                "a": "119",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Dunod Université"
+            }
+        ],
+        "650": [
+            {
+                "a": "Microprogramação"
+            },
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Circuito integrado"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

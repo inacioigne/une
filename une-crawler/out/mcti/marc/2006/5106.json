@@ -1,0 +1,56 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005106",
+        "005": "20190806115159.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "658.5(81)(063)",
+            "b": "E56d",
+            "c": "1990"
+        },
+        "111": {
+            "a": "Encontro Nacional de Engenharia de Produção",
+            "c": "Belo Horizonte, MG",
+            "d": "1990",
+            "n": "10"
+        },
+        "245": {
+            "a": "X Encontro Nacional de Engenharia de Produção",
+            "b": "anais",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Belo Horizonte",
+                "b": "Universidade Federal de Minas Gerais",
+                "c": "1990"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Engenharia de produção",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Engenharia econômica",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

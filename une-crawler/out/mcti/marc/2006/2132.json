@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002132",
+        "005": "20190809144910.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451.9",
+            "b": "M939w",
+            "c": "1994"
+        },
+        "245": {
+            "a": "Microsoft MS-DOS e Microsoft Windows para workgroups",
+            "b": "sistemas operacionais",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "9. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "[São Paulo]",
+                "b": "Microsoft Press",
+                "c": "1994"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (paginação irregular)",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Guias do usuário"
+            }
+        ],
+        "500": [
+            {
+                "a": "Este livro contém três manuais: volume 1: Guia do usuário resumido do Microsoft MS-DOS ; volume 2: Guia do usuário do Microsoft Workgroup complemento para Windows ; volume 3: Guia do usuário do Microsoft Windows."
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistemas operacionais (Computadores)",
+                "x": "Windows para workgroups, Microsoft"
+            },
+            {
+                "a": "Aplicativo de tecnologia"
+            },
+            {
+                "a": "Manual do usuário"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

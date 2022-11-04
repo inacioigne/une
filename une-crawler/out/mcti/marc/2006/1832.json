@@ -1,0 +1,90 @@
+{
+    "controfield": {
+        "000": "01495cam  22003014a 4500",
+        "001": "000001832",
+        "005": "20190730135459.0",
+        "007": "t",
+        "008": "010327s2001    enka     b    001 0 fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "9291692166"
+        },
+        "040": {
+            "a": "DLC",
+            "c": "DLC",
+            "d": "BR-BrMCT"
+        },
+        "042": {
+            "a": "pcc"
+        },
+        "090": {
+            "a": "551.583",
+            "b": "G882r",
+            "c": "2000"
+        },
+        "110": {
+            "a": "Grupo Intergubernamental de Expertos sobre el Cambio Climático"
+        },
+        "245": {
+            "a": "Recommandations du GIEC en matière de bonnes pratiques et de gestion des incertitudes pour les inventaires nationaux de gaz à effet de serre",
+            "c": "Édité par Jim Penman ... [et al.]",
+            "h": "Impresso"
+        },
+        "246": [
+            {
+                "a": "Orientación del IPCC sobre las buenas prácticas y la gestión de la incertidumbre en los inventarios nacionales de gases de efecto invernadero"
+            }
+        ],
+        "260": [
+            {
+                "a": "Noruega",
+                "b": "Groupe d'experts intergouvernemental sur l'évolution du climat",
+                "c": "2000"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (paginação irregular) + CD-ROM",
+                "b": "il., (algumas color.)"
+            }
+        ],
+        "500": [
+            {
+                "a": "Acompanha CD-ROM"
+            }
+        ],
+        "534": {
+            "a": "Good Practice Guidance and Uncertainty Management in National Greenhouse Gas Inventories."
+        },
+        "650": [
+            {
+                "a": "Mudanças climáticas",
+                "x": "Política e governo"
+            },
+            {
+                "a": "Climatologia"
+            },
+            {
+                "a": "Ecologia"
+            },
+            {
+                "a": "Aquecimento global"
+            },
+            {
+                "a": "Efeito estufa (Atmosfera)"
+            },
+            {
+                "a": "Emissão de gases"
+            }
+        ],
+        "856": {
+            "u": "http://www.ipcc-nggip.iges.or.jp/public/gpglulucf/gpglulucf/french/full.pdf",
+            "y": "Texto completo (IPCC)",
+            "z": "Acesso em: 21/11/12"
+        },
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

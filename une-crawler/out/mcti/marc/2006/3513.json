@@ -1,0 +1,52 @@
+{
+    "controfield": {
+        "000": "am   nam  22      a 4500",
+        "001": "000003513",
+        "005": "20190808144854.0",
+        "007": "t",
+        "008": "por                                por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "622-051(815.1)(036)",
+            "b": "M663m",
+            "c": "1999"
+        },
+        "110": {
+            "a": "Minas Gerais. Secretaria de Estado de Minas e Energia"
+        },
+        "245": {
+            "a": "Manual de orientação básica ao pequeno e médio minerador",
+            "h": "Impresso",
+            "c": "Secretaria de Estado de Minas e Energia"
+        },
+        "260": [
+            {
+                "a": "Belo Horizonte",
+                "b": "Companhia Mineradora de Minas Gerais",
+                "c": "1999"
+            }
+        ],
+        "300": [
+            {
+                "a": "35 f.",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Mineração",
+                "x": "Manual"
+            },
+            {
+                "a": "Beneficiamento de minério"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

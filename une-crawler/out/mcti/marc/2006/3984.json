@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003984",
+        "005": "20190805130056.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "9264118616"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7(4)",
+            "b": "U89",
+            "c": "=111 1979"
+        },
+        "245": {
+            "a": "The usage of international data networks in Europe",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Organisation for Economic Co-operation and Development",
+                "c": "1979"
+            }
+        ],
+        "300": [
+            {
+                "a": "287",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Information, computer, communications policy",
+                "v": "2"
+            }
+        ],
+        "650": [
+            {
+                "a": "Telecomunicações",
+                "z": "Europa"
+            },
+            {
+                "a": "Rede de informação",
+                "z": "Europa"
+            },
+            {
+                "a": "Rede de computador"
+            }
+        ],
+        "710": [
+            {
+                "a": "Organização de Cooperação e Desenvolvimento Econômico",
+                "e": "Indefinida"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

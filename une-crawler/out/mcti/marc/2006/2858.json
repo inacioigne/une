@@ -1,0 +1,76 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002858",
+        "005": "20190809160112.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0876264100"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "C767i",
+            "c": "1975"
+        },
+        "100": {
+            "a": "Conway, Richard Walter",
+            "d": "1931-"
+        },
+        "245": {
+            "a": "An introduction to programming",
+            "b": "a structured approach using PL/I and PL/C",
+            "c": "Richard Conway, David Gries, contributions by John E. Dennis and Jorge Moré",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Cambridge (Estados Unidos)",
+                "b": "Winthrop Publishers",
+                "c": "1975"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiv, 509 p.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Winthrop Computer Systems Series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Linguagem de programação (Computadores)"
+            },
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Programação estruturada"
+            }
+        ],
+        "700": [
+            {
+                "a": "Gries, David",
+                "d": "1939-",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

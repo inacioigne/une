@@ -1,0 +1,51 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004884",
+        "005": "20190807141440.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004(81)(083.92)",
+            "b": "P712",
+            "c": "1986"
+        },
+        "245": {
+            "a": "Plano nacional de informática",
+            "b": "aprovado",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Associação Brasileira das Indústrias de Computadores e Periféricos",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "66"
+            }
+        ],
+        "650": [
+            {
+                "a": "Política de informática",
+                "x": "Legislação",
+                "z": "Brasil"
+            },
+            {
+                "a": "Informática",
+                "x": "Legislação",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

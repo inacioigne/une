@@ -1,0 +1,77 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005561",
+        "005": "20190807134625.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "378:001.891",
+            "b": "P474",
+            "c": "1986"
+        },
+        "245": {
+            "a": "Pesquisa universitária em questão",
+            "c": "Simon Schwartzman, Claudio de Moura Castro (organizadores)",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Campinas",
+                "b": "Universidade Estadual de Campinas"
+            },
+            {
+                "a": "São Paulo",
+                "b": "Icone Ed",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "232",
+                "c": "21 cm"
+            }
+        ],
+        "650": [
+            {
+                "a": "Ensino superior",
+                "x": "Pesquisa",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pesquisa universitária",
+                "z": "Brasil"
+            },
+            {
+                "a": "Pesquisa e desenvolvimento",
+                "z": "Brasil"
+            }
+        ],
+        "700": [
+            {
+                "a": "Schwartzman, Simon",
+                "d": "1939-",
+                "e": "Organizador"
+            },
+            {
+                "a": "Castro, Cláudio de Moura",
+                "d": "1938-",
+                "e": "Organizador"
+            }
+        ],
+        "710": [
+            {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

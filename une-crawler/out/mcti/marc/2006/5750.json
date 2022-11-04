@@ -1,0 +1,60 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005750",
+        "005": "20190808093129.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "2852062658"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004",
+            "b": "L819p",
+            "c": "1984"
+        },
+        "100": {
+            "a": "Locquin, Marcel V.",
+            "d": "1922-"
+        },
+        "245": {
+            "a": "Point sur l'informatique en 1984",
+            "b": "rapport d'étude à l'A.I.L.F.",
+            "c": "Marcel V. Locquin",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Lavoisier",
+                "c": "1984"
+            }
+        ],
+        "300": [
+            {
+                "a": "xiii, 397",
+                "c": "24 cm"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Aspectos sociais",
+                "z": "França"
+            },
+            {
+                "a": "Indústrias",
+                "x": "Informática",
+                "z": "França"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

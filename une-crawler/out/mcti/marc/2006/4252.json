@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004252",
+        "005": "20190802093435.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7:004.3'4",
+            "b": "S443e",
+            "c": "1983"
+        },
+        "100": {
+            "a": "Sebestyen, Istvan"
+        },
+        "245": {
+            "a": "Experimental and operational East-West Computer Connections",
+            "b": "The telecommunication hardware and software, data communication services, and relevant administrative procedures",
+            "c": "Istvan Sebestyen",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Luxemburgo",
+                "b": "International Institute for Applied Systems Analysis",
+                "c": "1983"
+            }
+        ],
+        "270": [
+            {
+                "d": "Luxemburgo"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v."
+            }
+        ],
+        "650": [
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Software"
+            },
+            {
+                "a": "Hardware"
+            },
+            {
+                "a": "Telecomunicações"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

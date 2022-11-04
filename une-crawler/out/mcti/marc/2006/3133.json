@@ -1,0 +1,81 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003133",
+        "005": "20190806085720.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8586552690"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "628.16",
+            "b": "T776",
+            "c": "2003"
+        },
+        "245": {
+            "a": "Tratamento de água para abastecimento por filtração direta",
+            "c": "coordenador Luiz Di Bernardo",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Associação Brasileira de Engenharia Sanitária e Ambiental",
+                "c": "2003"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "xv, 480",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Água"
+            }
+        ],
+        "650": [
+            {
+                "a": "Água",
+                "x": "Tratamento de residuo"
+            },
+            {
+                "a": "Tratamento de residuo"
+            },
+            {
+                "a": "Saneamento básico"
+            }
+        ],
+        "700": [
+            {
+                "a": "Di Bernardo, Luiz",
+                "e": "Coordenador"
+            }
+        ],
+        "710": [
+            {
+                "a": "Associação Brasileira de Engenharia Sanitária e Ambiental",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Programa de Pesquisa em Saneamento Básico (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

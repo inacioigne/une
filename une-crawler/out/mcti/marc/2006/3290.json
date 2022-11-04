@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003290",
+        "005": "20190813114121.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "9264110631"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.39:004.7",
+            "b": "C738",
+            "c": "1973"
+        },
+        "245": {
+            "a": "Computers and telecommunications",
+            "b": "economic, technical and organisational issues",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Organisation for Economic Co-operation and Development",
+                "c": "1973"
+            }
+        ],
+        "300": [
+            {
+                "a": "222",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "OECD informatics studies",
+                "v": "n. 3"
+            }
+        ],
+        "505": [
+            {
+                "a": "pt. 1. Organization for Economic Cooperation and Development. Panel on Policy Issues of Computer/Telecommunications Interaction. Report. -- pt. 2. Kimbel, D. Computers and telecommunications -- economic, technical and organisational issues."
+            }
+        ],
+        "650": [
+            {
+                "a": "Telecomunicações",
+                "x": "Processamento de dados"
+            },
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Sistema de transmissão de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

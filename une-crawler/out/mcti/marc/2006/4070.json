@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004070",
+        "005": "20190812173807.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "L935a",
+            "c": "1982"
+        },
+        "100": {
+            "a": "Lucena, Carlos J. P.",
+            "q": "Carlos José Pereira"
+        },
+        "245": {
+            "a": "Análise e síntese de programas de computador",
+            "c": "Carlos J. P. de Lucena",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Universidade de Brasília",
+                "c": "c1982"
+            }
+        ],
+        "300": [
+            {
+                "a": "185",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Cadernos da UnB"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador",
+                "x": "Metodologia"
+            },
+            {
+                "a": "Técnica de programação"
+            },
+            {
+                "a": "Programação estruturada"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004291",
+        "005": "20190731125218.0",
+        "007": "t",
+        "008": "                                   spa"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004(063)",
+            "b": "C748r",
+            "c": "1995"
+        },
+        "111": {
+            "a": "Conferencia de Autoridades Iberoamericanas de Informatica",
+            "c": "Lima, Peru",
+            "d": "1994",
+            "n": "13"
+        },
+        "245": {
+            "a": "Resoluciones aprobadas en la XII Conferencia de Autoridades Iberoamericanas de Informatica (XIII CAIBI)",
+            "b": "14 al 16 de noviembre de 1994, Lima-Peru",
+            "h": "Impresso",
+            "c": "Conferencia de Autoridades Iberoamericanas de Informatica"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Lima, Peru",
+                "b": "Instituto Nacional de Estatística e Informática",
+                "c": "1995"
+            }
+        ],
+        "300": [
+            {
+                "a": "56"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Política de informática",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto Nacional de Estadística e Informática (Peru)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

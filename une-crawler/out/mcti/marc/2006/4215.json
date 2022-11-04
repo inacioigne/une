@@ -1,0 +1,68 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004215",
+        "005": "20190808140342.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "2110004711"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:3(063)",
+            "b": "C714a",
+            "c": "1980"
+        },
+        "111": {
+            "a": "Colloque international Informatique et société",
+            "c": "Paris, França",
+            "d": "1979"
+        },
+        "245": {
+            "a": "Actes du Colloque international Informatique et société",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "La Documentation Française",
+                "c": "1980"
+            }
+        ],
+        "300": [
+            {
+                "a": "5 v.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Informatisation et société. Série Impact",
+                "v": "10"
+            }
+        ],
+        "505": [
+            {
+                "a": "v. 1. Informatisation et changement économique -- v. 2. Informatique, travail et emploi -- v. 3. Informatique, télématique et vie quotidienne -- v. 4. Informatique, coopération internationale et indépendance -- v. 5. Informatique et démocratie"
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Aspectos sociais"
+            },
+            {
+                "a": "Comunicação",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

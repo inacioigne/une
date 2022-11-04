@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000460",
+        "005": "20190726091701.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:342.4",
+            "b": "I43",
+            "c": "1987"
+        },
+        "245": {
+            "a": "Informática e constituinte",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "União Brasileira de Informática Pública",
+                "c": "1987"
+            }
+        ],
+        "300": [
+            {
+                "a": "11 f."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informação legislativa"
+            },
+            {
+                "a": "Assembléias constituintes",
+                "z": "Brasil"
+            },
+            {
+                "a": "Informática",
+                "x": "Servidores públicos",
+                "z": "Brasil"
+            },
+            {
+                "a": "Desenvolvimento científico",
+                "z": "Brasil"
+            },
+            {
+                "a": "Desenvolvimento tecnológico",
+                "z": "Brasil"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

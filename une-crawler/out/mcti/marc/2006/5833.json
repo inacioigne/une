@@ -1,0 +1,59 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005833",
+        "005": "20190802130530.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "020": {
+            "a": "2040157859"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.65",
+            "b": "M379t",
+            "c": "1985"
+        },
+        "100": {
+            "a": "Martin, Daniel"
+        },
+        "245": {
+            "a": "Techniques avancées pour bases de données",
+            "c": "par Daniel Martin",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Bordas",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "xvii, 364",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Dunod informatique"
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistema de gerenciamento de banco de dados"
+            },
+            {
+                "a": "Banco de dados"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

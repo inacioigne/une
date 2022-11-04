@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004845",
+        "005": "20190807174342.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.738.5:339(510)",
+            "b": "F781",
+            "c": "2004"
+        },
+        "245": {
+            "a": "14th statistical survey report on the internet development in China (Jul. 2004)",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Pequim, China",
+                "b": "China Internet Network Information Center",
+                "c": "c2004"
+            }
+        ],
+        "300": [
+            {
+                "a": "28 f.",
+                "b": "il., grafs"
+            }
+        ],
+        "650": [
+            {
+                "a": "Internet",
+                "z": "China"
+            },
+            {
+                "a": "Rede de computador",
+                "z": "China"
+            },
+            {
+                "a": "Sistema de informação",
+                "z": "China"
+            },
+            {
+                "a": "Serviço de informação",
+                "z": "China"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

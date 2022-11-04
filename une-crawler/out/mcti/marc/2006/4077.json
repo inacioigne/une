@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004077",
+        "005": "20190802103810.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.651(043.3)",
+            "b": "M444s",
+            "c": "1984"
+        },
+        "100": {
+            "a": "Mattos, Nelson Mendonca"
+        },
+        "245": {
+            "a": "Um suporte para banco de dados em minicomputador",
+            "c": "Nelson Mendonca Mattos",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "c": "1984",
+                "a": "[S.l.",
+                "b": "s.n]"
+            }
+        ],
+        "300": [
+            {
+                "a": "176 f.",
+                "b": "il."
+            }
+        ],
+        "502": [
+            {
+                "a": "Dissertação (mestrado) - Universidade Federal do Rio Grande do Sul. Curso de Pós-Graduação em Ciência da Computação,Porto Alegre, 1984"
+            }
+        ],
+        "650": [
+            {
+                "a": "Banco de dados",
+                "x": "Minicomputador"
+            },
+            {
+                "a": "Gerenciamento de banco de dados"
+            }
+        ],
+        "990": {
+            "a": "Dissertações/Teses/TCC"
+        }
+    }
+}

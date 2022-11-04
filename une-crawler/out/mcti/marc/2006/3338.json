@@ -1,0 +1,45 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003338",
+        "005": "20190731110855.0",
+        "007": "c",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8575181998"
+        },
+        "090": {
+            "a": "811.134.3(038)",
+            "b": "D546",
+            "d": "CDROM",
+            "c": "[200-?]"
+        },
+        "245": {
+            "a": "Dicionário eletrônico Barsa",
+            "h": "Recurso Eletrônico"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Encyclopaedia Britannica do Brasil",
+                "c": "[200-?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 CD-Rom"
+            }
+        ],
+        "650": [
+            {
+                "a": "Dicionários",
+                "x": "Língua portuguesa"
+            }
+        ],
+        "990": {
+            "a": "CD-ROM"
+        }
+    }
+}

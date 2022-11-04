@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002149",
+        "005": "20190807140358.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.65",
+            "b": "B823p",
+            "c": "[1983?]"
+        },
+        "110": {
+            "a": "Brasil. Secretaria Especial de Informática"
+        },
+        "245": {
+            "a": "Plano de alternativas de solução - (PAS)",
+            "c": "Secretaria Especial de Informática",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Secretaria Especial de Informática",
+                "c": "[1983?]"
+            }
+        ],
+        "300": [
+            {
+                "a": "1 v. (sem paginação)",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "O presente plano se materializa, entre outros tópicos, quatro alternativas de solução que, embora com peculiaridades, vantagens e desvantagens próprias, visam a implantação de um Sistema automatizado de Controle de Importação de Materiais, na área de informática, com o intuito de preencher e agilizar a satisfação das necessidades dos elementos demandados do mercado e da própria SEI."
+            }
+        ],
+        "505": [
+            {
+                "a": "1. Introdução -- 2. Glossário -- 3. Situação atual -- 3.1. Estrutura da organização -- 3.2. Legislação básica -- 3.3. Levantamento -- 4. Análise e identificação de pontos críticos -- 5. Formulação de alternativas de solução -- 6. Sistema de aprovação."
+            }
+        ],
+        "650": [
+            {
+                "a": "Processamento de dados"
+            },
+            {
+                "a": "Importação",
+                "x": "Automação"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

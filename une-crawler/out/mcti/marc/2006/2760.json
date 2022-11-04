@@ -1,0 +1,69 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002760",
+        "005": "20190812095646.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "P118p",
+            "c": "1978"
+        },
+        "100": {
+            "a": "Pacitti, Tércio"
+        },
+        "245": {
+            "a": "Programação e métodos computacionais",
+            "c": "Tercio Pacitti, Cyril P. Atkinson",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Livros Técnicos e Científicos",
+                "c": "1978"
+            }
+        ],
+        "300": [
+            {
+                "a": "2 v",
+                "c": "24 cm",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "A biblioteca possui apenas o v. 1"
+            }
+        ],
+        "505": [
+            {
+                "a": "Computadores digitais -- Fortran básico -- Usos computacionais da álgebra linear -- Raízes de polinômios e equações transcendentais -- Equações diferenciais ordinárias."
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "FORTRAN"
+            }
+        ],
+        "700": [
+            {
+                "a": "Atkinson, Cyril P",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

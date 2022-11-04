@@ -1,0 +1,74 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002150",
+        "005": "20190805142703.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "334.726:004.78(81)",
+            "b": "T772",
+            "c": "1983"
+        },
+        "245": {
+            "a": "Transborder data flows and Brazil",
+            "b": "brazilian case study",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Nações Unidas",
+                "c": "1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "418",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Informação folha de rosto: United Nations Centre on Transnational Corporations"
+            }
+        ],
+        "550": {
+            "a": "Preparado pela Secretaira Especial de Informática em conjunto com o Ministério da Comunicações."
+        },
+        "650": [
+            {
+                "a": "Fluxo de dados transfronteiras",
+                "z": "Brasil"
+            },
+            {
+                "a": "Comunicação de dados",
+                "x": "Empresas multinacionais"
+            },
+            {
+                "a": "Rede de computador"
+            },
+            {
+                "a": "Sistema de transmissão de dados"
+            }
+        ],
+        "710": [
+            {
+                "a": "Brasil. Secretaria Especial de Informática",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Brasil. Ministério das Comunicações",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

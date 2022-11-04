@@ -1,0 +1,90 @@
+{
+    "controfield": {
+        "000": "00804nam  2200205 a 4500",
+        "001": "000002726",
+        "005": "20190809155525.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "8572271023"
+        },
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "622.85:628.35",
+            "b": "C837e",
+            "c": "1997"
+        },
+        "100": {
+            "a": "Costa, Antonio Carlos Augusto da"
+        },
+        "245": {
+            "a": "An emerging biotechnology for metal containing waste water treatment",
+            "c": "Antonio Carlos A. da Costa",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Centro de Tecnologia Mineral"
+            },
+            {
+                "a": "Brasília",
+                "b": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+                "c": "1997"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "100",
+                "b": "il., tabs., grafs."
+            }
+        ],
+        "490": [
+            {
+                "a": "Tecnologia ambiental / CETEM",
+                "v": "17",
+                "x": "0103-7374"
+            }
+        ],
+        "650": [
+            {
+                "a": "Água",
+                "x": "Metais pesados"
+            },
+            {
+                "a": "Tratamento de residuo"
+            },
+            {
+                "a": "Biomassa"
+            },
+            {
+                "a": "Absorção",
+                "x": "Tratamento de água"
+            }
+        ],
+        "710": [
+            {
+                "a": "Centro de Tecnologia Mineral",
+                "c": "Brasil",
+                "e": "Corporativo"
+            },
+            {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

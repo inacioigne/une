@@ -1,0 +1,61 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002610",
+        "005": "20190807114007.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0850121086"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "W331i",
+            "c": "c1974"
+        },
+        "100": {
+            "a": "Waters, S. J"
+        },
+        "245": {
+            "a": "Introduction to computer systems design (planning files & programs)",
+            "c": "by S. J. Waters",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Manchester [Inglaterra]",
+                "b": "NCC Publications",
+                "c": "c1974"
+            }
+        ],
+        "300": [
+            {
+                "a": "198",
+                "c": "22 cm",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Desenvolvimento de sistemas"
+            },
+            {
+                "a": "Documentação de sistemas"
+            },
+            {
+                "a": "Sistema de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

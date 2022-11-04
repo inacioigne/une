@@ -1,0 +1,66 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004199",
+        "005": "20190814184534.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.65",
+            "b": "M433b",
+            "c": "1986"
+        },
+        "100": {
+            "a": "Mation, Hélvio"
+        },
+        "245": {
+            "a": "BDE",
+            "b": "um sistema gerencial de apoio a decisão",
+            "c": "Hélvio Mation",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "São Paulo",
+                "b": "Companhia de Processamento de Dados do Estado de São Paulo",
+                "c": "1986"
+            }
+        ],
+        "270": [
+            {
+                "d": "Brasil"
+            }
+        ],
+        "300": [
+            {
+                "a": "31",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Coleção Informática PRODESP. Série Sistemas e Aplicações",
+                "v": "2"
+            }
+        ],
+        "650": [
+            {
+                "a": "Banco de dados"
+            },
+            {
+                "a": "Armazenamento de dados"
+            },
+            {
+                "a": "Sistema de informação gerencial"
+            }
+        ],
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

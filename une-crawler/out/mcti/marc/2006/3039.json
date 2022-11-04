@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000003039",
+        "005": "20190730124719.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0442210310"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004:347.4",
+            "b": "B819d",
+            "c": "c1976"
+        },
+        "100": {
+            "a": "Brandon, Dick H"
+        },
+        "245": {
+            "a": "Data processing contracts",
+            "b": "structure, contents, and negotiation",
+            "c": "Dick H. Brandon and Sidney Segelstein",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Van Nostrand Reinhold",
+                "c": "c1976"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxii, 465 p."
+            }
+        ],
+        "650": [
+            {
+                "a": "Computadores",
+                "x": "Aluguel",
+                "z": "Estados Unidos"
+            },
+            {
+                "a": "Contratos",
+                "z": "Estados Unidos"
+            }
+        ],
+        "700": [
+            {
+                "a": "Segelstein, Sidney",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

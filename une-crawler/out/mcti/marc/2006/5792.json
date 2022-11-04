@@ -1,0 +1,75 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005792",
+        "005": "20190812165001.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004(81)(063)",
+            "b": "C749a",
+            "c": "1988"
+        },
+        "111": {
+            "a": "Sociedade Brasileira de Computação. Congresso",
+            "c": "Rio de Janeiro, RJ",
+            "d": "1988",
+            "n": "8"
+        },
+        "245": {
+            "a": "Anais do VIII Congresso da Sociedade Brasileira de Computação",
+            "c": "editado por Pedro Manoel Silveira",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Núcleo de Computação Eletrônica da Universidade Federal do Rio de Janeiro",
+                "c": "1988"
+            }
+        ],
+        "300": [
+            {
+                "a": "x, 387 p.",
+                "b": "il."
+            }
+        ],
+        "500": [
+            {
+                "a": "Inclui trabalhos apresentados no XV Seminario Integrado de Software e Hardware, VII Concurso de Trabalhos de Iniciação Cientifica, I Concurso de Teses e Dissertações."
+            }
+        ],
+        "650": [
+            {
+                "a": "Informática",
+                "x": "Congressos, eventos, encontros"
+            },
+            {
+                "a": "Ciência da computação",
+                "x": "Congressos, eventos, encontros"
+            }
+        ],
+        "700": [
+            {
+                "a": "Silveira, Pedro Manoel",
+                "e": "Editor"
+            }
+        ],
+        "711": [
+            {
+                "a": "Seminário Integrado de Software e Hardware",
+                "c": "Rio de Janeiro",
+                "d": "1988",
+                "n": "15"
+            }
+        ],
+        "990": {
+            "a": "Eventos"
+        }
+    }
+}

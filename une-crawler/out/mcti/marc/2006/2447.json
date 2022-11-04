@@ -1,0 +1,88 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002447",
+        "005": "20190802151501.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "339.5(81)",
+            "b": "H737t",
+            "c": "2006"
+        },
+        "100": {
+            "a": "Hollauer, Gilberto"
+        },
+        "245": {
+            "a": "Testing Brazilians' imports and exports co-integration with monthly data for 1996-2005",
+            "c": "Gilberto Hollauer, Marco Aurélio Alves de Mendonça",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "2006"
+            }
+        ],
+        "300": [
+            {
+                "a": "14 f.",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "Texto para discussão / IPEA",
+                "v": "n. 1154"
+            }
+        ],
+        "520": {
+            "a": "Testa o modelo de Husted e inspeciona a sustentabilidade de longo prazo das contas correntes brasileiras em um período muito específico de tempo (1996-2005) por meio do uso de dados mensais. Realiza teste da condição de restrição orçamentária inter-temporal (IBC) via teste de raiz unitária com quebra estrutural e co-integração pelo método de Gregory-Hansen em séries (117 pontos) nominais, normalizadas pelo PIB e normalizadas pelo índice de preços ao consumidor norte-americano (CIP). Os resultados indicam que a condição IBC pura não se sustenta para a economia brasiliera, mas há co-integração entre as séries utilizadas, indicando que o equilíbrio de contas é sustentável."
+        },
+        "650": [
+            {
+                "a": "Comércio internacional",
+                "z": "Brasil"
+            },
+            {
+                "a": "Comércio exterior"
+            },
+            {
+                "a": "Exportação"
+            },
+            {
+                "a": "Importação"
+            },
+            {
+                "a": "Modelos econométricos"
+            }
+        ],
+        "700": [
+            {
+                "a": "Mendonça, Aurélio Alves de",
+                "e": "Coautor"
+            }
+        ],
+        "710": [
+            {
+                "a": "Instituto de Pesquisa Econômica Aplicada",
+                "c": "Brasil",
+                "e": "Corporativo"
+            }
+        ],
+        "856": {
+            "y": "Texto na integra",
+            "u": "http://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=4321&Itemid=1",
+            "z": "Acesso em: 02/08/2019"
+        },
+        "990": {
+            "a": "Folheto"
+        }
+    }
+}

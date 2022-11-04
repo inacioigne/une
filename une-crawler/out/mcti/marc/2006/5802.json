@@ -1,0 +1,57 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005802",
+        "005": "20190808163536.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "8585027053"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "005.591.6:004",
+            "b": "O48a",
+            "c": "1985"
+        },
+        "100": {
+            "a": "Oliveira Junior, Joao de",
+            "d": "1954-"
+        },
+        "245": {
+            "a": "Administração x informática",
+            "b": "compativeis? : consultoria para empresarios, gerentes e analistas de sistemas",
+            "c": "João de Oliveira Junior",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Campinas",
+                "b": "Cartgraf Ed.",
+                "c": "1985"
+            }
+        ],
+        "300": [
+            {
+                "a": "176",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Administração",
+                "x": "Processamento de dados"
+            },
+            {
+                "a": "Automação de escritório"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

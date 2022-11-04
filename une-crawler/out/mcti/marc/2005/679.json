@@ -1,0 +1,77 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000000679",
+        "005": "20190801194621.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "331.56(81)",
+            "b": "C837d",
+            "c": "1998"
+        },
+        "100": {
+            "a": "Costa, Laerte Teixeira da"
+        },
+        "245": {
+            "a": "Desemprego no Brasil",
+            "b": "causas e soluções",
+            "c": "Laerte Teixeira da Costa",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "[São Paulo]",
+                "b": "Instituto de Promoção Social",
+                "c": "1998"
+            }
+        ],
+        "300": [
+            {
+                "a": "77",
+                "b": "gráfs., tabs."
+            }
+        ],
+        "490": [
+            {
+                "a": "Estudos e pesquisas Ipros",
+                "v": "n. 6"
+            }
+        ],
+        "500": [
+            {
+                "a": "Periódico tratado como livro."
+            }
+        ],
+        "650": [
+            {
+                "a": "Desemprego"
+            },
+            {
+                "a": "Mercado de trabalho"
+            },
+            {
+                "a": "Jornada de trabalho"
+            },
+            {
+                "a": "Emprego",
+                "x": "Pesquisa"
+            },
+            {
+                "a": "Trabalho de menor"
+            },
+            {
+                "a": "Trabalho feminino"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

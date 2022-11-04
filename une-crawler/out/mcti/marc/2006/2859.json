@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002859",
+        "005": "20190813121722.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0070840601"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42:621.3",
+            "b": "M981c",
+            "c": "1975"
+        },
+        "100": {
+            "a": "Murray-Shelley, Richard"
+        },
+        "245": {
+            "a": "Computer programming for electrical engineers",
+            "c": "Richard Murray-Shelley",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Londres (Inglaterra)"
+            },
+            {
+                "a": "Nova Iorque",
+                "b": "McGraw-Hill",
+                "c": "1975"
+            }
+        ],
+        "300": [
+            {
+                "a": "151",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Linguagem de programação (Computadores)",
+                "x": "FORTRAN"
+            },
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Sistema especialista",
+                "x": "Engenharia elétrica"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "controfield": {
+        "000": "am   nam  22      a 4500",
+        "001": "000000976",
+        "005": "20190801185748.0",
+        "007": "t",
+        "008": "por                                por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT",
+            "c": "BR-BrMCT"
+        },
+        "090": {
+            "a": "5/6:001.5(81)",
+            "b": "B823c",
+            "c": "2002"
+        },
+        "110": {
+            "a": "Brasil. Ministério do Desenvolvimento, Indústria e Comércio Exterior"
+        },
+        "245": {
+            "a": "Cronologia do desenvolvimento científico e tecnológico brasileiro, 1950-2000 e memória da cerimônia de homenagem aos empresários que se destacaram no campo da ciência, tecnologia e inovação",
+            "h": "Impresso",
+            "c": "Ministério do Desenvolvimento, Indústria e Comércio Exterior"
+        },
+        "260": [
+            {
+                "a": "Brasília",
+                "b": "Serviço Brasileiro de Apoio às Micro e Pequenas Empresas",
+                "c": "2002"
+            }
+        ],
+        "300": [
+            {
+                "a": "413",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Desenvolvimento tecnológico",
+                "x": "Cronologia",
+                "z": "Brasil"
+            },
+            {
+                "a": "Desenvolvimento científico",
+                "x": "Cronologia",
+                "z": "Brasil"
+            },
+            {
+                "a": "Empresário",
+                "z": "Brasil"
+            },
+            {
+                "a": "Ciência e tecnologia",
+                "x": "História",
+                "z": "Brasil"
+            }
+        ],
+        "710": [
+            {
+                "a": "Brasil. Ministério da Indústria e do Comércio",
+                "b": "Secretaria de Tecnologia Industrial",
+                "e": "Corporativo"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

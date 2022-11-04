@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002963",
+        "005": "20190801143744.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "020": {
+            "a": "0120637502"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "621.38:004.31",
+            "b": "A752s",
+            "c": "1979"
+        },
+        "100": {
+            "a": "Arnold, Jim",
+            "q": "James Tracy"
+        },
+        "245": {
+            "a": "Simplified digital automation with microprocessors",
+            "c": "James T. Arnold",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Nova Iorque",
+                "b": "Academic Press",
+                "c": "1979"
+            }
+        ],
+        "300": [
+            {
+                "a": "viii, 267",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Microprocessador"
+            },
+            {
+                "a": "Engenharia"
+            },
+            {
+                "a": "Sistemas de controle"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

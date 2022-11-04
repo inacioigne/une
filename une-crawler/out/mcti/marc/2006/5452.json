@@ -1,0 +1,67 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000005452",
+        "005": "20190807112852.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.7",
+            "b": "M965i",
+            "c": "1986"
+        },
+        "100": {
+            "a": "Munier, Jean-Marie",
+            "d": "1946-"
+        },
+        "245": {
+            "a": "Introduction à la téléinformatique",
+            "c": "par Jean-Marie Munier",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. éd. rev. et corr."
+            }
+        ],
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Eyrolles",
+                "c": "1986"
+            }
+        ],
+        "300": [
+            {
+                "a": "182"
+            }
+        ],
+        "490": [
+            {
+                "a": "Pratique de l'informatique"
+            }
+        ],
+        "650": [
+            {
+                "a": "Telemática"
+            },
+            {
+                "a": "Comunicação de dados"
+            },
+            {
+                "a": "Protocolo de comunicação"
+            },
+            {
+                "a": "Telecomunicações"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

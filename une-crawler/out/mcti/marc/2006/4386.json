@@ -1,0 +1,55 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004386",
+        "005": "20190808105958.0",
+        "007": "t",
+        "008": "                                   fre"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.42",
+            "b": "A781b",
+            "c": "1983"
+        },
+        "100": {
+            "a": "Arsac, Jacques"
+        },
+        "245": {
+            "a": "Les bases de la programmation",
+            "c": "Jacques Arsac",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Paris",
+                "b": "Dunod",
+                "c": "1983"
+            }
+        ],
+        "300": [
+            {
+                "a": "271"
+            }
+        ],
+        "490": [
+            {
+                "a": "Dunod informatique"
+            }
+        ],
+        "650": [
+            {
+                "a": "Programação de computador"
+            },
+            {
+                "a": "Programas de computador"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

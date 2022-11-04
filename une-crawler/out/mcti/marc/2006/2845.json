@@ -1,0 +1,63 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002845",
+        "005": "20190807101706.0",
+        "007": "t",
+        "008": "                                   eng"
+    },
+    "datafield": {
+        "020": {
+            "a": "0201144646"
+        },
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451",
+            "b": "L872o",
+            "c": "1981"
+        },
+        "100": {
+            "a": "Lorin, Harold"
+        },
+        "245": {
+            "a": "Operating systems",
+            "c": "Harold Lorin, Harvey M. Deitel",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "a": "Reading, Massachusetts",
+                "b": "Addison-Wesley",
+                "c": "1981"
+            }
+        ],
+        "300": [
+            {
+                "a": "xxi, 378",
+                "b": "il."
+            }
+        ],
+        "490": [
+            {
+                "a": "The Systems programming series"
+            }
+        ],
+        "650": [
+            {
+                "a": "Sistemas operacionais (Computadores)"
+            }
+        ],
+        "700": [
+            {
+                "a": "Deitel, Harvey M.",
+                "d": "1945-",
+                "e": "Coautor"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000004300",
+        "005": "20190801164443.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.451.46(043.3)",
+            "b": "N244e",
+            "c": "1981"
+        },
+        "100": {
+            "a": "Nascimento, Fernando Rosa do"
+        },
+        "245": {
+            "a": "Um estudo sobre multimicroprocessamento",
+            "c": "Fernando Rosa do Nascimento",
+            "h": "Impresso"
+        },
+        "260": [
+            {
+                "c": "1981",
+                "a": "Rio Grande do Sul"
+            }
+        ],
+        "300": [
+            {
+                "a": "xv, 272 f.",
+                "b": "il."
+            }
+        ],
+        "502": [
+            {
+                "a": "Dissertação (Mestrado) - Universidade Federal do Rio Grande do Sul. Curso de Pós-Graduação em Ciência da Computação, Porto Alegre, 1981"
+            }
+        ],
+        "650": [
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Microprocessador"
+            },
+            {
+                "a": "Multiprocessador"
+            }
+        ],
+        "990": {
+            "a": "Dissertações/Teses/TCC"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "controfield": {
+        "000": "     nam  22      a 4500",
+        "001": "000002894",
+        "005": "20190813131421.0",
+        "007": "t",
+        "008": "                                   por"
+    },
+    "datafield": {
+        "040": {
+            "a": "BR-BrMCT"
+        },
+        "090": {
+            "a": "004.38",
+            "b": "V331co",
+            "c": "1968"
+        },
+        "100": {
+            "a": "Vasconcellos, Augusto de"
+        },
+        "245": {
+            "a": "Computadores eletrônicos digitais",
+            "c": "Augusto de Vasconcellos",
+            "h": "Impresso"
+        },
+        "250": [
+            {
+                "a": "2. ed."
+            }
+        ],
+        "260": [
+            {
+                "a": "Rio de Janeiro",
+                "b": "Kosmos",
+                "c": "1968"
+            }
+        ],
+        "300": [
+            {
+                "a": "131",
+                "b": "il."
+            }
+        ],
+        "650": [
+            {
+                "a": "Computador digital"
+            },
+            {
+                "a": "Equipamento de entrada de dados"
+            },
+            {
+                "a": "Arquitetura de computador"
+            },
+            {
+                "a": "Matemática"
+            }
+        ],
+        "990": {
+            "a": "Monografia"
+        }
+    }
+}

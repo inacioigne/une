@@ -1,0 +1,115 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008144"
+        },
+        {
+            "code": "005",
+            "value": "20190701141526.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0809243687"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.45:004(73) ",
+                "b": "H174s ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Hall, Mark"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Sunburst ",
+                "b": "the ascent of Sun Microsystems ",
+                "c": "Mark Hall and John Barry ; prefácio: Tom Peters ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Chicago ",
+                "b": "Contemporary Books ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Estados Unidos"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xvii, 297 p."
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Sun Microsystems"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de computador ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Barry, John ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Peters, Thomas J ",
+                "d": "1942- ",
+                "e": "Colaborador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

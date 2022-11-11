@@ -1,0 +1,89 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007781"
+        },
+        {
+            "code": "005",
+            "value": "20190628191148.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "811.134.3(038) ",
+                "b": "O48d ",
+                "d": "R ",
+                "c": "[19--]"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Oliveira, Cândido de"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Dicionario da língua portuguesa ",
+                "c": "Cândido M. M. Oliveira ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Curitiba ",
+                "b": "Grafipar ",
+                "c": "[19--]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "751 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Na capa: Nova ortografia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua portuguesa ",
+                "x": "Dicionários"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dicionários"
+            }
+        }
+    ]
+}

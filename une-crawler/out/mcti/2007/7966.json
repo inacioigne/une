@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007966"
+        },
+        {
+            "code": "005",
+            "value": "20190628145342.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "3540340068"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "602.4 ",
+                "b": "H874c ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Cell culture engineering ",
+                "c": "volume editor, Wei-Shou Hu ; with contributions by R. Biener ... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Springer ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "x, 168 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Advances in biochemical engineering/biotechnology ",
+                "v": "101 ",
+                "x": "0724-6145"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Técnicas de Cultura de Células ",
+                "x": "Engenharia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia biomédica"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Hu, Wei-Shou ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

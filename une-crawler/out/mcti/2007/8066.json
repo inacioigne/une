@@ -1,0 +1,159 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "am   nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008066"
+        },
+        {
+            "code": "005",
+            "value": "20190709153442.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "por                                por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "62-027.15:338.45(81) ",
+                "b": "P474 ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Pesquisa industrial de inovação tecnológica, 2003 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Instituto Brasileiro de Geografia e Estatística ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "150 ",
+                "b": "il., tabs. ",
+                "e": "1 CDRom"
+            }
+        },
+        {
+            "code": "501",
+            "subfield": {
+                "a": "Acompanhado de 1 CD-Rom"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Apresentação -- Introdução -- Notas técnicas -- Análise dos resultados -- Tabelas de resultados -- Variáveis selecionadas -- Resultado do processo inovativo -- Esforço empreendido para inovar -- Impacto das inovações -- Fotes de informação e relações de cooperação -- Apoio do governo -- Problemas e obstáculos -- Outras importantes mudanças estratégicas e organizacionais -- Referências -- Anexos -- Glossário"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "A Pesquisa Industrial de Inovação Tecnológica, realizada pelo IBGE com o apoio da Financiadora de Estudos e Projetos - FINEP e do Ministério da Ciência e Tecnologia, tem por finalidade a construção de indicadores nacionais e regionais das atividades de inovação tecnológica desenvolvidas nas empresas industriais brasileiras com 10 ou mais pessoas ocupadas. Figuram entre as informações apresentadas nesta publicação aquelas sobre o esforço empreendido para inovar; resultados do processo inovativo; identificação do impacto das inovações no desempenho das empresas; fontes de informação e relações de cooperação estabelecidas com outras organizações; apoio do governo para as atividades inovativas; e identificação dos problemas e obstáculos para a implementação de inovação. Algumas das variáveis são confrontadas com os resultados obtidos na primeira pesquisa, realizada no ano 2000. A publicação contém notas técnicas sobre a pesquisa, anexo com coeficientes de variação estimados para as variáveis selecionadas, um glossário com a conceituação das variáveis apresentadas nas tabelas e, ainda, comentários analíticos a partir dos resultados. A construção de indicadores sobre o processo de inovação tecnológica, alinhados a padrões metodológicos internacionais, contribui para ampliar o entendimento do processo de desenvolvimento industrial e garante sua comparabilidade com dados de outros países. O CD-ROM que acompanha a publicação contém, além das informações do volume impresso, tabelas com informações para Brasil, Grandes Regiões e Unidades da Federação selecionadas, bem como os dados da Pesquisa Industrial de Inovação Tecnológica 2000. Informações metodológicas podem ser obtidas na publicação Pesquisa industrial de inovação tecnológica, da Série Relatórios Metodológicos. Informações sobre coeficientes de variação e o serviço de tabulação especial, no qual o usuário define sua própria tabela de interesse - com desagregação e/ou cruzamento de variáveis da pesquisa não contempladas na publicação, ou mesmo com o cruzamento dos resultados da PINTEC com os da Pesquisa Industrial Anual - podem ser solicitados no endereço eletrônico: ibge@ibge.gov.br. Esclarece-se que o atendimento dos pedidos de tabulação especial estará condicionado à avaliação se os resultados solicitados apresentam estimativas confiáveis e se o sigilo estatístico mantém-se preservado."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa industrial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inovação tecnológica ",
+                "x": "Indicadores ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa e desenvolvimento ",
+                "x": "Indicadores ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto Brasileiro de Geografia e Estatística ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Financiadora de Estudos e Projetos (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Brasil. Ministério da Ciência e Tecnologia ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Brasil. Ministério do Planejamento, Orçamento e Gestão ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\8066-Pesquisa_Industrial_Inovacao_Tecnologica_2003.pdf ",
+                "y": "Texto completo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo(IBGE) ",
+                "u": "http://www.ibge.gov.br/home/estatistica/economia/industria/pintec/2003/ ",
+                "z": "Acesso em: 07/06/13"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

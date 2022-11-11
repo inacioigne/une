@@ -1,0 +1,89 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007861"
+        },
+        {
+            "code": "005",
+            "value": "20190628185634.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8430782680"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCTIC"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "58(038) ",
+                "b": "T713d ",
+                "d": "R ",
+                "c": "1973"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Tosco, Uberto"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Diccionario de botánica ",
+                "h": "Impresso ",
+                "c": "Uberto Tosco"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Barcelona ",
+                "b": "Instituto Geográfico de Agostini ",
+                "c": "1973"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "256 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Botânica ",
+                "x": "Dicionários"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

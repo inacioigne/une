@@ -1,0 +1,128 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008106"
+        },
+        {
+            "code": "005",
+            "value": "20190701151129.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9789264032095"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5/6:339 ",
+                "b": "I61 ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Integrating science and technology into development policies ",
+                "b": "an international perspective ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Organisation for Economic Co-operation and Development ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "288 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Pre-publication copy"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política de desenvolvimento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Transferência de tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cooperação internacional"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto na íntegra ",
+                "u": "miranda.sourceoecd.org/vl=3059649/cl=27/nw=1/rpsv/cgi-bin/fulltextew.pl?prpsv=/ij/oecdthemes/99980010/v2007n7/s1/p1l.idx"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "miranda.sourceoecd.org/vl=3059649/cl=27/nw=1/rpsv/cgi-bin/fulltextew.pl?prpsv=/ij/oecdthemes/99980010/v2007n7/s1/p1l.idx ",
+                "y": "Texto na íntegra"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto integral (OECD) ",
+                "u": "https://www.oecd-ilibrary.org/docserver/9789264032101-en.pdf?expires=1562005435&id=id&accname=ocid54025470&checksum=B4509244227AFA5BF9A1B74ED4CEABB1 ",
+                "z": "Acesso em: 01/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

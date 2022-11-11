@@ -1,0 +1,83 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007824"
+        },
+        {
+            "code": "005",
+            "value": "20190705164236.0"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8471421461"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "811.133.1=134.3(07) ",
+                "b": "F815 ",
+                "c": "R ",
+                "d": "1970"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "O francês de hoje ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Lisboa ",
+                "b": "Reader's Digest ",
+                "c": "1970"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "3 v."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "v. 1 - Guia do curso : vocabulário essencial --- v. 2 - Diálogos em francês : gramática ilustrada --- v. 3 - Diálogos em português : regras gramaticais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua francesa ",
+                "x": "Língua portuguesa"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

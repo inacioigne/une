@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007810"
+        },
+        {
+            "code": "005",
+            "value": "20190701133100.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "811.134.3'367.62(038) ",
+                "b": "F363d ",
+                "d": "R ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Fernandes, Francisco ",
+                "d": "1900-1965"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Dicionário de regimes de substantivos e adjetivos ",
+                "c": "Francisco Fernandes ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "22. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Globo ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "384"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "18º edição de acordo com a ortografia oficial brasileira"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua portuguesa ",
+                "x": "Dicionários"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

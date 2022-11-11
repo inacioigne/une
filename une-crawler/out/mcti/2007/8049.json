@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "am   nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008049"
+        },
+        {
+            "code": "005",
+            "value": "20190624143657.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "mul                                mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "52(81) ",
+                "b": "A271a ",
+                "d": "AEB ",
+                "c": "[2000]"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Agência Espacial Brasileira"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Agência Espacial Brasileira ",
+                "b": "missão centenário ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Brasília] ",
+                "b": "Agência Espacial Brasileira ",
+                "c": "[2000]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "[35] p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Agência Espacial Brasileira - A missão centenário - Experimentos científicos - O Programa Microgravidade - O astronauta brasileiro - A nave russa Soyuz - A Estação Espacial Internacional - Conheça os experimentos científicos"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "A tecnologia espacial é hoje um componente imprescindível para os países que desejam gerir suas riquezas e avançar no desenvolvimento, seja científico, econômico ou social. São produtos advindos da exploração do cosmo que permitem, por exemplo, realizar previsões climáticas, observar os usos da terra ou fiscalizar o desflorestamento na Amazônia a partir de informações provenientes de satélites. Em reconhecimento à importância dessa tecnologia, o Brasil, já na década de 60, iniciou esforços em busca dos meios para usufruir dos benefícios gerados pelas atividades espaciais. Tal processo culminou com a criação da Agência Espacial Brasileira (AEB), ligada ao Ministério da Ciência e Tecnologia (MCT), em 1994, com o objetivo de coordenar os órgãos envolvidos em atividades espaciais. Sob a administração geral da AEB, o Programa Espacial Brasileiro, conforme definido pelo Sistema Nacional de Atividades Espaciais (Sindae), conta com a participação do Instituto Nacional de Pesquisas Espaciais (Inpe/MCT) e do Comando-Geral de Tecnologia Aeroespacial (CTA), responsável pelo Instituto de Aeronáutica e Espaço(IAE), pelo Centro de Lançamento de Alcântara (CLA) e pelo Centro de Lançamento Barreira do Inferno (CLBI). Cada um deles responde por um dos segmentos necessários ao alcance da Missão Espacial Completa Brasileira (MECB)."
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Agência Espacial Brasileira ",
+                "x": "Pesquisa espacial"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008208"
+        },
+        {
+            "code": "005",
+            "value": "20190628155458.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9223108276"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "331.5(100) ",
+                "b": "I43"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Informe sobre el empleo en el mundo, 1998-1999 ",
+                "b": "empleabilidad y mundialización, papel fundamental de la formación ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Genebra (Suiça) ",
+                "b": "Repartição Internacional do Trabalho ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Suiça"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "281 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mercado de trabalho"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Emprego"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "International Labour Office ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto parcial (ILO) ",
+                "u": "https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/dwcms_080689.pdf ",
+                "z": "Acesso em: 28/06/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

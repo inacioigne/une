@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007784"
+        },
+        {
+            "code": "005",
+            "value": "20180118150320.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9720010371"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "811.133.1=134.3(038) ",
+                "b": "D546 ",
+                "d": "R ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Dicionário de português - francês ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Lisboa ",
+                "b": "Porto Editora ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Portugal"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "797"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Dicionários Editora"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua portuguesa ",
+                "x": "Língua francesa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua francesa ",
+                "x": "Língua portuguesa"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dicionários"
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008218"
+        },
+        {
+            "code": "005",
+            "value": "20190628101457.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0852295596"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "91(084.4) ",
+                "b": "B862 ",
+                "d": "R ",
+                "c": "c1991"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Britannica atlas ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Chicago ",
+                "b": "Encyclopaedia Britannica ",
+                "c": "c1991"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "199 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Geografia ",
+                "x": "Atlas"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Atlas"
+            }
+        }
+    ]
+}

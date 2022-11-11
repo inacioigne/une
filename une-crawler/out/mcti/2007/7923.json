@@ -1,0 +1,152 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007923"
+        },
+        {
+            "code": "005",
+            "value": "20190628162408.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "37:005.93(81) ",
+                "b": "S938i"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Sátyro, Natália Guimarães Duarte"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A Infra-estrutura das escolas brasileiras de ensino fundamental ",
+                "b": "um estudo com base nos censos escolares de 1997 a 2005 ",
+                "c": "Natália Sátyro, Sergei Soares ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "37 ",
+                "b": "il., gráf., tab."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IPEA ",
+                "v": "1267"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Este texto usa os dados do Censo Escolar para descrever as condições de infraestrutura, tanto física como de recursos humanos, das escolas do ensino fundamental brasileiro. Investigou-se o acesso a serviços básicos como água, eletricidade e esgotamento sanitário; dependências escolares; existência de biblioteca ou sala de leitura; infra-estrutura de comunicação e informação; além de formação de professores, que não é infra-estrutura, mas é de importância fundamental para a qualidade do ensino. No caso das dependências escolares e das bibliotecas e salas de leitura, os autores foram forçados a construir um índice sintético que resume a grande variedade de informações disponíveis no Censo Escolar de cada ano. O primeiro resultado é que as condições materiais do ensino melhoraram muito entre 1997 e 2005, embora os resultados escolares, tanto em termos de repetência como em termos de aprendizado, não tenham mudado muito neste mesmo período. O segundo é que não há grandes diferenças de infra-estrutura ou formação docente entre as escolas estaduais e privadas, embora existam grandes diferenças entre estas duas e as municipais. Este é um resultado curioso, já que não há grandes diferenças de resultado entre municipais e estaduais, mas há, sim, grandes diferenças entre estas duas e as privadas. Estes dois resultados colocam em dúvida o impacto de melhorias de infra-estrutura ou de formação docente sobre os resultados escolares. O nosso último resultado vai no sentido oposto. As escolas rurais sofrem tanto com condições inaceitáveis quanto com resultados educacionais muito baixos até hoje, o que sugere que talvez uma política de melhoria de infra-estrutura de escolas rurais possa ter impactos sobre repetência ou aprendizado. Finalmente, o texto aponta para a necessidade urgente de investigar, usando esta rica base de dados que são os registros administrativos, os impactos das condições materiais escolares e os resultados educacionais. This paper uses data from the annual School Census to describe the physical and human resource infrastructure available to Brazilian primary schools. We investigate access to basic services such as water, electricity, and sewage; facilities available in the school; existence of a library or reading room; information and communication technology; and, finally teacher qualification. In the case of facilities and library description we were forced to create an index, given the volume of information available in the School Census each year. Our first conclusion is that material schooling conditions improved greatly between 1997 and 2005 but educational attainment and achievement did not change much during this period. Second, there are no major differences in resources between state and private school, although there are large differences between these two and municipal schools. This is again a curious result since there are very small differences in attainment and achievement between state and municipal schools but large differences between state and private schools. These two results put in doubt the impacts that improving infrastructure will have upon educational results. Our last finding, however, leans in the opposite direction. Rural schools suffer both very poor material conditions and very poor educational results. This suggests that perhaps improving material conditions in the very worse schools, which are almost all rural, may have strong impacts upon attainment or achievement. Finally, an important conclusion of this text is that more investigation is urgently needed investigating the link between infrastructure data from administrative sources and educational results."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Escola ",
+                "x": "Infra-estrutura ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Professor ",
+                "x": "Formação profissional"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos humanos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Educação ",
+                "x": "Estatísticas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Educação básica"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Soares, Sergei Suarez Dillon ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (IPEA) ",
+                "u": "http://www.ipea.gov.br/portal/images/stories/PDFs/TDs/td_1267.pdf ",
+                "z": "Acesso em: 28/08/2014"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

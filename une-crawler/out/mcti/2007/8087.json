@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008087"
+        },
+        {
+            "code": "005",
+            "value": "20190626122630.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "133.52 ",
+                "b": "H711a ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Hoffmann, Linneu"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Astrologia ",
+                "b": "ciência ou superstição ",
+                "c": "Linneu Hoffmann ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Museu de Astronomia e Ciências Afins ",
+                "c": "1994"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "147"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Astrologia ",
+                "x": "História"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Astronomia ",
+                "x": "Análise comparativa"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

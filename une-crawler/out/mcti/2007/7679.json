@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007679"
+        },
+        {
+            "code": "005",
+            "value": "20190625123005.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4:629.783(043.3) ",
+                "b": "S725p ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Souza, José do Patrocínio Morais de"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Projeto de \"software\" para um centro de missão de coleta de dados ",
+                "c": "José do Patrocínio Morais de Souza ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l. ",
+                "b": "s.n] ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v."
+            }
+        },
+        {
+            "code": "502",
+            "subfield": {
+                "a": "Dissertação (Mestrado em computação aplicada) - Instituto Nacional de Pesquisas Espaciais, São José dos Campos, 1988"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "O centro de missão de coleta de dados (CMCD) destina-se à recepção e processamento dos dados transmitidos pelo satélite de coleta de dados da missão espacial completa brasileira (MECB), mantendo-os disponíveis para acesso remoto de usuários via rede telegráfica e/ou telefônica. O sistema de \"software\" a ser desenvolvido possui características de processamento em tempo real. O objetivo deste trabalho é realizar as fases de análise e projeto deste sistema, propondo uma metodologia que englobe técnicas para desenvolvimento de sistemas de tempo real e de banco de dados. Os resultados obtidos deverão ser úteis ao projeto do centro de missão que servirá à MECB."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Satélite artificial ",
+                "x": "Processamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Desenvolvimento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia de software"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dissertações/Teses/TCC"
+            }
+        }
+    ]
+}

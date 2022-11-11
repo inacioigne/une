@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007969"
+        },
+        {
+            "code": "005",
+            "value": "20190628140732.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "519.71 ",
+                "b": "T365s ",
+                "c": "1953"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Thaler, George J. ",
+                "d": "1918- ",
+                "q": "George Julius"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Servomechanism analysis ",
+                "c": "George J. Thaler, Robert G. Brown ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "McGraw-Hill ",
+                "c": "1953"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Estados Unidos"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xii, 414 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "McGraw-Hill electrical and electronic engineering series"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Servomecanismo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Controle automático"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia eletrônica"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Brown, Robert George ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

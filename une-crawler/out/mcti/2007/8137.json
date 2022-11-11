@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008137"
+        },
+        {
+            "code": "005",
+            "value": "20190704174209.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por ",
+                "d": "BR-BrMCTIC"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "627.13/.15(811.3)(043) ",
+                "b": "R484m ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Ribeiro Neto, Alfredo"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Modelagem hidrodinâmica da bacia do rio amazonas ",
+                "c": "Alfredo Ribeiro Neto ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "131 f. ",
+                "b": "il., tab., gráf."
+            }
+        },
+        {
+            "code": "502",
+            "subfield": {
+                "a": "Tese (Mestrado) - Universidade de Brasília, Faculdade de Tecnologia, Brasília, 2001"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Bacias hidrográficas ",
+                "z": "Amazonas, Rio ",
+                "x": "Hidrodinâmica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dissertações/Teses/TCC"
+            }
+        }
+    ]
+}

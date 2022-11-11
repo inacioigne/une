@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008150"
+        },
+        {
+            "code": "005",
+            "value": "20190624152239.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "681.5:007.5(510)(063) ",
+                "b": "C539p ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "China International Consultation and Information Service Symposium and Exhibit ",
+                "c": "China ",
+                "d": "1993 ",
+                "n": "1"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Proceedings of China's 1st World Consultancy and Information Services Conference and Exhibition ",
+                "b": "consultex china'93 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Pequim, China ",
+                "b": "[s.n.] ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "China"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "ix, 522 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Serviço de informação ",
+                "z": "China ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia da informação ",
+                "z": "China ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

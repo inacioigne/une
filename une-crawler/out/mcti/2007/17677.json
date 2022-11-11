@@ -1,0 +1,48 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     n a  22      a"
+        },
+        {
+            "code": "001",
+            "value": "000017677"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Fitogeo ",
+                "b": "um banco de dados aplicado à fitogeografia"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Análises comparativas vêm sendo cada vez mais utilizadas para definir e relacionar os tipos de vegetação existentes no Brasil. Para tanto, cada pesquisador vem montando seu próprio banco de dados, usualmente elaborando um sistema com uma finalidade imediata e descartado ao término do projeto ou pesquisa. Essa prática leva ao desperdício de tempo, esforço, dinheiro e, principalmente, informação. Então, um sistema de banco de dados específico para armazenar e gerenciar informações advindas de levantamentos florísticos e, ou, fitossociológicos poderia padronizar, estruturar logicamente, evitar ou eliminar sobreposição de esforços, reduzir os custos e também promover oportunidade para que cientistas de diversas áreas compartilhem informações. Com esses objetivos e para suprir uma necessidade imediata de organizar uma base de dados, foi desenvolvido o FITOGEO. O sistema foi elaborado com a finalidade de gerenciar informações oriundas de listas florísticas ou de levantamentos fitossociológicos, variáveis ambientais associadas a estas listas e taxonômicas. O FITOGEO mantém a integridade dos dados, é centrado na 'espécie' e tem a capacidade de integrar dados e metadados de várias fontes. Apresenta duas interfaces: uma de características florísticas ou fitossociológicas, com todas as informações oriundas do levantamento em si, tanto das espécies quanto da metodologia adotada, e das variáveis ambientais associadas, como coordenadas geográficas, altitude, temperatura e precipitação. E outra taxonômica, resgatando informações como nome corrigido e o nome válido das espécies cadastradas e níveis hierárquicos supraespecíficos."
+            }
+        },
+        {
+            "code": "773",
+            "subfield": {
+                "d": "Manaus : Instituto Nacional de Pesquisas da Amazônia, 1971- . ",
+                "g": "v. 33, n. 1 (jan./mar. 2003), p. 9-21 ",
+                "h": "v. ",
+                "n": "Coleção impressa: (v. 1, n. 1, supl., abr. 1971 - presente) ",
+                "p": "Acta amazon. ",
+                "q": "33:1 ",
+                "t": "Acta amazonica ",
+                "w": "000000197 ",
+                "x": "0044-5967 ",
+                "7": "   s"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Analítica de Periódicos"
+            }
+        }
+    ]
+}

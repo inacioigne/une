@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008206"
+        },
+        {
+            "code": "005",
+            "value": "20190702114047.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9280502220"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "347.771 ",
+                "b": "I61 ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Introduction to patent ",
+                "b": "law and practice : the basic concepts : a WIPO training manual ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Genebra (Suiça) ",
+                "b": "World Intellectual Property Organization ",
+                "c": "1989"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Suiça"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "111"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Patentes (Direito internacional público)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Propriedade industrial"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Organização Mundial da Propriedade Intelectual ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

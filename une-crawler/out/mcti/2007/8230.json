@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008230"
+        },
+        {
+            "code": "005",
+            "value": "20190702150143.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "330.34 ",
+                "b": "P844m ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Porter, Michael E. ",
+                "d": "1947-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The microeconomics of development ",
+                "c": "Michael E. Porter ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Caracas] ",
+                "b": "Steering Committee of the Andean Competitiveness Project ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Venezuela"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "35 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento econômico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microeconomia"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (DPHU) ",
+                "u": "http://www.dphu.org/uploads/attachements/books/books_3192_0.pdf ",
+                "z": "Acesso em: 02/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

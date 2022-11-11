@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007792"
+        },
+        {
+            "code": "005",
+            "value": "20190701145334.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "811.111=134.3(038) ",
+                "b": "D546 ",
+                "d": "R ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Dicionário Michaelis ",
+                "b": "inglês-português / português-inglês ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Dictionary Michaelis : english-portuguese / portuguese-english"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "ed. especial"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Melhoramentos ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "856"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua inglesa ",
+                "x": "Literatura portuguesa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua portuguesa ",
+                "x": "Língua inglesa"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dicionários"
+            }
+        }
+    ]
+}

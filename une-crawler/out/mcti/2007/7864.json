@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007864"
+        },
+        {
+            "code": "005",
+            "value": "20190701145533.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9020116673"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5/6(038) ",
+                "b": "D554 ",
+                "d": "R ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Dictionary of scientific and technical terminology ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Moscou, Rússia ",
+                "b": "Ruski Yazyk"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Deventer ",
+                "b": "Kluwer Technische Boeken ",
+                "c": "1984"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "496"
+            }
+        },
+        {
+            "code": "546",
+            "subfield": {
+                "a": "Texto em Inglês, Alemão, Francês, Irlandês e Russo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "x": "Dicionários"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

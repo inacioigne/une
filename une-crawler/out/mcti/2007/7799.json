@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007799"
+        },
+        {
+            "code": "005",
+            "value": "20190702180404.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "3468112718"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "811.112.2=134.3(038) ",
+                "b": "I69l ",
+                "d": "R ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Irmen, Friedrich"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Langenscheidts Taschenworterbuch der portugiesischen und deutschen Sprache, erster Teil ",
+                "b": "portugiesisch-deutsch ",
+                "c": "Friedrich Irmen ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Langenscheidts dicionario de bolso das linguas portuguesas e alema, tomo primeiro : portugues-alemão"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Berlim ",
+                "b": "Langenscheidt KG Verlagsbuchhandlung ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Alemanha"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1246 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua portuguesa ",
+                "x": "Língua alemã"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua alemã ",
+                "x": "Língua portuguesa"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dicionários"
+            }
+        }
+    ]
+}

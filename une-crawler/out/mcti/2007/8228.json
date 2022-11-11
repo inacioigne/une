@@ -1,0 +1,88 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008228"
+        },
+        {
+            "code": "005",
+            "value": "20190627141049.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "60:338.45 ",
+                "b": "I42"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Industrial biotechnology policy ",
+                "b": "guidelines for semi-industrial countries ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Organização das Nações Unidas para o Desenvolvimento Industrial ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "14"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "PPD.194"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústrias ",
+                "x": "Política"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política industrial ",
+                "x": "Países em desenvolvimento"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

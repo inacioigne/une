@@ -1,0 +1,82 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nas  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008009"
+        },
+        {
+            "code": "005",
+            "value": "20170120165912.0"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "022",
+            "subfield": {
+                "a": "1981-1187"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Espaço Brasileiro ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Agência Espacial Brasileira ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "310",
+            "subfield": {
+                "a": "Irregular"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciências do espaço ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa espacial ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia espacial ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Agência Espacial Brasileira"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Periódicos"
+            }
+        }
+    ]
+}

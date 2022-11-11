@@ -1,0 +1,81 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008254"
+        },
+        {
+            "code": "005",
+            "value": "20161226174325.0"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.45:62-027.15(047) ",
+                "b": "E89"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Eureka, informe anual 1998 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Un útil para la innovación industrial"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Bruxelas ",
+                "b": "Eureka ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Bélgica"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "28"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústrias ",
+                "x": "Inovação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

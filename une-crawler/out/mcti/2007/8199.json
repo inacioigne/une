@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008199"
+        },
+        {
+            "code": "005",
+            "value": "20190702131238.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "007043641x"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "005.342:004 ",
+                "b": "N232e ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Naroola, Gurmeet"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The entrepreneurial connection ",
+                "b": "east meets west in the Silicon Valley ",
+                "c": "Gurmeet Naroola ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Delhi ",
+                "b": "McGraw-Hill ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "India"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xvii, 382 p."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Empreendedorismo ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de serviços ",
+                "x": "Informática ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de computador ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

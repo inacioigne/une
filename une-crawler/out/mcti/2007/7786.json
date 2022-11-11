@@ -1,0 +1,90 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007786"
+        },
+        {
+            "code": "005",
+            "value": "20170809144648.0"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "811.133.1=134.3(038) ",
+                "b": "A994gp ",
+                "d": "R"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Azevedo, Domingos de ",
+                "d": "1841-1910"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Grande dicionário de português/francês ",
+                "c": "Domingos de Azevedo ; prefaciada por Paul Teyssier"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "6. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Lisboa ",
+                "b": "Bertrand ",
+                "c": "1980"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1431"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua portuguesa ",
+                "x": "Língua francesa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua francesa ",
+                "x": "Língua portuguesa"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dicionários"
+            }
+        }
+    ]
+}

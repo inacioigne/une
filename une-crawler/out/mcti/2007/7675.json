@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007675"
+        },
+        {
+            "code": "005",
+            "value": "20190701182900.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:339.543.027.2(811.3) ",
+                "b": "C737 ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Comparação entre os benefícios possíveis de obter pela lei de informática com os da zona franca de Manaus para a atividade de informatica ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Itautec ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Aspectos juridicos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Portos e zonas francas ",
+                "z": "Manaus (AM)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Financiamento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Incentivo fiscal"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

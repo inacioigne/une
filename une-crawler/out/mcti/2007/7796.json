@@ -1,0 +1,117 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007796"
+        },
+        {
+            "code": "005",
+            "value": "20190701135319.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8501016500"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "811.111=134.3(038) ",
+                "b": "D546 ",
+                "d": "R ",
+                "c": "1982"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Taylor, James L. ",
+                "d": "1892- ",
+                "q": "James Lumpkin"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Dicionário inglês-português ",
+                "c": "Antônio Houaiss, editor ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Record ",
+                "c": "c1982"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "928"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua inglesa ",
+                "x": "Literatura portuguesa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua portuguesa ",
+                "x": "Língua inglesa"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Houaiss, Antônio ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Cardim, Ismael ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dicionários"
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008107"
+        },
+        {
+            "code": "005",
+            "value": "20190705192515.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9264029990"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338(81) ",
+                "b": "O28 ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "OECD economic surveys. Brazil ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Organisation for Economic Co-operation and Development ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "França"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "152 ",
+                "b": "il., tab., gráf."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Periódico tratado como obra : Volume 2006 Issue 18, ISSN : 0376-6438"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Economia ",
+                "x": "Indicadores ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Qualidade de vida ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Brasil ",
+                "x": "Política econômica"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Organização de Cooperação e Desenvolvimento Econômico ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto na íntegra ",
+                "u": "miranda.sourceoecd.org/vl=3061568/cl=14/nw=1/rpsv/cgi-bin/fulltextew.pl?prpsv=/ij/oecdjournals/03766438/v2006n18/s1/p1l.idx"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "miranda.sourceoecd.org/vl=3061568/cl=14/nw=1/rpsv/cgi-bin/fulltextew.pl?prpsv=/ij/oecdjournals/03766438/v2006n18/s1/p1l.idx ",
+                "y": "Texto na íntegra"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

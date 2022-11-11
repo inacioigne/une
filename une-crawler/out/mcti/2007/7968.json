@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007968"
+        },
+        {
+            "code": "005",
+            "value": "20190702164809.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.382 ",
+                "b": "M398e ",
+                "c": "1960"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Mason, Samuel J"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Electronic circuits, signals, and systems ",
+                "c": "Samuel J. Mason [and] Henry J. Zimmermann ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Wiley ",
+                "c": "1960"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "616 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito eletrônico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia eletrônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento e detecção de sinais"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Zimmermann, Henry J ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

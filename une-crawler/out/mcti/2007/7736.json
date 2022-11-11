@@ -1,0 +1,133 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007736"
+        },
+        {
+            "code": "005",
+            "value": "20190625164215.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.932 ",
+                "b": "A532 ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Análise de arquiteturas para processamento de imagens ",
+                "c": "Celso Luiz Mendes ... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São José dos Campos ",
+                "b": "Instituto Nacional de Pesquisas Espaciais ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "17 f."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Trabalho apresentado no I Simpósio Brasileiro de Arquitetura de Computadores, Processamento Paralelo, de 13 a 15 de maio de 1987, Gramado, RS"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Após um breve introdução sobre as atividades de Processamento de Imagens no INPE, são mostradas as características principais da família de sistemas SITIM, seguindo-se uma apresentação dos tipos de procedimentos mais utilizados em Processamento de imagens. São discutidas algumas opções já testadas para aumento de desempenho do sistema, através do uso de placas aceleradoras e, ao final, são apresentadas as perspectivas de desenvolvimento futuro, tanto na área de placas aceleradoras como sistemas baseados em arquitetura paralela, associados a unidades de armazenamento de imagens avançadas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de imagem"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquitetura de software"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Mendes, Celso Luiz ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Câmara Neto, Gilberto ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Mura, José Claudio ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Garrido, Juan Carlos P ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Souza, Ricardo Cartaxo Modesto de ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

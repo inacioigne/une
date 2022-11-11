@@ -1,0 +1,124 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007960"
+        },
+        {
+            "code": "005",
+            "value": "20190628113519.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "858770268"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "378.018.8:004 ",
+                "b": "C199 ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Campus computing report.br 2004 ",
+                "b": "computação e tecnologia da informação nas Instituições de Ensino Superior no Brasil ",
+                "h": "Impresso ",
+                "c": "Organizador Fredric M. Litto"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Campus computing report.br 2004: computing and information technology in Brazilian higher education"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Altana ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "94, 27 p. ",
+                "b": "il., tabs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ensino superior ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia da informação ",
+                "x": "Ensino superior"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computação aplicada ",
+                "x": "Ensino superior"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Litto, Fredric M ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Universidade de São Paulo ",
+                "b": "Estação Ciência ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

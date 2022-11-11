@@ -1,0 +1,78 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     n a  22      a"
+        },
+        {
+            "code": "001",
+            "value": "000017527"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Lu, Dengsheng"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Explorando texturas de imagens TM e suas relações com estimativas de biomassa em Rondônia."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Muitas medidas de textura têm sido desenvolvidas e utilizadas para melhorar a acurácia de classificações de cobertura das terras, mas raramente têm-se avaliado a importância dessas medidas em estimativas de biomassa. Este trabalho utilizou dados Landsat TM para explorar as relações entre texturas de imagens TM e biomassa em Rondônia, Amazônia. Foram analisadas oito medidas de textura baseadas em matrizes de co-ocorrência de tons de cinza (i.e., média, variância, homogeneidade, contraste, dissimilaridade, entropia, segundo momento e correlação), associadas com sete diferentes tamanhos de janela (5x5, 7x7, 9x9, 11x11, 15x15, 19x19 e 25x25) e cinco bandas TM (TM 2, 3, 4, 5 e 7). Índices de correlação de Pearson foram utilizados para analisar as relações entre textura e biomassa. Esta pesquisa indica que a maioria das medidas de textura são pouco correlacionadas com biomassa de vegetação secundária, mas algumas medidas de textura têm correlação significativa com a biomassa de formações florestais maduras. Ao contrário, assinaturas espectrais de bandas TM são significativamente correlacionadas com a biomassa de vegetação secundária, mas fracamente correlacionadas com a biomassa de florestas maduras. Os resultados indicam que medidas de textura são importantes em estimativas de biomassa de floresta madura, mas relativamente menos importantes para estimativas de biomassa de vegetação secundária."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Textura do solo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biomassa"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Rondônia"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Batistella, Mateus ",
+                "e": "Indefinida"
+            }
+        },
+        {
+            "code": "773",
+            "subfield": {
+                "d": "Manaus : Instituto Nacional de Pesquisas da Amazônia, 1971- . ",
+                "g": "v. 35, n. 2 (abr./jun. 2005), p. 249-257 ",
+                "h": "v. ",
+                "n": "Coleção impressa: (v. 1, n. 1, supl., abr. 1971 - presente) ",
+                "p": "Acta amazon. ",
+                "q": "35:2 ",
+                "t": "Acta amazonica ",
+                "w": "000000197 ",
+                "x": "0044-5967 ",
+                "7": "   s"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Analítica de Periódicos"
+            }
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008032"
+        },
+        {
+            "code": "005",
+            "value": "20170724094800.0"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "620.9 ",
+                "b": "E96"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Exploring the future ",
+                "b": "energy needs, choices and possibilities : scenaarios to 2050"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Londres (Inglaterra) ",
+                "b": "Shell International ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "60 ",
+                "b": "il., color."
+            }
+        },
+        {
+            "code": "501",
+            "subfield": {
+                "a": "Acompanhado de : The spirit of the coming age. [paginação continuada: p. 42-59]"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia ",
+                "x": "Aspectos economicos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Fonte alternativa de energia"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto na íntegra ",
+                "u": "www.shell.com/static/media-en/downloads/51852.pdf"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "www.shell.com/static/media-en/downloads/51852.pdf ",
+                "y": "Texto na íntegra"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

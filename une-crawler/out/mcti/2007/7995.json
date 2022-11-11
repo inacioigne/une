@@ -1,0 +1,128 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007995"
+        },
+        {
+            "code": "005",
+            "value": "20190626123623.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "53 ",
+                "b": "T675re ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Toppan, Francesco"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Recent developments in the N-exteded supersymmetric quantum mechanics ",
+                "c": "Francisco Toppan ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro Brasileiro de Pesquisas Físicas ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "16"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Notas de Física / CBPF ",
+                "x": "0029-3865 ",
+                "v": "06/07"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "In this paper we review some recent developments in the understanding of the supersymmetric quantum mechanics for large-N values of the extended supersymmetries. A list of the topics here covered includes the new available classification of the finite linear irreducible representations, the construction of manifestly off-shell invariant actions without introducing a superfield formalism, the notion of the \"fusion algebra\" of the irreducible representations, the connection (for N = 8) with the octonionic structure constants, etc. The results presented are based on the work of the author and his collaborators."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física quântica"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Centro Brasileiro de Pesquisas Físicas ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (CBPF) ",
+                "u": "http://cbpfindex.cbpf.br/publication_pdfs/nf02706.2007_01_16_14_05_22.pdf ",
+                "z": "Acesso em: 26/06/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

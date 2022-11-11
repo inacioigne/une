@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007662"
+        },
+        {
+            "code": "005",
+            "value": "20190702113509.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "551.583 ",
+                "b": "T255 ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Tercer informe de evaluación cambio climático 2001 ",
+                "b": "impactos, adaptación y vulnerabilidad : resumen para responsables de políticas y resumen técnico ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Organização Mundial de Meteorologia"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "b": "Programa das Nações Unidas para o Meio Ambiente ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "[101] p."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Parte de la contribuición del Grupo de trabajo II al Tercer informe de evaluación, grupo intergubernamental de expertos sobre el cambio climático."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mudanças climáticas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Proteção ambiental"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Aquecimento global"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Grupo Intergubernamental de Expertos sobre el Cambio Climatico. Grupo de Trabajo 2 ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "www.grida.no/climate/ipcc_tar/vol4/spanish/pdf/wg2sum.pdf ",
+                "y": "Texto completo (GRIDA) ",
+                "z": "Acesso em: 13/05/13"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

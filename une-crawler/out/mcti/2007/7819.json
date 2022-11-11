@@ -1,0 +1,69 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007819"
+        },
+        {
+            "code": "005",
+            "value": "20170809122840.0"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "030 ",
+                "b": "E56 ",
+                "d": "R"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Enciclopédia compacta Istoé Guinness de conhecimentos gerais"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Três editorial ",
+                "c": "1993"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "452 ",
+                "b": "il., color."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Enciclopédia"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Enciclopédia"
+            }
+        }
+    ]
+}

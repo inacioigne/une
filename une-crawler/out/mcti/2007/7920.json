@@ -1,0 +1,155 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007920"
+        },
+        {
+            "code": "005",
+            "value": "20190701155029.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "330.54:304(81) ",
+                "b": "D582 ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Dimensão, magnitude e localização das populações pobres no Brasil ",
+                "c": "Fernando Gaiger Silveira ... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "63 ",
+                "b": "il., grafs., tabs., mapas"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IPEA ",
+                "v": "1278"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Desenvolve e aplica nova metodologia para definir linhas de pobreza para diferentes regiões. Estas linhas são definidas a partir de requerimentos calóricos, de forma a evitar o problema da paridade do poder de compra. A Pesquisa de Orçamento Familiar (POF) pesquisou a renda não-monetária e produção para o próprio consumo, aspectos que são de extrema importância principalmente na área rural Faz um \"matching\" com dados do Censo de modo a permitir efetuar a espacialização da pobreza nos municípios."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pobreza ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Segurança alimentar"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desigualdade regional"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "População ",
+                "x": "Zona rural"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Silveira, Fernando Gaiger ",
+                "d": "1964- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Carvalho, Alexandre ",
+                "d": "1971- ",
+                "q": "Alexandre Xavier Ywata ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Campolina, Bernardo ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Ibarra, Antonio ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "http://www.ipea.gov.br/portal/images/stories/PDFs/TDs/td_1278.pdf ",
+                "y": "Texto completo (IPEA) ",
+                "z": "Acesso em: 29/10/2015"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

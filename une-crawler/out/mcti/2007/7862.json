@@ -1,0 +1,87 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007862"
+        },
+        {
+            "code": "005",
+            "value": "20190701145803.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "811.133.1'373.4(038) ",
+                "b": "B456d"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Bénac, Henri ",
+                "d": "1913-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Dictionnaire des synonymes ",
+                "c": "Henri Bénac ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Librairie Hachette ",
+                "c": "1956"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1026"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Conforme au dictionnaire de l'académic française"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua francesa ",
+                "x": "Dicionários"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

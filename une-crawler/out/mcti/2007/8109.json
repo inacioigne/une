@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008109"
+        },
+        {
+            "code": "005",
+            "value": "20190702132118.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "62-027.15(43) ",
+                "b": "H638 ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The high-tech strategy for Germany ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Bonn ",
+                "b": "Federal Ministry of Education and Research ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Alemanha"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "109 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Igniting ideas! The high-tech strategy for germany"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inovação tecnológica ",
+                "z": "Alemanha"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Empresa de tecnologia avançada ",
+                "z": "Alemanha"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (INOVASYON) ",
+                "u": "http://www.inovasyon.org/pdf/Germany.HighTechStrategy.pdf ",
+                "z": "Acesso em: 02/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

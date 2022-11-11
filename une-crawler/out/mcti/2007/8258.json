@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008258"
+        },
+        {
+            "code": "005",
+            "value": "20190624162635.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "556.3(812/813) ",
+                "b": "B823p ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Ministério das Minas e Energia"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Programa de água subterrânea para a região nordeste ",
+                "b": "diretrizes programáticas 2000 a 2003 ",
+                "h": "Impresso ",
+                "c": "Ministério das Minas e Energia"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Ministério das Minas e Energia ",
+                "c": "[2000]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "28 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Águas subterrâneas ",
+                "z": "Região nordeste"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos hídricos ",
+                "z": "Região nordeste"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Companhia de Pesquisa de Recursos Minerais (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007738"
+        },
+        {
+            "code": "005",
+            "value": "20190704160209.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.3.049.77(81) ",
+                "b": "O68m ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Organização das Nações Unidas para o Desenvolvimento Industrial"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Micromechanics/Microelectronic interfaces Brazil ",
+                "b": "SI/BRA/82/803 : terminal report ",
+                "h": "Impresso ",
+                "c": "Organização das Nações Unidas para o Desenvolvimento Industrial"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Vienna ",
+                "b": "Organização das Nações Unidas para o Desenvolvimento Industrial ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Austria"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "63 f."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Based on the work of Robert C. Spregg, expert on micro and fine mechanics"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microeletrônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Robótica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mecânica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

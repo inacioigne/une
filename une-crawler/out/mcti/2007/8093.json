@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008093"
+        },
+        {
+            "code": "005",
+            "value": "20190709174358.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "069.538:681 ",
+                "b": "M986i ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Museu de Astronomia e Ciências Afins ",
+                "c": "Brasil"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Imagens do progresso ",
+                "b": "os instrumentos científicos e as grandes exposições ",
+                "h": "Impresso ",
+                "c": "Museu de Astronomia e Ciências Afins (Brasil)"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Museu de Astronomia e Ciências Afins ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "32 ",
+                "b": "il., foto (algumas color)"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Exposição - Império do Brasil ; Imagens do Progresso (exposição)"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Catalogo da exposição temporária do Museu de Astronomia e Ciências Afins"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Instrumentos e aparelhos científicos ",
+                "x": "Exposições"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007682"
+        },
+        {
+            "code": "005",
+            "value": "20190704113633.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:339.562 ",
+                "b": "M553 ",
+                "c": "[1987]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "O mercado de bens de informática ",
+                "b": "evolução das importações autorizadas em 1985 e 1986 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Associação Brasileira das Indústrias de Computadores e Periféricos ",
+                "c": "[1987]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "65 ",
+                "b": "il., tab., gráf."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": " I fabricantes / fornecedores"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Economia"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

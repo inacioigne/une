@@ -1,0 +1,98 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     n a  22      a"
+        },
+        {
+            "code": "001",
+            "value": "000017480"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Anderson, Liana Oighenstein"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Detecção de cicatrizes de áreas queimadas baseada no modelo linear de mistura espectral e imagens índice de vegetação utilizando dados multitemporais do sensor MODIS/TERRA no estado do Mato Grosso, Amazônia brasileira"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "O objetivo desta pesquisa foi avaliar os dados do sensor MODIS para detectar e monitorar cicatrizes de áreas recém queimadas. Utilizamos imagens da reflectância de superfície do sensor MODIS: produto MOD09 (dia 5 de outubro) e produto MOD13A1 (meses de outubro e novembro). Foi avaliada também uma série temporal de um ano dos índices de vegetação (IV) EVI e NDVI (produto MOD13A1). Uma imagem do sensor ETM+ (dia 5 de outubro) foi utilizada como base para a delimitação dos polígonos amostrais e avaliação dos dados MODIS devido a sua melhor resolução espacial. A metodologia focou na aplicação do modelo linear de mistura espectral nas imagens reflectância para a geração das imagens fração sombra. Análises de regressão foram efetuadas para comparação entre o percentual de sombra derivado da imagem ETM+ e das imagens MODIS. As alterações multitemporais nas imagens IV foram avaliadas com base no teste de Tukey. Os resultados mostraram que a imagem fração sombra gerada a partir do produto MOD09 apresentou um R2 = 0,66 (p < 0,01) em relação aos dados ETM+. Para as imagens do produto MOD13A1 não foram identificadas relações significativas. Os IV dentro dos mesmos polígonos apresentaram uma variação sazonal durante o ano. No entanto, não houve uma diminuição significativa dos valores destes índices nos meses onde foram observadas as cicatrizes de áreas recém queimadas. Portanto, o produto MOD09 mostrou-se mais eficiente que o produto MOD13A1 para a detecção de cicatrizes de áreas recém queimadas. A análise multitemporal dos IV sugeriu que não foi possível detectar este mesmo padrão na área de estudo."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sensoriamento remoto"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Queimada"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Floresta Amazônica"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Mato Grosso"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Aragão, Luiz Eduardo Oliveira e Cruz de ",
+                "e": "Indefinida"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Shimabukuro, Yosio Edemir ",
+                "e": "Indefinida"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Lima, André de ",
+                "e": "Indefinida"
+            }
+        },
+        {
+            "code": "773",
+            "subfield": {
+                "d": "Manaus : Instituto Nacional de Pesquisas da Amazônia, 1971- . ",
+                "g": "v. 35, n. 4 (out./dez. 2005), p. 445-456 ",
+                "h": "v. ",
+                "n": "Coleção impressa: (v. 1, n. 1, supl., abr. 1971 - presente) ",
+                "p": "Acta amazon. ",
+                "q": "35:4 ",
+                "t": "Acta amazonica ",
+                "w": "000000197 ",
+                "x": "0044-5967 ",
+                "7": "   s"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Analítica de Periódicos"
+            }
+        }
+    ]
+}

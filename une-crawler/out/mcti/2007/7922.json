@@ -1,0 +1,151 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007922"
+        },
+        {
+            "code": "005",
+            "value": "20190703191428.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "314.422.2(81) ",
+                "b": "C987 ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Custos das mortes por causas externas no Brasil ",
+                "c": "Alexandre X. Carvalho ... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "42 ",
+                "b": "il., grafs., tabs."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IPEA ",
+                "v": "1268"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "A violência no Brasil é reconhecidamente um dos maiores problemas atualmente enfrentados pela sociedade. Entre as conseqüências daí originadas, a perda de vidas humanas representa custos substanciais. Cada vítima fatal da violência, do ponto de vista econômico, representa enorme perda de investimentos em capital humano e, portanto, de capacidade produtiva. Qual é o custo social dessas mortes violentas no Brasil? Analisando as pesquisas existentes não encontramos resposta a essa pergunta, que é justamente o foco de nosso trabalho. Neste artigo, apresentamos uma metodologia para estimar a perda de capital humano devido a mortes violentas no Brasil, a partir da base de dados de renda dos trabalhadores do IBGE e da base de dados de óbitos do Ministério da Saúde. Para combinar informações dessas duas bases de dados, inicialmente foram aplicados procedimentos de regressão não-paramétrica para estimar curvas médias de rendimento anual dos trabalhadores. Essas curvas são então utilizadas para estimar a perda de produção para cada indivíduo morto prematuramente, vítima da violência. Incluem-se nessa análise ajustes pela tábua de sobrevivência da população em geral. Estimamos que em 2001, esse custo era de R$ 9,1 bilhões devido aos homicídios, de R$ 5,4 bilhões devido aos acidentes de transporte e de R$ 1,3 bilhão devido aos suicídios. O custo total resultante das mortes por causas externas foi de R$ 20,1 bilhões. Estimamos, ainda, o total de anos de vida perdidas que no total das causas externas foi de 4,96 milhões de anos, sendo 2,15 milhões devido aos homicídios e 1,24 milhão devido aos acidentes de transporte. Violence in Brazil is well known to be one of the biggest problems nowadays affecting the society. This problem incurs in several economic costs, in addition to all kinds of immeasurable costs due to life losses. For the economic costs, we can mention, for example, medical treatment costs, police maintenance costs, production costs. In this paper, we focus in the latest cost type, and we present a methodology to estimate the production loss due to deaths from external causes in Brazil, using government databases on wages and registered obits. To combine different sources of data, we initially employed non-parametric regression methods too estimated average curves of annual wages. These curves are then used to estimate the production loss for specific categories of registered obits. The analysis is complemented by adjustments for survival rates in the Brazilian population. For 2001, the total estimated cost, due to external causes, was US$ 10 billion. Homicides alone accounted for US$ 4.5 billion, while transportation accidents accounted for U$ 2.6 billion and suicides incurred in a total loss of US$ 0.6 billion. We also estimated the total loss in terms of life expectancy: the total number was almost 5 million years, only for the victims in 2001"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mortalidade ",
+                "x": "Estatísticas ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Violência ",
+                "x": "Aspectos economicos"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Carvalho, Alexandre ",
+                "d": "1971- ",
+                "q": "Alexandre Xavier Ywata ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Cerqueira, Daniel Ricardo de Castro ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Rodrigues, Rute Imanishi ",
+                "d": "1969- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Lobão, Waldir J. de Araujo ",
+                "d": "1957- ",
+                "q": "Waldir Jesus de Araújo ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (IPEA) Acesso em: 17/10/2018 ",
+                "u": "http://www.ipea.gov.br/portal/images/stories/PDFs/TDs/td_1268.pdf"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

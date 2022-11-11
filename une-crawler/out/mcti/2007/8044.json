@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008044"
+        },
+        {
+            "code": "005",
+            "value": "20190702100441.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "62-027.15:33 ",
+                "b": "V528t ",
+                "c": "[200-]"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Vermulm, Roberto"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Tecnologia e riqueza nacional ",
+                "c": "Roberto Vermulm ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l. ",
+                "b": "s.n. ",
+                "c": "200-]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "36 ",
+                "b": "il., tabs."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Texto preliminar"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento tecnológico ",
+                "x": "Aspectos economicos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa e desenvolvimento ",
+                "x": "Aspectos economicos"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\8044-TECNOLOGIA_E_RIQUEZA.doc ",
+                "y": "Texto completo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

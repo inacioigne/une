@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007890"
+        },
+        {
+            "code": "005",
+            "value": "20190702153257.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "631.17 ",
+                "b": "T828a ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Trigo, Eduardo"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "La agricultura en el nuevo contexto regional ",
+                "b": "los desafios tecnologicos futuros ",
+                "c": "Eduardo Trigo, Miguel Lauffer ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Montevideo, Uruguai ",
+                "b": "[s.n.] ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Uruguai"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "24 f."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Seminario Internacinal sobre el nuevo contexto de las politicas de desarrollo cientifico y tecnológico. Homenaje al Ing. Máximo Halty Carrere. Auspician : Ministerio de Educación y Cultura y Ministerio de Relaciones Exteriores"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia agrícola"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Agricultura"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Lauffer, Miguel"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

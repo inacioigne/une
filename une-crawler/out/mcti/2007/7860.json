@@ -1,0 +1,73 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a"
+        },
+        {
+            "code": "001",
+            "value": "000007860"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "626.8(038) ",
+                "b": "D546 ",
+                "d": "R"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Dicionário de termos técnicos de irrigação e drenagem"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Viçosa ",
+                "b": "Associação Brasileira de Irrigação e Drenagem ",
+                "c": "1978"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "615 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Irrigação ",
+                "x": "Dicionários"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Drenagem ",
+                "x": "Dicionários"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

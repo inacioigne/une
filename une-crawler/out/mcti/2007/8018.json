@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008018"
+        },
+        {
+            "code": "005",
+            "value": "20190701120858.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "339.564 ",
+                "b": "S925d ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Strout, Alan M"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Structural determinants of south-south trade expansion ",
+                "b": "their implications for the triangular industrial trade and cooperation OPEC, NICs and LDCs ",
+                "h": "Impresso ",
+                "c": "Alan M. Strout"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Organização das Nações Unidas para o Desenvolvimento Industrial ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "88"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Exportação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Importação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cooperação comercial"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Organização das Nações Unidas para o Desenvolvimento Industrial ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

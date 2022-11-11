@@ -1,0 +1,122 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "am   nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008099"
+        },
+        {
+            "code": "005",
+            "value": "20190701165817.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "por                                por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "017:001.891-059.2(81)(035) ",
+                "b": "C755di ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Diretório dos grupos de pesquisa no Brasil ",
+                "b": "versão 2.0 : manual de preenchimento do formulário eletrônico ",
+                "h": "Impresso ",
+                "c": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (Brasil)"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Conselho Nacional de Desenvolvimento Científico e Tecnológico ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "58 ",
+                "b": "il., tabs."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Objetivos -- Descrição Sucinta -- Unidade de Análise -- Fonte de Informação -- Prazos -- Material Distribuído -- Orientações sobre o preenchimento e manuseio do formulário eletrônico -- Cronograma resumido de execução do projeto -- Modelo de orientação para preenchimento do formulário eletrônico -- Anexo I - 1º modelo hipotético -- Anexo II - 2º modelo hipotético"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "O projeto do Diretório dos Grupos de Pesquisa no Brasil objetiva criar um sistema de informações sobre as atividades de pesquisa científica e tecnológica no país. Este projeto é coordenado pelo CNPq e seus resultados vêm sendo colocados à disposição de outras instituições para subsidiar políticas e programas de C&T, acompanhar a produção científica e tecnológica e viabilizar a instituição de um sistema de avalição periódica dos grupos de pesquisa atuantes no país. Para o CNPq, o projeto é de fundamental importância para o aperfeiçoamento das ações de fomento, sobretudo para balizar os Comitês Assessores no julgamento das solicitações de bolsa e auxílios, sem prejuízo ao atual sistema de apoio individualizado a pesquisadores A primeira versão do Diretório teve seu trabalho de campo realizado no segundo semestre de 1993 e seus resultados foram publicados em novembro de 1994. Desde maio de 1995, estes resultados se encontram disponíveis eletronicamente, pela RNP (http://www.cnpq.br). A segunda versão do Diretório, a que se refere o conteúdo deste Manual, terá seu trabalho de campo realizado entre agosto e outubro de 1995."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Instituição de pesquisa ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de informação ",
+                "x": "Pesquisa ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa tecnológica"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Brasil. Ministério da Ciência e Tecnologia ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

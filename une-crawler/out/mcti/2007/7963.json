@@ -1,0 +1,130 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007963"
+        },
+        {
+            "code": "005",
+            "value": "20190704160559.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "3540236988"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "537.533.35 ",
+                "b": "R563m ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Microscopy techniques ",
+                "c": "Volume editor, Jens Rietdorf ; with contributions by T.W.J. Gadella ... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Springer ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Estados Unidos"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "vi, 319 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Advances in biochemical engineering/biotechnology ",
+                "v": "95 ",
+                "x": "0724-6145"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Engineering Fluorescent Proteins / A. Miyawaki, T.Nagai, H. Mizuno -- Higher Harmonic Generation Microscopy / C.-K. Sun -- Live Cell Spinning Disk Microscopy / R.Gräf, J. Rietdorf, T. Zimmermann -- Total Internal Reflection Fluorescence Microscopy in Single Molecule Nanobioscience / T.Wazawa · M. Ueda -- Fluorescence Correlation Spectroscopy with Autofluorescent Proteins / T.Kohl, P. Schwille -- Fluorescence Lifetime Imaging Microscopy (FLIM) / E. B. van Munster, T.W. J. Gadella -- Fluorescence Recovery After Photobleaching: Application to Nuclear Proteins / A. B.Houtsmuller -- Deconvolution Microscopy/ J.-B. Sibarita -- Spectral Imaging and Linear Unmixing in Light Microscopy / T. Zimmermann -- Tracking Movement in Cell Biology / K. Miura"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Advances in microscopy techniques have recently had a tremendous impact on research in biochemistry and molecular biology.While the study of biochemical reactions was formerly confined to cuvette-based measurements of purified biomolecules, it is now possible for investigators to make such analyses inside the complex environment of living cells and organisms. While some of these advanced techniques were in fact developed some time ago, it is only now that they are becoming available to a wider range of researchers as components of commercial equipment.As a consequence, there is a strong demand for the ability to help individuals from a biomedical, rather than from an instrumentation background, in order for them to make the best use of these new tools in their research. To meet these requirements, the contributions in this book mainly stem from instructors present at a series of very successful training courses held in the Advanced Light Microscopy Facility at the European Molecular Biology Laboratory over the past 5 years. Inevitably, in a project of this size, it has been impossible to cover all the ongoing developments of techniques.This special issue emphasises the analysis of dynamic events where recent advances in the respective microscopy field have been of particular relevance to the biomedical community. Microscopy topics covered by this book are Higher Harmonic Generation (HHG, Chapter 2), Spinning Disk Confocal (Chapter 3),Total Internal Reflection Fluorescence (TIRF, Chapter 4), Fluorescence Correlation Spectroscopy (FCS, Chapter 5), Fluorescence Lifetime Imaging (FLIM, Chapter 6), Fluorescence Recovery after Photobleaching (FRAP, Chapter 7), Deconvolution (Chapter 8) and Spectral Imaging and Linear Unmixing (Chapter 9).Resonance Energy Transfer (FRET) is not addressed in a single chapter but is covered by parts of other contributions, e.g. chapters 1, 4, 6 and 9. It is important to realise that not only the microscopic techniques themselves that are evolving significantly,but likewise the stains and probes (Engineering of Fluorescent Proteins, chapter 1) and the computational technologies to improve and analyse multi-dimensional image data (Tracking Movement in Cell Biology, chapter 10). I thank all the authors who took on the time consuming task of preparing their contributions and agreeing to share their expertise in this volume, and, in addition, the staff at Springer Verlag for their help at all stages of preparation and production."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microscopia eletrônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microscopia ",
+                "x": "Metodologia"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Rietdorf, Jens ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "http://books.google.com.br/books?id=h9F_RGrIoicC&printsec=frontcover&dq=%22Microscopy+techniques%22#v=onepage&q=&f=false ",
+                "y": "Texto parcial (Google Livros) ",
+                "z": "Acesso em: 10/12/2014"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

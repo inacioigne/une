@@ -1,0 +1,88 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007837"
+        },
+        {
+            "code": "005",
+            "value": "20190704152151.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "811.134.3'35 ",
+                "b": "A168v ",
+                "d": "R ",
+                "c": "1977"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Academia Brasileira de Letras"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Vocabulário ortográfico da língua portuguesa ",
+                "h": "Impresso ",
+                "c": "Academia Brasileira de Letras"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Bloch ",
+                "c": "1977"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "795"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua portuguesa ",
+                "x": "Vocabulário, glossário etc."
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

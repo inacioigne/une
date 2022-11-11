@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007938"
+        },
+        {
+            "code": "005",
+            "value": "20190627110120.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8587940082"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.26(813.8) ",
+                "b": "B151 ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Bahia século XXI ",
+                "c": "Armando Avena, organizador ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Salvador ",
+                "b": "Superintendência de Planejamento Estratégico ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "400 ",
+                "b": "il., grafs., tabs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Planejamento econômico ",
+                "z": "Bahia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política econômica ",
+                "z": "Bahia"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Avena, Armando ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

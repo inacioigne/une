@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008035"
+        },
+        {
+            "code": "005",
+            "value": "20190702192854.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "022",
+            "subfield": {
+                "a": "1683-3686"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "620.9:656 ",
+                "b": "E56 ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Energy and transport ",
+                "h": "Impresso ",
+                "c": "International Council for Science"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "International Council for Science ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "20 f."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Series on Science for Sustainable Development ",
+                "v": "2"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Periódico tratado como monografia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Transporte"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "International Council for Science"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\8035 - Energy and transport.pdf ",
+                "y": "Texto completo ",
+                "z": "Acesso em: 02/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

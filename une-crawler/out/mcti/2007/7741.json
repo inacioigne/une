@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007741"
+        },
+        {
+            "code": "005",
+            "value": "20190628160722.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9233020851"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "32:5/6(7/8=13) ",
+                "b": "U56i"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "UNESCO"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Informes nacionales y subregionales de política científica y la tecnológica en América Latina y el Caribe ",
+                "b": "Argentina, Bolivia, Brasil, Colombia, Costa Rica, Cuba, Chile, Ecuador, Haití, México, Panamá, Paraguay, Perú, Uruguay, Venezuela ",
+                "h": "Impresso ",
+                "c": "Organização das Nações Unidas para a Educação, a Ciência e a Cultura"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "UNESCO ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "França"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "300"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Estudios y documentos de política científica en ALC ",
+                "v": "54"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e Estado ",
+                "z": "Caribe"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (Unesco) ",
+                "u": "https://unesdoc.unesco.org/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_import_f45f6be2-ec91-409c-86df-2394a05ecfe5?_=056293spab.pdf ",
+                "z": "Acesso online: 28/06/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

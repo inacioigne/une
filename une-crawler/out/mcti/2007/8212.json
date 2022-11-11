@@ -1,0 +1,116 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008212"
+        },
+        {
+            "code": "005",
+            "value": "20190625174035.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(05) ",
+                "b": "T582a ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "TIMA Laboratory (Grenoble, França)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Annual report of the TIMA Laborator ",
+                "b": "2000 ",
+                "h": "Impresso ",
+                "c": "TIMA Laboratory"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Grenoble [França] ",
+                "b": "TIMA Laboratory ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "França"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "336 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Periódico tratado como obra"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informática ",
+                "x": "Periódico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microeletrônica ",
+                "x": "Periódico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Arquitetura de computador ",
+                "x": "Periódico"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Techniques of Informatics and Microelectronics for Computer Architecture ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

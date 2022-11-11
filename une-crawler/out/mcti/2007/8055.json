@@ -1,0 +1,125 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008055"
+        },
+        {
+            "code": "005",
+            "value": "20180109114456.0"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4-027.564:338.45(81) ",
+                "b": "I34 ",
+                "c": "=134.3"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "O impacto do software livre e de código aberto na indústria de software do Brasil ",
+                "c": "Coordernadores Giancarlo Nuti Stefanuta e Sergio Salles-Filho ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Campinas ",
+                "b": "Sociedade Brasileira para Promoção da Exportação de Software ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "76 ",
+                "b": "il., tabs."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Apresentação - Introdução - Panorama geral do SL/CA - Perfil dos desenvolvedores - Perfil dos Usuários de SL/ CA - As dimensões econômicas do SL/ CA: motivações, setores e modelos de negócios - Conclusões - Bibliografia - Índice de quadros - Índice de tabelas - Índice de gráficos - Índice de figuras"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": " Este documento apresenta os resultados da pesquisa Impacto do Software Livre e de Código Aberto (SL/ CA) na Indústria de Software do Brasil realizada pelo Observatório Econômico da Sociedade Softex em parceria com o Departamento de Política Científica e Tecnológica da Unicamp com o apoio do MCT. O objeto deste estudo foi realizar um primeiro levantamento das formas de organização técnica e econômica de software livre e código aberto (SL/ CA) no Brasil: Fazem parte deste objeto a identificação dos principais mercados e modelos de negócio relacionados a SL/ CA; um levantamento de competências em SL/ CA no país (desenvolvedores, empresas especializadas, etc.); um levantamento dos consumidores e usuários; a identificação das condições de apropriabilidade envolvidas em SL/ CA e outros ativos complementares fundamentais ao desenvolvimento e uso de SL/ CA."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software livre"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de software ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Stefanuto, Giancarlo Nuti ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Salles Filho, Sergio ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Brasil. Ministério da Ciência e Tecnologia ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Sociedade Brasileira para Promoção da Exportação de Software ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo ",
+                "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\8055-O_impacto_software_livre_codigo_aberto.pdf"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

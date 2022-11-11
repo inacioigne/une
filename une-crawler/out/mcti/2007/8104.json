@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008104"
+        },
+        {
+            "code": "005",
+            "value": "20190628145813.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "334.73(817.3) ",
+                "b": "C396 ",
+                "c": "[2006]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Censo o cooperativismo goiano ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Goiânia ",
+                "b": "Serviço Nacional de Aprendizagem do Cooperativismo no Estado de Goiás ",
+                "c": "[2006]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "156 ",
+                "b": "il., tabs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cooperativas ",
+                "z": "Goiás"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Serviço Nacional de Aprendizagem do Cooperativismo no Estado de Goiás ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Sindicato e Organização das Cooperativas Brasileiras no Estado de Goiás ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

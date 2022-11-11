@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     n a  22      a"
+        },
+        {
+            "code": "001",
+            "value": "000017466"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Mercado, Lina"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Modelagem de dados de covariância de fluxo turbulento na floresta amazônica ",
+                "b": "uma comparação entre os modelos \"folha-grande\" e \"sol/sombra\" para a torre C-14 em Manaus. I. Fotossíntese do dossel."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Neste trabalho foi modelada a produtividade primária bruta através de duas técnicas simples para simular a fotossíntese no dossel: os modelos \"folha-grande\" e \"sol/sombra\". Para calibrar os modelos foram utilizados os parâmetros de fotossíntese da folha, estendidos à escala do dossel e um ajuste da bioquímica do dossel em relação à covariância de vórtices turbulentos. Os modelos foram validados com as medidas feitas através da técnica de covariância de vórtices turbulentos da estação C14 do projeto LBA. Ao comparar o desempenho de ambos os modelos, conclui-se que o modelo \"sol/sombra\" apresenta melhores resultados numericamente (do ponto de vista da qualidade do ajuste aos dados da estação C14) e qualitativamente (segundo a resposta residual às diferentes variáveis ambientais). Comparado ao modelo \"sol/sombra\", o modelo \"folha-grande\" tem menos precisão e não responde bem às variações na fração difusa da luz. O modelo \"folha-grande\" também apresenta resultados assimétricos em relação à temperatura do ar e ao déficit da pressão de vapor. O tratamento separado de folhas expostas ao sol e de folhas sombreadas, combinado à separação da incidência de luz direta e difusa, faz do modelo \"sol/sombra\" uma ferramenta de modelagem útil, capaz de reproduzir melhor a variabilidade de fluxos no dossel medidos pela técnica de covariância de vórtices turbulentos. Neste trabalho, mostramos também a importância de boas estimativas de radiação difusa e a necessidade de aprimoramento de tais medidas na região amazônica. Discutimos igualmente as dificuldades de mudança de escala desde a folha para o dossel e a importância de dados representativos para serem parametrizados nestes tipos de modelo. Em conclusão, o modelo \"sol/sombra\" mostrou-se relativamente simples e eficaz para modelar a fixação de carbono pela fotossíntese e poderia facilmente ser incluído em diferentes modelos de ciclo do carbono terrestre."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Modelagem da fotossíntese"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Dossel"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Florestas tropicais"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Amazônia"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Lloyd, Jon ",
+                "e": "Indefinida"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Carswell, Fiona ",
+                "e": "Indefinida"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Malhi, Yadvinder ",
+                "e": "Indefinida"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Meir, Patrick ",
+                "e": "Indefinida"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Nobre, Antonio Donato ",
+                "e": "Indefinida"
+            }
+        },
+        {
+            "code": "773",
+            "subfield": {
+                "d": "Manaus : Instituto Nacional de Pesquisas da Amazônia, 1971- . ",
+                "g": "v. 36, n. 1 (mar. 2006), p. 69-82 ",
+                "h": "v. ",
+                "n": "Coleção impressa: (v. 1, n. 1, supl., abr. 1971 - presente) ",
+                "p": "Acta amazon. ",
+                "q": "36:1 ",
+                "t": "Acta amazonica ",
+                "w": "000000197 ",
+                "x": "0044-5967 ",
+                "7": "   s"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Analítica de Periódicos"
+            }
+        }
+    ]
+}

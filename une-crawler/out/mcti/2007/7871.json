@@ -1,0 +1,89 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007871"
+        },
+        {
+            "code": "005",
+            "value": "20190705173039.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "811.134.3'373.6 ",
+                "b": "F684n ",
+                "d": "R ",
+                "c": "[19--]"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Fontinha, Rodrigo"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Novo dicionário etimológico da língua portuguesa ",
+                "c": "Rodrigo Fontinha ; revisto pelo Joaquim Ferreira ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Porto (Portugal) ",
+                "b": "Domingos Barreira ",
+                "c": "[19--?]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Portugal"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1998"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua portuguesa ",
+                "x": "Dicionários"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

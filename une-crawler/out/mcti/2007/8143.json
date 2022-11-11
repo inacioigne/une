@@ -1,0 +1,119 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008143"
+        },
+        {
+            "code": "005",
+            "value": "20190627162437.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8576130955"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "574.1(817.1:213.54) ",
+                "b": "B615 ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Biodiversidade do complexo Aporé-Sucuriú ",
+                "b": "subsídios à conservação e manejo do bioma cerrado : área prioritária 316-Jauru ",
+                "c": "organizadores Teresa Cristina Stocco Pagotto, Paulo Robson de Souza ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Campo Grande, MS ",
+                "b": "Universidade Federal do Mato Grosso do Sul ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "304 ",
+                "b": "il., color."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cerrados ",
+                "x": "Biodiversidade ",
+                "z": "Mato Grosso do Sul"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Conservação da natureza ",
+                "z": "Mato Grosso do Sul"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Pagotto, Teresa Cristina Stocco ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Souza, Paulo Robson de ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (MMA) ",
+                "u": "http://www.mma.gov.br/publicacoes/biodiversidade/category/58-probio-i-serie-biodiversidade?download=956:biodiversidade-do-complexo-apore-sucuriu ",
+                "z": "Acesso em: 02/12/2015"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

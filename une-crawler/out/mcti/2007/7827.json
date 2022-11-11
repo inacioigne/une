@@ -1,0 +1,84 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a"
+        },
+        {
+            "code": "001",
+            "value": "000007827"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "811.134.3'36 ",
+                "b": "C972g"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Cunha, Celso ",
+                "d": "1917-1989"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Gramática do português contemporâneo ",
+                "c": "Celso Cunha"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "7. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Belo Horizonte ",
+                "b": "Bernardo Álvares ",
+                "c": "1978"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "509"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "De acordo com a nomenclatura gramatical brasileira"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua portuguesa ",
+                "x": "Gramática"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

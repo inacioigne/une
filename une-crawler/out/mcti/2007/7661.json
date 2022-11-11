@@ -1,0 +1,104 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nas  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007661"
+        },
+        {
+            "code": "005",
+            "value": "20170124092849.0"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "022",
+            "subfield": {
+                "a": "0103-913X"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502"
+            }
+        },
+        {
+            "code": "210",
+            "subfield": {
+                "a": "Meio ambiente"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Meio ambiente ",
+                "b": "revista de ecologia e consumo ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Thesaurus ",
+                "c": "1978"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "b": "v."
+            }
+        },
+        {
+            "code": "310",
+            "subfield": {
+                "a": "Bimestral"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ecologia ",
+                "x": "Periódico ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Meio ambiente ",
+                "x": "Periódico ",
+                "z": "Brasília"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo ",
+                "u": "http://www.revistameioambiente.com.br/ ",
+                "z": " Acesso em: 17/02/2014"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Periódicos"
+            }
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007728"
+        },
+        {
+            "code": "005",
+            "value": "20190701152559.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "62 ",
+                "b": "E65t ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Erber, Fábio Stefano"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Technological dependence and learning revisited ",
+                "c": "Fábio Stefano Erber ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Universidade Federal do Rio de Janeiro, Instituto de Economia Industrial ",
+                "c": "1983"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "40"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IEI/UFRJ ",
+                "v": "n. 34"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Dependência tecnológica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política tecnológica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política econômica"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (BNDES) ",
+                "u": "https://web.bndes.gov.br/bib/jspui/bitstream/1408/2568/1/Technological%20dependence_P.pdf ",
+                "z": "Acesso em: 01/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

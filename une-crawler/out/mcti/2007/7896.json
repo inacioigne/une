@@ -1,0 +1,82 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007896"
+        },
+        {
+            "code": "005",
+            "value": "20190701190313.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "551.46(899) ",
+                "b": "E19 ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Ecoplata ",
+                "b": "apoyo a la gestión integrada de la zona costera uruguaya del Río de la Plata : diagnóstico ambiental y socio-demográfico de la zona costera uruguaya del Río de la Plata : compendio de los principales resultados ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Montevideo ",
+                "b": "Ministerio de Vivienda Ordenamiento Territorial y Medio Ambiente ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "180 ",
+                "b": "il., mapas, color."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Gerenciamento costeiro"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Zona costeira ",
+                "z": "Rio da Prata"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     n m  22      a"
+        },
+        {
+            "code": "001",
+            "value": "000007715"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.896 ",
+                "b": "A939"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Automatizacion flexible control numerico ",
+                "b": "CAD, robotica y sistemas integrados"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "b": "il., tabs., grafs. ",
+                "a": "23 f."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Documento SID ",
+                "v": "n. 30"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Projeto auxiliado por computador"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Robótica"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

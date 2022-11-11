@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007789"
+        },
+        {
+            "code": "005",
+            "value": "20190702120202.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "811.111(038) ",
+                "b": "A512 ",
+                "d": "R ",
+                "c": "1969"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "The american heritage dictionary of the english language ",
+                "c": "William Morris, editor ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "American Heritage Publishing"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Boston ",
+                "b": "Houghton Mifflin Company ",
+                "c": "c1969"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Estados Unidos"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1550 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua inglesa ",
+                "x": "Dicionários"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem e línguas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cultura"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Morris, William ",
+                "d": "1913- ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dicionários"
+            }
+        }
+    ]
+}

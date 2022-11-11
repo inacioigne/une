@@ -1,0 +1,138 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007921"
+        },
+        {
+            "code": "005",
+            "value": "20190628150116.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "330.564(81) ",
+                "b": "S676d ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Soares, Sergei Suarez Dillon"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Desigualdade e bem-estar no Brasil na década da estabilidade ",
+                "c": "Sergei Suarez Dillon Soares, Rafael Guerreiro Osório ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "30 f. ",
+                "b": "il., grafs., tabs."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IPEA ",
+                "v": "1270"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "O objetivo deste texto é analisar a evolução da desigualdade e bem-estar material de bens e serviços mercantis no Brasil no período de 1995 a 2005. Além da estabilidade monetária, este período é marcado por mudanças drásticas nos preços relativos, fazendo que a renda deflacionada por um índice homogêneo não seja um bom indicador de bem-estar. Neste texto, construímos índices de inflação para cada centésimo da distribuição de renda. Para tanto, usamos a POF de 2003 para estabelecer o gasto, por centésimo, em cada um de nove categorias de consumo, e o Sistema Nacional de Preços ao Consumidor para calcular a inflação de cada categoria. Com isso, construímos média das inflações de cada categoria ponderada pelos pesos calculados a partir da POF. Aplicando estes deflatores por centésimo da distribuição de renda à própria distribuição de renda calculada a partir das Pnads de 1995 a 2005, calculamos o poder de compra de cada centésimo. Com esta nova distribuição de renda, calculamos a renda média e o coeficiente de Gini, verificamos a existência de relações de dominância estocástica de primeira e segunda ordem e a existência de dominância de Lorenz, e finalmente calculamos o bem-estar usando funções de bem-estar de Atkinson com parâmetro de aversão à desigualdade variando de 0,1 até 0,9. Os resultados são os seguintes: i) a inflação no período 1995-2005 foi pró-pobre até o centésimo 93 e do centésimo 93 em diante foi pró-renda alta; ii) em conseqüência, o coeficiente de Gini caiu 0,61 a mais que quando se faz a deflação usando o IPCA; iii) surpreendentemente, a renda média deflacionada por centésimo, difere significativamente da renda média deflacionada pelo IPCA geral; e iv) quando usamos deflatores por centésimo, a renda média cai ao invés de aumentar no período 1995-2005. Our objective in this text is to analyze the evolution of welfare and inequality in the distribution of mercantile goods and services in Brazil from 1995 to 2005. This period was characterized by monetary stability but also by large changes in relative prices, which means that a homogeneous inflation index will not yield good welfare indicators. In this text, we build centile-specific inflation indices. To do this, we use the 2003 POF expenditure survey to estimate expenditure shares for each centile of the income distribution and the national consumer price system (SNPC) to calculate inflation for each of the goods that comprise each of these shares. We then calculate, for each centile, an average inflation index weighing the inflations for each expenditure category by the expenditure shares. We then apply these centile-specific inflation indices to each centile of the nominal income distributions from 1995 to 2005 calculated using the Pnad household surveys and with this new income distribution, we calculate purchasing power for each centile. With this new income distribution, we calculate average incomes and Gini coefficients for the distribution as a whole, we verify stochastic dominance relationships as well as Lorenz dominance, and finally, calculate Atkinson social welfare functions for inequality aversion parameters varying from 0.1 to 0.9. Our results are as follows: i) inflation during the 1995-2005 period was propoor up to centile 93 and from centile 93 onwards it was pro-rich, ii) as a consequence, the Gini coefficient fell 0.61 Gini points more than what is observed using a general price index, iii) surprisingly, average incomes deflated using centilespecific deflators differs significantly from average incomes deflated using the general IPCA price index, and iv) when centile-specific deflators are used, average income falls instead of raising slightly during the 1995-2005 period."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desigualdade de renda"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Renda ",
+                "x": "Distribuição ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Bem-estar social"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Estabilização econômica ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Osorio, Rafael Guerreiro ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (IPEA) ",
+                "u": "http://www.ipea.gov.br/portal/images/stories/PDFs/TDs/td_1270.pdf ",
+                "z": "Acesso em: 28/08/2014"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

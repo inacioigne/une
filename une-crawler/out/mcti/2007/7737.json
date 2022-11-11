@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000007737"
+        },
+        {
+            "code": "005",
+            "value": "20190703133318.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.934 ",
+                "b": "O48l ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Oliveira, Carlos Alberto de"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Linguagem natural ",
+                "b": "um sistema de relações ",
+                "c": "Carlos Alberto de Oliveira ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Instituto Nacional de Pesquisas Espaciais ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "8 f."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Teoria da computação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguística"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem natural"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Lingüística computacional"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

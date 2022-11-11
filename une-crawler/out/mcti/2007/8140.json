@@ -1,0 +1,165 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "am   nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008140"
+        },
+        {
+            "code": "005",
+            "value": "20190709155508.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "por                                por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8524014466"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "62-027.15:338.45(81) ",
+                "b": "P474 ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Pesquisa industrial inovação tecnológica 2000 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Instituto Brasileiro de Geografia e Estatística ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "97 ",
+                "b": "il., tab. ",
+                "e": "1 CD-Rom"
+            }
+        },
+        {
+            "code": "501",
+            "subfield": {
+                "a": "Acompanhado de 1 CD-Rom"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Apresentação -- Introdução -- Notas técnicas -- Referências conceituais -- Âmbitos -- Populacional -- Territorial -- Temporal -- Unidade de investigação -- Classificação de atividades -- Captura das informações -- Estrutura dos temas abordados e conceituação das variáveis -- Aspectos de amostragem -- Apresentação dos resultados -- Tabelas de resultados -- Resultados do processo inovativo"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Com o lançamento desta publicação, o IBGE divulga os primeiros indicadores nacionais das atividades de inovação tecnológica desenvolvidas nas empresas industriais brasileiras, obtidos a partir do novo modelo de produção de estatísticas econômicas que contempla a realização de pesquisas que investigam temas específicos, articuladas com as demais pesquisas estruturais da Instituição. Os resultados dessa primeira pesquisa referem-se ao universo das empresas industriais com dez ou mais pessoas ocupadas e resultam de apoio da Financiadora de Estudos e Projetos - FINEP, do Ministério da Ciência e Tecnologia. Abrangem informações sobre o número de empresas que implementaram inovações tecnológicas de produtos e/ou processos; esforços empreendidos para inovar; impactos causados e grau de importância das inovações; fontes de informação utilizadas; relações de cooperação com outras organizações; problemas e obstáculos apontados para a implementação ou não de inovações, além de informações sobre as mudanças estratégicas e organizacionais observadas nessas empresas. A publicação inclui, ainda, notas técnicas sobre a pesquisa. Os resultados estão disponíveis no CD-ROM que acompanha a publicação, incluindo comentários analíticos. A construção desses indicadores, baseada em padrões metodológicos internacionais, contribui para ampliar o entendimento do processo de inovação tecnológica na indústria brasileira e garante sua comparabilidade com dados de outros países."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa industrial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inovação tecnológica ",
+                "x": "Indicadores ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa e desenvolvimento ",
+                "x": "Indicadores ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto Brasileiro de Geografia e Estatística ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Financiadora de Estudos e Projetos (Brasil) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Brasil. Ministério da Ciência e Tecnologia ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Brasil. Ministério do Planejamento, Orçamento e Gestão ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo ",
+                "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\8140-Pesquisa_Industrial_Inovacao_Tecnologica_2000.pdf"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (IBGE) ",
+                "u": "http://www.ibge.gov.br/home/estatistica/economia/industria/pintec/ ",
+                "z": "Acesso em: 27/05/2014"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

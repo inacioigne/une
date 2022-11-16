@@ -1,0 +1,88 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008292"
+        },
+        {
+            "code": "005",
+            "value": "20190701154406.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:62-027.15 ",
+                "b": "F676t ",
+                "c": "[1979?]"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Fonseca, Vicente"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Technological development of the brazilian computer industry and a methodology to evaluate the possibilities to improve the international technical cooperation ",
+                "c": "Vicente Fonseca ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Secretaria Especial de Informática ",
+                "c": "[1979?]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de computador ",
+                "x": "Desenvolvimento tecnológico ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cooperação internacional"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008540"
+        },
+        {
+            "code": "005",
+            "value": "20190708182510.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8526213970"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "811.134.3'36 ",
+                "b": "N634g ",
+                "d": "R ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Nicola, José de"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Gramática contemporânea da língua portuguesa ",
+                "c": "José de Nicola, Ulisses Infante ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "15. ed. ",
+                "b": "9. impressão"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Scipione ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "447 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua portuguesa ",
+                "x": "Gramática"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Infante, Ulisses ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

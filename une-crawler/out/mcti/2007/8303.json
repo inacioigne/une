@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008303"
+        },
+        {
+            "code": "005",
+            "value": "20190709165257.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004(595)(060.21) ",
+                "b": "P466p ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Persatuan Industri Komputer Malaysia"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "PIKOM ",
+                "b": "membership directory : 2000-2001 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Kuala Lumpur ",
+                "b": "Persatuan Industri Komputer Malaysia ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Malásia"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "392"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Periódico tratado como livro, ISSN : 1511-0729"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores ",
+                "z": "Malásia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria de computador ",
+                "z": "Malásia ",
+                "x": "Catálogo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Association of the Computer industry Malaysia ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

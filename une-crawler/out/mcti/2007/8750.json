@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008750"
+        },
+        {
+            "code": "005",
+            "value": "20190705160810.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "330.34+316.3(813.7) ",
+                "b": "F944 ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Fórum pensar Sergipe ",
+                "b": "proposta para o desenvolvimento de Sergipe no seculo XXI ",
+                "c": "Organização de José Fernandes de Lima, Afonso Nascimento ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Cristovão ",
+                "b": "Universidade Federal de Sergipe ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "279"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Políticas públicas ",
+                "z": "Sergipe"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento socio-econômico ",
+                "z": "Sergipe"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sociedade"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Lima, José Fernandes de ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Nascimento, Afonso ",
+                "e": "Organizador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

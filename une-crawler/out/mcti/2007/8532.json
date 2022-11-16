@@ -1,0 +1,127 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008532"
+        },
+        {
+            "code": "005",
+            "value": "20190703160553.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8588639076"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4 ",
+                "b": "S697s ",
+                "c": "=134.3 ",
+                "d": "2003"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Sommerville, Ian"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Engenharia de software ",
+                "c": "Ian Sommerville ; tradução André Maurício de Andrade Ribeiro ; revisão técnica Kechi Hirama ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "6. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Addison-Wesley ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "693 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "534",
+            "subfield": {
+                "a": "Título original: Software engineering"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia de software"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Desenvolvimento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento de sistemas"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Ribeiro, André Maurício de Andrade ",
+                "e": "Tradutor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Hirama, Kechi ",
+                "e": "Revisor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

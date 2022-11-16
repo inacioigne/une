@@ -1,0 +1,115 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008775"
+        },
+        {
+            "code": "005",
+            "value": "20190704111533.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:32 ",
+                "b": "O68u ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Organização de Cooperação e Desenvolvimento Econômico"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Understanding the digital divide ",
+                "h": "Impresso ",
+                "c": "Organização de Cooperação e Desenvolvimento Econômico"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Organisation for Economic Co-operation and Development ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "França"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "32 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informação tecnológica ",
+                "x": "Aspectos economicos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Internet ",
+                "x": "Aspectos economicos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desigualdade econômica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Países em desenvolvimento"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (OECD) ",
+                "u": "https://www.oecd.org/sti/1888451.pdf ",
+                "z": "Acesso em: 04/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

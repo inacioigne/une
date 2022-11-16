@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008515"
+        },
+        {
+            "code": "005",
+            "value": "20190625152802.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "1591400600"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004:025.5:351 ",
+                "b": "P976 ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Public information technology ",
+                "b": "policy and management issues ",
+                "c": "[compiled by] G. David Garson ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Hershey ",
+                "b": "Idea Group ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Estados Unidos"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xi, 394 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Aborda os princípios e ferramentas da gestão do conhecimento. Descreve a estrutura conceitual da mudança de foco para os ativos intangíveis, em detrimento das estratégias empresariais. Oferece ferramentas para avaliação de ativos intangíveis, como funcionários competentes e criativos, patentes, marcas ou a reputação da empresa. Mostra como explorar os conhecimentos de clientes e funcionários para construir uma organização bem-sucedida, como gerenciar pessoas cujo valor está em suas próprias mentes e como gerar receitas a partir de ativos intangíveis."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração pública ",
+                "x": "Gestão"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informação tecnológica ",
+                "x": "Gestão"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Garson, G. David ",
+                "e": "Compilador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

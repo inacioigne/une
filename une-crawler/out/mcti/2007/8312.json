@@ -1,0 +1,117 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008312"
+        },
+        {
+            "code": "005",
+            "value": "20190708152559.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "336.581:5/6PADCT(047) ",
+                "b": "R425g ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Report of the PADCT II GEA ",
+                "c": "Rio de Janeiro, RJ ",
+                "d": "1996 ",
+                "n": "13"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "GEA/PADCT report on the XIII th ordinary meeting ",
+                "b": "final version ",
+                "c": "Presented to the Ministry of Science and Technology and to the World Bank ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Ministry of Science and Technology ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "[51] f."
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Programa de Apoio ao Desenvolvimento Científico e Tecnológico (Brasil) ",
+                "x": "Avaliação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústrias"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Projeto de desenvolvimento"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Brasil. Ministério da Ciência e Tecnologia ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Banco Mundial ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008306"
+        },
+        {
+            "code": "005",
+            "value": "20190701120505.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCTIC"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5/6:316 ",
+                "b": "I61s ",
+                "c": "[200-]"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "International Council for Science"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Strengthening international science for the benefit of society ",
+                "b": "a strategic plan for the international council for science 2006-2011 ",
+                "h": "Impresso ",
+                "c": "International Council for Science"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Strategic plan 2006 - 2011 : celebrating 75 years : 1931 - 2006"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "International Council for Science ",
+                "c": "[200-]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "França"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "64"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa tecnológica ",
+                "x": "Aspectos sociais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa científica"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (UNICAMP) ",
+                "u": "https://www2.ib.unicamp.br/profs/cjoly/CAMPO%2008/UBATUBA%202008/ICSU-LAC/05%2000%2000%20STRATEGIC%20PLAN%20863_DD_FILE_ICSU_Strategic_Plan.pdf ",
+                "z": "Acesso em: 01/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

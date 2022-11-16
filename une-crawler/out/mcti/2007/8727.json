@@ -1,0 +1,108 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008727"
+        },
+        {
+            "code": "005",
+            "value": "20190708152914.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "331.5 ",
+                "b": "T266g ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Teixeira, Aníbal ",
+                "d": "1933-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Geração de emprego e renda ",
+                "b": "estratégias para vencer o desemprego ",
+                "c": "Aníbal Teixeira ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l. ",
+                "b": "s.n] ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "207 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "subtítulo retirado da capa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Renda"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desemprego"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Emprego"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Renda ",
+                "x": "Distribuição"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

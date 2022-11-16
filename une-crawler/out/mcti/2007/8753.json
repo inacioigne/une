@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008753"
+        },
+        {
+            "code": "005",
+            "value": "20190701140635.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "61:35 ",
+                "b": "S941 ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Subsídios à política na área de saúde, inovação ",
+                "b": "mapas do conhecimento sobre tendências internacionais e competências nacionais em doenças crônicas, doenças infecto-contagiosas e doenças negligenciadas ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Rio de Janeiro] ",
+                "b": "Sistema de Informação sobre a Indústria Química - EQ/UFRJ ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2 v. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Demandante: Centro de Gestão de Estudos Estratégicos (CGEE) ; Executor: Sistema de Informação sobre a Indústria Química / EQ."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "v. 1 : visão internacional : artigos científicos e medicamentos ; v. 2: Visão internacional: patentes e medicamentos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Políticas públicas ",
+                "x": "Saúde"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Saúde pública"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Medicamentos"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

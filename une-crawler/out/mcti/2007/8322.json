@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008322"
+        },
+        {
+            "code": "005",
+            "value": "20190625174934.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9972753980"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5/6:35(094) ",
+                "b": "C755a ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Consejo Nacional de Ciencia y Tecnología (Peru)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Anteproyecto de ley general de promoción de la ciencia y la tecnología para el desarrollo nacional ",
+                "b": "propuesta del Consejo Nacional de Ciencia y Tecnología (CONCYTEC) ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Lima, Peru ",
+                "b": "Consejo Nacional de Ciencia y Tecnología ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "30"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "x": "Promoção"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Peru. Ministerio de Educación ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

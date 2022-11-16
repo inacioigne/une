@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008742"
+        },
+        {
+            "code": "005",
+            "value": "20190625124550.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.45:32(816.2) ",
+                "b": "F293p ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Federação das Indústrias do Estado do Paraná"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Proposta de política industrial para o Paraná ",
+                "h": "Impresso ",
+                "c": "Federação das Indústrias do Estado do Paraná"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Curitiba ",
+                "b": "Federação das Indústrias do Estado do Paraná ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "30 ",
+                "b": "il., tabs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política industrial ",
+                "z": "Paraná (PR)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Industrialização ",
+                "z": "Paraná (PR)"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

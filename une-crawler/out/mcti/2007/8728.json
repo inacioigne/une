@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008728"
+        },
+        {
+            "code": "005",
+            "value": "20190625165621.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9783540481478"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "577.21 ",
+                "b": "A532 ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Analytics of protein-DNA interactions ",
+                "c": "editor: Harald Seitz ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Berlim ",
+                "b": "Springer ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "x, 204 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Advances in biochemical engineering/biotechnology ",
+                "v": "104"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "DNA ",
+                "x": "Genética humana"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Seitz, Harald ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

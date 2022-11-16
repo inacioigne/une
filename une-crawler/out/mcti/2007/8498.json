@@ -1,0 +1,133 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008498"
+        },
+        {
+            "code": "005",
+            "value": "20190627174211.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8521202784"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "604:663.1 ",
+                "b": "B616 ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Biotecnologia Industrial ",
+                "c": "coordenadores: Walter Borzani ... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Edgard Blucher ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "v.1. Fundamentos -- v.2. Engenharia bioquímica -- v.3. Processos fermentativos e enzimáticos -- v.4. Biotecnologia na produção de alimentos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia bioquímica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microbiologia industrial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biotecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Alimentos ",
+                "x": "Biotecnologia"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Aquarone, Eugênio ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Borzani, Walter ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Schmidell, Willibaldo ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Lima, Urgel de Almeida ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

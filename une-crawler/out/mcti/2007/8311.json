@@ -1,0 +1,99 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a"
+        },
+        {
+            "code": "001",
+            "value": "000008311"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "334.763:338.2 ",
+                "b": "R813c"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Rosenfeld, Stuart A"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Creating smart systems ",
+                "b": "a guide to cluster stretegies in less favoured regions : European Union - regional innovation strategies ",
+                "c": "Stuart A. Rosenfeld ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Luxembourgo ",
+                "b": "Office for Official Documentations of the European Communities ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "35"
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "União Européia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cluster"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inovação tecnológica ",
+                "x": "Cooperação comercial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento econômico ",
+                "x": "Estratégia"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "http://ec.europa.eu/regional_policy/archive/innovation/pdf/guide_rosenfeld_final.pdf ",
+                "y": "Texto completo(Comissão Européia) Acesso em: 23/12/2014"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

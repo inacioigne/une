@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008663"
+        },
+        {
+            "code": "005",
+            "value": "20190627155202.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "027-021.131:378.2 ",
+                "b": "I59b ",
+                "c": "[200-]"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Instituto Brasileiro de Informação em Ciência e Tecnologia"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Biblioteca digital de teses e dissertações ",
+                "b": "requisitos básicos para cooperação ",
+                "h": "Impresso ",
+                "c": "Instituto Brasileiro de Informação em Ciência e Tecnologia"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto Brasileiro de Informação em Ciência e Tecnologia ",
+                "c": "[200-]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "48"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Apresentação -- 1. O que é a Biblioteca Digital de Teses - Como funciona a BDTD - Formas de participação na BDTD -- 2. Requisitos básicos - Infraestrutura tecnológica e ambiente operacional - Perfil da equipe técnica - Padrões e protocolos -- 3. Cronograma de implantação -- Anexo A - Convênio Tipo I - Provedor de dados -- Anexo B - Convênio Tipo II - Provedor de dados via incubadora -- Anexo C - Descrição do MTD-BR"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "A Biblioteca Digital de Teses e Dissertações (BDTD) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia que visa a registrar e facilitar o acesso às teses e dissertações elaboradas e defendidas por brasileiros em instituições de ensino superior (IES) nacionais e estrangeiras. Para tanto, o IBICT estabelece a criação de um consórcio aberto que deverá agregar todas as IES que possuem programas de pósgraduação, não apenas as públicas como também as privadas. Assim, o presente documento apresentará: 1) o que é a BDTD; 2) as formas de participação na BDTD; 3) os requisitos básicos para participação desta iniciativa; 4) os instrumentos formais necessários para a participação da BDTD; 5) padrões e protocolos utilizados pela BDTD; e cronograma de implantação."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Bibliotecas digitais ",
+                "x": "Dissertação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Bibliotecas ",
+                "x": "Cooperação"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

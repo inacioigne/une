@@ -1,0 +1,159 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008469"
+        },
+        {
+            "code": "005",
+            "value": "20190704111254.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9798536304549"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.413.5 ",
+                "b": "F785u ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Fowler, Martin"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "UML essencial ",
+                "b": "um breve guia para a linguagem-padrão de modelagem de objetos ",
+                "c": "Martin Fowler ; tradução, João Tortello ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "3. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Porto Alegre ",
+                "b": "Bookman ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "160 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Apresentações de Cris Kobryn, Grady Booch, Ivar Jacobson e Jim Rumbaugh"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Consultoria, supervisão e revisão técnica desta ed., Ana M. de Alencar Price."
+            }
+        },
+        {
+            "code": "534",
+            "subfield": {
+                "a": "Título original: UML Distilled : A Brief Guide to the Standard Object Modeling Language"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem de programação (Computadores)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento de sistemas ",
+                "x": "Metodologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programação de computador ",
+                "x": "Metodologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Internet"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem de modelagem unificada"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Tortello, João E. N. ",
+                "q": "João Eduardo Nóbrega ",
+                "e": "Tradutor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Price, Ana M. de Alencar ",
+                "e": "Revisor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008435"
+        },
+        {
+            "code": "005",
+            "value": "20190704153454.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9788576050223"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.3.049.77 ",
+                "b": "S449m ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Sedra, Adel S"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Microeletrônica ",
+                "c": "Adel S. Sedra, Kenneth C. Smith; tradução e revisão técnica Antonio Carlos Seabra...[et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "5"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Makron Books ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xx,1270 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "1. Introdução à eletrônica -- 2. Amplificadores operacionais -- 3. Diodos -- Transitores de efeito de campo MOS (MOSFETs) -- 5. Transistores bipolares Junção (TBJ) -- 6. Circuitos integrados para amplificadores de um único estágio -- 7. Amplificadores diferenciais e de múltiplos estágios -- 8. Realimentação -- 9. Circuitos amplificador operacional e conversores de dados -- 10. Circuitos lógicos digitais CMOS -- 11. Memória e circuitos digitais avançados -- 12. Filtros e amplicifadores sintonizados -- 13. Geradores de sinais e circuitos formadores de onda -- 14. Estágios de saída e amplificadores de potência"
+            }
+        },
+        {
+            "code": "534",
+            "subfield": {
+                "a": "Título original : Microelectronics circuits"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microeletrônica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito eletrônico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito integrado"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Smith, Kenneth Carless ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008769"
+        },
+        {
+            "code": "005",
+            "value": "20190709163743.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "911(915.3) ",
+                "b": "P497"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Petrópolis ",
+                "b": "cidade inteligente ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "2"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Petrópolis ",
+                "b": "Prefeitura de Petrópolis, Secretaria de Planejamento e Desenvolvimento Econômico ",
+                "c": "[s.d.]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "16"
+            }
+        },
+        {
+            "code": "651",
+            "subfield": {
+                "a": "Petrópolis ",
+                "x": "Desenvolvimento científico"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

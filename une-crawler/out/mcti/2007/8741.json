@@ -1,0 +1,135 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008741"
+        },
+        {
+            "code": "005",
+            "value": "20190702183825.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "62-027.15:32(100)(063) ",
+                "b": "I61l ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "International Conference on Technology Policy and Innovation ",
+                "c": "Curitiba, PR ",
+                "d": "2000 ",
+                "n": "4"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Learning and knowledge networks for development ",
+                "b": "proceedings ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Curitiba ",
+                "b": "Universidade Federal do Paraná ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "232"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e Estado"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política tecnológica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Transferência de tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ensino à distância"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comércio eletrônico"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto na íntegra ",
+                "u": "in3.dem.ist.utl.pt/curitiba2000/"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "in3.dem.ist.utl.pt/curitiba2000/ ",
+                "y": "Texto na íntegra"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

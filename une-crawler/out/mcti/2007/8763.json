@@ -1,0 +1,92 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008763"
+        },
+        {
+            "code": "005",
+            "value": "20190626171049.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "780148360x"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "355/359(510) ",
+                "b": "D313"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Defensa nacional de China en el 2000 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Pequim, China ",
+                "b": "Oficina de Información del Consejo de Estado de la República Popular China ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "77"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Armamentos ",
+                "z": "China"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Segurança nacional ",
+                "z": "China"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

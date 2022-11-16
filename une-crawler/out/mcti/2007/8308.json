@@ -1,0 +1,115 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008308"
+        },
+        {
+            "code": "005",
+            "value": "20190702194220.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "620.9 ",
+                "b": "A271e ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Agência Internacional de Energia ",
+                "c": "França"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Energy technologies at the cutting edge ",
+                "b": "2005 ",
+                "h": "Impresso ",
+                "c": "Agência Internacional de Energia (França)"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Paris ",
+                "b": "Agência Internacional de Energia Atômica ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "97 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "International energy technology collaboration IEA implementing agreements"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Economia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Fonte renovável de energia"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\8308 - Energy technologies at the cutting edge.pdf ",
+                "y": "Texto completo ",
+                "z": "Acesso em: 02/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

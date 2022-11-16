@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008317"
+        },
+        {
+            "code": "005",
+            "value": "20190704135202.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "005 ",
+                "b": "S556s ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Shin, Stan"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Me-too is not my style ",
+                "c": "Stan Shin ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Acer Publications ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "306"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Na capa acima do título : Corporate visions, strategies and business philosophies of the Acer Group ; Na capa abaixo do título : Challenge difficulties, break through bottlenecks, create values"
+            }
+        },
+        {
+            "code": "600",
+            "subfield": {
+                "a": "Shin, Stan ",
+                "x": "Biografia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Administração de empresas"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo ",
+                "u": "www.cmlab.csie.ntu.edu.tw/~chenhsiu/reading/metoo.pdf"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "www.cmlab.csie.ntu.edu.tw/~chenhsiu/reading/metoo.pdf ",
+                "y": "Texto completo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

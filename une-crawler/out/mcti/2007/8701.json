@@ -1,0 +1,137 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008701"
+        },
+        {
+            "code": "005",
+            "value": "20161212175058.0"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "53 ",
+                "b": "G212c"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Garavuso, Richard S"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "c": "Richard S. Garavuso and Francesco Toppan ",
+                "a": "Chern-Simons AdS5 supergravity in a randall-sundrum background ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro Brasileiro de Pesquisas Físicas ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "11 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Notas de Física / CBPF ",
+                "x": "0029-3865 ",
+                "v": "008/07"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "CBPF-NF-008/07"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Chern-Simons AdS supergravity theories are gauge theories for the super-AdS group. These theories possess a fermionic symmetry which differs from standard supersymmetry. In this paper, we study five-dimensional Chern-Simons AdS super- gravity in a Randall-Sundrum scenario with two Minkowski 3-branes. After making modifications to the D = 5 Chern-Simons AdS supergravity action and fermionic symmetry transformations, we obtain a Z2-invariant total action S = Sbulk +Sbrane and fermionic transformations. While Sbulk = 0, the fermionic symmetry is broken by Sbrane. Our total action reduces to the original Randall-Sundrum model when Sbulk is restricted to its gravitational sector. We solve the Killing spinor equations for a bosonic configuration with vanishing su(N) and u(1) gauge fields"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Toppan, Francesco ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Centro Brasileiro de Pesquisas Físicas ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (CBPF) ",
+                "u": " http://cbpfindex.cbpf.br/publication_pdfs/nf00807.2007_06_18_08_37_58.pdf ",
+                "z": "Acesso em: 12/12/2016"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

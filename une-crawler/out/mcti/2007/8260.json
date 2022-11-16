@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008260"
+        },
+        {
+            "code": "005",
+            "value": "20190715093012.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.395(81) ",
+                "b": "O48a ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Oliveira, André Luís Rossi de"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Análise do mercado brasileiro de cabos telefônicos no período 1998-2003 ",
+                "h": "Impresso ",
+                "c": "André Luís Rossi de Oliveira, Paulo Cesar Coutinho"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto de Pesquisas e Projetos Aplicados ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v. ",
+                "b": "il., graf., tab. (algumas color.)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Telefonia ",
+                "x": "Mercado ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cabos elétricos ",
+                "x": "Telefonia"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Coutinho, Paulo Cesar ",
+                "d": "1958- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisas e Projetos Aplicados ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

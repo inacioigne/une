@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008791"
+        },
+        {
+            "code": "005",
+            "value": "20190628150621.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "37.014(812.2) ",
+                "b": "L892s ",
+                "c": "[200-]"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Loureiro Júnior, Eduardo"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Sistemática de planejamento do programa nacional de inclusão de jovens ",
+                "b": "PROJOVEM/Teresina ",
+                "c": "Eduardo Loureiro Jr. ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Teresina ",
+                "b": "[s.n. ",
+                "c": "200-]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "79 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Acesso à educação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Educação e Estado"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Método de ensino"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

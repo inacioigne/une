@@ -1,0 +1,103 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008743"
+        },
+        {
+            "code": "005",
+            "value": "20190628183511.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "32(4)(05) ",
+                "b": "D579 ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Diálogo político ",
+                "b": "Cómo sigue Europa? ",
+                "h": "Impresso ",
+                "c": "editor Konrad-Adenauer-Stiftung; traducción Renate Hoffman"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Buenos Aires ",
+                "b": "Konrad-Adenauer-Stiftung ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Argentina"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "173 p."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Título retirado da capa ; Periódico tratado como livro, ISSN: 1667-314: Diálogo político, a. 24, n. 1, mar. 2007"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política ",
+                "z": "Europa ",
+                "x": "Periódico"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Hoffmann, Renate ",
+                "e": "Tradutor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Fundação Konrad Adenauer ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

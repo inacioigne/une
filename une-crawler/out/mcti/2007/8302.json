@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008302"
+        },
+        {
+            "code": "005",
+            "value": "20190628103236.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9210162056"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "311:658.5 ",
+                "b": "N125b ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Nações Unidas ",
+                "b": "Comissão Econômica para Europa"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Bulletin of statistics on world trade in engineering products, 1985 ",
+                "h": "Impresso ",
+                "c": "Nações Unidas, Comissão Econômica para Europa"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Bulletin de statistique du commerce mondial des produits des industries mécaniques et électriques, 1985"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Biulleten' po statistike mirovoi torgovli produktsei mashinostroeniia, 1985"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Nova Iorque ",
+                "b": "Nações Unidas ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "369"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia industrial ",
+                "x": "Estatísticas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústrias ",
+                "x": "Estatísticas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Comércio ",
+                "x": "Estatísticas"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

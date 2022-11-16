@@ -1,0 +1,140 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008489"
+        },
+        {
+            "code": "005",
+            "value": "20190704120212.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9788560034528"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.413.5 ",
+                "b": "L324a ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Larman, Craig"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Utilizando UML e padrões ",
+                "b": "uma introdução à análise e ao projeto orientados a objetos e ao processo unificado ",
+                "c": "Craig Larman ; tradução Luiz Augusto Meirelles Salgado e João Tortello ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "3. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Porto Alegre ",
+                "b": "Bookman ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "695 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Dominar uma linguagem orientada a objetos, como Java , não é o suficiente. Um bom engenheiro de software deve também possuir a habilidade de projetar sistemas de objetos robustos, escaláveis e fáceis de manter. Utilizando UML e Padrões foi escrito especialmente para fornecer fundamentos de construção de sistemas usando a tecnologia de objetos. O livro oferece a estudantes e desenvolvedores um mapa detalhado de atividades para verificação de requisitos, análise, projeto e codificação. Durante a fase do projeto, é dada ênfase às habilidades críticas necessárias para o projeto de responsabilidades e colaborações. Os tópicos incluem: expressar modelos de análise e de projeto usando UML, uma notação diagramática que está se tornando padrão para sistemas orientadas a objetos; aplicar padrões para atribuir responsabilidades e colaborações ao projeto; construir arquiteturas em camadas; projetar frameworks; mapear modelos de projeto para Java."
+            }
+        },
+        {
+            "code": "534",
+            "subfield": {
+                "a": "Título original: Applying UML and patterns : an introduction to object-oriented analysis and design and the unified process"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de informação ",
+                "x": "Projeto"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Análise de sistemas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Linguagem de modelagem unificada"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Salgado, Luiz Augusto Meirelles ",
+                "e": "Tradutor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Tortello, João E. N. ",
+                "q": "João Eduardo Nóbrega ",
+                "e": "Tradutor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

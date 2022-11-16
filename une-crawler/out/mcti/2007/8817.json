@@ -1,0 +1,108 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008817"
+        },
+        {
+            "code": "005",
+            "value": "20190628101850.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "1591401062"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "027-021.131 ",
+                "b": "B932 ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Building a virtual library ",
+                "c": "[edited by] Ardis Hanson and Bruce Lubotsky Levin ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Hershey ",
+                "b": " Information Science ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "ix, 236 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Bibliotecas digitais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Bibliotecas ",
+                "x": "Recursos econômicos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação de bibliotecas"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Levin, Bruce Lubotsky ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Hanson, Ardis ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

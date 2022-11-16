@@ -1,0 +1,93 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008270"
+        },
+        {
+            "code": "005",
+            "value": "20190625113540.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.039 ",
+                "b": "A498 ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A ameaça nuclear por 4 vias ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Associação dos Fiscais de Radioproteção e Segurança Nuclear ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "13 f."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia nuclear"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Política de segurança"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Associação dos Fiscais de Radioproteção e Segurança Nuclear ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

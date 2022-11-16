@@ -1,0 +1,87 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "am   nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008592"
+        },
+        {
+            "code": "005",
+            "value": "20190701173639.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "por                                por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "82-31(81) ",
+                "b": "M149d ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Assis, Machado de ",
+                "d": "1839-1908"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Dom Casmurro ",
+                "c": "Machado de Assis."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Rio de Janeiro] ",
+                "b": "Globo ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "252"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "v": "1 ",
+                "a": "Coleção Livros, O Globo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Literatura brasileira"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

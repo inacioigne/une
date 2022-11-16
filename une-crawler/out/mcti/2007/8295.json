@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008295"
+        },
+        {
+            "code": "005",
+            "value": "20170412115741.0"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "621.039:35(094) ",
+                "b": "T231a"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Tavares, Wagner Marques"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Atividades sujeitas ao monopólio da união no campo da energia nuclear ",
+                "b": "legislação brasileira e estudo comparado com arranjos institucionais de outros países ",
+                "c": "Wagner Marques Tavares ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Câmara dos Deputados ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "39"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Consultoria legislativa : estudo : junho/2005"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia nuclear ",
+                "x": "Legislação"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria nuclear ",
+                "x": "Monopólio estatal"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

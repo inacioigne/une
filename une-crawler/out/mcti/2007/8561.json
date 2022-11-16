@@ -1,0 +1,127 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008561"
+        },
+        {
+            "code": "005",
+            "value": "20190704151852.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "3540678204"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.33 ",
+                "b": "I89v ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Itoh, Kiyoo ",
+                "d": "1941-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "VLSI memory chip design ",
+                "c": "Kiyoo Itoh ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Berlim ",
+                "b": "Springer ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Alemanha"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xi, 495 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Springer series in advanced microelectronics ",
+                "v": "5"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "1. An Introduction to Memory Chip Design -- 1.1 Introduction -- 1.2 The Internal Organization of Memory Chips -- 1.3 Categories of Memory Chip -- 1.4 General Trends in DRAM Design and Technology -- 1.5 General Trends in SRAM Design and Technology -- 1.6 General Trends in Non-Volatile Memory Design -- 2. The Basics of RAM Design and Technology -- 2.1 Introduction -- 2.2 Devices -- 2.3 NMOS Static Circuits -- 2.4 NMOS Dynamic Circuits -- 2.5 CMOS Circuits -- 2.6 Basic Memory Circuits -- 2.7 The Scaling Law -- 2.8 Lithography -- 2.9 Packaging -- 3. DRAM Circuits -- 3.1 Introduction -- 3.2 The catalog Specifications of the Standard DRAM -- 3.3 The Basic Configuration and Operation of the DRAM Chip -- 3.4 Fundamental Chip Technologies -- 3.5 The Multidivided Data Line and Word Line -- 3.6 Read and Relevant Circuits -- 3.7 W rite and Relevant Circuits -- 3.8 Refresh-Relevant Circuits -- 3.9 Redundancy Techniques . -- 3.10 On-Chip Testing Circuits -- 4. High Signal-to-Noise Ratio -- DRAM Design and Technology -- 4.1 Introduction -- 4.2 Trends in High S/N Ratio Design -- 4.3 Data-Line Noise Reduction -- 4.4 Summary -- 5. On-Chip Voltage Generators -- 5.1 Introduction -- 5.2 The Substrate-Bias Voltage (VBB) Generator -- 5.3 The Voltage Up-Converter -- 5.4 The Voltage Down-Converter -- 5.5 The Half-VDD Generator -- 5.6 Examples of Advanced On-Chip Voltage Generators -- 6. High-Performance Subsystem Memories -- 6.1 Introduction -- 6.2 Hierarchical Memory Systems -- 6.3 Memory-Subsystem Technologies -- 6.4 High-Performance Standard DRAMs -- 6.5 Embedded Memories -- 7. Low-Power Memory Circuits -- 7 .1 Introduction -- 7.2 Sources and Reduction of Power Dissipation -- in a RAM Subsystem -- 7 .3 Sources of Power Dissipation in the RAM Chip -- 7 .4 Low-Power DRAM Circuits -- 7 .5 Low-Power SRAM Circuits -- 8. Ultra-Low-Voltage Memory Circuits -- 8.1 Introduction -- 8.2 Design Issues for Ultra-Low-Voltage RAM Circuits -- 8.3 Ultra-Low-Voltage DRAM Circuits -- 8.4 Ultra-Low-Voltage SRAM Circuits -- 8.5 Ultra-Low-Voltage SOI Circuits"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Semicondutores ",
+                "x": "Projeto e construção"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Circuito integrado ",
+                "x": "Projeto e construção"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Memória de acesso aleatório"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Microprocessador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

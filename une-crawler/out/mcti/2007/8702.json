@@ -1,0 +1,149 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008702"
+        },
+        {
+            "code": "005",
+            "value": "20190708140428.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "53 ",
+                "b": "K97su ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Kuznetsova, Zhanna"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "On supergroups with odd clifford parameters and non-anticommutative supersymmetry ",
+                "c": "Z. Kuznetsova, M. Rojas and F. Toppan ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro Brasileiro de Pesquisas Físicas ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "18 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Notas de Física / CBPF ",
+                "x": "0029-3865 ",
+                "v": "09/07"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "We investigate supergroups with Grassmann parameters replaced by odd Clifford parameters. The connection with non-anticommutative supersymmetry is discussed. A Berezin-like calculus for odd Clifford variables is introduced. Fermionic covariant derivatives for supergroups with odd Clifford variables are derived. Applications to supersymmetric quantum mechanics are made. Deformations of the original supersymmetric theories are encountered when the fermionic covariant derivatives do not obey the graded Leibniz property. The simplest non-trivial example is given by the N = 2 SQM with a real (1, 2, 1) multiplet and a cubic potential. The action is real. Depending on the overall sign (\"Euclidean\" or \"Lorentzian\") of the deformation, a Bender-Boettcher pseudo-hermitian hamiltonian is encountered when solving the equation of motion of the auxiliary field. A possible connection of our framework with the Drinfeld twist deformation of supersymmetry is pointed out."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Modelos matemáticos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física de partículas"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Toppan, Francesco ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Centro Brasileiro de Pesquisas Físicas ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (CBPF) ",
+                "u": "http://cbpfindex.cbpf.br/publication_pdfs/nf00907.2010_07_29_17_45_30.pdf ",
+                "z": "Acesso em: 22/11/2016"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

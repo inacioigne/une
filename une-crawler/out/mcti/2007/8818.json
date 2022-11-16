@@ -1,0 +1,133 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008818"
+        },
+        {
+            "code": "005",
+            "value": "20190628145524.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "1591403421"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502.131.1:025.5 ",
+                "b": "I43"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Information systems for sustainable development ",
+                "c": "Lorenz M. Hilty, editor, Eberhard K. Seifert, editor, Rene Treibert, editor ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Hershey ",
+                "b": "Idea Group ",
+                "c": "2004"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xvii, 378 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Section I: Environmental performance and eco-efficiency -- I. EPE according to ISO 14031 : concept, experience, and revision issues -- II. Life cycle assessment databases as part of sustainable development strategies : the example of ecoinvent -- III. Ecoinvent database : quality control and user interfaces for a web-based life cycle assessment database -- IV. Organisation models and information systems for production-integrated environmental protection (OPUS) -- V. Integration of material flow management tools in workplace environments -- VI. Eco-efficient controlling of material flows with flow cost accounting : ERP-based solutions of the ECO rapid project -- VII. Advanced middleware for eScience applied to environmental integrated systems -- VIII. Linking economic optimisation and simulation models to environmental material flow networks for ecoefficiency -- IX. Virtual networking without a backpack? : resource consumption of information technologies -- Section II: Supporting change toward sustainability -- X. A social context model for discussion process analysis -- XI. E-organization and the sustainable information society -- XII. Corporate sustainability reporting : a case for the Internet -- XIII. Web portals : a tool for environmental management -- XIV. From \"industrial symbiosis\" to \"sustainability networks\" -- XV. Information systems for co-operative procurement of organic food as a basis for decentralised eco- villages -- XVI. ORISS : a web-based carpooling system -- XVII. Citizen-centered environmental information dissemination via multiple information channels -- XVIII. Accessing public sector environmental data and information : development and demonstration of a national portal -- Section III: Risck management -- XIX. The integration of safety, environmental and quality management systems -- XX. Support of integrated management systems by the use of in-plant information, management and monitoring systems -- XXI. Remote monitoring of nuclear power plants in Baden-Wurttemberg, Germany -- XXII. Development of a decision support tool for technological risk management with remote sensing and GIS"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "Information Systems for Sustainable Development provides a survey on approaches to information systems supporting sustainable development in the private or public sector. It also documents and encourages the first steps of environmental information processing towards this more comprehensive goal."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento sustentável"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informação tecnológica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema de informação"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Hilty, Lorenz M ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Seifert, E. K. ",
+                "q": "Eberhard K. ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Treibert, Renâe ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

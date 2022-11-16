@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008688"
+        },
+        {
+            "code": "005",
+            "value": "20190626145811.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.45:615.1 ",
+                "b": "A945 ",
+                "c": "[2006]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Avaliação da política industrial, tecnológica e de comércio exterior para o setor farmacêutico ",
+                "c": "Alexandre de Freitas Barbosa, Ricardo Camargo Mendes, Ricardo Sennes, coordenação ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Federação Brasileira da Indústria Farmacêutica ",
+                "c": "[2006]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "107 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Estudos Febrafarma ",
+                "v": "13"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria farmacêutica ",
+                "x": "Política industrial"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Barbosa, Alexandre de Freitas ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Mendes, Ricardo Camargo ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Sennes, Ricardo ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

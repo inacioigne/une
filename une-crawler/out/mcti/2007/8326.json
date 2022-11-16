@@ -1,0 +1,123 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008326"
+        },
+        {
+            "code": "005",
+            "value": "20190709175648.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "001.891 ",
+                "b": "I34 ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Implementation completion report Brazil ",
+                "b": "science research and training project (loan 3269-BR) ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Banco Mundial ",
+                "c": "1997"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "63 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Human Development Sector Management Unit (LCSHD) ; Brazil Country Department ; Latin America and Caribbean Region ; Report no. 17267"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa científica ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento humano"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento científico"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Dahan, Charles ",
+                "e": "Consultor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Babelon, Dominique ",
+                "e": "Consultor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Banco Mundial ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "ftp://ftp.mct.gov.br/Biblioteca/9597_PADCT_II_ICR.pdf ",
+                "y": "Texto completo (MCTIC) ",
+                "z": "Acesso em: 09/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008771"
+        },
+        {
+            "code": "005",
+            "value": "20190709175908.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "35.077INB:005.51'21 ",
+                "b": "I41p ",
+                "c": "2007-2016"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Indústrias Nucleares do Brasil"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Planejamento estratégico ",
+                "b": "2007-2016 ",
+                "h": "Impresso ",
+                "c": "Indústrias Nucleares do Brasil"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Indústrias Nucleares do Brasil ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "21 ",
+                "b": "il., gráf., tab."
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Indústrias Nucleares do Brasil ",
+                "x": "Planejamento estratégico"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

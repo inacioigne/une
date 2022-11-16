@@ -1,0 +1,84 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a"
+        },
+        {
+            "code": "001",
+            "value": "000008313"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "620.95 ",
+                "b": "E61"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Enzyme sugar platform project FY03 review meeting ",
+                "b": "summary information"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "National Renewable Energy Laboratory ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "29 f."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biomassa ",
+                "x": "Tecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biocombustíveis"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Álcool"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "National Renewable Energy Laboratory ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

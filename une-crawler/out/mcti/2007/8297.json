@@ -1,0 +1,105 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008297"
+        },
+        {
+            "code": "005",
+            "value": "20190627150904.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "519.71 ",
+                "b": "M978b ",
+                "c": "1957"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Murphy, Gordon John"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Basic automatic control theory ",
+                "c": "Gordon J. Murphy ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Princeton [Estados Unidos] ",
+                "b": "Van Nostrand Reinhold ",
+                "c": "1957"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xi, 557 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "The Van Nostrand series in electronics and communications"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Controle automático"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Servomecanismo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Controle automático"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008545"
+        },
+        {
+            "code": "005",
+            "value": "20190704151156.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8506033489"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "811.111=134.3(038) ",
+                "b": "M621 ",
+                "d": "R ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Michaelis ",
+                "b": "dicionário prático inglês : inglês-português, português-inglês ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Dictionary Michaelis : english-portuguese / portuguese-english"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "6. impressão"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Melhoramentos ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "954"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Traz as seguintes tabelas, em inglês e português: Animais: gênero, coletivo e voz -- Números: cardinais, ordinais, multiplicativos e fracionários -- Símbolos matemáticos -- Tabela de conversão de pesos e medidas -- Tabela de conversão de temperaturas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua inglesa ",
+                "x": "Literatura portuguesa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua portuguesa ",
+                "x": "Língua inglesa"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dicionários"
+            }
+        }
+    ]
+}

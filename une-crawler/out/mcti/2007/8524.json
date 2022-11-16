@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008524"
+        },
+        {
+            "code": "005",
+            "value": "20190628192128.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8520906990"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "811.134.3'36(038) ",
+                "b": "C389d ",
+                "d": "R ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Cegalla, Domingos Paschoal"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Dicionário de dificuldades da língua portuguesa ",
+                "c": "Domingos Paschoal Cegalla"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "2. ed. ",
+                "b": "rev. e ampl"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Nova Fronteira ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "449"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua portuguesa ",
+                "x": "Dicionários"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

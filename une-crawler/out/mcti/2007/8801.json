@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008801"
+        },
+        {
+            "code": "005",
+            "value": "20190701171927.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "0201546108"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.41 ",
+                "b": "H926d ",
+                "c": "1995"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Humphrey, Watts S"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "A discipline for Software Engineering ",
+                "c": "Watts S. Humphrey ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Reading, Massachusetts ",
+                "b": "Addison-Wesley"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "b": "Financiadora de Estudos e Projetos ",
+                "c": "1995 ",
+                "a": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "789 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "The SEI series in software engineering"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia de software"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Desenvolvimento"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

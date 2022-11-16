@@ -1,0 +1,81 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008744"
+        },
+        {
+            "code": "005",
+            "value": "20190701183315.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "685.34 ",
+                "b": "C737 ",
+                "c": "[200-]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Competec ",
+                "b": "oportunidades de negócios e inovação identificadas no projeto : apresentação de resultados ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[S.l.] ",
+                "b": "Assintecal ",
+                "c": "[200-]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "30"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Calçados ",
+                "x": "Mercado"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

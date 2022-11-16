@@ -1,0 +1,117 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008527"
+        },
+        {
+            "code": "005",
+            "value": "20190704150250.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8506034418"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "811.133.1=134.3(038) ",
+                "b": "A961m ",
+                "d": "R ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Avolio, Jelssa Ciardi"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Michaelis ",
+                "b": "dicionário escolar francês : francês-português, português-francês ",
+                "c": "Jelssa Ciardi Avolio, Mara Lucia Faury ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Melhoramentos ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "688 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Dicionário Michaelis"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua portuguesa ",
+                "x": "Língua francesa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Língua francesa ",
+                "x": "Língua portuguesa"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Faury, Mara Lucia ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Dicionários"
+            }
+        }
+    ]
+}

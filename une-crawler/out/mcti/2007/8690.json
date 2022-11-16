@@ -1,0 +1,83 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008690"
+        },
+        {
+            "code": "005",
+            "value": "20190627150250.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.45(816.4) ",
+                "b": "D451"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Desempenho e perspectivas da indústria catarinense ",
+                "b": "investimentos industriais 2005-2009 : resultados e cenários 2006-2007 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Florianópolis ",
+                "b": "Federação das Indústrias do Estado de Santa Catarina ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "71 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústrias ",
+                "x": "Investimentos ",
+                "z": "Santa Catarina"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Federação das Indústrias do Estado de Santa Catarina ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

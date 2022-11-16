@@ -8,7 +8,7 @@ from crawlerFunctions.sophia.requestItem import RequestItem
 def CrawlerMcti():
 
     driver = StartDriver('http://sophiaweb.mctic.gov.br/')
-    sophiaCodes = Search(driver, "01/06/2007", "30/06/2007")
+    sophiaCodes = Search(driver, "01/07/2007", "30/09/2007")
 
     with open(
             f"out\mcti\codesNov2017.json","w", encoding='utf-8') as jsonfile:

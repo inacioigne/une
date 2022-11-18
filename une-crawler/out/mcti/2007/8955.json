@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008955"
+        },
+        {
+            "code": "005",
+            "value": "20190702093047.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "090",
+            "subfield": {
+                "a": "006:004.056.55(81) ",
+                "b": "A849t ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Associação Brasileira de Normas Técnicas"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Técnicas criptográficas e dados ",
+                "b": "autenticação padrão de mensagens bancárias formatadas : padronização ",
+                "h": "Impresso ",
+                "c": "Associação Brasileira de Normas Técnicas"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "NBR PB-1497"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Associação Brasileira de Normas Técnicas ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "7"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Foi baseada na norma ISO-8730"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Normas técnicas ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Criptografia ",
+                "x": "Normalização"
+            }
+        },
+        {
+            "code": "765",
+            "subfield": {
+                "t": "PB-1497 Data cryptographic techniques : banking messages authentication - standardization"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Normas Técnicas"
+            }
+        }
+    ]
+}

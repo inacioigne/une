@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008934"
+        },
+        {
+            "code": "005",
+            "value": "20190702095546.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "006:004.353.4(81) ",
+                "b": "A849te ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Associação Brasileira de Normas Técnicas"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Tecnologia de informação ",
+                "b": "teclados em equipamentos de processamento de dados - conjunto numérico ",
+                "h": "Impresso ",
+                "c": "Associação Brasileira de Normas Técnicas"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "PB-1323"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Associação Brasileira de Normas Técnicas ",
+                "c": "1991"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "3"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Projeto PB-1323/91. CB-21 - Comitê Brasileiro de Computadores e Procesamento de Dados - Informática. CE-21:003.01 - Comissão de Estudo de comunicação homem/máquina. PB-1323 - Information tecnology - keyboards for data processing equipments - standardization.Esta norma foi baseada na ISO 3791. Esta norma substitui a PB-1323/87."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores ",
+                "x": "Teclado"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Normas técnicas ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Hardware"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Normas Técnicas"
+            }
+        }
+    ]
+}

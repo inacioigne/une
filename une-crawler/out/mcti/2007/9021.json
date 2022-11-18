@@ -1,0 +1,118 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009021"
+        },
+        {
+            "code": "005",
+            "value": "20190709133450.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9728421397"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "620.1:001.89(469) ",
+                "b": "P438 ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Perfil da investigação científica em Portugal ",
+                "b": "ciência e engenharia de materiais ",
+                "h": "Impresso ",
+                "c": "coordenador: João Lopes Baptista"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Profile of scientific research in Portugal : materials science and engineering"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Lisboa ",
+                "b": "Observatório das Ciências e das Tecnologias ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Portugal"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "173 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia de materiais ",
+                "x": "Pesquisa ",
+                "z": "Portugal"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Baptista, João Lopes ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Portugal. Ministério da Ciência e da Tecnologia ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Brasil. Ministério da Ciência e Tecnologia. Observatório das Ciências e das Tecnologias ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

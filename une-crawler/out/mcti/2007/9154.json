@@ -1,0 +1,138 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009154"
+        },
+        {
+            "code": "005",
+            "value": "20190705112547.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "53 ",
+                "b": "P843m ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Portella, Helio Manoel"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Morphology of the lepton component of cosmic radiation ",
+                "b": "atmosphere neutrinos ",
+                "c": "O. A. P. Tavares and E. L. Medeiros ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro Brasileiro de Pesquisas Físicas ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "20 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Notas de Física / CBPF ",
+                "x": "0029-3865 ",
+                "v": "018/07"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "CBPF-NF-018/07"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Atmospheric muons and neutrinos are analytically computed using an operator formalism to solve the diffusion equations. It is based on depth-like Ordered exponencial operators similar to those used by Feynman in some physical problems. Formal solutions are found for a general primary cosmic ray spectrum, G(E), and they become simplified expressions when we assume a power-law dependence on energy. A complete treatment is given for the kaon case by introducing the K component. The problem of muon polarization is also taken into account. A comparison among our results with analytical, simulation calculations and experimental data is made. The agreement is good for energies above 10 GeV."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Radiação atmosférica"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Oliveira, Luiz Carlos Santos de ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Lima, C. E. ",
+                "q": "Carlos Eduardo Campos ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Centro Brasileiro de Pesquisas Físicas ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

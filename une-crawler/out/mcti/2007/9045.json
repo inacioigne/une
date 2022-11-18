@@ -1,0 +1,77 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009045"
+        },
+        {
+            "code": "005",
+            "value": "20190702164231.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "62-027.15:338.45(899) ",
+                "b": "P963 ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "El proceso de innovación en la industria uruguaya ",
+                "b": "resultados de la encuesta de actividades de innovación (1998 - 2000) ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Montevideo ",
+                "b": "Dirección Nacional de Ciencia, Tecnología e Innovación ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "91 ",
+                "b": "il., grafs., tabs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Inovação tecnológica ",
+                "x": "Indústria ",
+                "z": "Uruguai"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

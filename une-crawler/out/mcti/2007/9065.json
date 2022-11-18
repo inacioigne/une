@@ -1,0 +1,98 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009065"
+        },
+        {
+            "code": "005",
+            "value": "20190625164946.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   fre"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5/6:311 ",
+                "b": "O14r ",
+                "c": "[2002]"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Observatoire des Sciences et des Techniques (França)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Rapport OST - 2002 ",
+                "b": "les résultats-clés ",
+                "h": "Impresso ",
+                "c": "Observatoire des Sciences et des Techniques"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[França] ",
+                "b": "Observatoire des Sciences et des Techniques ",
+                "c": "[2002]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "França"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xlvii ",
+                "b": "il., grafs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "x": "Estatísticas ",
+                "z": "Europa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa e desenvolvimento ",
+                "x": "Estatísticas ",
+                "z": "Europa"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008998"
+        },
+        {
+            "code": "005",
+            "value": "20190701152441.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8572272143"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "667.621.3 ",
+                "b": "R484i ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Ribeiro, Roberto Carlos da C"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Interação entre cimentos asfálticos e seus constituintes com agregados minerais na formação do asfalto ",
+                "c": "Roberto Carlos da C. Ribeiro, Julio Cesar Guedes Correia, Peter Rudolf Seidl ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro de Tecnologia Mineral ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "38 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Tecnologia mineral / CETEM ",
+                "v": "84 ",
+                "x": "0103-7382"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Asfalto"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Cimento asfáltico"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Agregados (Materiais de construção)"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Correia, Júlio Cesar Guedes ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Seidl, Peter Rudolf ",
+                "d": "1941- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "http://www.cetem.gov.br/publicacao/series_stm/stm-84.pdf ",
+                "y": "Texto completo (CETEM)"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

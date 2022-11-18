@@ -1,0 +1,151 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008892"
+        },
+        {
+            "code": "005",
+            "value": "20220303153939.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5/6:001.5(81) ",
+                "b": "B823c ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Cronologia do desenvolvimento científico, tecnológico e industrial brasileiro, 1938-2003 ",
+                "h": "Impresso ",
+                "c": "Ministério do Desenvolvimento, Indústria e Comércio Exterior"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Confederação Nacional da Indústria ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "b": "Confederação Nacional da Indústria"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "b": "Serviço Brasileiro de Apoio às Micro e Pequenas Empresas ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "691 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento tecnológico ",
+                "x": "Cronologia ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento científico ",
+                "x": "Cronologia ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Empresário ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "x": "História ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Brasil. Ministério da Indústria e do Comércio ",
+                "b": "Secretaria de Tecnologia Industrial ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Confederação Nacional da Indústria ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Serviço Brasileiro de Apoio às Micro e Pequenas Empresas ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (LivroAberto/IBICT) ",
+                "u": "http://livroaberto.ibict.br/bitstream/1/864/1/CRONOLOGIA%20do%20desenvolvimento%20cient%c3%adfico%20e%20tecnol%c3%b3gico%20brasileiro.pdf ",
+                "z": "Acesso em: 03/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

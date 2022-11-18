@@ -1,0 +1,143 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009155"
+        },
+        {
+            "code": "005",
+            "value": "20190627152659.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "53 ",
+                "b": "F178i"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Falciano, Felipe T"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "An inflationary non-singular quantum cosmological model ",
+                "c": "Felipe T. Falciano, Nelson Pinto-Neto and E. Sergio Santini ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro Brasileiro de Pesquisas Físicas ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "10 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Notas de Física / CBPF ",
+                "x": "0029-3865 ",
+                "v": "017/07"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "CBPF-NF-017/07"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "A stiff matter-dominated universe modeled by a free massless scalar field minimally coupled to gravity in a Friedmann-Lema?tre-Robertson-Walker (FLRW) geometry is quantized. General- ized complex-width gaussian superpositions of the solutions of the Wheeler-DeWitt equation are constructed and the Bohm-de Broglie interpretation of quantum cosmology is applied. A planar dynamical system is found in which a diversity of quantum bohmian trajectories are obtained and discussed. One class of solutions represents non-singular inflationary models starting at infinity past from flat space-time with Planckian size spacelike hypersurfaces, which inflates without inflaton but due to a quantum cosmological effect, until it makes an analytical graceful exit from this inflationary epoch to a decelerated classical stiff matter expansion phase."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física quântica"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Pinto-Neto, Nelson ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Santini, E. Sergio ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Centro Brasileiro de Pesquisas Físicas ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (CBPF) ",
+                "u": "http://cbpfindex.cbpf.br/publication_pdfs/nf01707.2007_10_16_15_19_28.pdf ",
+                "z": "Acesso em: 12/12/2016"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

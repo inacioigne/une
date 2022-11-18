@@ -1,0 +1,102 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008970"
+        },
+        {
+            "code": "005",
+            "value": "20190628142553.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "006:004.92 ",
+                "b": "A849i ",
+                "c": "p. 1"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Organização Internacional de Normalização"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Information processing systems ",
+                "b": "computer graphics : graphical kernel system (GKS) language bindings : part 1 : FORTRAN ",
+                "h": "Impresso ",
+                "c": "Organização Internacional de Normalização"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "ISO 8651-1"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Suiça ",
+                "b": "Organização Internacional de Normalização ",
+                "c": "1988"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Suiça"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "116 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Normas técnicas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computação gráfica ",
+                "x": "Normalização"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Normas Técnicas"
+            }
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009084"
+        },
+        {
+            "code": "005",
+            "value": "20190705134553.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "c": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "349.22 ",
+                "b": "N384 ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Escola Nacional de Administração Pública (Brasil)"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Negociação coletiva 2007 ",
+                "h": "Impresso ",
+                "c": "Escola Nacional de Administração Pública"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Confederação Nacional do Comércio ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "502"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Negociação coletiva de trabalho"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Convenção coletiva de trabalho"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ação coletiva"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Direito do trabalho"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "d": "http://www.enap.gov.br/index.php?option=com_content&task=view&id=258&Itemid=256 ",
+                "z": "Texto completo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

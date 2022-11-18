@@ -1,0 +1,120 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008950"
+        },
+        {
+            "code": "005",
+            "value": "20190627171740.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "006.72(81) ",
+                "b": "A849i"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Associação Brasileira de Normas Técnicas"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Informação e documentação ",
+                "b": "resumo : apresentação : NBR 6028 ",
+                "h": "Impresso ",
+                "c": "Associação Brasileira de Normas Técnicas"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "NBR 6028"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Associação Brasileira de Normas Técnicas ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "2"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Substitui a NBR 6028:1990. Válida partir de 29.12.2003."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Normas técnicas ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Resumos ",
+                "x": "Normalização"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Documentação ",
+                "x": "Normalização"
+            }
+        },
+        {
+            "code": "765",
+            "subfield": {
+                "t": "Information and documentation : abstracts : presentation"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Normas Técnicas"
+            }
+        }
+    ]
+}

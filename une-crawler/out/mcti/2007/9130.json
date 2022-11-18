@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009130"
+        },
+        {
+            "code": "005",
+            "value": "20190627112944.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "027.8(81) ",
+                "b": "B823r ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Tribunal de Contas da União"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Relatório de monitoramento ",
+                "b": "programa nacional biblioteca da escola ",
+                "c": "Tribunal de Contas da União ; Relator: Ministro Guilherme Palmeira"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Tribunal de Contas da União, Secretaria de Fiscalização e Avaliação de Programas de Governo ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "111 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Bibliotecas escolares ",
+                "x": "Avaliação ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Livro didático ",
+                "x": "Avaliação ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programa de governo ",
+                "x": "Avaliação ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (TCU) ",
+                "u": "https://portal.tcu.gov.br/lumis/portal/file/fileDownload.jsp?fileId=8A8182A24F0A728E014F0AF2A8586FF3 ",
+                "z": "Acesso em: 27/06/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

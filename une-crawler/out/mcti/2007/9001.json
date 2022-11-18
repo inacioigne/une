@@ -1,0 +1,130 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009001"
+        },
+        {
+            "code": "005",
+            "value": "20190704105329.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "857227202X"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "622.87 ",
+                "b": "M655t ",
+                "c": "2004"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Millioli, Valeria Souza"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Tratamento de areia de praia contaminada por óleo cru utilizando reagente de feton ",
+                "c": "Valéria Souza Millioli, Denize Dias de Carvalho Freire, Magali Christe Cammarota ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro de Tecnologia Mineral ",
+                "c": "2004"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "38 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Tecnologia ambiental / CETEM ",
+                "v": "31"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Degradação ambiental ",
+                "x": "Petróleo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Poluição do solo ",
+                "x": "Areia"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Freire, Denise Dias de Carvalho ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Cammarota, Magali Christe ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (CETEM) ",
+                "u": "http://mineralis.cetem.gov.br/bitstream/cetem/341/1/sta-31.pdf ",
+                "z": "Acesso em: 04/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

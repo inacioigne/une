@@ -1,0 +1,94 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009037"
+        },
+        {
+            "code": "005",
+            "value": "20190628154647.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004.4-027.564:352(81) ",
+                "b": "S681 ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "O software livre nas prefeituras brasileiras ",
+                "b": "novas alternativas para a informatização da administração pública ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Campinas ",
+                "b": "Sociedade Brasileira para Promoção da Exportação de Software ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "21"
+            }
+        },
+        {
+            "code": "501",
+            "subfield": {
+                "a": "Acompanhado de folheto: Brasil: mas pode chamar de excelência em software e serviços correlatos. 1 folha dobrada [6 p.]"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software livre ",
+                "x": "Administração pública"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Automação ",
+                "x": "Administração pública"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

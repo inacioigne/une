@@ -1,0 +1,92 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009067"
+        },
+        {
+            "code": "005",
+            "value": "20190703190506.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "3728123595"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5/6(4/5)(063) ",
+                "b": "F745e ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "111",
+            "subfield": {
+                "a": "Forum Engelberg \"Europe-Asia: Science & Technology for their future\" ",
+                "c": "Engelberg, Suiça ",
+                "d": "1996 ",
+                "n": "7"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Europe-Asia ",
+                "b": "science and technology for their future : science, economy, culture ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Engelberg, Suiça ",
+                "b": "Verlag Stiftsdruckerei Engelberg ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "336 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "z": "Ásia ",
+                "x": "Congressos, eventos, encontros"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Eventos"
+            }
+        }
+    ]
+}

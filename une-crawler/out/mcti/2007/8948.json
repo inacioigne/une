@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "am   nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008948"
+        },
+        {
+            "code": "005",
+            "value": "20190627171122.0"
+        },
+        {
+            "code": "007",
+            "value": "m"
+        },
+        {
+            "code": "008",
+            "value": "por                                por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "006:001.891(81) ",
+                "b": "A849i"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Associação Brasileira de Normas Técnicas"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Informação e documentação ",
+                "b": "projeto de pesquisa : apresentação ",
+                "h": "Impresso ",
+                "c": "Associação Brasileira de Normas Técnicas"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Norma brasileira ABNT NBR 15287"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Associação Brasileira de Normas Técnicas ",
+                "c": "2005"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "6"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Primeira edicação 30.12.2005. Válida a partir de 30.01.2006."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Normas técnicas ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Projeto de pesquisa ",
+                "x": "Normalização"
+            }
+        },
+        {
+            "code": "765",
+            "subfield": {
+                "t": "Information and documentation : research project : presentation"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Normas Técnicas"
+            }
+        }
+    ]
+}

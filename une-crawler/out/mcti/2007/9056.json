@@ -1,0 +1,90 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009056"
+        },
+        {
+            "code": "005",
+            "value": "20190704110757.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "616.99:061(8)(047) ",
+                "b": "T825 ",
+                "c": "[2001]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Triennial report of the network for research and training in parasitic diseases in the southern cone of latin america ",
+                "b": "SIDA / SAREC 1999 - 2001 ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Buenos Aires] ",
+                "b": "Swedish International Development Cooperation Agency ",
+                "c": "[2001]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Argentina"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "168 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Doença endêmica ",
+                "x": "Países do Cone Sul",
+                "z": "América Latina "
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Parasitologia ",
+                "x": "Instituição de pesquisa"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

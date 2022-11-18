@@ -1,0 +1,124 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009002"
+        },
+        {
+            "code": "005",
+            "value": "20190624161528.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8572272062"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "622.85:546.3 ",
+                "b": "R627p ",
+                "c": "2004"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Rizzo, Andrea Camardella de Lima"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Produção de sulfeto em reator do tipo UASB e sua potencial aplicação na remoção de matais pesados de efluentes ",
+                "c": "Andrea Camardella de Lima Rizzo, Selma Gomes Ferreira Leite ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro de Tecnologia Mineral ",
+                "c": "2004"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "108 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Tecnologia ambiental / CETEM ",
+                "v": "32 ",
+                "x": "0103-7374"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Água ",
+                "x": "Metais pesados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tratamento de água ",
+                "x": "Digestão anaeróbia"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Leite, Selma Gomes Ferreira ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto Completo (CETEM) ",
+                "u": "http://mineralis.cetem.gov.br/handle/cetem/339 ",
+                "z": "Acesso em: 24/06/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

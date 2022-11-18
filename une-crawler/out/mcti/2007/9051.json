@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009051"
+        },
+        {
+            "code": "005",
+            "value": "20190704111438.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8476661525"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "37:304(7/4=134.2)) ",
+                "b": "O68m ",
+                "c": "1999-2002"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Organización de Estados Iberoamericanos para la Educación, la Ciencia y la Cultura"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Memoria ",
+                "b": "programación 1999-2002 ",
+                "h": "Impresso ",
+                "c": "Organización de Estados Iberoamericanos para la Educación, la Ciencia y la Cultura"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Madri (Espanha) ",
+                "b": "Organización de Estados Iberoamericanos para la Educación, la Ciencia y la Cultura ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Espanha"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "377"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Educação ",
+                "z": "Ibero-americano ",
+                "x": "Política e governo"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Integração regional ",
+                "z": "Ibero-americano"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ensino profissional ",
+                "z": "Ibero-americano"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

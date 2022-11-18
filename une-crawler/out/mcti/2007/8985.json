@@ -1,0 +1,141 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008985"
+        },
+        {
+            "code": "005",
+            "value": "20190628134423.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "857227135X"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "622.755 ",
+                "b": "M414s ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Massarani, Giulio ",
+                "d": "1937-"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Separação sólido-fluido não newtoniano em hidrociclones ",
+                "c": "Giulio Massarani e Cláudia Míriam Scheid ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro de Tecnologia Mineral ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "29 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Tecnologia mineral / CETEM ",
+                "v": "76 ",
+                "x": "0103-7382"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Resumo/Abstract --- 1. Introdução --- 2. Procedimento Experimental --- 3. Resultados e Discussão - 3.1 Eficiência Individual de Coleta - 3.2 Diâmetro Mediano de Partição - 3.3 Queda de Pressão - 3.4 Viscosidade Efetiva Relacionada à Separação Centrífuga - 3.5 Viscosidade Efetiva Relacionada á Queda de Pressão --- 4. Conclusões --- Referências Bibliográficas --- Anexo"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "O procedimento normalmente empregado para a especificação de uma bateria de hidrociclones utilizados para separação sólido fluído newtoniano pode ser estendido para o caso de fluidos não-newtonianos. O elo de ligação entre as duas situações é a viscosidade efetiva, que pode ser calculada conhecendo-se a função tensão cisalhante S e a taxa de deformação característica. Com o objetivo de verificar a validade desta estratégia foram realizados experimentos com suspensões de diferentes sólidos em solução aquosa de carboximetilcelulose (CMC) em um hodrociclone AKW modelo comercial. Os resultados obtidos indicam a existência de duas viscosidades efetivas, uma relacionada à separação e outra à queda de pressão."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia mineral"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Beneficiamento de minério"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Hidrociclone"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Scheid, Cláudia Míriam ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (CETEM) ",
+                "u": "http://mineralis.cetem.gov.br/bitstream/cetem/123/1/stm-76.pdf ",
+                "z": "Acesso em: 28/06/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

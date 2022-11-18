@@ -1,0 +1,101 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009052"
+        },
+        {
+            "code": "005",
+            "value": "20190702154836.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8493154288"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "316.3:001.102(460) ",
+                "b": "E26 ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "eEspaña 2001 ",
+                "b": "informe anual sobre el desarrollo de la sociedad de la información en España ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Madri (Espanha) ",
+                "b": "Fundación Retevisión ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Espanha"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "302 ",
+                "b": "il., tabs., grafs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sociedade da informação ",
+                "z": "Espanha"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia da informação ",
+                "z": "Espanha"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Informação digital"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009226"
+        },
+        {
+            "code": "005",
+            "value": "20190718110753.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502.174:62 ",
+                "b": "D294 ",
+                "c": "[200-]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Decisões do Protocolo de Quioto em vigor (MDL) ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Conselho Empresarial Brasileiro para o Desenvolvimento Sustentável ",
+                "c": "[200-]"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "101"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Protocolo de Quioto"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mecanismo de desenvolvimento limpo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

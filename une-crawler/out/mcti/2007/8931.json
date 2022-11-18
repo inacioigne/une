@@ -1,0 +1,126 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008931"
+        },
+        {
+            "code": "005",
+            "value": "20190702095301.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "006:004.4(81) ",
+                "b": "A849t ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Associação Brasileira de Normas Técnicas"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Tecnologia de informação ",
+                "b": "pacotes de software : teste e requisitos de qualidade ",
+                "h": "Impresso ",
+                "c": "Associação Brasileira de Normas Técnicas"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "NBR ISO/IEC 12119"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Associação Brasileira de Normas Técnicas ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "13"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Projeto 21:101.01-002:1997. CB-21 - Comitê Brasileiro de Computadores e Processamento de Dados. CE-21:101.01 - Comissão de Estudo de Qualidade de Software. NBR ISO/IEC 12119 - Information technology - software packages - quality requeriments and testing. Esta norma é equivalente à 12119:1994. Válida a partir de 30.11.1998."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Data de Cancelamento : 24/11/2008"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Software ",
+                "x": "Normalização"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Programas de computador ",
+                "x": "Normalização"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Normas técnicas ",
+                "x": "Software"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Normas Técnicas"
+            }
+        }
+    ]
+}

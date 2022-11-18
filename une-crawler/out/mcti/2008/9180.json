@@ -1,0 +1,111 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009180"
+        },
+        {
+            "code": "005",
+            "value": "20190716140616.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "004-056.26 ",
+                "b": "P452b ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Pernice, Kara"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Beyond ALT text ",
+                "b": "making the web easy to use for users with disabilities : design guidelines for websites and intranets based on usability studies with people using assistive technology ",
+                "c": "Kara Pernice, Jakob Nielsen"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Califórnia, Estados Unidos ",
+                "b": "Nielsen Norman Group ",
+                "c": "2001"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "150 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Internet ",
+                "x": "Acessibilidade da pessoa portadora de deficiências"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Computadores ",
+                "x": "Acessibilidade da pessoa portadora de deficiências"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Deficientes ",
+                "x": "Inclusão digital"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Nielsen, Jakob ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo ",
+                "u": "https://media.nngroup.com/media/reports/free/Usability_Guidelines_for_Accessible_Web_Design.pdf ",
+                "z": "Acesso em: 16/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

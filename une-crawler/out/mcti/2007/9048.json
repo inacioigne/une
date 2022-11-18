@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009048"
+        },
+        {
+            "code": "005",
+            "value": "20190702171342.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "5/6:001.891(82) ",
+                "b": "I62 ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "La investigacion cientifica ",
+                "b": "diagnostico e identificacion de areas de vacancia ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Argentina ",
+                "b": "Secretaría de Ciencia y Tecnología ",
+                "c": "1999"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Argentina"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "562"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "z": "Argentina"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa tecnológica ",
+                "z": "Argentina"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa científica ",
+                "z": "Argentina"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

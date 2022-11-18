@@ -1,0 +1,160 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009082"
+        },
+        {
+            "code": "005",
+            "value": "20190626123322.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9788517000300"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "551.521.37(084.4) ",
+                "b": "A881 ",
+                "d": "R ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Atlas brasileiro de energia solar ",
+                "c": "Enio Bueno Pereira ... [et al.] ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Brazilian atlas of solar energy"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "1. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São José dos Campos ",
+                "b": "Instituto Nacional de Pesquisas Espaciais ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "60 ",
+                "b": "il., + 1 CD-Rom"
+            }
+        },
+        {
+            "code": "501",
+            "subfield": {
+                "a": "Acompanhado de 1 CD-Rom"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Energia solar"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Fonte alternativa de energia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos energéticos"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Pereira, Enio Bueno ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Martins, Fernando Ramos ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Abreu, Samuel Luna de ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Rüther, Ricardo ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto na íntegra ",
+                "u": "mtc-m17.sid.inpe.br/col/sid.inpe.br/mtc-m17@80/2007/05.04.14.11/doc/atlas_solar-reduced.pdf"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "mtc-m17.sid.inpe.br/col/sid.inpe.br/mtc-m17@80/2007/05.04.14.11/doc/atlas_solar-reduced.pdf ",
+                "y": "Texto na íntegra"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

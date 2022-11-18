@@ -1,0 +1,117 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009011"
+        },
+        {
+            "code": "005",
+            "value": "20190702171759.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8572271473"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "622.87 ",
+                "b": "M664 ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "La mineria en el contexto de la ordenación del territorio ",
+                "c": "editores Roberto C. Villas-Boas e Roberto Page ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Ciencia y Tecnologia para el Desarrollo ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "414 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Proteção ambiental ",
+                "x": "Mineração"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mineração ",
+                "x": "Aspectos ambientais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento sustentável"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Villas Boas, Roberto C. ",
+                "q": "Roberto Cerrini ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Page, Roberto ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

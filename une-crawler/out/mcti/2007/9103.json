@@ -1,0 +1,115 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009103"
+        },
+        {
+            "code": "005",
+            "value": "20190705160049.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "531.314 ",
+                "b": "D433f ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Deriglazov, A. A"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Formalismo hamiltoniano e transformações canônicas em mecânica clássica ",
+                "c": "A. A. Deriglazov e J. G. Filgueiras ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro Brasileiro de Pesquisas Físicas ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "150 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Monografia / CBPF ",
+                "v": "002/07"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Sistema Hamiltoniano"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mecânica quântica"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Filgueiras, J. G ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (CBPF) ",
+                "u": "http://cbpfindex.cbpf.br/publication_pdfs/mo00207.2011_01_13_11_28_52.pdf ",
+                "z": "Acesso em: 08/04/2016"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009054"
+        },
+        {
+            "code": "005",
+            "value": "20190702171249.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "551.588.74(73) ",
+                "b": "E45e ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Ellerman, A. Denny"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Emissions trading in the U.S. ",
+                "b": "experience, lessons, and considerations for greenhouse gases : prepared for the Pew Center on global climate change ",
+                "c": "A. Denny Ellerman, Paul L. Joskow, David Harrison Jr. ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Arlington [Estados Unidos] ",
+                "b": "Pew Center on Global Climate Change ",
+                "c": "2003"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "viii, 57 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mudanças climáticas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Efeito estufa (Atmosfera)"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Emissão de gases ",
+                "z": "Estados Unidos"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Joskow, Paul L ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Harrison Jr., David ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (C2ES) ",
+                "u": "http://web.mit.edu/globalchange/www/PewCtr_MIT_Rpt_Ellerman.pdf ",
+                "z": "Acesso em: 02/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

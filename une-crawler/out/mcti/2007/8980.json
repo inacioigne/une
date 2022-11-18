@@ -1,0 +1,148 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008980"
+        },
+        {
+            "code": "005",
+            "value": "20190704174644.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8572271716"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "622.765 ",
+                "b": "C824m ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Correia, Júlio Cesar Guedes"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Modelagem molecular aplicada à flotação de minerais ",
+                "b": "estudo de caso ",
+                "c": "Júlio Cesar Guedes Correia, Laurindo de Sales Leal Filho, Peter Rudolf Seidl ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro de Tecnologia Mineral ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "40 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Tecnologia mineral / CETEM ",
+                "v": "82"
+            }
+        },
+        {
+            "code": "505",
+            "subfield": {
+                "a": "Resumo - Abstract - 1. Introdução - 2. Objetivo - 3. Materiais e Métodos - 3.1. Minerais - 3.2. Estudo cristaloquímico - 3.3. Estudo de modelagem molecular das estruturas polímeros - 3.4. Metodologia da confecção dos polímeros e cristais - 3.5. Ensaios de flotabilidade em tubo de Hallimond modificado - 4. Resultado e Discussão - 4.1. Ensaios de flotabilidade em tubo de Hallimond - 4.2. Ensaios com amido em tubo de Hallimond - 4.3. Ensaios com etilcelulose em tubo de Hallimond - 4.4. Resultados e discussão da modelagem molecular - 4.5. Resultados dos cálculos das distâncias entre as estruturas dos polímeros amidos e etilcelulose - 4.6. Resultados dos cálculos das distâncias entre os cátions cálcio presentes nos minerais calcita e apatia - 4.7. Resultados da compatibilidade estérica entre amido e os minerais calcita e apatita - 4.8. Resultados da compatibilidade estérica entre etilcelulose e os minerais calcita e aptatita - 4.9. Discussão dos resultados da compatibilidade estérica entre o amido e a estilcelulose com os minerias calcita e apatita - 5. Conclusões -- Referências"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "A modelagam molecular é um instrumento computacional utilizado para visualizar estruturas de determinadas espécies. Esta peculariedades permite prever algumas propriedades químicas, físicas e termodinâmicas das mesmas. Por essa razão, a modelagem molecular é uma ferramenta muito útil, por exemplo, na fabricação de novos reagentes para separação mineral. A modelagem molecular foi utilizada na avaliação da compatibilidade estérica entre minerais que comumente ocorrem em minérios de fosfato (apatita e calcita) e estruturas poliméricas de polissacarideos (amido e estilcelulose). Os dados de modelagem foram utilizados para calcular um parâmetro (Ft) que avalia a afinidade estereoquímica entre polímeros e minerais. Os resultados obtidos com o estudo levaram a concluir que as partículas de apatita apresentam duas orientações cristalográficas predominantes: o plano de partição basal (001) e os planos frontais paralelos a (010) ou (100). O modelo mostrou que a etilcelulose exibe maior afinidade estereoquímica (Ft=15) que o amido (Ft=8,5) para a orientação cristalográfica (001) da apatita. Deste modo, conclui-se que o amido, em ensaios de laboratório e industriais, não seja um bom depressor para apatita. No que diz respeito à calcita, identificou-se as seguintes orientações cristalográficas de interesse: (021), (401), (101), (001) e (211). Todas estas orientações cirstalográficas mostraram valores de Ft (para o amido) muito superiores aos obtidos para a etilcelulose."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Flotação de minérios"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Beneficiamento de minério"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia mineral"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Leal Filho, Laurindo de Sales ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Seidl, Peter Rudolf ",
+                "d": "1941- ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "http://www.cetem.gov.br/publicacao/CETEM_STM_82.PDF ",
+                "y": "Texto completo (CETEM)"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008944"
+        },
+        {
+            "code": "005",
+            "value": "20190627172215.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "006:002(81) ",
+                "b": "A849inf"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Associação Brasileira de Normas Técnicas"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Informação e documentação ",
+                "b": "revisão de originais e provas ",
+                "h": "Impresso ",
+                "c": "Associação Brasileira de Normas Técnicas"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "NBR 6025"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Associação Brasileira de Normas Técnicas ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "5"
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Projeto NBR 6025:2001. ABNT/CB-14 - Comitê Brasileiro de Finanças, Bancos, Seguros, Comércio, Administração e Documentação. CE-14:001.01 - Comissão de Estudo de Documentação. NBR 6025 - Information and documentation - originals and proofs revision. Esta norma cancela e substitui a NBR 6031:1980. Esta norma a substitui a NBR 6025:1980. Válida a partir de 30.10.2002."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Documentação ",
+                "x": "Normalização"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Normas técnicas ",
+                "z": "Brasil"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Normas Técnicas"
+            }
+        }
+    ]
+}

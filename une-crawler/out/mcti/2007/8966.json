@@ -1,0 +1,114 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008966"
+        },
+        {
+            "code": "005",
+            "value": "20190628124236.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "006:004.083.74 ",
+                "b": "O68in ",
+                "c": "p. 2"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Organização Internacional de Normalização"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Information processing ",
+                "b": "data interchange on 130 mm (5.25 in) flexible disk cartridges using modified frequency modulation recording at 7 958 ftprad, 3,8 tpmm (96 tpi), on both sides : part 2: track format A ",
+                "h": "Impresso ",
+                "c": "Organização Internacional de Normalização"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Traitement de l'information : échange de données sur cartouches à disquette de 130 mm (5,25 in) utilisant un enregistrement à modulation de fréquence modifiée à 7 958 ftprad, 3,8 tpmm (96 tpi), sur les deux faces"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "ISO 8378/2 - 1986"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Suiça ",
+                "b": "Organização Internacional de Normalização ",
+                "c": "1986"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Suiça"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "13 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Normas técnicas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Armazenamento de dados ",
+                "x": "Normalização"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Normas Técnicas"
+            }
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009023"
+        },
+        {
+            "code": "005",
+            "value": "20190709133827.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9728421451"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "63+619:001.89(469) ",
+                "b": "P438 ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Perfil da investigação científica em Portugal ",
+                "b": "ciências agrárias e veterinárias ",
+                "h": "Impresso ",
+                "c": "Coordenador: Nuno Tavares Moreira"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Profile of scientific research in Portugal : agricultural and veterinary sciences"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Lisboa ",
+                "b": "Observatório das Ciências e das Tecnologias ",
+                "c": "1998"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Portugal"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "261 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciências Agrárias ",
+                "x": "Pesquisa ",
+                "z": "Portugal"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Veterinária ",
+                "x": "Pesquisa ",
+                "z": "Portugal"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Moreira, Nuno Tavares ",
+                "e": "Coordenador"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Portugal. Ministério da Ciência e da Tecnologia ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Brasil. Ministério da Ciência e Tecnologia. Observatório das Ciências e das Tecnologias ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

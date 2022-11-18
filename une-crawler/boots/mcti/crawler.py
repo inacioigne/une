@@ -8,10 +8,10 @@ from crawlerFunctions.sophia.requestItem import RequestItem
 def CrawlerMcti():
 
     driver = StartDriver('http://sophiaweb.mctic.gov.br/')
-    sophiaCodes = Search(driver, "01/07/2007", "30/09/2007")
+    sophiaCodes = Search(driver, "01/01/2008", "31/01/2008")
 
     with open(
-            f"out\mcti\codesNov2017.json","w", encoding='utf-8') as jsonfile:
+            f"out\mcti\codesNov2008.json","w", encoding='utf-8') as jsonfile:
             json.dump({"codes": sophiaCodes}, jsonfile, ensure_ascii=False, indent=4)
     
     count = 1
@@ -19,7 +19,7 @@ def CrawlerMcti():
         print('ITEM: ', count)
         marc = RequestItem(sophiaCode)
         with open(
-            f"out/mcti/2007/{sophiaCode}.json","w", encoding='utf-8') as jsonfile:
+            f"out/mcti/2008/{sophiaCode}.json","w", encoding='utf-8') as jsonfile:
             json.dump(marc, jsonfile, ensure_ascii=False, indent=4)
         count += 1
 

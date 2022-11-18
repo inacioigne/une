@@ -1,0 +1,108 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008961"
+        },
+        {
+            "code": "005",
+            "value": "20190628122547.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "006:004.083.74 ",
+                "b": "O68i ",
+                "c": "p. 3"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Organização Internacional de Normalização"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Information processing ",
+                "b": "data interchange on 130 mm (5.25 in) flexible disk cartridges using modified frequency modulation recording at 13 262 ftprad, on 80 tracks on each side : part 3: track format B for 80 tracks ",
+                "h": "Impresso ",
+                "c": "Organização Internacional de Normalização"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "ISO 8630-3 : 1987"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Suiça ",
+                "b": "Organização Internacional de Normalização ",
+                "c": "1987"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Suiça"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "8 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Normas técnicas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Armazenamento de dados ",
+                "x": "Normalização"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Normas Técnicas"
+            }
+        }
+    ]
+}

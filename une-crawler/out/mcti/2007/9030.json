@@ -1,0 +1,110 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009030"
+        },
+        {
+            "code": "005",
+            "value": "20190704164832.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9782264708"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "631.4 ",
+                "b": "M664 ",
+                "c": "[200-]"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Minerales para la agricultura en latinoamérica ",
+                "c": "editores Hugo Nielson, Roberto Sarudiansky ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Argentina ",
+                "b": "Ciencia y Tecnologia para el Desarrollo ",
+                "c": "[200-]"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Argentina"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "574 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Agricultura ",
+                "x": "Recursos minerais ",
+                "z": "América Latina"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Uso do solo"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Nielson, Hugo ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Saradiansky, Roberto ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

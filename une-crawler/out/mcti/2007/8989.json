@@ -1,0 +1,123 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008989"
+        },
+        {
+            "code": "005",
+            "value": "20190701142655.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8572272421"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "338.1:502.33(81) ",
+                "b": "V726s ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Villas Boas, Roberto C. ",
+                "q": "Roberto Cerrini"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Sustainable indicators for the extraction minerals industries ",
+                "c": "Roberto C. Villas Bôas ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro de Tecnologia Mineral ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "30"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Estudos e documentos / CETEM ",
+                "v": "68 ",
+                "x": "0103-6319"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Desenvolvimento sustentável ",
+                "x": "Indicadores"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Minerais ",
+                "x": "Indústria"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Recursos minerais"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (CETEM) ",
+                "u": "http://mineralis.cetem.gov.br:8080/bitstream/cetem/246/1/sed-68.pdf ",
+                "z": "Acesso em: 01/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

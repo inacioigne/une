@@ -1,0 +1,112 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008956"
+        },
+        {
+            "code": "005",
+            "value": "20190628132549.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "006:004.083.4 ",
+                "b": "O68i"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Organização Internacional de Normalização"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Information processing ",
+                "b": "reels for 12,7 mm (0.5 in) wide magnetic tapes : sizes 16, 18 and 22 ",
+                "h": "Impresso ",
+                "c": "Organização Internacional de Normalização"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Traitement de l'information : bobines pour bandes magnétiques de 12,7 mm (5,0 in) de large : types 16, 18 et 22"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "ISO 8064 - 1985"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Suiça ",
+                "b": "Organização Internacional de Normalização ",
+                "c": "1985"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Suiça"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "1 v."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Normas técnicas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Processamento de dados"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Armazenamento de dados ",
+                "x": "Normalização"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Normas Técnicas"
+            }
+        }
+    ]
+}

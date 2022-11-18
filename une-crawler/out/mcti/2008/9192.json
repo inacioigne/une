@@ -1,0 +1,100 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009192"
+        },
+        {
+            "code": "005",
+            "value": "20190711193334.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8525005045"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "82-31(81) ",
+                "b": "V564a ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Veríssimo, Érico ",
+                "d": "1905-1975"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Ana Terra ",
+                "c": "Érico Veríssimo ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "29. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "São Paulo ",
+                "b": "Globo ",
+                "c": "1990"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "142"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Aventura de ler"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Literatura brasileira ",
+                "x": "Romance"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009098"
+        },
+        {
+            "code": "005",
+            "value": "20190701191354.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "37.014.53 ",
+                "b": "S676e ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Soares, Sergei Suarez Dillon"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Educação ",
+                "b": "um escudo contra o homicídio? ",
+                "c": "Sergei Suarez Dillon Soares ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "2007"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "35 f. ",
+                "b": "il., gráfs., tabs."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Texto para discussão / IPEA ",
+                "v": "n. 1298 ",
+                "x": "1415-4765"
+            }
+        },
+        {
+            "code": "520",
+            "subfield": {
+                "a": "O objetivo deste texto é fazer uma análise preliminar das relações entre nível de instrução formal e probabilidade de ser vítima de homicídio. Para tanto, são utilizados dados do Sistema de Informações sobre Mortalidade do Ministério da Saúde (SIM/MS) de 1999 a 2004, do Censo Demográfico de 2000, e das Pesquisas Nacionais por Amostra de Domicílios do Instituto Brasileiro de Geografia e Estatística (Pnads/IBGE) de 1999 a 2004 - exceto 2000, quando a Pnad não foi a campo. O texto consiste tanto de uma análise exploratória que compara as taxas de mortalidade por homicídio por idade para diferentes níveis de instrução formal, quanto de uma análise de regressão para achar coeficientes de correlação parciais. As regressões são estimadas com a utilização de dados agrupados e pareados por células definidas por sexo, idade, região de residência, cor e escolaridade. Estimou-se um modelo linear de probabilidade de uma regressão logística. O texto reforça três resultados já conhecidos. O primeiro é que mulheres sofrem de homicídio a uma taxa quase dez vezes inferior à dos homens. O segundo, que negros têm maior probabilidade de morrer vítimas de homicídio que brancos. O terceiro é que jovens entre 16 e 36 anos perfazem o grande grupo de risco para a morte por homicídio. O principal resultado inovador é que a escolaridade reduz significativamente o risco de morte por homicídio, embora sua magnitude mais exata dependa do modelo estimado. As correlações encontradas, no entanto, não podem ser usadas para inferir causalidade sem a devida cautela. Há certamente variáveis omitidas, exercendo influência tanto sobre a morte por homicídio como sobre o nível de instrução formal, que podem levar a uma correlação espúria entre os dois. Uma análise que se utilize de variáveis instrumentais para alcançar tal objetivo será objeto de um trabalho futuro. No entanto, a magnitude do efeito é tão forte, que mesmo que apenas uma fração seja de fato causal, ainda assim a educação representa uma das melhores políticas públicas para a redução da violência letal. The objective of this text is to make a preliminary analysis of the relations between educational level and victimization by homicide. To this end, I use the following data sources: the Integrated Mortality System (SIM) between 1999 and 2004; the Demographic Census of 2000 and the National Household Surveys between 1999 and 2004 (except for 2000, year in which there was no household survey). The text consists of both an exploratory analysis comparing homicide rates per 100,000 inhabitants according to age, educational level and sex and a regression analysis to find partial correlation coefficients. The regressions are estimated using cells defined by sex, age, region of residence, skin color and schooling level. The estimation methods used were the linear probability model and logistic regression. My results reinforce three already well-known results. The first is that women suffer homicide rates that are roughly one-tenth that of men. The second is that negroes suffer much higher homicide rates then whites. Finally the most important homicide risk group are youths between 16 and 36. The most important new result is the importance of educational in preventing homicide. Although the exact magnitude depends upon the model being estimated, in all of them schooling is significantly and negatively related to death by homicide. However, caution must be exercised in interpreting the partial correlation coefficients found cannot be interpreted as causal. There are no doubt omitted variables that have a causal relation both with educational level and homicide risk and this may lead to spurious correlation between the two. An analysis using instrumental variables to separate causal and endogenous magnitudes will be the subject of an upcoming study. However, the magnitude of the effect is so strong that even if a fraction is causally due to education, schooling still is one of the most important public policies for reducing homicide."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Homicídio"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Escolaridade"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Educação ",
+                "x": "Aspectos sociais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Violência"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Instituto de Pesquisa Econômica Aplicada ",
+                "c": "Brasil ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "http://www.ipea.gov.br/portal/images/stories/PDFs/TDs/td_1298.pdf ",
+                "y": "Texto completo (IPEA) ",
+                "z": "Acesso em: 28/08/2014"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

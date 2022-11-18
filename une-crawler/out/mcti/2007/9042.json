@@ -1,0 +1,109 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009042"
+        },
+        {
+            "code": "005",
+            "value": "20190709180124.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   mul"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "615(058) ",
+                "b": "A849 ",
+                "c": "2004"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Associação Brasileira da Indústria Farmoquímica"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Index 2004 ",
+                "b": "Mercosul, insumos farmacêuticos e seus produtores ",
+                "h": "Impresso ",
+                "c": "Associação Brasileira da Indústria Farmoquímica"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Index ABIQUIF 2004"
+            }
+        },
+        {
+            "code": "250",
+            "subfield": {
+                "a": "23. ed."
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Associação Brasileira da Indústria Farmoquímica ",
+                "c": "2004"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "248"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Produto farmacêutico ",
+                "z": "Brasil ",
+                "x": "MERCOSUL"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Indústria farmacêutica ",
+                "z": "Brasil ",
+                "x": "MERCOSUL"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

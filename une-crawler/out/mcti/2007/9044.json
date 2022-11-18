@@ -1,0 +1,106 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009044"
+        },
+        {
+            "code": "005",
+            "value": "20190702191834.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "1557756066"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "336.581:001.891 ",
+                "b": "C778 ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Coordinated portfolio investment survey ",
+                "b": "survey guide ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Washington (Distrito de Colúmbia, Estados Unidos) ",
+                "b": "International Monetary Fund ",
+                "c": "1996"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "158 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "500",
+            "subfield": {
+                "a": "Chair of the Task Force: Lucie Laliberté This survey guide was primarily drafted by Robert Heath"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Fundo de investimento"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Movimento de capital"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Fundo Monetário Internacional ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

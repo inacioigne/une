@@ -1,0 +1,119 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008886"
+        },
+        {
+            "code": "005",
+            "value": "20190705165103.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "1588830675"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "544.02-022.532 ",
+                "b": "F979 ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Functional nanomaterials ",
+                "h": "Impresso ",
+                "c": "editor Kurt E. Geckeler, Edward Rosenberg"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Stevenson Ranch [Estados Unidos] ",
+                "b": "American Scientific Publishers ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "xxvii, 488 p. ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Nanomaterial"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Propriedade Físico-Química"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Física de partículas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Biotecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Nanotecnologia"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Análise estruturada"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Geckeler, Kurt E ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Rosenberg, Edward ",
+                "e": "Editor"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009063"
+        },
+        {
+            "code": "005",
+            "value": "20190702121455.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   eng"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "62:336.581 ",
+                "b": "I62 ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Investment/Technology promotion delegate programme ",
+                "b": "guidelines : investment promotion and institutional capacity-building division investment and technology promotion branch ",
+                "h": "Impresso ",
+                "c": "autor corporativo: Organização das Nações Unidas para o Desenvolvimento Industrial"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Vienna ",
+                "b": "Organização das Nações Unidas para o Desenvolvimento Industrial ",
+                "c": "2000"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Austria"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "26"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Tecnologia ",
+                "x": "Investimentos"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Instituição de pesquisa"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Organização das Nações Unidas para o Desenvolvimento Industrial ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

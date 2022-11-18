@@ -1,0 +1,95 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009031"
+        },
+        {
+            "code": "005",
+            "value": "20190702155251.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "9703200648"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "061:5/6(72) ",
+                "b": "C569 ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "La ciencia en la UNAM a través del subsistema de la investigación científica ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "México ",
+                "b": "Universidad Nacional Autónoma de México ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Mexico"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "141 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "Universidad Nacional Autónoma de México ",
+                "x": "Pesquisa científica"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Instituição de pesquisa ",
+                "x": "Ciência e tecnologia"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

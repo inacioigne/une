@@ -1,0 +1,130 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009000"
+        },
+        {
+            "code": "005",
+            "value": "20190702100010.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8572271988"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "622.538 ",
+                "b": "T833t ",
+                "c": "2004"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Trindade, Roberto de B. Emery ",
+                "d": "1957- ",
+                "q": "Roberto de Barros Emery"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Tecnologia de sistemas passivos para o tratamento de drenagem ácida de minas ",
+                "c": "Roberto de Barros Emery Trindade, Paulo Sérgio Moreira Soares ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro de Tecnologia Mineral ",
+                "c": "2004"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "52 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Tecnologia ambiental / CETEM ",
+                "v": "30 ",
+                "x": "0103-7374"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Mineração"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Drenagem ácida"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Impactos ambientais"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Soares, Paulo Sérgio Moreira ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (CETEM) ",
+                "u": "http://mineralis.cetem.gov.br/bitstream/cetem/342/1/sta-30.pdf ",
+                "z": "Acesso em: 02/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

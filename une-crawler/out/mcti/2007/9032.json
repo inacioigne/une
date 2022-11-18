@@ -1,0 +1,98 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009032"
+        },
+        {
+            "code": "005",
+            "value": "20190709181726.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   spa"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "336.531.2:5/6(72) ",
+                "b": "I39 ",
+                "c": "2001-2002"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Indicadores de actividades científicas y tecnológicas ",
+                "b": "México, 2001-2002, edición de bolsillo ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "246",
+            "subfield": {
+                "a": "Science and technology indicators at a glance"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "México ",
+                "b": "Consejo Nacional de Ciencia y Tecnología ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "85 ",
+                "b": "il., tabs., grafs."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Pesquisa científica ",
+                "x": "Estatísticas ",
+                "z": "México"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Ciência e tecnologia ",
+                "x": "Indicadores ",
+                "z": "México"
+            }
+        },
+        {
+            "code": "710",
+            "subfield": {
+                "a": "Consejo Nacional de Ciencia y Tecnología (México) ",
+                "e": "Corporativo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

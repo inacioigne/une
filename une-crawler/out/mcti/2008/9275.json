@@ -1,0 +1,115 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009275"
+        },
+        {
+            "code": "005",
+            "value": "20190715192736.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "502.14(814) ",
+                "b": "P497b ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "PETROBRAS"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Balanço social e ambiental 2006 ",
+                "h": "Impresso ",
+                "c": "PETROBRAS"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "[Rio de Janeiro] ",
+                "b": "Petrobras ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "156 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "610",
+            "subfield": {
+                "a": "PETROBRAS ",
+                "x": "Aspectos ambientais"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Responsabilidade social"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Proteção ambiental"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Meio ambiente ",
+                "x": "Relatórios"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo ",
+                "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\9275-Balanco_social_ambiental_2006.pdf ",
+                "z": "Acesso em:15/07/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

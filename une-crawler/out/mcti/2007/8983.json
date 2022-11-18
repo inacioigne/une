@@ -1,0 +1,127 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000008983"
+        },
+        {
+            "code": "005",
+            "value": "20190703200330.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "020",
+            "subfield": {
+                "a": "8572271589"
+            }
+        },
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT ",
+                "b": "por"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "622.75/.77 ",
+                "b": "C318m ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "100",
+            "subfield": {
+                "a": "Carrisso, Regina Coeli Casseres"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Mecanismos atuantes na concentração gravítica e principais equipamentos utilizados na concentração centrífuga ",
+                "c": "Regina Coeli Casseres Carrisso, Arthur Pinto Chaves ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Rio de Janeiro ",
+                "b": "Centro de Tecnologia Mineral ",
+                "c": "2002"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "36"
+            }
+        },
+        {
+            "code": "490",
+            "subfield": {
+                "a": "Tecnologia mineral / CETEM ",
+                "v": "79"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Engenharia de minas"
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Beneficiamento de minério"
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Chaves, Arthur Pinto ",
+                "e": "Coautor"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo ",
+                "u": "http://www.cetem.gov.br/publicacao/CETEM_STM_79.PDF"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "u": "http://www.cetem.gov.br/publicacao/CETEM_STM_79.PDF ",
+                "y": "Texto completo"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Folheto"
+            }
+        }
+    ]
+}

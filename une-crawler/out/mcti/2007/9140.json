@@ -1,0 +1,113 @@
+{
+    "controfield": [
+        {
+            "code": "000",
+            "value": "     nam  22      a 4500"
+        },
+        {
+            "code": "001",
+            "value": "000009140"
+        },
+        {
+            "code": "005",
+            "value": "20190626171618.0"
+        },
+        {
+            "code": "007",
+            "value": "t"
+        },
+        {
+            "code": "008",
+            "value": "                                   por"
+        }
+    ],
+    "datafield": [
+        {
+            "code": "040",
+            "subfield": {
+                "a": "BR-BrMCT"
+            }
+        },
+        {
+            "code": "090",
+            "subfield": {
+                "a": "637.03:351.77 ",
+                "b": "B823r ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "110",
+            "subfield": {
+                "a": "Brasil. Tribunal de Contas da União"
+            }
+        },
+        {
+            "code": "245",
+            "subfield": {
+                "a": "Relatório de avaliação de programa ",
+                "b": "ações de vigilância e fiscalização no trânsito internacional de produtos agropecuários ",
+                "c": "Tribunal de Contas da União ; Relator: Benjamin Zymler ",
+                "h": "Impresso"
+            }
+        },
+        {
+            "code": "260",
+            "subfield": {
+                "a": "Brasília ",
+                "b": "Tribunal de Contas da União, Secretaria de Fiscalização e Avaliação de Programas de Governo ",
+                "c": "2006"
+            }
+        },
+        {
+            "code": "270",
+            "subfield": {
+                "d": "Brasil"
+            }
+        },
+        {
+            "code": "300",
+            "subfield": {
+                "a": "140 ",
+                "b": "il."
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Produto agropecuário ",
+                "x": "Importação",
+                "z": "Brasil "
+            }
+        },
+        {
+            "code": "650",
+            "subfield": {
+                "a": "Produto agrícola ",
+                "x": "Importação",
+                "z": "Brasil "
+            }
+        },
+        {
+            "code": "700",
+            "subfield": {
+                "a": "Zymler, Benjamin ",
+                "e": "Relator"
+            }
+        },
+        {
+            "code": "856",
+            "subfield": {
+                "y": "Texto completo (MCTIC) ",
+                "u": "\\\\ftp.mctic.gov.br\\Biblioteca\\9140-Relatorio_de_avaliacao_de_programaacoes_de_vigilancia_e_fiscalizacao_no_transito_internacional_de_produtos_agropecuarios.pdf ",
+                "z": "Acesso: 26/06/2019"
+            }
+        },
+        {
+            "code": "990",
+            "subfield": {
+                "a": "Monografia"
+            }
+        }
+    ]
+}

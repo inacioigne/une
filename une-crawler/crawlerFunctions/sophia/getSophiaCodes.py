@@ -29,6 +29,7 @@ def Search(driver, dataInicio, dataFim):
     data_aq_inicio.send_keys(dataInicio)
     data_aq_fim = driver.find_element(By.ID, 'data_aq_fim')
     data_aq_fim.send_keys(dataFim)
+    ipdb.set_trace()
     
     #Filter Type - Monografia
     # filterType = driver.find_element(

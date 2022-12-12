@@ -29,16 +29,28 @@ def Search(driver, dataInicio, dataFim):
     data_aq_inicio.send_keys(dataInicio)
     data_aq_fim = driver.find_element(By.ID, 'data_aq_fim')
     data_aq_fim.send_keys(dataFim)
-    ipdb.set_trace()
     
-    #Filter Type - Monografia
-    # filterType = driver.find_element(
-    #     By.XPATH, 
-    #     '//*[@id="div_comb"]/table/tbody/tr[2]/td[2]/table/tbody/tr[2]/td[2]/button/span[2]')
-    # filterType.click()
-    # monografia = driver.find_element(
-    #     By.ID, 'ui-multiselect-comb_material-option-21')
-    # monografia.click()
+    filter = driver.find_element(By.XPATH,
+        '//*[@id="div_comb"]/table/tbody/tr[2]/td[2]/table/tbody/tr[2]/td[2]/button/span[2]')
+    filter.click()
+
+    #ANALITICA DE PERIODICOS
+    # analitica_periodico = driver.find_element(By.XPATH, '/html/body/div[21]/ul/li[3]/label/span')
+    # analitica_periodico.click()
+
+    #Dissertações/Teses/TCC
+    # teses = driver.find_element(By.XPATH, '/html/body/div[21]/ul/li[12]/label/span')
+    # teses.click()
+
+    #Eventos
+    eventos = driver.find_element(By.XPATH, '/html/body/div[21]/ul/li[16]/label/span')
+    eventos.click()
+
+    #ipdb.set_trace()
+    # todos = driver.find_element(By.XPATH,
+    # '/html/body/div[21]/div/ul/li[1]/a/span[2]')
+    
+   
     #Make search
     bt_comb = driver.find_element(By.NAME, 'bt_comb')
     bt_comb.click()

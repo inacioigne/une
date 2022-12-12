@@ -42,9 +42,13 @@ def Search(driver, dataInicio, dataFim):
     # teses = driver.find_element(By.XPATH, '/html/body/div[21]/ul/li[12]/label/span')
     # teses.click()
 
+    #Folheto
+    folheto =  driver.find_element(By.XPATH, '/html/body/div[21]/ul/li[17]/label/span')
+    folheto.click()
+
     #Eventos
-    eventos = driver.find_element(By.XPATH, '/html/body/div[21]/ul/li[16]/label/span')
-    eventos.click()
+    # eventos = driver.find_element(By.XPATH, '/html/body/div[21]/ul/li[16]/label/span')
+    # eventos.click()
 
     #ipdb.set_trace()
     # todos = driver.find_element(By.XPATH,

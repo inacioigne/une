@@ -8,10 +8,9 @@ def CrawlerMcti():
     driver = StartDriver('http://sophiaweb.mctic.gov.br/')
     sophiaCodes = Search(driver, "01/01/2008", "31/01/2008")
     
-
-    # with open(
-    #         f"/out\mcti\codesNov2008.json","w", encoding='utf-8') as jsonfile:
-    #         json.dump({"codes": sophiaCodes}, jsonfile, ensure_ascii=False, indent=4)
+    with open(
+            f"une-crawler/out\mcti\codesNov2008.json","w", encoding='utf-8') as jsonfile:
+            json.dump({"codes": sophiaCodes}, jsonfile, ensure_ascii=False, indent=4)
     
     count = 1
     for sophiaCode in sophiaCodes:
